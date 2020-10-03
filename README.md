@@ -8,7 +8,9 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 - Download and install Tabula: https://tabula.technology/
 - Download a copy of the PDF from the GitHub issue that you will be processing.
 - Load the PDF into Tabula.
-- Highlight/select the tables in Tabula, export to CSV.
+- Highlight/select the tables in Tabula
+- Check the export review. Tip: See whether the "Stream" or "Lattice" extraction method will give better results.
+- Export the file to CSV.
 - Open the CSV files in a spreadsheet app (Excel / Google Sheets / LibreOffice)
 - Examine the CSV, and make any adjustments:
   - DON'T fix any spelling mistakes or typos, these should match the original document as closely as possible.
@@ -22,7 +24,7 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 
 ## If you're already familiar with Git, some extra tips:
 - Fork https://github.com/South-Africa-Government-Procurement/Data-cleaning into your own account.
-- You can work in `master` or use branches - up to you.
+- It can be helpful to work branches, e.g. `patch-1`, `patch-2`, but this is up to you.
 - The CSV files go into a folder structure matching the structure described here: https://github.com/South-Africa-Government-Procurement/project-docs/wiki/Data-models-and-standards#file-locations
 - If you're not sure where a file should go - using the repository root is ok too - we'll move it later.
 - For commits of new files, you can use "[#ISSUE-NUMBER] Create + file name".
