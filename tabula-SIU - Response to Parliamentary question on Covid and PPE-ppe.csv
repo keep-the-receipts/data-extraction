@@ -1,0 +1,61 @@
+ORDERS PLACED,"PAYMENTS MADE AGAINST
+PLACED ORDERS",,,,,,,,,,,,,
+"Item
+No",Quantity,"Main Category
+of Expense","Sub-
+Catego
+ry",Details,"Awarded
+Amount","Q1
+Purchase
+orders","Q2
+Purchase
+orders",Name of Service Provider (SCM),"Registration
+Numbers","Date of
+Appointment","SCM
+PROCESS
+FOLLOWED
+(Request for
+Quotation)","Q1
+Payments",Q2 Payments,Total
+1,50 boxes,Covid-19 Costs,PPE,Masks,R20 995.00,R20 995.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/07,2020/06/05,RFQ,,,R150 948.00
+2,40 boxes,Covid-19 Costs,PPE,Gloves,R9 596.00,R9 596.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/08,2020/06/06,RFQ,,,R0.00
+3,30 boxes,Covid-19 Costs,PPE,Gloves,R7 197.00,R7 197.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/09,2020/06/07,RFQ,,,R0.00
+4,150,Covid-19 Costs,PPE,Sanitizer,R8 985.00,R8 985.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/10,2020/06/08,RFQ,,,R0.00
+5,100,Covid-19 Costs,PPE,Sanitizer,R22 000.00,R22 000.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/11,2020/06/09,RFQ,,,R0.00
+6,1000,Covid-19 Costs,PPE,Biohazard bags,R4 000.00,R4 000.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/12,2020/06/10,RFQ,,,R0.00
+7,100,Covid-19 Costs,PPE,Sanitizer,R5 590.00,R5 590.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/13,2020/06/11,RFQ,,,R0.00
+8,1000,Covid-19 Costs,PPE,Sanitizer,R26 900.00,R26 900.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/14,2020/06/12,RFQ,,,R0.00
+9,500 packs,Covid-19 Costs,PPE,Sanitizer,R1 945.00,R1 945.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/15,2020/06/13,RFQ,,,R0.00
+10,25,Covid-19 Costs,PPE,Sanitizer floor units,R28 750.00,R28 750.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/16,2020/06/14,RFQ,,,R0.00
+11,100,Covid-19 Costs,PPE,Disinfectant,R14 990.00,R14 990.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/17,2020/06/15,RFQ,,,R0.00
+12,14,Covid-19 Costs,PPE,Thermometer,R25 200.00,R25 200.00,,The Medcial Hub (Pty) Ltd,2017/358930/07,2020/05/18,RFQ,R25 200.00,,R25 200.00
+13,1200,Covid-19 Costs,PPE,Cloth masks,R39 000.00,R39 000.00,,SA Doctor App (Pty) Ltd,2014/176315/07,2020/05/12,RFQ,,,R58 500.00
+14,600,Covid-19 Costs,PPE,Cloth masks,R19 500.00,R19 500.00,,SA Doctor App (Pty) Ltd,2014/176315/08,2020/05/13,RFQ,,,R0.00
+15,2,Covid-19 Costs,PPE,Clear screen,R5 514.25,R5 514.25,,Jahman Office (Pty) Ltd,2004/037428/23,2020/06/25,RFQ,,,R0.00
+16,6,Covid-19 Costs,PPE,Clear screen,R14 470.68,R14 470.68,,Jahman Office (Pty) Ltd,2004/037428/24,2020/06/26,RFQ,,,R0.00
+17,1,Covid-19 Costs,PPE,Clear screen,R2 170.00,R2 170.00,,Jahman Office (Pty) Ltd,2004/037428/25,2020/06/27,RFQ,,,R0.00
+18,1,Covid-19 Costs,PPE,Clear screen,R2 769.20,R2 769.20,,Jahman Office (Pty) Ltd,2004/037428/26,2020/06/28,RFQ,,,R0.00
+19,1,Covid-19 Costs,PPE,Clear screen,R2 970.45,R2 970.45,,Jahman Office (Pty) Ltd,2004/037428/27,2020/06/29,RFQ,,,R0.00
+20,2,Covid-19 Costs,PPE,Clear screen,R4 335.73,R4 335.73,,Jahman Office (Pty) Ltd,2004/037428/28,2020/06/30,RFQ,,,R0.00
+21,1,Covid-19 Costs,PPE,Clear screen,R2 769.20,R2 769.20,,Jahman Office (Pty) Ltd,2004/037428/29,2020/07/01,RFQ,,,R0.00
+22,10,Covid-19 Costs,PPE,Sanitizer,R2 440.00,R2 440.00,,SB Printing and Solutions (Pty) Ltd,2018/204671/07,2020/07/31,RFQ,,,R0.00
+23,1,Covid-19 Costs,PPE,Cleaning,R4 500.00,R4 500.00,,Hurricane Pest Control CC,2010/035670/23,2020/06/24,RFQ,,,R0.00
+24,1,Covid-19 Costs,PPE,Cleaning,R3 559.50,R3 559.50,,Sidze Pest Control,2015/004692/07,2020/06/24,RFQ,,R3 559.50,R3 559.50
+25,1,Covid-19 Costs,PPE,Cleaning,R2 521.54,,R2 521.54,Pest Invasion Control Pretoria (Pty) Ltd,2014/016757/07,2020/09/07,RFQ,,,R0.00
+26,1,Covid-19 Costs,PPE,Cleaning,R1 479.94,,R1 479.94,Pest Invasion Control Pretoria (Pty) Ltd,2014/016757/08,2020/09/08,RFQ,,R1 479.94,R1 479.94
+27,1,Covid-19 Costs,PPE,Cleaning,R3 983.98,,R3 983.98,Pestokill Pest and Fumigation Services(Pty) Ltd,2009/075363/23,2020/07/24,RFQ,,,R0.00
+28,1,Covid-19 Costs,PPE,Cleaning,R6 379.60,,R6 379.60,Imonti Pest Control,"680601526508
+(Sole
+Proprietorship",2020/06/07,RFQ,,,R0.00
+29,1,Covid-19 Costs,PPE,Cleaning,R1 630.77,,R1 630.77,Imonti Pest Control,"680601526508
+(Sole
+Proprietorship",2020/06/07,RFQ,,,R0.00
+30,1,Covid-19 Costs,PPE,Cleaning,R2 817.50,,R2 817.50,AVIA-GIS South Africa (Pty) Ltd,2016/426975/07,2020/07/24,RFQ,,,R0.00
+31,10,Covid-19 Costs,PPE,Sanitizer,R750.00,,R750.00,SB Printing and Solutions (Pty) Ltd,2018/204671/07,2020/07/31,RFQ,,,R0.00
+32,5,Covid-19 Costs,PPE,Sanitizer,R1 390.00,,R1 390.00,SB Printing and Solutions (Pty) Ltd,2018/204671/08,2020/08/01,RFQ,,,R0.00
+33,5,Covid-19 Costs,PPE,Sanitizer,R300.00,,R300.00,SB Printing and Solutions (Pty) Ltd,2018/204671/09,2020/08/02,RFQ,,,R0.00
+34,1,Covid-19 Costs,PPE,Cleaning,R2 939.22,,R2 939.22,Pest Invasion Control Pretoria (Pty) Ltd,2014/016757/07,2020/09/07,RFQ,,,R0.00
+35,1,Covid-19 Costs,PPE,Cleaning,R31 035.63,R31 035.63,,The Pest Control Prons (Pty) Ltd,2017/194587/07,2020/03/24,RFQ,,R31 035.63,R31 035.63
+36,1,Covid-19 Costs,PPE,Cleaning,R5 291.76,,R5 291.76,Imonti Pest Control,"680601526508
+(Sole
+Proprietorship",2020/06/07,RFQ,,,R0.00
