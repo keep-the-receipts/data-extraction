@@ -46,3 +46,9 @@ Instructions for this are here: https://github.com/South-Africa-Government-Procu
 Preferably do pass 1 first, just so we easily keep track and ensure there's a first pass of everything.
 Once Pass 1 is done, you can do pass 2 unless it was you who did pass 1.
 The idea with two passes is to identify errors when by looking at the differences between two passes done by two different people
+
+## Pull Request Review checks
+
+- Did the capture all the data? (or is there another file or pull request for other tables, e.g. when it's different column headings in the different tables)
+- Is the data in the correct column? Sometimes some rows are shifted and not aligned with the respective heading.
+- Is each "record" - one supplier, one buyer, one order amount - in one row? Sometimes tabula splits multiline cells into multiple rows - these must be single rows (with multiple lines as in the PDF table) in the CSV.
