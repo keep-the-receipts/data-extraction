@@ -46,3 +46,16 @@ Instructions for this are here: https://github.com/South-Africa-Government-Procu
 Preferably do pass 1 first, just so we easily keep track and ensure there's a first pass of everything.
 Once Pass 1 is done, you can do pass 2 unless it was you who did pass 1.
 The idea with two passes is to identify errors when by looking at the differences between two passes done by two different people
+
+5. Tabula gives me the following error for the PDF: "Sorry, your PDF file is image-based; it does not have any embedded text. It might have been scanned from paper... Tabula isn't able to extract any data from image-based PDFs. Click the Help button for more information."
+
+For PDFs like this, we need to use Optical Character Recognition (OCR) software to convert the image-based PDFs to text-based. This is easiest done on Linux or MacOS, but you have to download a bash script and run it on the PDF. If any of those things sound scary or foreign to you, feel free to reach out on the issue or in Slack and someone else will be happy to convert the PDF for you in the mean time.
+
+If you wanna try download the bash script and run it on the PDF yourself, here is what you need to do:
+
+1. Make sure you have tesseract 4 installed (`brew install tesseract` on MacOS)
+1. Download the `pdf-ocr.sh` bash script from this gist: https://gist.githubusercontent.com/zoidbergwill/e48ddeab1552c868a4c140fd14c4aeb2/raw/bc44ee1a0a132d83b945fdacda479d52ac3dc1ed/pdf-ocr.sh
+1. Make it executable:
+  `chmod +x pdf-ocr.sh`
+1. Run it on your scanned PDF.
+  e.g. `./pdf-ocr.sh "HOME AFFAIRS - COVID SUMMARY.pdf"`
