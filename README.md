@@ -30,25 +30,26 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 
 
 ## F.A.Q.:
-1. Should we put different tables into different CSVs?
+
+### Should we put different tables into different CSVs?
 
 If the column headings are the same, they can be in one CSV. But if the tables relate to different departments or entities, add a column to specify who that part of the CSV relates to.
 If the columns headings are different, they should be separate CSVs.
 
-2. What should I do if there are merged cells that should be split?
+### What should I do if there are merged cells that should be split?
 
 Instructions for managing merged cells are here: https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/119#issuecomment-703073670
 
-3. What should I do if Tabula splits cells that should be on a single row?
+### What should I do if Tabula splits cells that should be on a single row?
 Instructions for this are here: https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076352
 
-4. Should I do 'pass 2' of a file?
+### Should I do 'pass 2' of a file?
 
 Preferably do pass 1 first, just so we easily keep track and ensure there's a first pass of everything.
 Once Pass 1 is done, you can do pass 2 unless it was you who did pass 1.
 The idea with two passes is to identify errors when by looking at the differences between two passes done by two different people
 
-5. Tabula gives me the following error for the PDF: "Sorry, your PDF file is image-based; it does not have any embedded text. It might have been scanned from paper... Tabula isn't able to extract any data from image-based PDFs. Click the Help button for more information."
+### Tabula gives me the following error for the PDF: "Sorry, your PDF file is image-based; it does not have any embedded text. It might have been scanned from paper... Tabula isn't able to extract any data from image-based PDFs. Click the Help button for more information."
 
 For PDFs like this, we need to use Optical Character Recognition (OCR) software to convert the image-based PDFs to text-based. This is easiest done on Linux or MacOS, but you have to download a bash script and run it on the PDF. If any of those things sound scary or foreign to you, feel free to reach out on the issue or in Slack and someone else will be happy to convert the PDF for you in the mean time.
 
