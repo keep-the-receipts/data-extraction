@@ -59,3 +59,9 @@ If you wanna try download the bash script and run it on the PDF yourself, here i
   `chmod +x pdf-ocr.sh`
 1. Run it on your scanned PDF.
   e.g. `./pdf-ocr.sh "HOME AFFAIRS - COVID SUMMARY.pdf"`
+
+## Pull Request Review checks
+
+- Did the capture all the data? (or is there another file or pull request for other tables, e.g. when it's different column headings in the different tables)
+- Is the data in the correct column? Sometimes some rows are shifted and not aligned with the respective heading.
+- Is each "record" - one supplier, one buyer, one order amount - in one row? Sometimes tabula splits multiline cells into multiple rows - these must be single rows (with multiple lines as in the PDF table) in the CSV.
