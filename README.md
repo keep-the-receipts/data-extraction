@@ -15,6 +15,7 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 -- DON'T remove the headings for the table.
 -- DO remove any totals rows - we are interested in individual line items, not totals.
 -- DO remove any empty lines that aren't needed.
+-- DO make sure that everything that is in one row on the PDF is one row on the CSV (More info here)[https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076609]
 - Save the resulting CSV file, which you will use for creating the Pull Request. Use the same name as the source PDF file for the CSV (naturally replacing the .pdf extension with .csv).
 - Raise a PR using the Github UI.
 
