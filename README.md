@@ -33,8 +33,11 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 
 ### Should we put different tables into different CSVs?
 
-If the column headings are the same, they can be in one CSV. But if the tables relate to different departments or entities, add a column to specify who that part of the CSV relates to.
-If the columns headings are different, they should be separate CSVs.
+If the column headings are the same, they can be in one CSV, however the source table and related entity/ department should be identified within the table. If the column headings are different, they should be included as separate csv files. 
+
+Wherever relevant, insert a new column named "TABLE", preferrably in the first column (A) position and copy the table name into each row that is a part of that table. Similarly, if tables relate to multiple state entities, add a column named "ENTITY" and copy the entity name (this can be a lowercase department ID e.g. saps, treasury, cogta, drdlr) into all of the relevant rows.
+
+If multiple output tables are required from a single source document, simply append an incremental suffix before the csv file extension which identifies the table number, e.g. *FILE01_output1.csv* or *FILENAME_output2.csv* . Note that using the term **_output0** is important as it is entirely possible that the input document could end in a number or other matching pattern. The ordering of these tables is not important, however they should contain a *TABLE* column as described above.
 
 ### What should I do if there are merged cells that should be split?
 
