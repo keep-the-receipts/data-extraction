@@ -1,4 +1,4 @@
-# Procurement Data Cleaning
+# Procurement Data Extraction
 
 Thanks for offering to help out!
 For more info, join: http://join.keepthereceipts.org.za/
