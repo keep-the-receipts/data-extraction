@@ -18,6 +18,7 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 -- DO make sure that everything that is in one row on the PDF is one row on the CSV (More info here)[https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076609]
 - Save the resulting CSV file, which you will use for creating the Pull Request. Use the same name as the source PDF file for the CSV (naturally replacing the .pdf extension with .csv).
 - Raise a PR using the Github UI.
+-- Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. See example https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/127
 
 ## If you're already familiar with Git, some extra tips:
 - Fork https://github.com/South-Africa-Government-Procurement/Data-cleaning into your own account.
