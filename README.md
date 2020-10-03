@@ -6,7 +6,7 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 
 ## Basic steps to get started:
 - Download and install Tabula: https://tabula.technology/
-- Download a copy of the PDF from the Git issue that you will be processing.
+- Download a copy of the PDF from the GitHub issue that you will be processing.
 - Load the PDF into Tabula.
 - Highlight/select the tables in Tabula, export to CSV.
 - Open the CSV files in a spreadsheet app (Excel / Google Sheets / LibreOffice)
