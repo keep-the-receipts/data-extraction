@@ -40,6 +40,10 @@ If the columns headings are different, they should be separate CSVs.
 
 Instructions for managing merged cells are here: https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/119#issuecomment-703073670
 
+Sometimes things goes messy, but try to exclude the table header(s) and only select the data. Then type in the headers afterwards into the CSV. 
+
+When text in a cell does NOT use word wrapping, generally when the PDF was created with Word instead of Spreadsheet like Excel, Tabular may insert another blank column. This means there is a high likelihood the capturing will not be so smooth with Tabular and need to be performed manually(See rest of FAQ for other tips).
+
 ### What should I do if Tabula splits cells that should be on a single row?
 Instructions for this are here: https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076352
 
