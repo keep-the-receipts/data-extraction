@@ -1,53 +1,12 @@
-No,Description,Order,Award Date,Value,Procurement Strategy,Awarded To,Order Status/Commend
-"",,Number,,,,,
-1,Emergency procurement  of  Hand,17084,20-Mar-20,"320,567.00",Emergency Procurement,Ideal Lifestyle,Delivered on 24 March 2020. This
-"",Sanitzers(600);Latex gloves (260) and Masks,,,,"method was used,",,was at the beginning of the Covid-
-"",(200),,,,complying to the Agency's,,19 pandemic announcement when
-"",,,,,SCM Delegations.,,there was a lot of uncertainty and
-"",,,,,,,"panic, before National Treasury"
-"",,,,,,,"issued any Instruction notes,"
-2,5litre Disinfectants (100)and 13600 surgical,17139,14-Apr-20,"297,735.00",Procurement method used,Supra Healthcare (Kzn),Delivered on the 29 April 2020
-"",Masks .,,,,was the National Treasury,,
-"",,,,,Instruction No.8 of,,
-"",,,,,2019/2020.,,
-3,Disinfecting and Sanitizing of all SASSA,17147,28-Apr-20,"245,621.26",Emergency Procurement,Ideal Lifestyle,Emergency procurement was used
-"",Offices in the Northern Cape,,,,"method was used,",,to get the offices ready for the
-"",,,,,complying to the Agency's,,"return of a 1/3 of staff, for the"
-"",,,,,SCM Delegations.,,initial date of 04 May 2020. Deep
-"",,,,,,,cleaning was first done by the
-"",,,,,,,service provider during the long
-"",,,,,,,weekend of 01 May 2020. Service
-"",,,,,,,provider is currently busy and will
-"",,,,,,,finish on the 08 May 2020 as date
-"",,,,,,,for return of staff changed to 11
-"",,,,,,,May 2020.
-4,Face cloth Masks (3layers),17160,7-May-20,"46,000.00",National Treasury,,Delivered and paid on 29 May 2020
-"",,,,,Instruction Note 05 of,,
-"",,,,,2020/21,Pitpins Uniform and Project Co-operative,
-5,Procurement of Thermometers,17161,7-May-20,"147,200.00",National Treasury,,Delivered and paid on 22 May 2020
-"",,,,,Instruction Note 05 of,,
-"",,,,,2020/21,Multisurge,
-6,Coverall Suits and Refuse Bins,17162,18-May-20,"123,255.00",,,Delivered and paid 28 July 2020
-"",,,,,Quotation Process in line with,,
-"",,,,,National Treasury Instruction,,
-"",,,,,No.05 of 2020/21,Mokalana Trading,
-7,Covid 19 Stickers and signage,17163,18-May-20,"8,482.40",,,Delivered and paid 06 July 2020
-"",,,,,Quotation Process in line with,,
-"",,,,,National Treasury Instruction,,
-"",,,,,No.05 of 2020/21,Printzz,
-8,Gloves and sanitizers,17166,25-May-20,"486,250.00",,,Delivered and paid 08 July 2020
-"",,,,,Quotation Process in line with,,
-"",,,,,National Treasury Instruction,,
-"",,,,,No.05 of 2020/21,Blue Aquarian Trading (PTY) LTD,
-9,Disinfection of the Delpoortshoop Local,17206,3-Jul-20,"13,200.00",,,Paid 06 August 2020
-"",Office,,,,Quotation Process in line with,,
-"",,,,,National Treasury Instruction,,
-"",,,,,No.05 of 2020/21,Schooling Solutions SA (PTY) LTD,
-10,Cleaning and disinfection of local offices,17214,8-Jul-20,"19,812.00",,,Paid 21 July 2020
-"",Colesberg and Noupoort,,,,Quotation Process in line with,,
-"",,,,,National Treasury Instruction,,
-"",,,,,No.05 of 2020/21,T T Global Trading,
-11,Disinfection of the Regional Office,17216,9-Jul-20,"58,397.00",,,Paid 06 August 2020
-"",,,,,Quotation Process in line with,,
-"",,,,,National Treasury Instruction,,
-"",,,,,No.05 of 2020/21,Ideal Lifestyle,
+No,Description,Order Number,Award Date,Value,Procurement Strategy,Awarded To,Order Status/Commend
+1,Emergency procurement  of  Hand Sanitzers(600);Latex gloves (260) and Masks -200,17084,20-Mar-20,"320,567.00","Emergency Procurement method was used, complying to the Agency's SCM Delegations.",Ideal Lifestyle,"Delivered on 24 March 2020. This was at the beginning of the Covid-19 pandemic announcement when there was a lot of uncertainty and panic, before National Treasury issued any Instruction notes,"
+2,5litre Disinfectants (100)and 13600 surgical Masks .,17139,14-Apr-20,"297,735.00",Procurement method used was the National Treasury Instruction No.8 of 2019/2020.,Supra Healthcare (Kzn),Delivered on the 29 April 2020
+3,Disinfecting and Sanitizing of all SASSA Offices in the Northern Cape,17147,28-Apr-20,"245,621.26","Emergency Procurement method was used, complying to the Agency's SCM Delegations. complying to the Agency's SCM Delegations.",Ideal Lifestyle,"Emergency procurement was used to get the offices ready for the return of a 1/3 of staff, for the initial date of 04 May 2020. Deep cleaning was first done by the service provider during the long weekend of 01 May 2020. Service provider is currently busy and will finish on the 08 May 2020 as date for return of staff changed to 11 May 2020."
+4,Face cloth Masks (3layers),17160,7-May-20,"46,000.00",National Treasury Instruction Note 05 of 2020/21,Pitpins Uniform and Project Co-operative,Delivered and paid on 29 May 2020
+5,Procurement of Thermometers,17161,7-May-20,"147,200.00",National Treasury Instruction Note 05 of 2020/21,Multisurge,Delivered and paid on 22 May 2020
+6,Coverall Suits and Refuse Bins,17162,18-May-20,"123,255.00",Quotation Process in line with National Treasury Instruction No.05 of 2020/21,Mokalana Trading,Delivered and paid 28 July 2020
+7,Covid 19 Stickers and signage,17163,18-May-20,"8,482.40",Quotation Process in line with National Treasury Instruction No.05 of 2020/21,Printzz,Delivered and paid 06 July 2020
+8,Gloves and sanitizers,17166,25-May-20,"486,250.00",Quotation Process in line with National Treasury Instruction No.05 of 2020/21,Blue Aquarian Trading (PTY) LTD,Delivered and paid 08 July 2020
+9,Disinfection of the Delpoortshoop Local Office,17206,3-Jul-20,"13,200.00",Quotation Process in line with National Treasury Instruction No.05 of 2020/21,Schooling Solutions SA (PTY) LTD,Paid 06 August 2020
+10,Cleaning and disinfection of local offices Colesberg and Noupoort,17214,8-Jul-20,"19,812.00",Quotation Process in line with National Treasury Instruction No.05 of 2020/21,T T Global Trading,Paid 21 July 2020
+11,Disinfection of the Regional Office,17216,9-Jul-20,"58,397.00",Quotation Process in line with National Treasury Instruction No.05 of 2020/21,Ideal Lifestyle,Paid 06 August 2020
