@@ -13,7 +13,7 @@ from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
 2,"CHECKERS,
-QUEENSWOOD",Savlon liquid,500ml,4,R           199.96,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+QUEENSWOOD",Savlon liquid,500ml,4,R 199.96,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
@@ -36,14 +36,14 @@ from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
 5,"CHECKERS,
-QUEENSWOOD",Savlon liquid,500ml,1,R             49.99,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+QUEENSWOOD",Savlon liquid,500ml,1,R 49.99,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
 6,"CHECKERS,
-QUEENSWOOD",Detergent,1500ml,2,R             45.98,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+QUEENSWOOD",Detergent,1500ml,2,R 45.98,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
@@ -57,7 +57,7 @@ Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
-8,L.M. SUPERMARKET,Latex Gloves,Box of 100,3,R             83.97,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+8,L.M. SUPERMARKET,Latex Gloves,Box of 100,3,R 83.97,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
@@ -163,11 +163,11 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-"",,Face shield,ea,350,"R      28,003.50",Goods,"National
+17,Tripple N Medical,Face shield,ea,350,"R      28,003.50",Goods,"National
 Treasury
 Trasnversal
 Contract",,,,
-"",,"Bacticide hand
+17,Tripple N Medical,"Bacticide hand
 disinfectant",500ml,6000,"R    480,000.00",Goods,"National
 Treasury
 Trasnversal
@@ -214,7 +214,7 @@ and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
 23,Tara Healthcare (Pty) Ltd,"Disposable plastic
-aprons (NSF)",pk of 100,780,R           782.00,Goods,"National
+aprons (NSF)",pk of 100,780,R 782.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -240,15 +240,15 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-"",,Sanitiser,10L,1,"R        5,110.00","National
+25,Tripple N Medical,Sanitiser,10L,1,"R        5,110.00","National
 Treasury
 Trasnversal
 Contract",,,,,
-"",,Empty bottles 750ML,750ml,3,"R        1,200.00","National
+25,Tripple N Medical,Empty bottles 750ML,750ml,3,"R        1,200.00","National
 Treasury
 Trasnversal
 Contract",,,,,
-"",,Disposable Masks,Box of 100,10 boxes,R           172.50,"National
+25,Tripple N Medical,Disposable Masks,Box of 100,10 boxes,R 172.50,"National
 Treasury
 Trasnversal
 Contract",,,,,
@@ -259,22 +259,22 @@ supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-"",,Jik,3L,55,"R        2,750.00","3-Quotation
+26,4Matik,Jik,3L,55,"R        2,750.00","3-Quotation
 system ito
 PPPFA",,,,,
-"",,Pine Gel,25L,15,"R        6,900.00","3-Quotation
+26,4Matik,Pine Gel,25L,15,"R        6,900.00","3-Quotation
 system ito
 PPPFA",,,,,
-"",,Pine Soap,25L,15,"R        5,370.00","3-Quotation
+26,4Matik,Pine Soap,25L,15,"R        5,370.00","3-Quotation
 system ito
 PPPFA",,,,,
-"",,Mr Min,300ml,150,"R        5,250.00","3-Quotation
+26,4Matik,Mr Min,300ml,150,"R        5,250.00","3-Quotation
 system ito
 PPPFA",,,,,
-"",,Teak Oil,500ml,150,"R        5,400.00","3-Quotation
+26,4Matik,Teak Oil,500ml,150,"R        5,400.00","3-Quotation
 system ito
 PPPFA",,,,,
-"",,Sunlight Liq,5L,45,"R        8,829.00","3-Quotation
+,4Matik,Sunlight Liq,5L,45,"R        8,829.00","3-Quotation
 system ito
 PPPFA",,,,,
 27,Samilson Group,"Fogging of DHET
