@@ -1,26 +1,26 @@
-Service provider,Amount spend to date,Accrual,Total
-Bazix First (PTY) LTD,55 178.76,,55 178.76
-Coop Private Services (PTY) LTD,158 336.64,,158 336.64
-Crystal Black Group (PTY) LTD,227  937.22,,227 937.22
-Lekhetho and Sons Trading (PTY) LTD,194 843.25,26 600.00,221 443.25
-LT and T Business Enterprises (PTY) LTD,236 944.96,,236 944.96
-Mountrow (PTY) LTD,562 133.74,,562 133.74
-Nnoseng Motse (PTY) LTD,181 733.93,,181 733.93
-Nomsa Zanele Projects,61 480.00,,61 480.00
-Sehanyata General Trading,228 717.02,,228 717.02
-Thabshad Trading and Projects (PTY) LTD,96 760.44,,96 760.44
-Drezelrock,-,98 714.00,98 714.00
-Unromax,-,105 411.88,105 411.88
-PMX Trading and Projects,-,52 325.00,52 325.00
-DOT Mpowo,-,415 277.52,415 277.52
-K2014038096 Khothola,-,174 263.04,174 263.04
-Paleil Trading Solution,-,125 249.04,125 249.04
-Purple Envelope Strategies,-,95 696.16,95 596.16
-Smouse Holding,-,51 353.40,51 353.40
-Shirona,194 716.34,,194 716.34
-Chatha Silkscreen,-,158 282.88,158 282.88
-Matsapa,-,77 387.52,77 387.52
-Tshwara Nako,-,257 325.09,257 325.09
-Sakula General Trading,-,285 065.76,285 065.76
-Sefudli Trading,-,33 260.64,33 260.64
-Exclusive event services,6 252.09,,6 252.09
+implementation_location_province,buyer_name,supplier_name,payment_amount_zar,Accrual,order_amount_zar
+Free State,"Free State Department of Police, Roads and Transport",Bazix First (PTY) LTD,55178.76,,55178.76
+Free State,"Free State Department of Police, Roads and Transport",Coop Private Services (PTY) LTD,158336.64,,158336.64
+Free State,"Free State Department of Police, Roads and Transport",Crystal Black Group (PTY) LTD,227937.22,,227937.22
+Free State,"Free State Department of Police, Roads and Transport",Lekhetho and Sons Trading (PTY) LTD,194843.25,26 600.00,221443.25
+Free State,"Free State Department of Police, Roads and Transport",LT and T Business Enterprises (PTY) LTD,236944.96,,236944.96
+Free State,"Free State Department of Police, Roads and Transport",Mountrow (PTY) LTD,562133.74,,562133.74
+Free State,"Free State Department of Police, Roads and Transport",Nnoseng Motse (PTY) LTD,181733.93,,181733.93
+Free State,"Free State Department of Police, Roads and Transport",Nomsa Zanele Projects,61480,,61480
+Free State,"Free State Department of Police, Roads and Transport",Sehanyata General Trading,228717.02,,228717.02
+Free State,"Free State Department of Police, Roads and Transport",Thabshad Trading and Projects (PTY) LTD,96760.44,,96760.44
+Free State,"Free State Department of Police, Roads and Transport",Drezelrock,,98 714.00,98714
+Free State,"Free State Department of Police, Roads and Transport",Unromax,,105 411.88,105411.88
+Free State,"Free State Department of Police, Roads and Transport",PMX Trading and Projects,,52 325.00,52325
+Free State,"Free State Department of Police, Roads and Transport",DOT Mpowo,,415 277.52,415277.52
+Free State,"Free State Department of Police, Roads and Transport",K2014038096 Khothola,,174 263.04,174263.04
+Free State,"Free State Department of Police, Roads and Transport",Paleil Trading Solution,,125 249.04,125249.04
+Free State,"Free State Department of Police, Roads and Transport",Purple Envelope Strategies,,95 696.16,95596.16
+Free State,"Free State Department of Police, Roads and Transport",Smouse Holding,,51 353.40,51353.4
+Free State,"Free State Department of Police, Roads and Transport",Shirona,194716.34,,194716.34
+Free State,"Free State Department of Police, Roads and Transport",Chatha Silkscreen,,158 282.88,158282.88
+Free State,"Free State Department of Police, Roads and Transport",Matsapa,,77 387.52,77387.52
+Free State,"Free State Department of Police, Roads and Transport",Tshwara Nako,,257 325.09,257325.09
+Free State,"Free State Department of Police, Roads and Transport",Sakula General Trading,,285 065.76,285065.76
+Free State,"Free State Department of Police, Roads and Transport",Sefudli Trading,,33 260.64,33260.64
+Free State,"Free State Department of Police, Roads and Transport",Exclusive event services,6252.09,,6252.09

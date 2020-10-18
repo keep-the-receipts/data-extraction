@@ -1,22 +1,22 @@
-implementation_location_province,buyer_name,supplier_name,central_supplier_database_number,items_description,cost_pe_unit_za,items_unit,items_quantity,ode_amount_za,"INDICATE AMOUNT
+implementation_location_province,buyer_name,supplier_name,central_supplier_database_number,items_description,cost_per_unit_za,items_unit,items_quantity,order_amount_za,"INDICATE AMOUNT
 COMMITTED",procurement_method
-Free State,Free State Department of Agriculture and Rural Development,Unqeto IT Solutions,MAAA0366763,Liquid Alchohol based hand sanitizer,70.00,250 ml,1000,70000,-,"Normal SCM process were follow where 3
+Free State,Free State Department of Agriculture and Rural Development,Unqeto IT Solutions,MAAA0366763,Liquid Alchohol based hand sanitizer,70,250 ml,1000,70000,-,"Normal SCM process were follow where 3
 quotations were requested"
-Free State,Free State Department of Agriculture and Rural Development,Unqeto IT Solutions,MAAA0366763,Gel Alchohol based hand sanitizer,100.00,500 ml,500,50000,-,"Normal SCM process were follow where 3
+Free State,Free State Department of Agriculture and Rural Development,Unqeto IT Solutions,MAAA0366763,Gel Alchohol based hand sanitizer,100,500 ml,500,50000,-,"Normal SCM process were follow where 3
 quotations were requested"
-Free State,Free State Department of Agriculture and Rural Development,Unqeto IT Solutions,MAAA0366763,Empty 500ml spray bottle,18.00,500 ml,100,1800,-,"Normal SCM process were follow where 3
+Free State,Free State Department of Agriculture and Rural Development,Unqeto IT Solutions,MAAA0366763,Empty 500ml spray bottle,18,500 ml,100,1800,-,"Normal SCM process were follow where 3
 quotations were requested"
-Free State,Free State Department of Agriculture and Rural Development,D-Matt,MAAA0090067,Liquid Alchohol based hand sanitizer,1150.00,5 L,100,115000,-,"Normal SCM process were follow where 3
+Free State,Free State Department of Agriculture and Rural Development,D-Matt,MAAA0090067,Liquid Alchohol based hand sanitizer,1150,5 L,100,115000,-,"Normal SCM process were follow where 3
 quotations were requested"
-Free State,Free State Department of Agriculture and Rural Development,D-Matt,MAAA0090067,Gel Alchohol based hand sanitizer,1150.00,5 L,100,115000,-,"Normal SCM process were follow where 3
+Free State,Free State Department of Agriculture and Rural Development,D-Matt,MAAA0090067,Gel Alchohol based hand sanitizer,1150,5 L,100,115000,-,"Normal SCM process were follow where 3
 quotations were requested"
 Free State,Free State Department of Agriculture and Rural Development,Bokanya Trading,,"Sanitizer hamper 3 IN 1 (Hand soap (500 ml)
 Sanitizer gel (250 ml) and Sanitizer liquid (150
-ml)",300.00,-,50,15000,-,"Normal SCM process were follow where 3
+ml)",300,-,50,15000,-,"Normal SCM process were follow where 3
 quotations were requested"
-Free State,Free State Department of Agriculture and Rural Development,Lechalaba and Sons,MAAA0097013,Nitrile blue gloves 100 per box,255.00,boxes,250,63750,-,"Normal SCM process were follow where 3
+Free State,Free State Department of Agriculture and Rural Development,Lechalaba and Sons,MAAA0097013,Nitrile blue gloves 100 per box,255,boxes,250,63750,-,"Normal SCM process were follow where 3
 quotations were requested"
-Free State,Free State Department of Agriculture and Rural Development,Lechalaba and Sons,MAAA0097013,Masks,85.00,boxes,100,8500,-,"Normal SCM process were follow where 3
+Free State,Free State Department of Agriculture and Rural Development,Lechalaba and Sons,MAAA0097013,Masks,85,boxes,100,8500,-,"Normal SCM process were follow where 3
 quotations were requested"
 Free State,Free State Department of Agriculture and Rural Development,DYD Enterprise,MAAA0489779,Pest control and decontimination,244.58,each,N/A,82483.8,R                        367516.20,"Normal SCM process were follow where 3
 quotations were requested"

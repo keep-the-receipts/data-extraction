@@ -1,5 +1,5 @@
-implementation_location_province,Buyer,"REPORTING
-PERIOD",supplier_name,Business Location,items_description,cost_per_unit_za,items_unit,items_quantity,oder_amount_zar,"INDICATE AMOUNT TO
+implementation_location_province,buyer_name,"REPORTING
+PERIOD",supplier_name,Business Location,items_description,cost_per_unit_za,items_unit,items_quantity,payment_amount_zar,"INDICATE AMOUNT TO
 BE COMMITTED
 (PROCESS
 UNDERWAY) - LOGIS
@@ -11,9 +11,7 @@ REPORT - LOGIS REPORT
 RECEIVED AS ON
 INVOICE BUT NOT YET
 PAID - LOGIS REPORT
-103","TOTAL EXP AND
-COMMITMENTS FOR THE
-DEPARTMENT","BREAKDOWN -
+103",order_amount_zar,"BREAKDOWN -
 EXPENDITURE ON FREE
 STATE COMPANIES","BREAKDOWN -
 EXPENDITURE ON
@@ -30,20 +28,20 @@ INSTRUCTION NOTE NO.
 ITEM?
 INDICATE  ""YES"" OR ""NO""","IF ""NO"", PROVIDE REASONS FOR THE NON-
 COMPLIANCE"
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",14/04/2020,Groen Mintirho/Enviromobi,Bloemfontein/Johannesburg,20L Sanitizer,1058,20L,16124,,,,"R 17,059,192.00","R 17,059,192.00","R 17,059,192.00",,To be confirmed,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",14/04/2020,Groen Mintirho/Enviromobi,Bloemfontein/Johannesburg,Surgical Masks,25.88,,400,,,,"R 10,352.00","R 10,352.00",,"R 10,352.00",To be confirmed,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,Spunlace Roll White,688.02,,7,5538.56,,,,"R 5,538.56","R 5,538.56",,N/A.,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,30G Sintol,135.15,30g,10,1554.23,,,,"R 1,554.23","R 1,554.23",,No,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,Buddy Jug 10L with Tap,218.2,10L,14,3513.02,,,,"R 3,513.02","R 3,513.02",,No,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,Spray Bottle 750ml,32.66,750ml,30,1126.77,,,,"R 1,126.77","R 1,126.77",,N/A,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,SprayTrigger Green Canyon,23.98,,30,827.31,,,,R 827.31,R 827.31,,N/A,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",14/04/2020,Insource Group,"Virginia, Welkom",Active-shield sanitizer plus,20.1,100ml,5200,104520,,,,"R 104,520.00","R 104,520.00",,Yes,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Alex Cale,Free State,"Disinfecting, Fumigation & Sanitizing",,,,479500,,,,"R 479,500.00","R 479,500.00",,No,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Dagne Trading,Free State,Sludge Removal,,,,,"R 209,229.00",,,"R 209,229.00","R 209,229.00",,N/A,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Fedimehang Landscaping & Garden,Free State,Grass Cutting,,,,487040,,,,"R 487,040.00","R 487,040.00",,N/A,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Ramagapu Trading & Projects,Free State,Maintenance of Water Pufirication Plant,,,,373557,,,,"R 373,557.00","R 373,557.00",,N/A,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Grand Minolta,Free State,Maintenance Service,,,,,"R 496,225.00",,,"R 496,225.00","R 496,225.00",,N/A,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Sehanyata General Trading,Free State,Cleaning & Disinfecting,,,,347000,,,,"R 347,000.00","R 347,000.00",,No,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Sehanyata General Trading,Free State,Cleaning & Disinfecting,,,,,"R 189,000.00",,,"R 189,000.00","R 189,000.00",,No,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Catha Silk Printers,Free State,Cleaning & Disinfecting,,,,56000,,,,"R 56,000.00","R 56,000.00",,No,Yes,
-Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,SKKM,Free State,Material Supplies,,,,490000,,,,"R 490,000.00","R 490,000.00",,N/A,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",14/04/2020,Groen Mintirho/Enviromobi,Bloemfontein/Johannesburg,20L Sanitizer,1058,20L,16124,,,,"R 17,059,192.00",17059192,"R 17,059,192.00",,To be confirmed,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",14/04/2020,Groen Mintirho/Enviromobi,Bloemfontein/Johannesburg,Surgical Masks,25.88,,400,,,,"R 10,352.00",10352,,"R 10,352.00",To be confirmed,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,Spunlace Roll White,688.02,,7,5538.56,,,,5538.56,"R 5,538.56",,N/A.,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,30G Sintol,135.15,30g,10,1554.23,,,,1554.23,"R 1,554.23",,No,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,Buddy Jug 10L with Tap,218.2,10L,14,3513.02,,,,3513.02,"R 3,513.02",,No,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,Spray Bottle 750ml,32.66,750ml,30,1126.77,,,,1126.77,"R 1,126.77",,N/A,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",26/03/2020,Industro Clean,Bloemfontein,SprayTrigger Green Canyon,23.98,,30,827.31,,,,827.31,R 827.31,,N/A,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",14/04/2020,Insource Group,"Virginia, Welkom",Active-shield sanitizer plus,20.1,100ml,5200,104520,,,,104520,"R 104,520.00",,Yes,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Alex Cale,Free State,"Disinfecting, Fumigation & Sanitizing",,,,479500,,,,479500,"R 479,500.00",,No,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Dagne Trading,Free State,Sludge Removal,,,,,"R 209,229.00",,,209229,"R 209,229.00",,N/A,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Fedimehang Landscaping & Garden,Free State,Grass Cutting,,,,487040,,,,487040,"R 487,040.00",,N/A,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Ramagapu Trading & Projects,Free State,Maintenance of Water Pufirication Plant,,,,373557,,,,373557,"R 373,557.00",,N/A,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Grand Minolta,Free State,Maintenance Service,,,,,"R 496,225.00",,,496225,"R 496,225.00",,N/A,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Sehanyata General Trading,Free State,Cleaning & Disinfecting,,,,347000,,,,347000,"R 347,000.00",,No,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Sehanyata General Trading,Free State,Cleaning & Disinfecting,,,,,"R 189,000.00",,,189000,"R 189,000.00",,No,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,Catha Silk Printers,Free State,Cleaning & Disinfecting,,,,56000,,,,56000,"R 56,000.00",,No,Yes,
+Free State,"Free State Department of Economic and Small Business Development, Tourism and Environmental Affairs",May-20,SKKM,Free State,Material Supplies,,,,490000,,,,490000,"R 490,000.00",,N/A,Yes,

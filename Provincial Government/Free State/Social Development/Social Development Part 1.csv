@@ -1,0 +1,51 @@
+buyer_name,implementation_location_province,REPORTING PERIOD,supplier_name,Business Location,items_description,cost_per_unit_zar,items_unit,items_quantity,payment_amount_zar,"INDICATE AMOUNT TO BE
+COMMITTED (PROCESS
+UNDERWAY) - LOGIS REPORT
+102","COMMITTED BUT NOT YET
+INVOICED - SEE ON LOGIS
+COMMITMENT REPORT - LOGIS
+REPORT 102","INDICATE AMOUNT
+RECEIVED AS ON INVOICE
+BUT NOT YET PAID - LOGIS
+REPORT 103",order_amount_zar,"BREAKDOWN -
+EXPENDITURE ON FREE
+STATE COMPANIES","BREAKDOWN -
+EXPENDITURE ON OUTSIDE
+PROVINCE COMPANIES"
+Free State Department of Social Development,Free State,Mar-20,Kungathi Trading,Free State,Hand Sanitizers 5litres,0,5L,8 5,57985,R 0.00,R 0.00,R 0.00,57985,"R 57,985.00",R 0.00
+Free State Department of Social Development,Free State,Mar-20,Kungathi Trading,Free State,Face Masks,0,Ea,1 50,3750,R 0.00,R 0.00,R 0.00,3750,"R 3,750.00",R 0.00
+Free State Department of Social Development,Free State,Mar-20,iDestiny,Free State,Venue & Facilities for Homeless,300,Ea,7 0,420000,R 0.00,R 0.00,R 0.00,420000,"R 420,000.00",R 0.00
+Free State Department of Social Development,Free State,Apr-20,Bibi Cash and Carry,Free State,Food Parcels/Hampers,732.35,Ea,6 82,499462.7,R 0.00,R 0.00,R 0.00,499462.7,"R 499,462.70",R 0.00
+Free State Department of Social Development,Free State,Apr-20,Sedgars Sport,Johannesburg,Hampers / Food Parcels,0,Ea,"4 ,120",2153421,R 0.00,R 0.00,R 0.00,2153421,R 0.00,"R 2,153,421.00"
+Free State Department of Social Development,Free State,Apr-20,Sedgars Sport,Johannesburg,Vanity Packs,167.33,Ea,9 50,158958.75,R 0.00,R 0.00,R 0.00,158958.75,R 0.00,"R 158,958.75"
+Free State Department of Social Development,Free State,Apr-20,Sedgars Sport,Johannesburg,3/4 Mink Blanket,195.5,Ea,"1 ,500",293250,R 0.00,R 0.00,R 0.00,293250,R 0.00,"R 293,250.00"
+Free State Department of Social Development,Free State,Apr-20,Sedgars Sport,Johannesburg,Single Mattress,310.5,Ea,9 50,294975,R 0.00,R 0.00,R 0.00,294975,R 0.00,"R 294,975.00"
+Free State Department of Social Development,Free State,Apr-20,Bibi Cash and Carry,Free State,Hampers / Food Parcels,732.35,Ea,1 00,73235,R 0.00,R 0.00,R0.00,73235,"R 73,235.00",R 0.00
+Free State Department of Social Development,Free State,Apr-20,Bibi Cash and Carry,Free State,Hampers / Food Parcels,732.35,Ea,"1 ,500",1098525,R 0.00,R 0.00,R0.00,1098525,"R 1,098,525.00",R 0.00
+Free State Department of Social Development,Free State,Apr-20,Bibi Cash and Carry,Free State,Hampers / Food Parcels,732.35,Ea,2 00,146470,R 0.00,R 0.00,R0.00,146470,"R 146,470.00",R 0.00
+Free State Department of Social Development,Free State,Apr-20,Mag and Age,Free State,Hampers / Food Parcels (Veggies),150,Ea,"4 ,120",618000,R 0.00,R 0.00,R 0.00,618000,"R 618,000.00",R 0.00
+Free State Department of Social Development,Free State,May-20,iDestiny,Free State,Venues & Facilities for homeless,455500,Ea,1,455500,R 0.00,R 0.00,R 0.00,455500,"R 455,500.00",R 0.00
+Free State Department of Social Development,Free State,Jun-20,Fundzwa Enterprise,Free State,Repair & maintainance of shelter for the homeless,54383,Ea,1,54383,R 0.00,R 0.00,R 0.00,54383,"R 54,383.00",R 0.00
+Free State Department of Social Development,Free State,Jun-20,Real Moves Trading,Free State,Disinfection of Cars,7.5,m3,9 7,31610,R 0.00,R 0.00,R 0.00,31610,"R 31,610.00",R 0.00
+Free State Department of Social Development,Free State,Jun-20,Dimakatso and Mamakhetha,Free State,Disinfection of Cars,7.5,m3,5 6,0,"R 15,215.00",R 0.00,R 0.00,15215,"R 15,215.00",R 0.00
+Free State Department of Social Development,Free State,Jun-20,Modise Khanye Investment Industries,Free State,Disinfection of Cars,7.5,m3,7 4,0,"R 16,825.00",R 0.00,R 0.00,16825,"R 16,825.00",R 0.00
+Free State Department of Social Development,Free State,Jun-20,Ubuhle Nokuhle Trading,Free State,Food Parcels/Hampers,138.16,Ea,"4 ,120",569219.2,R 0.00,R 0.00,R 0.00,569219.2,"R 569,219.20",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Real Moves Trading,Free State,Disinfection of Limo Mall DSD Offices,7.5,m3,"6 ,293",0,"R 47,197.50",R 0.00,R 0.00,47197.5,"R 47,197.50",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Real Moves Trading,Free State,Disinfection of Trompsburg DSD Offices,7.5,m3,4 50,0,"R 3,375.00",R 0.00,R 0.00,3375,"R 3,375.00",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Real Moves Trading,Free State,"Disinfection of Cars (2)Trompsburg, (1) Smithfield
+and (1) Jagersfontein at DSD Offices",150,each,4,0,"R 9,800.00",R 0.00,R 0.00,9800,"R 9,800.00",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Moteki Projects and Consultants,Free State,Disinfection of Welkom DSD Offices,7.5,m3,"5 ,865",0,"R 43,987.50",R 0.00,R 0.00,43987.5,"R 43,987.50",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Mission Point,Free State,Disinfection of Civilia Building DSD Offices,7,m3,"1 4,0750",0,"R 103,250.00",R 0.00,R 0.00,103250,"R 103,250.00",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Mission Point,Free State,"Disinfection of KGI Building (Kroonstad) DSD
+Offices",7,m3,"1 2,0568",0,"R 96,496.00",R 0.00,R 0.00,96496,"R 96,496.00",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Modise Khanye Investment Industries,Free State,"Disinfection of Thabo Mofutsanyana SCC
+(Qwaqwa)",7.5,m3,"7 ,963",0,"R 59,722.50",R 0.00,R 0.00,59722.5,"R 59,722.50",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Modise Khanye Investment Industries,Free State,Disinfection of Thabo Makwane (Qwaqwa),7.5,m3,"2 ,245",0,"R 16,837.50",R 0.00,R 0.00,16837.5,"R 16,837.50",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Mission Point,Free State,"Disinfection of Standard Bank Building DSD
+Offices",7.5,m3,"3 ,050",0,"R 22,875.00",R 0.00,R 0.00,22875,"R 22,875.00",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Mission Point,Free State,"Disinfection of Winkie Direko and One Stop
+Building DSD Offices",7.5,m3,"5 ,083",0,"R 38,122.50",R 0.00,R 0.00,38122.5,"R 38,122.50",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Lefatshe la Rona 421 Trading,Free State,Disinfection of Parys DSD Offices,7.5,m3,"3 ,088",0,"R 23,160.00",R 0.00,R 0.00,23160,"R 23,160.00",R 0.00
+Free State Department of Social Development,Free State,Jul-20,Lefatshe la Rona 421 Trading,Free State,"Disinfection of Cars (2) Parys and (11) Sasolburg
+DSD Offices",150,each,1 1,0,"R 3,450.00",R 0.00,R 0.00,3450,"R 3,450.00",R 0.00
+,,,,,,,,,0,,,R 0.00,0,,R 0.00
