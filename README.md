@@ -13,6 +13,7 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 - Examine the CSV, and make any adjustments:
   - DON'T fix any spelling mistakes or typos, these should match the original document as closely as possible.
   - DON'T remove the headings for the table.
+  - [DON'T remove total columns](https://github.com/South-Africa-Government-Procurement/data-extraction/issues/11#issuecomment-711157413)
   - DO remove any totals rows - we are interested in individual line items, not totals.
   - DO remove any empty lines that aren't needed.
   - DO make sure that everything that is in one row on the PDF is one row on the CSV (More info here)[https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076609]
