@@ -13,19 +13,19 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 - Examine the CSV, and make any adjustments:
   - DON'T fix any spelling mistakes or typos, these should match the original document as closely as possible.
   - DON'T remove the headings for the table.
-  - [DON'T remove total columns](https://github.com/South-Africa-Government-Procurement/data-extraction/issues/11#issuecomment-711157413)
+  - [DON'T remove total columns](https://github.com/keep-the-receipts/data-extraction/issues/11#issuecomment-711157413)
   - DO remove any totals rows - we are interested in individual line items, not totals.
   - DO remove any empty lines that aren't needed.
-  - DO make sure that everything that is in one row on the PDF is one row on the CSV [More info here](https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076609)
+  - DO make sure that everything that is in one row on the PDF is one row on the CSV [More info here](https://github.com/keep-the-receipts/Data-cleaning/issues/104#issuecomment-703076609)
 - Save the resulting CSV file, which you will use for creating the Pull Request. Use the same name as the source PDF file for the CSV (naturally replacing the .pdf extension with .csv).
-  - See the [correct folder layout for this repository](https://github.com/South-Africa-Government-Procurement/project-docs/wiki/Data-models-and-standards#file-locations).
+  - See the [correct folder layout for this repository](https://github.com/keep-the-receipts/project-docs/wiki/Data-models-and-standards#file-locations).
 - Raise a PR using the Github UI.
-  - Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. [See example](https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/127)
+  - Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. [See example](https://github.com/keep-the-receipts/Data-cleaning/pull/127)
 
 ## If you're already familiar with Git, some extra tips:
-- Fork https://github.com/South-Africa-Government-Procurement/data-extraction into your own account.
+- Fork the [data-extraction](https://github.com/keep-the-receipts/data-extraction) repository into your own account.
 - You can work in `master` or use branches - up to you.
-- The CSV files go into a folder structure matching the structure described here: https://github.com/South-Africa-Government-Procurement/project-docs/wiki/Data-models-and-standards#file-locations
+- The CSV files go into a [folder structure matching the structure on the  OCPO website/government](https://github.com/keep-the-receipts/project-docs/wiki/Data-models-and-standards#file-locations)
 - If you're not sure where a file should go - using the repository root is ok too - we'll move it later.
 - For commits of new files, you can use "[#ISSUE-NUMBER] Create + file name".
 - Raise a PR against the source repo, put a reference to the issue in the PR description so it will be linked.
@@ -49,10 +49,10 @@ If multiple output tables are required from a single source document, simply app
 
 ### What should I do if there are merged cells that should be split?
 
-Instructions for managing merged cells are here: https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/119#issuecomment-703073670
+Instructions for managing merged cells are here: https://github.com/keep-the-receipts/Data-cleaning/pull/119#issuecomment-703073670
 
 ### What should I do if Tabula splits cells that should be on a single row?
-Instructions for this are here: https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076352
+Instructions for this are here: https://github.com/keep-the-receipts/Data-cleaning/issues/104#issuecomment-703076352
 
 ### Should I do 'pass 2' of a file?
 
