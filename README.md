@@ -31,6 +31,12 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 
 ## F.A.Q.:
 
+### Which tables do we want?
+
+We only want the tables that tie a specific supplier to a specific _organ of state_ - a specific national or provincial department, municipality, or public entity.
+
+Summary tables that just show the total for each department, or is just a summary of a more granular table in the same document aren't needed - we just want the granular table.
+
 ### Should we put different tables into different CSVs?
 
 If the column headings are the same, they can be in one CSV, however the source table and related entity/ department should be identified within the table. If the column headings are different, they should be included as separate csv files. 
