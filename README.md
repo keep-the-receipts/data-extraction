@@ -11,6 +11,10 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 - Highlight/select the tables in Tabula, export to CSV.
 - Open the CSV files in a spreadsheet app (Excel / Google Sheets / LibreOffice)
 - Examine the CSV, and make any adjustments:
+  - There may only be one header row
+  - Each data row should represent one order with one supplier and one amount.
+    - If there's one amount with multiple suppliers, include all the suppliers in the supplier cell.
+    - If there's one supplier with multiple amounts, ensure there's a row for each amount, and repeat the supplier name and other repeatable columns for each row.
   - DON'T fix any spelling mistakes or typos, these should match the original document as closely as possible.
   - DON'T remove the headings for the table.
   - [DON'T remove total columns](https://github.com/keep-the-receipts/data-extraction/issues/11#issuecomment-711157413)
