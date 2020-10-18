@@ -16,11 +16,11 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
   - [DON'T remove total columns](https://github.com/keep-the-receipts/data-extraction/issues/11#issuecomment-711157413)
   - DO remove any totals rows - we are interested in individual line items, not totals.
   - DO remove any empty lines that aren't needed.
-  - DO make sure that everything that is in one row on the PDF is one row on the CSV [More info here](https://github.com/keep-the-receipts/Data-cleaning/issues/104#issuecomment-703076609)
+  - DO make sure that everything that is in one row on the PDF is one row on the CSV [More info here](https://github.com/keep-the-receipts/data-extraction/issues/104#issuecomment-703076609)
 - Save the resulting CSV file, which you will use for creating the Pull Request. Use the same name as the source PDF file for the CSV (naturally replacing the .pdf extension with .csv).
   - See the [correct folder layout for this repository](https://github.com/keep-the-receipts/project-docs/wiki/Data-models-and-standards#file-locations).
 - Raise a PR using the Github UI.
-  - Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. [See example](https://github.com/keep-the-receipts/Data-cleaning/pull/127)
+  - Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. [See example](https://github.com/keep-the-receipts/data-extraction/pull/127)
 
 ## If you're already familiar with Git, some extra tips:
 - Fork the [data-extraction](https://github.com/keep-the-receipts/data-extraction) repository into your own account.
@@ -49,10 +49,10 @@ If multiple output tables are required from a single source document, simply app
 
 ### What should I do if there are merged cells that should be split?
 
-Instructions for managing merged cells are here: https://github.com/keep-the-receipts/Data-cleaning/pull/119#issuecomment-703073670
+Instructions for managing merged cells are here: https://github.com/keep-the-receipts/data-extraction/pull/119#issuecomment-703073670
 
 ### What should I do if Tabula splits cells that should be on a single row?
-Instructions for this are here: https://github.com/keep-the-receipts/Data-cleaning/issues/104#issuecomment-703076352
+Instructions for this are here: https://github.com/keep-the-receipts/data-extraction/issues/104#issuecomment-703076352
 
 ### Should I do 'pass 2' of a file?
 
