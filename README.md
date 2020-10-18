@@ -5,7 +5,7 @@ For more info, join: http://join.keepthereceipts.org.za/
 or Slack, channel #keep-the-receipts on https://zatech.co.za/
 
 ## Basic steps to get started:
-- Download and install Tabula: https://tabula.technology/
+- Download and install [Tabula](https://tabula.technology/)
 - Download a copy of the PDF from the GitHub issue that you will be processing.
 - Load the PDF into Tabula.
 - Highlight/select the tables in Tabula, export to CSV.
@@ -16,14 +16,14 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
   - [DON'T remove total columns](https://github.com/South-Africa-Government-Procurement/data-extraction/issues/11#issuecomment-711157413)
   - DO remove any totals rows - we are interested in individual line items, not totals.
   - DO remove any empty lines that aren't needed.
-  - DO make sure that everything that is in one row on the PDF is one row on the CSV (More info here)[https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076609]
+  - DO make sure that everything that is in one row on the PDF is one row on the CSV [More info here](https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076609)
 - Save the resulting CSV file, which you will use for creating the Pull Request. Use the same name as the source PDF file for the CSV (naturally replacing the .pdf extension with .csv).
   - See the [correct folder layout for this repository](https://github.com/South-Africa-Government-Procurement/project-docs/wiki/Data-models-and-standards#file-locations).
 - Raise a PR using the Github UI.
-  - Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. See example https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/127
+  - Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. [See example](https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/127)
 
 ## If you're already familiar with Git, some extra tips:
-- Fork https://github.com/South-Africa-Government-Procurement/Data-cleaning into your own account.
+- Fork https://github.com/South-Africa-Government-Procurement/data-extraction into your own account.
 - You can work in `master` or use branches - up to you.
 - The CSV files go into a folder structure matching the structure described here: https://github.com/South-Africa-Government-Procurement/project-docs/wiki/Data-models-and-standards#file-locations
 - If you're not sure where a file should go - using the repository root is ok too - we'll move it later.
