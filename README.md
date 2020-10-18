@@ -12,6 +12,7 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
 - Open the CSV files in a spreadsheet app (Excel / Google Sheets / LibreOffice)
 - Examine the CSV, and make any adjustments:
   - [There may only be one header row](https://github.com/keep-the-receipts/data-extraction/pull/241#issuecomment-711163084)
+    - If the headings are all in one column, repeating for each contract/order, please transpose the data so that there is one heading row and then one data row per contract/order. See [example](https://github.com/keep-the-receipts/data-extraction/pull/128#issuecomment-703089873).
   - Each data row should represent one order with one supplier and one amount. (See FAQ for examples)
     - If there's one amount with multiple suppliers, include all the suppliers in the supplier cell.
     - If there's one supplier with multiple amounts, ensure there's a row for each amount, and repeat the supplier name and other repeatable columns for each row.
