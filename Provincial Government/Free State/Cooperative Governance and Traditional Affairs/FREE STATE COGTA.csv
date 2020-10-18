@@ -1,7 +1,4 @@
-DEPARTMENT,REPORTING PERIOD,NAME OF SERVICE PROVIDER (S),Business Location,ITEM DESCRIPTION,UNIT PRICE,"UNIT OF
-MEASUREMENT",QUANTITY,"TOTAL PRICE (ATTACHED
-BAS DISBURSEMENT PER
-PAYEED REPORT)","INDICATE AMOUNT TO BE
+implementation_location_province,buyer_name,REPORTING PERIOD,supplier_name,Business Location,items_description,cost_per_unit_zar,items_unit,items_quantity,payment_amount_zar,"INDICATE AMOUNT TO BE
 COMMITTED (PROCESS
 UNDERWAY) - LOGIS
 REPORT 102","COMMITTED BUT NOT YET
@@ -11,9 +8,7 @@ LOGIS REPORT 102","INDICATE AMOUNT
 RECEIVED AS ON
 INVOICE BUT NOT
 YET PAID - LOGIS
-REPORT 103","TOTAL EXP AND
-COMMITMENTS FOR THE
-DEPARTMENT","BREAKDOWN -
+REPORT 103",order_amount_zar,"BREAKDOWN -
 EXPENDITURE ON
 FREE STATE
 COMPANIES","BREAKDOWN -
@@ -27,55 +22,55 @@ MEANS PRODUCT WAS NOT TESTED","DID THE DEPARTMENT FULLY COMPLY TO
 NT INSTRUCTION NOTE NO. 08 OF 2019/2020
 FOR THE ITEM?
 INDICATE  ""YES"" OR ""NO""",
-COGTA,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,"Gloves (S, M, L) (Box of 100)",R316.80,,20,"R6,336.00",R 0.00,R 0.00,R 0.00,"R 6,336.00","R 6,336.00",,"NO- But Service Provider, provided the Department
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,"Gloves (S, M, L) (Box of 100)",316.8,,20,6336,R 0.00,R 0.00,R 0.00,6336,"R 6,336.00",,"NO- But Service Provider, provided the Department
 with a written conformation that, the items comply with
 Health and Safety standards.",Yes- Only on items on Transversal Contract,Items were not on Transversal Contract
-COGTA,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,500ml Wall Mounted Sanitizer Dispenser,"R2,848.00",,150,"R427,200.00",R 0.00,R 0.00,R 0.00,"R 427,200.00","R 427,200.00",,"NO- But Service Provider, provided the Department
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,500ml Wall Mounted Sanitizer Dispenser,2848,,150,427200,R 0.00,R 0.00,R 0.00,427200,"R 427,200.00",,"NO- But Service Provider, provided the Department
 with a written conformation that, the items comply with
 Health and Safety standards.",Yes- Only on items on Transversal Contract,Items were not on Transversal Contract
-COGTA,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,Wet Wipes,R51.10,,2000,"R102,200.00",R 0.00,R 0.00,R 0.00,"R 102,200.00","R 102,200.00",,"NO- But Service Provider, provided the Department
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,Wet Wipes,51.1,,2000,102200,R 0.00,R 0.00,R 0.00,102200,"R 102,200.00",,"NO- But Service Provider, provided the Department
 with a written conformation that, the items comply with
 Health and Safety standards.",Yes- Only on items on Transversal Contract,Items were not on Transversal Contract
-COGTA,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,Hand Sanitizer (60% Alcohol and above),R318.40,,100,"R31,840.00",R 0.00,R 0.00,R 0.00,"R 31,840.00","R 31,840.00",,"NO- But Service Provider, provided the Department
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,Hand Sanitizer (60% Alcohol and above),318.4,,100,31840,R 0.00,R 0.00,R 0.00,31840,"R 31,840.00",,"NO- But Service Provider, provided the Department
 with a written conformation that, the items comply with
 Health and Safety standards.",Yes- Only on items on Transversal Contract,Items were not on Transversal Contract
-COGTA,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,Liquid Soap,R307.20,,50,"R15,360.00",R 0.00,R 0.00,R 0.00,"R 15,360.00","R 15,360.00",,"NO- But Service Provider, provided the Department
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,March 2020 (COVID-19),ONTHA AND THABS ENTERPRISE,Free State,Liquid Soap,307.2,,50,15360,R 0.00,R 0.00,R 0.00,15360,"R 15,360.00",,"NO- But Service Provider, provided the Department
 with a written conformation that, the items comply with
 Health and Safety standards.",Yes- Only on items on Transversal Contract,Items were not on Transversal Contract
-COGTA,March 2020 (COVID-19),LHT Trading,Free State,"Gloves (S, M, L) (30 Box of 100) (Additional)",R300.00,,30,"R9,000.00",R 0.00,R 0.00,R 0.00,"R 9,000.00","R 9,000.00",,"NO- But Service Provider, provided the Department
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,March 2020 (COVID-19),LHT Trading,Free State,"Gloves (S, M, L) (30 Box of 100) (Additional)",300,,30,9000,R 0.00,R 0.00,R 0.00,9000,"R 9,000.00",,"NO- But Service Provider, provided the Department
 with a written conformation that, the items comply with
 Health and Safety standards.","Yes ( E-mails {request send to SP on TC } and
 responses from Service Providers on Transversal
 contract are available if needed)","Service Providers on Transversal Contract, were
 requested to provide the Department with
 quotations but could not and were urgrntly needed"
-COGTA,March 2020 (COVID-19),LHT Trading,Free State,Musk NP95  (Additional),"R7,500.00",,30,"R225,000.00",R 0.00,R 0.00,R 0.00,"R 225,000.00","R 225,000.00",,"NO- But Service Provider, provided the Department
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,March 2020 (COVID-19),LHT Trading,Free State,Musk NP95  (Additional),7500,,30,225000,R 0.00,R 0.00,R 0.00,225000,"R 225,000.00",,"NO- But Service Provider, provided the Department
 with a written conformation that, the items comply with
 Health and Safety standards.","Yes ( E-mails {request send to SP on TC } and
 responses from Service Providers on Transversal
 contract are available if needed)","Service Providers on Transversal Contract, were
 requested to provide the Department with
 quotations but could not and were urgrntly needed"
-COGTA,March 2020 (COVID-19),LHT Trading,Free State,Hand Sanitizer 5L (Additional),R700.00,,100,"R70,000.00",R 0.00,R 0.00,R 0.00,"R 70,000.00","R 70,000.00",,"NO- But Service Provider, provided the Department
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,March 2020 (COVID-19),LHT Trading,Free State,Hand Sanitizer 5L (Additional),700,,100,70000,R 0.00,R 0.00,R 0.00,70000,"R 70,000.00",,"NO- But Service Provider, provided the Department
 with a written conformation that, the items comply with
 Health and Safety standards.","Yes ( E-mails {request send to SP on TC } and
 responses from Service Providers on Transversal
 contract are available if needed)","Service Providers on Transversal Contract, were
 requested to provide the Department with
 quotations but could not and were urgrntly needed"
-COGTA,17/04/20 TO 16/05/20,SETSHABELO,Free State,Catering,"R2,086.68",,45,"R93,900.60",R 0.00,R 0.00,R 0.00,"R 93,900.60","R 93,900.60",,,,Catering Service not on Transversal contract
-COGTA,May,49 Ninety Trading,Free State,"Powder Coated Gas Patio Heater and Gas bottles-Procured
-for Provincial Joint Operation Centre (PROV JOC) meetings.","R10,385.00",,4,"R41,540.00",R 0.00,R 0.00,R 0.00,"R 41,540.00","R 41,540.00",,N/A,Items not on Transversal Contract,Items not on Transversal Contract
-COGTA,18-23/05/20,Masutsa,Free State,Catering,R541.92,six days,45,"R24,386.40",R 0.00,R 0.00,R 0.00,"R 24,386.40","R 24,386.40",,N/A,Items not on Transversal Contract,
-COGTA,25-30/05/20,Nolwazi,Free State,Catering,R451.61,six days,30,"R13,548.30",R 0.00,R 0.00,R 0.00,"R 13,548.30","R 13,548.30",,N/A,Items not on Transversal Contract,
-COGTA,May,Easy Gas,Free State,Refull of Gas for Gas heaters,R225.00,,4,R900.00,R 0.00,R 0.00,R 0.00,R 900.00,R 900.00,,N/A,Items not on Transversal Contract,
-COGTA,June,Matsetshi General Dealer,Free State,"Installation of Hand soap, hand sanitizers dispensors","R1,342.77",,26,,"R34,912.02",R 0.00,R 0.00,"R 34,912.02","R 34,912.02",,N/A,Items not on Transversal Contract,Items not on Transversal Contract
-COGTA,June,Easy Gas,Free State,Refull of Gas for Gas heaters,R 205.00,,4,R820.00,R 0.00,R 0.00,R 0.00,R 820.00,R 820.00,,N/A,Items not on Transversal Contract,Items not on Transversal Contract
-COGTA,01-06/06/20,MASICENDANE,Free State,Catering,R451.60,six days,30,"R13,548.00",R 0.00,R 0.00,R 0.00,"R 13,548.00","R 13,548.00",,N/A,Items not on Transversal Contract,"Catering for Prof Jog meeting held at OR Tambo
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,17/04/20 TO 16/05/20,SETSHABELO,Free State,Catering,2086.68,,45,93900.6,R 0.00,R 0.00,R 0.00,93900.6,"R 93,900.60",,,,Catering Service not on Transversal contract
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,May,49 Ninety Trading,Free State,"Powder Coated Gas Patio Heater and Gas bottles-Procured
+for Provincial Joint Operation Centre (PROV JOC) meetings.",10385,,4,41540,R 0.00,R 0.00,R 0.00,41540,"R 41,540.00",,N/A,Items not on Transversal Contract,Items not on Transversal Contract
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,18-23/05/20,Masutsa,Free State,Catering,541.92,six days,45,24386.4,R 0.00,R 0.00,R 0.00,24386.4,"R 24,386.40",,N/A,Items not on Transversal Contract,
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,25-30/05/20,Nolwazi,Free State,Catering,451.61,six days,30,13548.3,R 0.00,R 0.00,R 0.00,13548.3,"R 13,548.30",,N/A,Items not on Transversal Contract,
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,May,Easy Gas,Free State,Refull of Gas for Gas heaters,225,,4,900,R 0.00,R 0.00,R 0.00,900,R 900.00,,N/A,Items not on Transversal Contract,
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,June,Matsetshi General Dealer,Free State,"Installation of Hand soap, hand sanitizers dispensors",1342.77,,26,,"R34,912.02",R 0.00,R 0.00,34912.02,"R 34,912.02",,N/A,Items not on Transversal Contract,Items not on Transversal Contract
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,June,Easy Gas,Free State,Refull of Gas for Gas heaters,205,,4,820,R 0.00,R 0.00,R 0.00,820,R 820.00,,N/A,Items not on Transversal Contract,Items not on Transversal Contract
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,01-06/06/20,MASICENDANE,Free State,Catering,451.6,six days,30,13548,R 0.00,R 0.00,R 0.00,13548,"R 13,548.00",,N/A,Items not on Transversal Contract,"Catering for Prof Jog meeting held at OR Tambo
 and Ten 111 Offices."
-COGTA,08-13/06/20,K-LA-K,Free State,Catering,R485.24,six days,30,"R14,557.20",R 0.00,R 0.00,R 0.00,"R 14,557.20","R 14,557.20",,N/A,Items not on Transversal Contract,"Catering for Prof Jog meeting held at OR Tambo
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,08-13/06/20,K-LA-K,Free State,Catering,485.24,six days,30,14557.2,R 0.00,R 0.00,R 0.00,14557.2,"R 14,557.20",,N/A,Items not on Transversal Contract,"Catering for Prof Jog meeting held at OR Tambo
 and Ten 111 Offices."
-COGTA,15-20/06/20,MASICENDANE,Free State,Catering,R451.61,six days,30,"R13,548.30",R 0.00,R 0.00,R 0.00,"R 13,548.30","R 13,548.30",,N/A,Items not on Transversal Contract,"Catering for Prof Jog meeting held at OR Tambo
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,15-20/06/20,MASICENDANE,Free State,Catering,451.61,six days,30,13548.3,R 0.00,R 0.00,R 0.00,13548.3,"R 13,548.30",,N/A,Items not on Transversal Contract,"Catering for Prof Jog meeting held at OR Tambo
 and Ten 111 Offices."
-COGTA,22-27/06/20,SETSHABELO,Free State,Catering,R498.20,six days,30,"R14,946.00",R 0.00,R 0.00,R 0.00,"R 14,946.00","R 14,946.00",,N/A,Items not on Transversal Contract,"Catering for Prof Jog meeting held at OR Tambo
+Free State,Free State Department of Cooperative Governance and Traditional Affairs,22-27/06/20,SETSHABELO,Free State,Catering,498.2,six days,30,14946,R 0.00,R 0.00,R 0.00,14946,"R 14,946.00",,N/A,Items not on Transversal Contract,"Catering for Prof Jog meeting held at OR Tambo
 and Ten 111 Offices."
