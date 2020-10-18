@@ -16,7 +16,7 @@ or Slack, channel #keep-the-receipts on https://zatech.co.za/
   - [DON'T remove total columns](https://github.com/keep-the-receipts/data-extraction/issues/11#issuecomment-711157413)
   - DO remove any totals rows - we are interested in individual line items, not totals.
   - DO remove any empty lines that aren't needed.
-  - DO make sure that everything that is in one row on the PDF is one row on the CSV [More info here](https://github.com/keep-the-receipts/data-extraction/issues/104#issuecomment-703076609)
+  - DO make sure that everything that is in one row or columns on the PDF is one row or column on the CSV [More info here](https://github.com/keep-the-receipts/data-extraction/issues/104#issuecomment-703076609)
 - Save the resulting CSV file, which you will use for creating the Pull Request. Use the same name as the source PDF file for the CSV (naturally replacing the .pdf extension with .csv).
   - See the [correct folder layout for this repository](https://github.com/keep-the-receipts/project-docs/wiki/Data-models-and-standards#file-locations).
 - Raise a PR using the Github UI.
