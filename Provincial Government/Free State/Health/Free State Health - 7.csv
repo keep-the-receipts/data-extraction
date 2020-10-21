@@ -1,0 +1,73 @@
+,"Item
+Number",Item Description,Quantity,Contract/Quotation,AWARDED BIDDER,"REVISED LATEST ADJUSTED
+PRICE (15% VAT)","Date letter
+issued","DELIVERY
+PERIOD MIN
+(DAYS)","DELIVERY
+PERIOD
+MAX
+(DAYS)","Date for delivery
+MIN","Date for delivery
+MAX",Creation of order,"Purchase
+order",Payment,Status of Delivery
+Q,,Bed,"1,000",Quotation,Specification done,"ZAR                       2,000,000.00",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Quotation process complete. Awaiting HOD approval
+D,rt24-2026,Mattress,"1,000",RT24-2017,Arjo - Riaan 0738236015/Kay 07114839,"2ZAR                       1,065,302.50",9-Jul-20,,,9-Jul-20,9-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,42272501-,Monitor,50,RT2-2016,Echomed CJ 0793426254,"ZAR                          762,049.50",10-Jul-20,28,35,7-Aug-20,14-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,41112501-,double flow meter,500,RT2-2016,Echomed CJ 0793426254,"ZAR                          304,475.00",10-Jul-20,28,42,7-Aug-20,21-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,DOH(FS)25/,blanket,"1,333",DOH(FS)25/18/19,Kaofela Mpho 0792357935,"ZAR                            8 0,000.00",9-Jul-20,,,9-Jul-20,9-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,DOH(FS)25/,sheet,"4,000",DOH(FS)25/18/20,Kaofela Mpho 0792357935,"ZAR                          666,600.00",9-Jul-20,,,9-Jul-20,9-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+Q,,pillow,"1,000",Quotation,Specification done,"ZAR                            9 5,000.00",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Quotation process complete. Awaiting HOD approval
+D,DOH(FS)25/,pillow cases,"4,000",DOH(FS)25/18/20,Kaofela Mpho 0792357935,"ZAR                            8 0,000.00",9-Jul-20,,,9-Jul-20,9-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT2-2016,Humidifier,"1,000",RT2-2016,East Coast Medical Charles 086 100 042,"ZAR                          310,500.00",9-Jul-20,,,9-Jul-20,9-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-10-,drip stand,500,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                          280,000.00",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,"RT24-11-
+009",shield/screen,100,RT24-2017,Hospital Equipment Gladys 011-894-426,"ZAR                          277,224.00",,42,70,11-Feb-00,10-Mar-00,On delivery,t done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August
+D,RT24-12-,emergency trolly,20,RT24-2017,Siyakhanda Cindy - 0437362996,"ZAR                          336,486.75",9-Jul-20,70,98,17-Sep-20,15-Oct-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+R,RT4,laryngoscope,22,RT4,Unicore-0829297446,"ZAR                            3 7,397.11",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Awaiting quotation rom company
+R,,Defibrillator/AED/ECG,20,RT2,Be safe Gavin 0217884681,"ZAR                          752,430.96",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Awaiting quotation rom company
+D,RT24-04-,medicine trolly,25,RT24-2017,Siyakhanda Cindy - 0437362996,"ZAR                          408,624.40",9-Jul-20,70,98,17-Sep-20,15-Oct-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT2424-02-,table over the bed,"1,111",RT24-2017,Arjo - Riaan 0738236015/Kay,"ZAR                       2,327,724.98",10-Jul-20,100,100,18-Oct-20,18-Oct-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,4227101-,oxygen cylinders,33,RT4-2017,Echomed CJ 0793426254,"ZAR                            4 3,768.23",10-Jul-20,28,42,7-Aug-20,21-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,42171801-,Mobile Suction,20,RT2-2016,Echomed CJ 0793426254,"ZAR                          122,655.00",10-Jul-20,42,56,21-Aug-20,4-Sep-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,,Stethoscopes,50,RT4-2017,Selective Decision 0117915754,"ZAR                              1,353.50",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August
+D,41111931-,Lighting with battery,3,RT2-2016,Sanbonani Holdings 0824136617,"ZAR                          100,767.75",10-Jul-20,35,35,14-Aug-20,14-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT2-45,Medications Fridge,3,RT2-2016,Minus 40 Duncan 0213862290,"ZAR                          179,342.95",10-Jul-20,14,,24-Jul-20,10-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-08-005,Scale,10,RT24-2017,Delta Surgical Ashley,"ZAR                            5 4,606.50",10-Jul-20,,,10-Jul-20,10-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+R,RT2-44,Wheel chairs and stretcher trolleys,20,RT2-2016,CE Mobility phindi phindi@cemobility.c,".zZaAR                              6
+,740.38",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Awaiting quotation rom company
+R,,Commodes/bedpans,100,RT24-2017,Safarmex Felicity0119740429,"ZAR                            1 1,231.00",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Awaiting quotation rom company
+D,RT24-12-,Body Trolley,20,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                          155,733.20",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-03-,bedpan stand,67,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                          217,071.96",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,4227201-,INTUBATION VIDEO LARYNGOSCOPE,2,RT2-2016,SSEM Jannie 0833795943,"ZAR                          304,290.33",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August
+Q,,Hemocue - Hb Meter - for each ward,30,Quotation,,"ZAR                            1 5,000.00",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Quotation process complete. Awaiting HOD approval
+D,DOH(FS)29/,Glucometer- for each ward,100,DOH(FS)29/18/19,Khalienyane Trading Tshepiso - 0737544,"9Z2AR                            1 8,750.00",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August
+D,42181701-,12 lead ECG machine,20,RT2-2016,Echomed CJ 0793426254,"ZAR                          559,676.60",10-Jul-20,28,35,7-Aug-20,14-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,42292404-,SYRINGE DRIVER,100,RT4-2017,Echomed CJ 0793426254,"ZAR                          563,500.00",10-Jul-20,28,35,7-Aug-20,14-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,42231501-,infusion pump,"1,000",RT2-2016,Echomed CJ 0793426254,"ZAR                       7,512,050.00",10-Jul-20,35,42,14-Aug-20,21-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+Q,,WARMER,10,Quotation,,"ZAR                          100,000.00",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,End user requested that process be on hold till further notice
+,,Matress protector,"2,000",Contract,Email sent to Kennedy Blue from Blue,"ZAR                       1,500,000.00",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Awaiting quotation from company
+D,RT24-09-,Roller-boards for patient transfer,10,RT24-2017,Delta Surgical Ashley,"ZAR                            4 0,367.00",10-Jul-20,,,10-Jul-20,10-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,41102407-,Fluid warmer for IV fluids (“oven”),10,RT2-2016,Class three Medical,"ZAR                          818,358.17",9-Jul-20,14,21,23-Jul-20,30-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+,,Wall suction units with filters and tubing,,Contract,East Coast Medical Charles 086 100 042,ZAR                                        -,,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Awaiting quotation from company
+D,RT24-12-,Dressing trolleys,33,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                            6 3,541.17",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+,,Air mattresses,30,RT24-,Arjo - Riaan 0738236015/Kay 07114839,"2ZAR                          173,586.90",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Awaiting quotation from company
+D,RT24-04-006,"CaEbinet, poisoning, Wall type",6,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                            20,220.42",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-07-001,"LoEcker, bedside, mild steel","1,000",RT24-2017,New Horizon metals CC 031 5647380,"ZAR                       2,049,450.00",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+,RT24-04-007,"Overbed table, cantilever type","1,111",RT24-2017,Hospi Furn (PTY) ltd,"ZAR                       1,666,500.00",,,,0-Jan-00,0-Jan-00,On delivery,t done,Pending,Awaiting quotation from company
+D,RT24-11-003,"StEool, Foot, Double Step",33,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                            28,779.63",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-12-009,"TrEolley, medical dressing",33,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                            39,057.81",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-12-030,"Carrier, soiled linen, with receptacle",100,RT24-,Hospital Equipment Gladys 011-894-426,"ZAR                          119,018.00",,42,70,11-Feb-00,10-Mar-00,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-12-031,"Receptacle, soiled linen, polyester",100,RT24-2017,Hospital Equipment Gladys 011-894-426,"ZAR                            44,345.00",,42,70,11-Feb-00,10-Mar-00,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-12-029,"TrEolley, utility,",33,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                          135,674.88",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT2-43,Vaccine Refrigerator (290-350l),3,RT2-2016,Minus 40 Duncan 0213862290,"ZAR                          179,342.95",10-Jul-20,14,,24-Jul-20,10-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT2-44,Single glass door fridge,3,RT2-2016,Minus 40 Duncan 0213862290,"ZAR                          124,320.00",10-Jul-20,14,,24-Jul-20,10-Jul-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+D,RT24-11-003,"StEool, Foot, Double Step",33,RT24-2017,New Horizon metals CC 031 5647380,"ZAR                            28,779.63",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On delivery,t done,Pending,File awaiting budget for purchase order to be generated
+Q,,high Flow,160,Quotation,RCA angelique 0834119690,"ZAR                     15,846,042.46",,42,84,11-Feb-00,24-Mar-00,On delivery,t done,Pending,End user requested that process be on hold till further notice
+D,42281508-0,0a0e2rogen,50,RT2-2016,RCA angelique 0834119690,"ZAR                          845,853.75",10-Jul-20,28,45,,24-Aug-20,,,,File awaiting budget for purchase order to be generated
+D,RT-2 / 2016,Acessories ventilator,50,RT2-2016,RCA angelique 0834119690,"ZAR                       2,145,616.40",,28,45,28-Jan-00,14-Feb-00,On delivery,t done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August
+Q,,Microwave,10,Quotation,,"ZAR                              7,500.00",,,,,,,,,End user requested that process be on hold till further notice
+Q,,Kettle,30,Quotation,,"ZAR                              3,000.00",,,,,,,,,End user requested that process be on hold till further notice
+Q,,Clocks,30,Quotation,,"ZAR                              1,950.00",,,,,,,,,End user requested that process be on hold till further notice
+Q,,pens,150,Quotation,,"ZAR                              1,500.00",,,,,,,,,End user requested that process be on hold till further notice
+Q,,hand held finger sats monitor for doctors rounds,"1,000",Quotation,,"ZAR                            2 0,000.00",,,,,,,,,End user requested that process be on hold till further notice
+D,42181716-00041,Monitor ECG sats temp and spo2,160,RT2-2016,Echomed CJ 0793426254,"ZAR 2,765,260.80",10-Jul-20,28,35,7-Aug-20,14-Aug-20,On delivery,Not done,Pending,File awaiting budget for purchase order to be generated 
