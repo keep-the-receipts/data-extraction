@@ -5,31 +5,44 @@ For more info, join: http://join.keepthereceipts.org.za/
 or Slack, channel #keep-the-receipts on https://zatech.co.za/
 
 ## Basic steps to get started:
-- Download and install Tabula: https://tabula.technology/
+- Download and install [Tabula](https://tabula.technology/)
 - Download a copy of the PDF from the GitHub issue that you will be processing.
 - Load the PDF into Tabula.
 - Highlight/select the tables in Tabula, export to CSV.
 - Open the CSV files in a spreadsheet app (Excel / Google Sheets / LibreOffice)
 - Examine the CSV, and make any adjustments:
+  - [There may only be one header row](https://github.com/keep-the-receipts/data-extraction/pull/241#issuecomment-711163084)
+    - If the headings are all in one column, repeating for each contract/order, please transpose the data so that there is one heading row and then one data row per contract/order. See [example](https://github.com/keep-the-receipts/data-extraction/pull/128#issuecomment-703089873).
+  - Each data row should represent one order with one supplier and one amount. (See FAQ for examples)
+    - If there's one amount with multiple suppliers, include all the suppliers in the supplier cell.
+    - If there's one supplier with multiple amounts, ensure there's a row for each amount, and repeat the supplier name and other repeatable columns for each row.
   - DON'T fix any spelling mistakes or typos, these should match the original document as closely as possible.
   - DON'T remove the headings for the table.
+  - [DON'T remove total columns](https://github.com/keep-the-receipts/data-extraction/issues/11#issuecomment-711157413)
   - DO remove any totals rows - we are interested in individual line items, not totals.
   - DO remove any empty lines that aren't needed.
-  - DO make sure that everything that is in one row on the PDF is one row on the CSV (More info here)[https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076609]
+  - DO make sure that everything that is in one row or columns on the PDF is one row or column on the CSV [More info here](https://github.com/keep-the-receipts/data-extraction/issues/104#issuecomment-703076609)
 - Save the resulting CSV file, which you will use for creating the Pull Request. Use the same name as the source PDF file for the CSV (naturally replacing the .pdf extension with .csv).
+  - See the [correct folder layout for this repository](https://github.com/keep-the-receipts/project-docs/wiki/Data-models-and-standards#file-locations).
 - Raise a PR using the Github UI.
-  - Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. See example https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/127
+  - Include a screenshot of the table in the PDF and the CSV table in Excel/Calc/Google Sheets - that makes it a lot easier for us to spot issues quickly and discuss. [See example](https://github.com/keep-the-receipts/data-extraction/pull/127)
 
 ## If you're already familiar with Git, some extra tips:
-- Fork https://github.com/South-Africa-Government-Procurement/Data-cleaning into your own account.
+- Fork the [data-extraction](https://github.com/keep-the-receipts/data-extraction) repository into your own account.
 - You can work in `master` or use branches - up to you.
-- The CSV files go into a folder structure matching the structure described here: https://github.com/South-Africa-Government-Procurement/project-docs/wiki/Data-models-and-standards#file-locations
+- The CSV files go into a [folder structure matching the structure on the  OCPO website/government](https://github.com/keep-the-receipts/project-docs/wiki/Data-models-and-standards#file-locations)
 - If you're not sure where a file should go - using the repository root is ok too - we'll move it later.
 - For commits of new files, you can use "[#ISSUE-NUMBER] Create + file name".
 - Raise a PR against the source repo, put a reference to the issue in the PR description so it will be linked.
 
 
 ## F.A.Q.:
+
+### Which tables do we want?
+
+We only want the tables that tie a specific supplier to a specific _organ of state_ - a specific national or provincial department, municipality, or public entity.
+
+Summary tables that just show the total for each department, or is just a summary of a more granular table in the same document aren't needed - we just want the granular table.
 
 ### Should we put different tables into different CSVs?
 
@@ -41,10 +54,13 @@ If multiple output tables are required from a single source document, simply app
 
 ### What should I do if there are merged cells that should be split?
 
-Instructions for managing merged cells are here: https://github.com/South-Africa-Government-Procurement/Data-cleaning/pull/119#issuecomment-703073670
+Instructions for managing merged cells are here: 
+
+- https://github.com/keep-the-receipts/data-extraction/pull/119#issuecomment-703073670
+- https://github.com/keep-the-receipts/data-extraction/issues/11#issuecomment-711159899
 
 ### What should I do if Tabula splits cells that should be on a single row?
-Instructions for this are here: https://github.com/South-Africa-Government-Procurement/Data-cleaning/issues/104#issuecomment-703076352
+Instructions for this are here: https://github.com/keep-the-receipts/data-extraction/issues/104#issuecomment-703076352
 
 ### Should I do 'pass 2' of a file?
 
@@ -70,5 +86,6 @@ If you wanna try download the bash script and run it on the PDF yourself, here i
 _You will need to open the original PDF file to do comparisons/spot-checks_
 
 - Does it capture all the data? (or is there another file or pull request for other tables, e.g. when it's different column headings in the different tables)
-- Is the data in the correct column? Sometimes some rows are shifted and not aligned with the respective heading.
+- Is the data in the correct column? [Sometimes some rows are shifted and not aligned with the respective heading.](https://github.com/keep-the-receipts/data-extraction/issues/11#issuecomment-711158964)
 - Is each "record" - one supplier, one buyer, one order amount - in one row? Sometimes tabula splits multiline cells into multiple rows - these must be single rows (with multiple lines as in the PDF table) in the CSV.
+- A merged pull request should represent a complete PDF. If it doesn't, but we want to merge it to make progress, ensure a clear task is created for the remainder of the work.
