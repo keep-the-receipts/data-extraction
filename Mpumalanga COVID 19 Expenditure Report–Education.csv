@@ -1,11 +1,11 @@
 Masibone Trading Enterprise,,,,,,,,,
-,,,,,,,,,
-SupplMier NaDme OE,IteOm DVescrIipDtion-19 EXPEND,TPayUment Quantity,"LEast Unitof
+Supplier Name,Item Description,"Payment
+Quantity","Least Unit of
 Measure","Average Unit
-Price","DTate  of ApplicAableS NT
-Price",T 31 JPaUymeLntY am o2unt020,,,
-,,,,,,,,,
-Order date,Amount,VAT,TOTAL,,,,,,
+Price","Date of
+Applicable NT
+Price",Payment amount,Payment amount,Payment amount,
+,,,,,Order date,Amount,VAT,TOTAL,
 CliniPro Pty Ltd,Face Shields,"43,000",Each,32.00,May-20,"1,376,000.00","206,400.00","1,582,400.00",
 CliniPro Pty Ltd,Paper Towel Dispenser,"44,800",Roll,483.30,May-20,"21,652,032.64","3,247,804.90","24,899,837.54",
 CliniPro Pty Ltd,"Liquid Soap Auto Dispensers (Hand Santitiser
@@ -35,19 +35,8 @@ Lwandilelwazi Trading,Three layer face cloth masks,"11,300",Each,25.00,Jun-20,"2
 Prjects",Three layer face cloth masks,"5,581",Each,24.99,Jun-20,"139,469.19",-,"139,469.19",
 Siswa Trading and Projects,Three layer face cloth masks,"17,860",Each,25.00,Jun-20,"446,500.00",-,"446,500.00",
 Masibone Trading Enterprise,Three layer face cloth masks,"23,920",Each,24.00,Jun-20,"574,080.00",-,"574,080.00",
-,,,,,,,,,
-The G,eat Warthog Pty,Three layer face cloth masks,"7,973",Each,24.66,Jun-20,"196,614.18",-,"196,614.18"
+The Great Warthog Pty,Three layer face cloth masks,"7,973",Each,24.66,Jun-20,"196,614.18",-,"196,614.18",
 Nedtex 413,Three layer face cloth masks,"15,946",Each,25.00,Jun-20,"398,650.00",-,"398,650.00",
-,,,,,,,,,
-MDOE COVID-19 EXPENDITURE REPORT AS AT 31 JULY 2020,,,,,,,,,
-Supplier Name,Item Description,"Payment
-Quantity","Last Unit
-of
-Measure","Average Unit
-Price","Date of
-Applicable NT
-Price",Payment amount,,,
-Order date,Amount,VAT,TOTAL,,,,,,
 Indlela Trading and Projects,Three layer face cloth masks,"15,946",Each,25.00,Jun-20,"398,650.00",-,"398,650.00",
 "Greatlinking Management
 Service",Three layer face cloth masks,"31,893",Each,24.99,Jun-20,"797,006.07",-,"797,006.07",
@@ -62,5 +51,5 @@ Madlela Holdings,Three layer face cloth masks,"12,545",Each,25.00,Jun-20,"313,62
 Mzungwa Trading,Three layer face cloth masks,"22,810",Each,25.00,Jun-20,"570,250.00",-,"570,250.00",
 KNK Developers,Three layer face cloth masks,"22,810",Each,25.00,Jun-20,"570,250.00",-,"570,250.00",
 Imperial Logistics,Surgical Gloves,"1,000",Box,120.00,20-May-20,"120,000.00","18,000.00","138,000.00",
-,,,,,,,,,
-0,"96,375,280.69",,,,,,,,
+,,,,,,-,-,0.00,
+0,0,0,0,0,0,"96,375,280.69","96,375,280.69","96,375,280.69",
