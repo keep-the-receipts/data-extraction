@@ -1,24 +1,20 @@
-Date of procurement,Items Procured including quantities per item ,Procurement process/ method followed ( prescripts)e.g. Practice Note 3 of 2016/17 OR Practice Note 5 of 2020/21,"Name of entity
-",Entity directors/owners ,Date of first registration of the entity with CIPC, unit cost for each item ,Total Transaction,"Date of delivery of goods 
+Date of procurement,Items Procured including quantities per item ,procurement_method,"Name of entity
+",director_names_and_surnames,Date of first registration of the entity with CIPC, cost_per_unit_zar,Total Transaction,"Date of delivery of goods 
 ","Indicate if the company registration includes supply of PPE as a service that they render 
 "
 2020-10-09,350 x Digital Pen Thermometers,Procurement via quotations (DOH365/2019- 2020),"Unicore Holdings 
 
-",Zahira Hansa Uranbileg Dashzeveg,2011-01-07,1010.79,353527.82,"Two partial deliveries on 2020-04-16 and 2020-04-17","Yes Medical facility products and Mobile medical services products. 
+","Zahira Hansa, Uranbileg Dashzeveg",2011-01-07,1010.79,353527.82,"Two partial deliveries on 2020-04-16 and 2020-04-17","Yes Medical facility products and Mobile medical services products. 
 "
 2020-03-27,8 x fixed thermal scanner machines for ports of entry,Tender process (NDOH59a&b/2019-2020),"Yellow Technical Services 
-","Jacobus Johannes Botes 
-Tjaard Brookryk 
-Antonio Joaqum Moreira  Mora April Seshoka  ",2013-12-12,80020.05,11975018.39,Two partial deliveries on 2020-06-30 and 2020-07-29,"Yes Supply of measuring, observing and testing instruments and passive discrete components. 
+","Jacobus Johannes Botes , Tjaard Brookryk, Antonio Joaqum Moreira,  Mora April Seshoka  ",2013-12-12,80020.05,11975018.39,Two partial deliveries on 2020-06-30 and 2020-07-29,"Yes Supply of measuring, observing and testing instruments and passive discrete components. 
 "
 ,91 x handheld scanners for ports of entry,Tender process (NDOH59a&b/2019-2020),"Yellow Technical Services 
-","Jacobus Johannes Botes 
-Tjaard Brookryk 
-Antonio Joaqum Moreira  Mora April Seshoka  ",2013-12-12,404914.59,11975018.39,Two partial deliveries on 2020-06-30 and 2020-07-29,"Yes Supply of measuring, observing and testing instruments and passive discrete components. 
+","Jacobus Johannes Botes , Tjaard Brookryk, Antonio Joaqum Moreira,  Mora April Seshoka  ",2013-12-12,404914.59,11975018.39,Two partial deliveries on 2020-06-30 and 2020-07-29,"Yes Supply of measuring, observing and testing instruments and passive discrete components. 
 "
 2020-04-07,30000 x Surgical Masks,Transversal tender RT296- 08-271,"Biologica Pharmaceuticals 
 
-",Nondumiso Yvonne Helen Mzizana (Owner) Company registration date,2013-04-19,26.65,799500.00,"Three partial deliveries on 2020-04-20, 2020-05-06 and 2020-05-12","Yes Human health and social work activities 
+",Nondumiso Yvonne Helen Mzizana (Owner),2013-04-19,26.65,799500.00,"Three partial deliveries on 2020-04-20, 2020-05-06 and 2020-05-12","Yes Human health and social work activities 
 "
 2020-05-06 and 2020-05-08,3400 x face cloth masks with NDoH logo,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020",Tammy Taylor Nails SA Holdings,Melany Juanita Viljoen,2012-05-25,57.50,195500.00,Two deliveries on 2020-05-06 and 2020-05-12,"Yes Wholesale and retail trade 
 "
@@ -34,10 +30,10 @@ Antonio Joaqum Moreira  Mora April Seshoka  ",2013-12-12,404914.59,11975018.
 2020-05-09,15 x Face shields,One quote quotation as per SCM procedures for amounts up to R2000.00,"Sciprofs 
 ",Mbongiseni Erick Ndlangamandla,2016-10-01,65.55,983.25,2020-05-26,"Doesn’t seem like it. Manufacturing of electronic equipment; Professional, scientific and technical activities. 
 "
-2020-03-18,"7000 x 500ml Hand Sanitizers for use by NDoH staff, ports of entry, security points and Forensic Chemistry Laboratories",Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael  Alfreda Elizabeth le Roux  Joseph Lionel Morris  David Sepel  Rubin Gabriel Norwitz ",2012-03-22,14.44 for Steriprep 16.41 for Sterisol,107975.00,"Several partial deliveries 2020-03-26, 2020-03-27, 2020-04-08","Yes Manufacturing of pharmaceutical products 
+2020-03-18,"7000 x 500ml Hand Sanitizers for use by NDoH staff, ports of entry, security points and Forensic Chemistry Laboratories",Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael,Alfreda Elizabeth le Roux,Joseph Lionel Morris,David Sepel,Rubin Gabriel Norwitz ",2012-03-22,14.44 for Steriprep 16.41 for Sterisol,107975.00,"Several partial deliveries 2020-03-26, 2020-03-27, 2020-04-08","Yes Manufacturing of pharmaceutical products 
 "
 2020-04-07,"60000 x 500ml Hand Sanitizers 
-11340 units still to be delivered",Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael  Alfreda Elizabeth le Roux  Joseph Lionel Morris  David Sepel  Rubin Gabriel Norwitz ",2012-03-22,16.41,984600.00,"48660 items delivered by 2020-05-13. 
+11340 units still to be delivered",Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael,Alfreda Elizabeth le Roux,Joseph Lionel Morris,David Sepel,Rubin Gabriel Norwitz ",2012-03-22,16.41,984600.00,"48660 items delivered by 2020-05-13. 
 11340 items still to be delivered","Yes Manufacturing of pharmaceutical products 
 "
 2020-03-26,92 x 400ml,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020",Libera ,Evert Philipus Bruwer ,2003-10-24,63.94,132298.53,2020-04 (user cannot recall exact date),"CSD registration shows services to buildings and landscape buildings. 
@@ -48,49 +44,49 @@ Antonio Joaqum Moreira  Mora April Seshoka  ",2013-12-12,404914.59,11975018.
 "
 2020-03-26,500 x 500l,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020",Libera ,Evert Philipus Bruwer ,2003-10-24,236.59,132298.53,2020-04 (user cannot recall exact date),"CSD registration shows services to buildings and landscape buildings. 
 "
-2020-04-21,100000 x Hand Sanitizers 500ml,Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael  Alfreda Elizabeth le Roux  Joseph Lionel Morris  David Sepel  Rubin Gabriel Norwitz ",2012-03-22,16.58,1658000.00,"Partial deliveries on 2020-06-24 and 2020-06-29 totalling to 6740 items. 
+2020-04-21,100000 x Hand Sanitizers 500ml,Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael,Alfreda Elizabeth le Roux,Joseph Lionel Morris,David Sepel,Rubin Gabriel Norwitz ",2012-03-22,16.58,1658000.00,"Partial deliveries on 2020-06-24 and 2020-06-29 totalling to 6740 items. 
 93260 items still to be delivered","Yes Manufacturing of pharmaceutical products 
 "
-2020-05-12,200 x Hand Sanitizers for FCL: Durban,Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael  Alfreda Elizabeth le Roux  Joseph Lionel Morris  David Sepel  Rubin Gabriel Norwitz ",2012-03-22,18.33,3666.00,2020-07-06,"Yes Manufacturing of pharmaceutical products 
+2020-05-12,200 x Hand Sanitizers for FCL: Durban,Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael,Alfreda Elizabeth le Roux,Joseph Lionel Morris,David Sepel,Rubin Gabriel Norwitz ",2012-03-22,18.33,3666.00,2020-07-06,"Yes Manufacturing of pharmaceutical products 
 "
-2020-05-08,200 x Hand Sanitizers for FCL: Cape Town,Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael  Alfreda Elizabeth le Roux  Joseph Lionel Morris  David Sepel  Rubin Gabriel Norwitz ",2012-03-22,18.33,3666.00,2020-06-05,"Yes Manufacturing of pharmaceutical products 
+2020-05-08,200 x Hand Sanitizers for FCL: Cape Town,Transversal tender RT300- 2017,"BARRS Pharmaceuticals  ","Graham George Feltham Michael,Alfreda Elizabeth le Roux,Joseph Lionel Morris,David Sepel,Rubin Gabriel Norwitz ",2012-03-22,18.33,3666.00,2020-06-05,"Yes Manufacturing of pharmaceutical products 
 "
 2020-05-06,10000 x Hand Sanitizers,Transversal tender RT300- 2017,"BARRS Pharmaceuticals 
-","Graham George Feltham Michael  Alfreda Elizabeth le Roux  Joseph Lionel Morris  David Sepel  Rubin Gabriel Norwitz ",2012-03-22,16.41,164100.00,2020-05-13,"Yes Manufacturing of pharmaceutical products 
+","Graham George Feltham Michael,Alfreda Elizabeth le Roux,Joseph Lionel Morris,David Sepel,Rubin Gabriel Norwitz ",2012-03-22,16.41,164100.00,2020-05-13,"Yes Manufacturing of pharmaceutical products 
 "
 2020-03-05,2000 x Shoe covers high heel,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,144.90,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,144.90,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,2000 x Overalls,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,196.00,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,196.00,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,12000 x Gloves High Risk,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,1.43,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,1.43,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,12000 x Latex Gloves,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,0.62,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,0.62,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,3000 x Aprons,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,0.46,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,0.46,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,3500 x Face masks FFP2 Masks,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,0.46,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,0.46,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,25025 x N95 masks,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,14.20,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,14.20,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,2000 x Googles,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,20.67,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,20.67,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,8000 x Powder free gloves,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,22.43,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,22.43,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,20 x Clean Wipes,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,0.84,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,0.84,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,360 x 500 ml Hand Sanitizer,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,60.95,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,60.95,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
 2020-03-05,1000 x 200 ml Hand Sanitizer,"Emergency procurement approval National Treasury Instruction no 08 of 2019/2020","Mr First Aid Pty Ltd 
-","Catherine Dorothy Goldin  Roy Frank Goldin  Jason Roy Goldin  In IT Together ",1990-12-20,67.85,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
+","Catherine Dorothy Goldin,Roy Frank Goldin,Jason Roy Goldin,In IT Together ",1990-12-20,67.85,1343952.75,2020-03-25,"Yes Wholesale and retail trade 
 "
