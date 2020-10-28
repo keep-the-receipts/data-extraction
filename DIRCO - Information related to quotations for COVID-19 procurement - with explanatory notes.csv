@@ -1,32 +1,31 @@
-Name of the Business,Company,Amount,Goods,Date of,Procurement
-,Registration,,,,
-,Number,,Purchased (PPEs procured),Procurement,Processes
+Name of the Business,Company Registration Number ,Amount,Goods Purchased (PPEs procured) ,Date of Procurement ,Procurement Processes followed 
 ,,,,,
-,,,,,followed
 ,,,,,
-1.1  Lechoba Medical,2005/044442/07,121502.10,Hand Sanitizers,,Request for
-Technologies,,,,,Quotation
-,,,,26/03/2020,
-1.2  NJU Projects &,2018/297547/07,63000.00,Body Temperature Thermal Cameras,,Request for
-General Trading,,,,,Quotation
 ,,,,,
-,,,,08/06/2020,
-1.3  Flamingo Moon,2004/020790/07,23460.00,Face Masks,,Request for
-Trading,,,,13/05/2020,Quotation
-1.4  Esizwe Group,2003/084491/23,5088.00,Comfort Face Shields,,Request for
-,,,,20/05/2020,Quotation
-1.5 Fortistle,2018/472346/07,48875.00,Face Masks,,Request for
-,,,,28/05/2020,Quotation
-1.6 Tara Healthcare,2019/237077/07,22450.00,Gloves,,Request for
-,,,,27/07/2020,Quotation
-1.7 Ayanda,2016/347219/07,22500.00,Comfort Face Shields,,Request for
-Multiserve,,,,11/06/2020,Quotation
-1.8 Yellotec,2013/231556/07,2591.88,Body Temperature Thermal Cameras,,Request for
-,,,,,Quotation
 ,,,,,
-,,,,23/07/2020,
-1.9 Motlokwa &,2016/219919/07,1100.00,Spray Bottles (empty),,Request for
-Farm Holdings,,,,,Quotation
-,,,,11/06/2020,
-1.10 Multisurge,2014/170364/07,13800.00,Disinfection Chemical,,Request for
-,,,,04/06/2020,Quotation
+,,,,,
+1.1  Lechoba Medical Technologies ,2005/044442/07,121502.10,Hand Sanitizers,26/03/2020,Request for Quotation
+,,,,,
+,,,,,
+1.2  NJU Projects & General Trading ,2018/297547/07,63000.00,Body Temperature Thermal Cameras,08/06/2020,Request for Quotation
+,,,,,
+,,,,,
+,,,,,
+1.3  Flamingo Moon Trading ,2004/020790/07,23460.00,Face Masks,13/05/2020,Request for Quotation
+,,,,,
+1.4  Esizwe Group,2003/084491/23,5088.00,Comfort Face Shields,20/05/2020,Request for Quotation
+,,,,,
+1.5 Fortistle,2018/472346/07,48875.00,Face Masks,28/05/2020,Request for Quotation
+,,,,,
+1.6 Tara Healthcare,2019/237077/07,22450.00,Gloves,27/07/2020,Request for Quotation
+,,,,,
+1.7 Ayanda Multiserve ,2016/347219/07,22500.00,Comfort Face Shields,11/06/2020,Request for Quotation
+,,,,,
+1.8 Yellotec,2013/231556/07,2591.88,Body Temperature Thermal Cameras,23/07/2020,Request for Quotation
+,,,,,
+,,,,,
+,,,,,
+1.9 Motlokwa & Farm Holdings ,2016/219919/07,1100.00,Spray Bottles (empty),11/06/2020,Request for Quotation
+,,,,,
+,,,,,
+1.10 Multisurge,2014/170364/07,13800.00,Disinfection Chemical,04/06/2020,Request for Quotation
