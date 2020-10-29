@@ -1,7 +1,6 @@
-buyer_name,"RFQ Reference
- Number",Business Unit,"Was normal
+buyer_name,order_number,implementation_location_facility,"Was normal
  SCM process
- followed?",Supplier Legal Name,central_supplier_database_number,Enterprise Type,bbbee_status_level,"Ethnic Group
+ followed?",supplier_name,central_supplier_database_number,Enterprise Type,bbbee_status_level,"Ethnic Group
  >51%","Black Woman
  Ownership
  >51%","Black Youth
