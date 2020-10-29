@@ -1,0 +1,275 @@
+implementation_location_facility,invoice_date,supplier_name,items_description,cost_per_unit_zar,items_quantity,Quantities,order_amount_zar,"Branding other than
+ Supplier Name that
+ appeared on items"
+ DDPP Bhisho,2020-04-15,Abacus Supply Chain Solutions (PTY) Ltd,5L Handsanitiser with 70% Alcohol,6.00,475,475,3277.5,None
+ DDPP Bhisho,2020-04-16,Heinen Uniforms & Ebroider Studio,Face Masks,17.39,130,130,2599.95,None
+ DDPP Durban,2020-03-19,AIG INTERNATIONAL,SANITIZERS,100.00,18,18,2070,None
+ DDPP Durban,2020-04-02,SERVICE ROYALE HYGIENE SPECIALISTS KZN,MASKS,25.00,200,200,5750,None
+ DDPP Durban,2020-04-14,SERVICE ROYALE HYGIENE SPECIALISTS KZN,MASKS,25.00,90,90,2587.5,None
+ DDPP Durban,2020-04-16,DISCHEM,GLOVES,119.95,,6 BOXES,720.70,None
+ DDPP Durban,2020-04-19,DISCHEM,GLOVES,119.95,,7 BOXES,854.60,None
+ DDPP Port Elizabeth,2020-03-24,Antonroland Enterprises,Hand Sprayer bottles 5 lit,242.18,11,11x 5 lit,1210.9,None
+ DDPP Port Elizabeth,2020-04-15,Conticare,Gloves,1100,,5 boxes,5500,None
+ DDPP Port Elizabeth,2020-05-18,Saniti ZA,Sanitaz Units,650.00,8,8,5200.00,None
+ DDPP Port Elizabeth,2020-06-10,WB Metal Design,Foot Operated Saniter Stands,550.00,6,6,2700.00,none
+ DPP BISHO,2020-04-01,Decontimination of offices,Decontamination,,,,9200.00,None
+ DPP BISHO,2020-05-01,Decontimination of offices,Decontamination,,,,9700.00,None
+ DPP BISHO,2020-05-01,Decontimination of offices,Decontamination,,,,2700.00,None
+ DPP BISHO,2020-07-01,Decontimination of offices,Decontamination,,,,18400.00,None
+ DPP Bloemfontein,2020-03-31,Adcoc Ingram,Sanitizer 500ml,65.88,54,54 x 500ml,3557.52,None
+ DPP Bloemfontein,2020-04-14,the inspired bunny,Re-usable masks,40.00,120,120,4800.00,None
+ DPP Bloemfontein,2020-05-19,SHIFT CONSULTING,RE-USABLE FACE MASKS -  BLOEMFONTEIN,,,,12700.00,None
+ DPP Bloemfontein,2020-05-25,ARISING VISONARIES,SANITIZERS x 254 - DPP BLOEMFONTEIN,,,,77470.00,None
+ DPP Cape Town,2020-05-19,DESIGN26 FOUNDATION,RE-USABLE FACE MASKS - DPP CAPE TOWN,,,,25806.00,None
+ DPP Cape Town,2020-05-19,KHACHANI ENTERPRISE,FACE SHIELDS x 500,,,,11300.00,None
+ DPP Cape Town,2020-05-26,REROX,SANITIZERS x 528 - CAPE TOWN,,,,144883.20,None
+ DPP CAPE TOWN,2020-05-01,Decontimination of offices,Decontamination,0,,0,3455.94,None
+ DPP CAPE TOWN,2020-07-01,Decontimination of offices,Decontamination,0,,0,3455.94,None
+ DPP DURBAN,2020-05-01,Decontimination of offices,Decontamination,0,,0,3482.96,None
+ DPP DURBAN,2020-06-01,Decontimination of offices,Decontamination,0,,0,3482.96,None
+ DPP DURBAN,2020-07-01,Decontimination of offices,Decontamination,0,,0,3482.96,None
+ DPP Grahamstown,2020-04-15,Abacus supply chain solutions,Handsanitizer,475.00,,6 x 5l,2850.00,None
+ DPP Grahamstown,2020-04-15,Mustard seed,Handsanitizer,404.10,,2 x 2l,808.20,None
+ DPP Grahamstown,2020-04-15,Heinen Embroidery,Face Masks,20.00,81,81,1620.00,None
+ DPP Grahamstown,2020-05-18,A D MEDICAL,FACE SHIELDS x 600,,,,16491.00,None
+ DPP Grahamstown,2020-05-19,CAPE BUSINESS AND ENGINEERING COLLEGE,RE-USABLE FACE MASKS - EASTERN CAPE,,,,15884.00,None
+ DPP Grahamstown,2020-05-25,TRIPLEM SERVIC,SANITIZERS x 361 - EASTERN CAPE OFFICE,,,,86683.32,None
+ DPP Grahamstown,2020-09-04,Heinen Embroidery,Face Masks,20.00,10,10,200.00,None
+ DPP GRAHAMSTOWN,2020-04-01,Decontimination of offices,Decontamination,0,,0,1120.00,None
+ DPP GRAHAMSTOWN,2020-05-01,Decontimination of offices,Decontamination,0,,0,450.00,None
+ DPP GRAHAMSTOWN,2020-06-01,Decontimination of offices,Decontamination,0,,0,1000,None
+ DPP Johannesburg,2020-09-03,Reggae Products,Hand sanitisers,21.00,92,92,1932,None
+ DPP Johannesburg,2020-03-18,Muluila Supermarket,Hand sanitisers,110.00,31,31,3410,None
+ DPP Johannesburg,2020-03-19,China shop,Gloves,60.00,4,4,240.00,None
+ DPP Johannesburg,2020-03-24,Gzwivhuya group,Hand sanitisers,4000.00,1,1,"4,000.00",None
+ DPP Johannesburg,2020-04-20,Walkerville Pharmacy,Face masks,30.00,100,100,3000.00,None
+ DPP Johannesburg,2020-04-21,PPE Pharma Supplies,Face masks,20.00,300,300,6000.00,None
+ DPP Johannesburg,2020-05-20,FLAMINGO MOON TRADING 146,RE-USABLE FACE MASKS - JHB,,,,19927.20,None
+ DPP Johannesburg,2020-05-25,CHANTEL CONSORTIUM,SANITIZERS x 456 - DPP JHB,,,,118560.00,None
+ DPP JOHANNESBURG,2020-01-04,Decontimination of offices,Decontamination,0,,0,45895.05,None
+ DPP JOHANNESBURG,2020-01-05,Decontimination of offices,Decontamination,0,,0,45895.05,None
+ DPP JOHANNESBURG,2020-01-06,Decontimination of offices,Decontamination,0,,0,112595.05,None
+ DPP JOHANNESBURG,2020-01-07,Decontimination of offices,Decontamination,0,,0,112595.05,None
+ DPP KIMBERLEY,2020-01-06,Decontimination of offices,Decontamination,0,,0,8902.75,None
+ DPP KIMBERLEY,2020-01-07,Decontimination of offices,Decontamination,0,,0,16845.53,None
+ DPP Kimberley,2020-05-21,THE EYE NORTHERN CAPE,RE-USABLE FACE MASKS - KIMBERLY,,,,7100.00,None
+ DPP Kimberley,2020-05-25,AMBITIOUSD ENTERPRISE,SANITIZERS x 142 - DPP KIMBERLEY,,,,43310.00,None
+ DPP Limpopo,2020-03-20,CHARMERS,LH GKOVES BLUE BOX,100.00,2,2,200.00,None
+ DPP Limpopo,2020-03-20,CHARMERS,LH GKOVES BLUE BOX,100.00,2,2,200.00,None
+ DPP Limpopo,2020-03-20,OSBRO CASH & CARRY (PTY) LTD PLK,BACKET AND LID 20L,32.00,1,1,32.00,None
+ DPP Limpopo,2020-03-20,OSBRO CASH & CARRY (PTY) LTD PLK,MEASURING JUG 600ML,19.00,1,1,19.00,None
+ DPP Limpopo,2020-03-20,OSBRO CASH & CARRY (PTY) LTD PLK,BACKET AND LID 2.5L,8.50,1,1,8.50,None
+ DPP Limpopo,2020-03-20,CLICKS PHARMACY POLOKWANE,FIRST AID MASK,10.99,4,4,43.96,None
+ DPP Limpopo,2020-03-20,CITY HAWKERS POLOKWANE,DISHWASHER 2L,19.99,1,1,19.99,None
+ DPP Limpopo,2020-03-20,CITY HAWKERS POLOKWANE,DETTOL 250ML,45.00,1,1,45.00,None
+ DPP Limpopo,2020-03-20,CITY HAWKERS POLOKWANE,BLEACH 750ML,23.97,1,1,23.97,None
+ DPP Limpopo,2020-03-20,CITY HAWKERS POLOKWANE,SPRAY BOTTLE,13.99,2,2,27.98,None
+ DPP Limpopo,2020-03-20,CITY HAWKERS POLOKWANE,SPIRITS 750 ML KC,24.99,1,1,24.99,None
+ DPP Limpopo,2020-03-24,RAZA BROARDWAY SUPERMARKET,SAVLON ANTISEPIC 2LT,130.00,1,1,130.00,None
+ DPP Limpopo,2020-03-24,RAZA BROARDWAY SUPERMARKET,ANGEL SPIRITS 750ML,20.00,3,3,60.00,None
+ DPP Limpopo,2020-03-24,RAZA BROARDWAY SUPERMARKET,DETTOL 250ML,45.00,1,1,45.00,None
+ DPP Limpopo,2020-03-24,CHARMERS,LH GKOVES BLUE BOX,120.00,10,10,1200.00,None
+ DPP Limpopo,2020-03-24,OSBRO CASH & CARRY (PTY) LTD PLK,Spray bottles  50ml (CLEANING KIT),5.00,200,200,1000.00,None
+ DPP Limpopo,2020-03-24,CITY HAWKERS POLOKWANE,BLEACH 5L LIMI,19.99,2,2,39.98,None
+ DPP Limpopo,2020-03-24,CITY HAWKERS POLOKWANE,DISHWASHER 2L,19.99,1,1,19.99,None
+ DPP Limpopo,2020-03-24,CITY HAWKERS POLOKWANE,SPIRITS 750 ML KC,24.99,2,2,49.98,None
+ DPP Limpopo,2020-03-24,CITY HAWKERS POLOKWANE,DISHWASHER 5L,49.99,2,2,99.98,None
+ DPP Limpopo,2020-03-25,PICK N PAY,LARGE CARRIER BAG,0.60,3,3,1.80,None
+ DPP Limpopo,2020-03-25,RAZA BROARDWAY SUPERMARKET,SAVLON ANTISEPIC 2LT,130.00,3,3,390.00,None
+ DPP Limpopo,2020-03-25,RAZA BROARDWAY SUPERMARKET,ANGEL SPIRITS 750ML,20.00,2,2,40.00,None
+ DPP Limpopo,2020-03-25,RAZA BROARDWAY SUPERMARKET,JUMBO PLASTIC BENJI,2.00,1,1,2.00,None
+ DPP Limpopo,2020-03-25,CHARMERS,PLASTIC BAG,1.00,1,1,1.00,None
+ DPP Limpopo,2020-03-25,CHARMERS,SPRAY BOTTLE,6.00,2,2,120.00,None
+ DPP Limpopo,2020-03-25,CHARMERS,SPRAY BOTTLE,6.00,4,4,24.00,None
+ DPP Limpopo,2020-03-25,CHARMERS,PLASTIC BAG,1.00,1,1,1.00,None
+ DPP Limpopo,2020-03-25,PICK N PAY,SPIRIT VINEGAR WHITE,24.99,1,1,24.99,None
+ DPP Limpopo,2020-03-25,PICK N PAY,VINEGAR SPIRIT,17.99,1,1,17.99,None
+ DPP Limpopo,2020-03-25,PICK N PAY,DISHWASHER,99.99,2,2,199.98,None
+ DPP Limpopo,2020-03-25,PICK N PAY,THIN BLEACH LEMON,45.99,3,3,137.97,None
+ DPP Limpopo,2020-03-25,PICK N PAY,VINEGAR GRAPE,31.99,1,1,31.99,None
+ DPP Limpopo,2020-04-15,Mathosim Trimiming and Upholstery,reusable masks,52.00,120,120,6240,None
+ DPP Limpopo,2020-04-26,The Inspired Bunny,reusable masks,40.00,56,56,2240.00,None
+ DPP Limpopo,2020-04-28,The Inspired Bunny,reusable masks,40.00,100,100,4000.00,None
+ DPP Limpopo,2020-05-05,THE INSPIRED BUNNY,2 PLY REUSABLE MASK,40.00,56,56,2240.00,None
+ DPP Limpopo,2020-05-20,ZAUKHAKHATA TRADING AND PROJECTS,RE-USABLE FACE MASKS - LIMPOPO,,,,8352.00,None
+ DPP Limpopo,2020-05-25,ARK PRINTERS AND STATIONERS,SANITIZERS x 261  - DPP LIMPOPO,,,,79605.00,None
+ DPP Limpopo,2020-05-12,MATHOSIM TRIMIMING AND UPHOLSTERY,FACE SHIELD MASK,40.00,100,100,4000.00,None
+ DPP LIMPOPO,2020-01-06,Decontimination of offices,Decontamination,0,,0,14000.00,None
+ DPP Limpopo,2020-05-28,LUX CHEM,SANITIZA UNIT,650.00,2,2,1300.00,None
+ DPP Limpopo,2020-05-28,LUX CHEM,COURIER CHARGE,350.00,2,2,700.00,None
+ DPP MMABATHO,2020-01-05,Decontimination of offices,Decontamination,0,,0,20840.33,None
+ DPP MMABATHO,2020-01-07,Decontimination of offices,Decontamination,0,,0,41680.66,None
+ DPP Mmabatho,2020-05-18,AFRICAN PONCHO,RE-USABLE FACE MASKS - DPP MMABATHO,,,,8250.00,None
+ DPP Mmabatho,2020-05-25,ENKAY TRADING,SANITIZERS x 165 - DPP MMABATHO,,,,44550.00,None
+ DPP Mmabatho,2020-08-06,PERMAX MANUFACTURING,TEMPERATURE SCANNERS x 6,,,,8400.00,None
+ DPP Mpumalanga,2020-03-24,Clicks Pharmacy,osh tropical whc 90ml,17.99,3,3,53.97,None
+ DPP Mpumalanga,2020-03-24,Clicks Pharmacy,osh wonder whc 90ml,17.99,6,6,107.94,None
+ DPP Mpumalanga,2020-03-24,Clicks Pharmacy,wl hand cleanser 90ml,19.99,6,6,119.94,None
+ DPP Mpumalanga,2020-03-24,Clicks Pharmacy,osh co pom whc 90ml,18.99,9,9,170.91,None
+ DPP Mpumalanga,2020-03-24,Clicks Pharmacy,osh hh w/l h/clrn 60ml,11.99,15,15,179.85,None
+ DPP Mpumalanga,2020-03-24,Clicks Pharmacy,osh helping hand 60ml,11.99,45,45,539.55,None
+ DPP Mpumalanga,2020-03-24,Michem Cleaning Supplies,plastic bottle 750ml,4.00,8,8,30.40,None
+ DPP Mpumalanga,2020-03-24,Michem Cleaning Supplies,trigger red,7.75,8,8,58.90,None
+ DPP Mpumalanga,2020-03-24,Michem Cleaning Supplies,Anti Bac Foam hand sanitizer,90.85,7,7,604.22,None
+ DPP Mpumalanga,2020-03-24,Michem Cleaning Supplies,Synbac,129.44,9,9,1106.71,None
+ DPP Mpumalanga,2020-03-24,Mopani Pharmacy,gloves nitrile p/f iltra,94.90,12,12,1138.80,None
+ DPP Mpumalanga,2020-03-25,Michem Cleaning Supplies,plastic bottle 750ml,6.13,8,8,46.99,None
+ DPP Mpumalanga,2020-03-25,Michem Cleaning Supplies,trigger white,7.75,8,8,58.90,None
+ DPP Mpumalanga,2020-03-25,Michem Cleaning Supplies,Anti Bac Foam hand sanitizer,90.86,6,6,517.90,None
+ DPP Mpumalanga,2020-03-31,Mopani Pharmacy,Aloe Unique Hand cleanser 100ml,32.90,20,20,658.00,None
+ DPP Mpumalanga,2020-03-31,SuperSpar Crossings,Twinsaver Hand wipes,29.99,15,15,449.85,None
+ DPP Mpumalanga,2020-01-04,Mopani Pharmacy,Aloe Unique Hand cleanser 100ml,32.90,15,15,493.50,None
+ DPP Mpumalanga,2020-01-04,Spar Courtside,Toilet Paper white 2p 18's,89.99,1,1,89.99,None
+ DPP Mpumalanga,2020-01-04,SuperSpar Crossings,Twinsaver Hand wipes,29.99,15,15,449.85,None
+ DPP Mpumalanga,2020-04-17,Sovereighty Kingdom,Cloth Face Masks,15.00,136,136,2040.00,None
+ DPP Mpumalanga,2020-04-19,Clicks Pharmacy,sanitizers,29.98,33,33,989.60,None
+ DPP Mpumalanga,2020-04-19,Sovereighty Kingdom,Cloth Face Masks,15.00,84,84,1060.00,None
+ DPP Mpumalanga,2020-04-19,Sovereighy Kingdom,Cloth face masks,15.00,220,220,3300.00,face masks
+ DPP Mpumalanga,2020-04-05,West Pack lifestyle,1.5l magic hand gel,89.90,14,14,1258.60,hand sanitizers
+ DPP Mpumalanga,2020-05-18,DIKARABO TRADING CO-OPERATIVE LIMITED,RE-USABLE FACE MASKS - MPUMALANGA,,,,8800.00,None
+ DPP Mpumalanga,2020-05-25,RINGANI GOODS AND SERVICES,SANITIZERS x 176 - DPP MPUMALANGA,,,,29920.00,None
+ DPP Mpumalanga,2020-02-06,Michem Cleaning Supplies,plastic bottle 750ml,4.50,8,8,36.00,plastic bottle 750ml
+ DPP Mpumalanga,2020-02-06,Michem Cleaning Supplies,trigger yellow,12.00,8,8,96.00,trigger yellow
+ DPP Mthatha,2020-03-04,Mdeira Pharmacy,Gloves,,,20 boxes,1417.60,None
+ DPP Mthatha,2020-08-04,Exclusive Brands Cleaning Products,Sanitisers,434.78,,2 x 5L,999.99,None
+ DPP Mthatha,2020-04-14,Taboola Textile,Facial mask,16.00,,160 masks,2560,None
+ DPP Mthatha,2020-04-15,Charlene Sanitizers,Sanitisers,500.00,,7 x 5L,3500.00,None
+ DPP Mthatha,2020-05-19,B T N N GENERAL TRADING,FACE SHIELDS x 100,,,,5000.00,None
+ DPP Mthatha,2020-05-20,SanitiZAEC,Pedal Handstands,650.00,2,2,1300.00,None
+ DPP Mthatha,2020-05-21,PHUMAPHAMBILI AGRICULTURE AND TEXTILE AND MULTI-PURPOSE CO-OPERATIVE LIMITED,RE-USABLE FACE MASKS - DPP MTHATHA,,,,7250.00,None
+ DPP Mthatha,2020-05-25,ONLYN BIZ ENTERPRISE,SANITIZERS x 145 - DPP MTHATHA,,,,49010.00,None
+ DPP Mthatha,2020-06-15,,Face masks,30.00,160,160,4800.00,None
+ DPP Mthatha,2020-06-15,,Face masks,30.00,160,160,4800.00,None
+ DPP North West,2020-04-02,Shoprite,Batteries for temperature scanner,39.90,4,4,39.90,None
+ DPP North West,2020-03-18,Tshoetso Entle General Trading,Sanitisers (1 L),237.50,21,21,4987.5,None
+ DPP North West,2020-03-19,Danie Meyer pharmacy,Sanitisers (Hand per 50 ml),16.00,212,212,3392,None
+ DPP North West,2020-03-25,Tshoetso Entle General Trading,Gloves - (Boxes of 100),175.00,3,3,525.00,None
+ DPP North West,2020-03-26,Qaphela Risk Innovation,Masks,9.50,780,780,7410.00,None
+ DPP North West,2020-02-04,NWK,Sanitizer (5L),611.80,1,1,611.80,None
+ DPP North West,2020-05-19,African Poncho,3 layer washable masks,25.00,300,300,7500.00,None
+ DPP North West,2020-06-09,Ikageleng Infrastructure Projects,Foot Operated Sanitisers stands,900.00,2,2,1800.00,None
+ DPP Pietermaritzburg,2020-03-19,Royal Phamarcy,Face mask,50.00,1,1,50.00,None
+ DPP Pietermaritzburg,2020-03-19,Royal Phamarcy,Latex gloves,75.00,6,6,450.00,None
+ DPP Pietermaritzburg,2020-03-19,Workwear Depot,Clear specs,29.00,4,4,116.00,None
+ DPP Pietermaritzburg,2020-03-22,Basix,330 ml spray bottle,15.00,10,10,150.00,None
+ DPP Pietermaritzburg,2020-03-22,Basix,21 L Pride clear storage box,63.00,3,3,189.00,None
+ DPP Pietermaritzburg,2020-03-22,Basix,750 ml spray bottle,10.00,20,20,200.00,None
+ DPP Pietermaritzburg,2020-03-22,Phoenix Cash & Carry,Latex gloves,79.99,5,5,399.95,None
+ DPP Pietermaritzburg,2020-03-22,Evolution Chemicals,20L Instant hand sanitizer,600.00,3,3,1800.00,None
+ DPP Pietermaritzburg,2020-08-04,Inspired Bunny,Reusable cloth mask,40.00,100,100,4000.00,None
+ DPP Pietermaritzburg,2020-08-04,Inspired Bunny,Reusable cloth mask,40.00,120,120,4800.00,None
+ DPP Pietermaritzburg,2020-04-23,Inspired Bunny,Reusable cloth mask,40.00,100,100,4000.00,None
+ DPP Pietermaritzburg,2020-04-28,Inspired Bunny,Reusable cloth mask,40.00,100,100,4000.00,None
+ DPP Pietermaritzburg,2020-04-29,Shelving & Mezzanine,Essential Screen 600hx600w,489.90,1,1,489.90,None
+ DPP Pietermaritzburg,2020-05-20,ZAKHANYA FITNESS,RE-USABLE FACE MASKS - DPP PIETERMARIZBURG AND DURBAN,,,,21420,None
+ DPP Pietermaritzburg,2020-05-25,ZAKHANYA FITNESS,Face cloth mask re-useable,18.00,288,288,5184.00,None
+ DPP Pietermaritzburg,2020-05-26,MBUYISA HOLDINGS,SANITIZERS x 595 - DPP PMB AND DURBAN,,,,177905.00,None
+ DPP Pietermaritzburg,2020-09-06,Inspired Bunny,Hand Sanitizer stands,699.00,2,2,1398.00,None
+ DPP Pietermaritzburg,2020-12-06,Mbuyisa Holdings (PTY) LTD,5l Hand Sanitizer,299.00,282,282,84318.00,None
+ DPP PORT ELIZABETH,2020-01-06,Decontimination of offices,Decontamination,,,0,3750.00,None
+ DPP Pretoria,2020-03-16,Reggae Products,Reggae Hand cleaner 300ml,21.00,95,95 Bottles,1995.00,None
+ DPP Pretoria,2020-03-17,Sweet Penny,Focus Nitri Gloves BL,130.00,,01 Box,130.00,None
+ DPP Pretoria,2020-03-18,Lynnwood Pharmacy,VIT Surgical Face Masks,22.95,,5PC X 6,137.70,None
+ DPP Pretoria,2020-03-26,Perfume Corner,reusable masks,30.00,,12 Packets,360.00,None
+ DPP Pretoria,2020-03-26,Perfume Corner,NatureX Hand Sanitizer,800.00,,3x 5litres,2400.00,None
+ DPP Pretoria,2020-03-26,Riz Trading,Face Masks Disposable,9.15,,10 Ea,91.50,None
+ DPP Pretoria,2020-03-26,Riz Trading,Face Masks Reusable,30.00,,55 Ea,1650.00,None
+ DPP Pretoria,2020-03-26,Riz Trading,Face Masks Disposable,9.15,,10 Ea,91.50,None
+ DPP Pretoria,2020-03-29,Dis Chem The Glen,Mask Dust FFP1,49.95,,30 Ea,1498.50,None
+ DPP Pretoria,2020-04-24,X CO Group,Vimbela Double Ply Plain Navy Masks,19.99,,400 Ea,9195.00,None
+ DPP Pretoria,2020-12-05,Pailesh PTY (LTD),2 Ply Facemasks,28.00,250,250,7000.00,None
+ DPP Pretoria,2020-05-18,FORTISTLE,RE-USABLE FACE MASKS - PRETORIA,,,,18485.10,None
+ DPP Pretoria,2020-05-26,OFFF,SANITIZERS x 423 - DPP PRETORIA,,,,125982.09,None
+ DPP Pretoria,2020-06-18,TN Glass & Alluminium,Sanitizer Foot Operating Stand,500,10,10,5000.00,None
+ DPP Western Cape,2020-03-19,M Distribution,hand sanitizer (200ml),75.00,12,12,900.00,None
+ DPP Western Cape,2020-03-19,M Distribution,Hand sanitizer (5 L),660.00,2,2,1320.00,None
+ DPP Western Cape,2020-03-19,Medi care Pharmacy,Disposable Gloves,138.95,5,5,694.75,None
+ DPP Western Cape,2020-03-19,Medi care Pharmacy,Disposable Gloves,95.94,10,10,959.40,None
+ DPP Western Cape,2020-03-24,AM Machine Shop,Steri Stand,419.16,6,6,2515.00,None
+ DPP Western Cape,2020-04-16,Oh Darling Standpoint,Reusable Cloth Facemasks,166.00,30,30,4980.00,None
+ DPP Western Cape,2020-04-16,Oh Darling Standpoint,Reusable Cloth Facemasks,300.00,30,30,9000.00,None
+ DPP Western Cape,2020-04-29,AK Manufacturing,Reusable Cloth Facemasks,10.00,800,800,8000.00,None
+ DPP Western Cape,2020-05-28,Oh Darling Standpoint,Hand Sanitizers,580.00,15,15,8700.00,None
+ DPP Western Cape,2020-05-18,Decontamination of offices,Decontamination,,,,16353.00,None
+ DPP Western Cape,2020-06-09,Decontamination of offices,Decontamination,,,,16353.00,None
+ DPP Western Cape,2020-06-29,Decontamination of offices,Decontamination,,,,16353.00,None
+ NPA Head Office,2020-03-23,The amount for services was R 49059.00 per decontamination.,GLOVES x 5 000 BOXES OF 100 - COVID-19,49.86,,5000 X Boxes of 100,249300.00,None
+ NPA Head Office,2020-03-24,TARA TECHNOLOGIES,CONTAINERS x 50 x 25LT,125.00,50,50,6250.00,None
+ NPA Head Office,2020-03-24,VITAL LIFE MEDICAL DISTRIBUTORS,SANITIZER - DETERGENT x 2000,40.37,2,2,80740.00,None
+ NPA Head Office,2020-03-24,LECHOBA MEDICAL TECHNOLOGIES,HAND SANITIZER x 5000 - 500ml,60.75,5,5,303750.00,None
+ NPA Head Office,2020-03-25,SHANEAL DISTRIBUTORS,SANITIZER - 23 x 5LT and 4600 X 100ML,177100.00,,"23 X5LT
+ 4600 X 100ML",177100.00,None
+ NPA Head Office,2020-04-14,ARJO HUNTLEIGH SOUTH AFRICA,SICK BEDS x 15,1565.30,15,15,23479.50,None
+ NPA Head Office,2020-04-20,Imperial Health Sciences,PPE - FACE SHIELDS,9.00,5,5,45000.00,None
+ NPA Head Office,2020-05-15,T M C TRADING,NON-CONTACT INFRARED THERMOMETERS,,9,,15192.45,None
+ NPA Head Office,2020-01-07,Decontimination of offices,Decontamination,0,,0,94522.40,None
+ NPA Head Office - AFF,2020-03-19,REBOSIS PROPERTY FUND,Sanitiser Liquid 5Lt,545.10,10,10,5451.00,None
+ NPA Head Office - AFF,2020-03-19,REBOSIS PROPERTY FUND,Latex gloves,1454.75,1,1,1454.75,None
+ NPA Head Office - AFF,2020-03-19,REBOSIS PROPERTY FUND,Latex gloves,1454.75,1,1,1454.75,None
+ NPA Head Office - AFF,2020-03-19,REBOSIS PROPERTY FUND,Sanitiser Spray Bottles - 100ml,49.45,900,900,44505.00,None
+ NPA Head Office - AFF,2020-03-25,REBOSIS PROPERTY FUND,Hand Sanitisers,177.10,5,5,885.50,None
+ NPA Head Office - AFF,2020-03-26,REBOSIS PROPERTY FUND,Sanitiser Sachets (100X2ml),431.25,37,37,15956.25,None
+ NPA Head Office - AFF,2020-01-04,REBOSIS PROPERTY FUND,Surface Disinfectant,34.50,500,500,17250.00,None
+ NPA Head Office - AFF,2020-01-04,REBOSIS PROPERTY FUND,Knapsack Sprayer Batery,2760.00,2,2,5520.00,None
+ NPA Head Office - AFF,2020-01-05,REBOSIS PROPERTY FUND,3 Ply Face Masks,40.25,600,600,24150.00,None
+ NPA Head Office - AFF,2020-07-05,REBOSIS PROPERTY FUND,Hand Sanitizer Station without bottle,782.00,10,10,7820.00,None
+ NPA Head Office - AFU,2020-03-23,Crystal Medical Supplies,Hand Sanitizer,30.00,25,25,750.00,None
+ NPA Head Office - AFU,2020-03-23,Crystal Medical Supplies,Liquid Soap,60.00,20,20,1200.00,None
+ NPA Head Office - SOCA,2020-05-19,ARISING VISONARIES,HAND SANITIZERS x 220,,,,23100.00,None
+ NPA Head Office (HR),2020-07-05,BAITSEKAGO PROJECTS,DIGITAL INFRARED NON-CONTACT THERMOMETER,,,,76500.00,None
+ NPA Head Office (HR),2020-05-19,EKHAYA INVESTMENTS,RE-USABLE FACE MASKS - GAUTENG - VGM,,,,62748.00,None
+ NPA Head Office (HR),2020-05-25,SINGULARITY TRADING COMPANY,SANITIZERS x 709 - VGM,,,,201356.00,None
+ OWP Eastern Cape,2020-03-18,DIS-CHEM PHAMARCY,Latex Gloves,3.50,24,24,84.00,None
+ OWP Eastern Cape,2020-03-18,DIS-CHEM PHAMARCY,Surgical Spirit,17.95,4,4,71.80,None
+ OWP Eastern Cape,2020-03-18,DIS-CHEM PHAMARCY,Wet Wipes,34.95,,2 packs,69.90,None
+ OWP Eastern Cape,2020-03-19,DASH DISTRIBUTORS,Hand Saniters,370.00,,20 x5L,7400.00,None
+ OWP Eastern Cape,2020-04-16,M F EMBROIDERY,Material Face Masks,22.00,62,62,1364.00,None
+ OWP Eastern Cape,2020-04-29,M F EMBROIDERY,Material Face Masks,22.00,85,85,1870.00,None
+ OWP Free State,2020-02-04,Dischem,EP004 Disposable Masks,50.00,60,60,2997.00,None
+ OWP Free State,2020-04-29,MI Touto,Masks - Re-usable,20.00,35,35,700.00,None
+ OWP Free State,2020-04-29,Ppppie Botha,Masks - Re-usable,20.00,26,26,520.00,None
+ OWP Gauteng,2020-03-17,TNT Pest control,Masks,17.00,400,400,6800.00,None
+ OWP Gauteng,2020-03-17,4M Chemicals,Hand Disinfectant 70% A,60.00,100,100,6000.00,None
+ OWP Gauteng,2020-03-17,4M Chemicals,Gloves,150.00,20,20,3000.00,None
+ OWP Gauteng,2020-03-17,4M Chemicals,Alcahol,,,,,None
+ OWP Gauteng,2020-03-17,4M Chemicals,Antibacterial Surface,,,,,None
+ OWP Gauteng,2020-03-17,4M Chemicals,cleaner 70% Alcohol,183.00,5,5,915.00,None
+ OWP Head Office,2020-11-05,SHANEAL DISTRIBUTORS,INFRARED NON-CONTACT THERMOMETERS,,,,63000,None
+ OWP Head Office,2020-09-06,ROYAL TREAT TRADING,RE-USABLE FACE MASKS x 2000,,,,45800.00,None
+ OWP Head Office,2020-12-06,BLENDED OAKS,FOOT PEDAL HAND SANITIZER STAND - FREE STATE OFFICE,,,,1043.80,None
+ OWP Head Office,2020-06-19,DJ MONTOYA TRADING AND PROJECTS,"MULTI SANITIZERS FOR AIR, HAND AND SURFACE",,,,37647.00,None
+ OWP Kwazulu Natal,2020-03-17,Mediquick Pharmacy,Masks,775.00,10,10,7750.00,None
+ OWP Kwazulu Natal,2020-03-17,Mediquick Pharmacy,Gloves - Medium,125.00,25,25,3125.00,None
+ OWP Kwazulu Natal,2020-03-17,Mediquick Pharmacy,Gloves - Large,135.00,25,25,3375.00,None
+ OWP Kwazulu Natal,2020-03-17,Mediquick Pharmacy,Hand Disinfectant,100.00,500,500,50000.00,None
+ OWP Kwazulu Natal,2020-03-19,Industro-Clean Natal,Spray bottles 400 x 250ml,28.75,400,400,11500.00,None
+ OWP Kwazulu Natal,2020-03-19,"Mediquick Pharmacy, Overport",Hand Sanitizer 1065 X 500ml bottles,1065.00,"1,065","1,065",106500.00,None
+ OWP Kwazulu Natal,2020-03-19,Mediquick Pharmacy,Hand Disinfectant,100.00,"1,065","1,065",106500.00,None
+ OWP Kwazulu Natal,2020-03-20,Industro Clean,Spray Bottles,28.75,400,400,11500.00,None
+ OWP Kwazulu Natal,2020-03-23,"Mediquick Pharmacy, Overport",Hand Sanitizer 1000 X 500ml bottles,100.00,1,1,100000.00,None
+ OWP Kwazulu Natal,2020-03-23,Mediquick Pharmacy,Hand Disinfectant,100.00,1,1,100000.00,None
+ OWP Kwazulu Natal,2020-05-20,Yaweh Civil & Gen,Face Mask - 3 Ply,38.00,114,114,4332.00,No Branding on item
+ OWP Limpopo,2020-03-20,Jumbo Cash and Carry,DETTOLS,32.20,60,60,1932.00,None
+ OWP Limpopo,2020-03-20,Jumbo Cash and Carry,SOAPS (LIFEBUOY),8.91,240,240,2138.40,None
+ OWP Limpopo,2020-03-20,Jumbo Cash and Carry,HAND WIPES,18.16,60,60,1090.80,None
+ OWP Limpopo,2020-03-20,Jumbo Cash and Carry,JIK,20.33,120,120,2439.60,None
+ OWP Limpopo,2020-03-20,Jumbo Cash and Carry,SUNLIGHT LIQUID,25.55,120,120,3066.00,None
+ OWP Limpopo,2020-03-20,HAWKERS CITY,GLOVES,45.00,10,10,450.00,None
+ OWP Limpopo,2020-03-20,HAWKERS CITY,MASKS,34.99,30,30,1049.70,None
+ OWP Limpopo,2020-03-20,HAWKERS CITY,SPRAY BOTTLES,19.99,20,20,399.80,None
+ OWP Limpopo,2020-03-20,HYCHEM,SPRAY BOTTLES,28.06,20,20,441.20,None
+ OWP Limpopo,2020-06-05,JILOMI EXPRESS PRINTERS CC,FACE MASKS,35.00,142,142,"4,900.00",NONE
+ OWP Mpumalanga,2020-03-17,MACARENA CASH AND CARRY,GLOVES EXAMINATION,100.00,3,3,340.00,None
+ OWP Mpumalanga,2020-03-18,OVERALL AND GENERAL,GLOVES EXAMINATION,172.50,7,7,1207.50,None
+ OWP Mpumalanga,2020-03-18,CASHBUILD,MASKS,69.95,4,4,279.80,None
+ OWP Nortern Cape,2020-04-01,Razaanah Toffar,Hand Sanitizers 5l,650.00,5,5 bottles,3250.00,None
+ OWP Nortern Cape,2020-03-18,Dis-Chem Kimberley Pharmacy,Hand Sanitizers,29.95,,6 bottles,179.70,None
+ OWP Nortern Cape,2020-03-18,Libra Pharmacy,A/Clin Gloves PWD 100 M,107.95,,2 boxes,215.90,None
+ OWP Nortern Cape,2020-03-18,Libra Pharmacy,A/Clin Gloves Nitrile Small,148.95,,1 box,148.95,None
+ OWP Nortern Cape,2020-03-25,ACL Supplies,Latex Gloves Powder Free,120.00,,10 boxes,1200.00,None
+ OWP Nortern Cape,2020-03-25,ACL Supplies,Surgical Face Masks,2000.00,,2 boxes,4000.00,None
+ OWP Nortern Cape,2020-03-25,ACL Supplies,Alcohol Hand Sanitizers 5l,780.00,20,20 bottles,15600.00,None
+ OWP Nortern Cape,2020-04-29,KC's Kimberley Clothing,Material Face Masks,25.00,42,42 masks,1050.00,None
+ OWP North West,2020-04-30,Pienk Pilletjies,Masks - re-useable,25.00,80,80,2000.00,None
+ OWP Western Cape,2020-09-04,AFRICAN BRANDS TRADING,3PLY SURGICAL FACE MASKS,28.00,200,200,5600.00,None
+ OWP Western Cape,2020-04-16,PICK AND PAY,CLOTH FACIAL MASKS,20.00,200,200,4000.00,None
