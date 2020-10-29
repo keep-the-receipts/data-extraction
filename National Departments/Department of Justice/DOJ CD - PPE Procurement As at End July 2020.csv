@@ -1,4 +1,4 @@
-Region / Office,invoice_date,supplier_name,items_description,cost_per_unit_zar,items_quantity,Quantities,order_amount_zar,"Branding other than
+implementation_location_facility,invoice_date,supplier_name,items_description,cost_per_unit_zar,items_quantity,Quantities,order_amount_zar,"Branding other than
  Supplier Name that
  appeared on items"
  DDPP Bhisho,2020-04-15,Abacus Supply Chain Solutions (PTY) Ltd,5L Handsanitiser with 70% Alcohol,6.00,475,475,3277.5,None
