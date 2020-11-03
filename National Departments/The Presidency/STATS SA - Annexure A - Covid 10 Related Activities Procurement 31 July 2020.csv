@@ -1,33 +1,33 @@
-buyer_name,order_number,procurement_method,ISO 8601 dates,supplier_name,company_registration_number,items_description,order_amount_zar
-The Presidency,A-312746,Emergency procurement through quotations,21/04/2020,Suskia Trading 1114 (PTY) Ltd,MAAA0081042,Sanitising  offices and vehicles NC,48994.60
-The Presidency,A-312747,Emergency procurement through quotations,21/04/2020,Rentokil Intital,MAAA0102243,Sanitising  offices and vehicles EC,52066.25
-The Presidency,A-312748,Emergency procurement through quotations,22/04/2020,Zululand Pest Control,MAAA0175067,Sanitising  offices Empangeni& Mhuze (KZN),16387.50
-The Presidency,A-312749,Emergency procurement through quotations,22/04/2020,Total Pest Management,MAAA0576609,"Sanitising  offices Ethekweni, Ugu & Ilembe( KZN)",25416.00
-The Presidency,A-312750,Emergency procurement through quotations,22/04/2020,Service Master,MAAA0260205,"Sanitising  offices Umzinyahti,Uthukela, Amajuba & Zululand( KZN)",5600.00
-The Presidency,A-312601,Emergency procurement through quotations,22/04/2020,"SWAT Exteminators ( Bug Off Pest
+buyer_name,order_number,procurement_method,invoice_date,supplier_name,company_registration_number,items_description,order_amount_zar
+The Presidency,A-312746,Emergency procurement through quotations,2020-04-21,Suskia Trading 1114 (PTY) Ltd,MAAA0081042,Sanitising  offices and vehicles NC,48994.6
+The Presidency,A-312747,Emergency procurement through quotations,2020-04-21,Rentokil Intital,MAAA0102243,Sanitising  offices and vehicles EC,52066.25
+The Presidency,A-312748,Emergency procurement through quotations,2020-04-22,Zululand Pest Control,MAAA0175067,Sanitising  offices Empangeni& Mhuze (KZN),16387.5
+The Presidency,A-312749,Emergency procurement through quotations,2020-04-22,Total Pest Management,MAAA0576609,"Sanitising  offices Ethekweni, Ugu & Ilembe( KZN)",25416
+The Presidency,A-312750,Emergency procurement through quotations,2020-04-22,Service Master,MAAA0260205,"Sanitising  offices Umzinyahti,Uthukela, Amajuba & Zululand( KZN)",5600
+The Presidency,A-312601,Emergency procurement through quotations,2020-04-22,"SWAT Exteminators ( Bug Off Pest
 Control)",MAAA0607020,Sanitising  offices Ixopo and Pietermaritzburg( KZN),13733.87
-The Presidency,A-312602,Emergency procurement through quotations,22/04/2020,Rentokil Intital,MAAA0102243,Sanitising  offices Limpopo,27082.50
-The Presidency,A-312603,Emergency procurement through quotations,24/04/2020,Sthewetha Trading,MAAA0464948,"Disinfection Benoni, Westrand, Sedibeng, Prov Office",142750.00
-The Presidency,A-312606,Emergency procurement through quotations,24/04/2020,Happy Endings Plumbers,MAAA0585432,Disinfecting: Mpumalanga Offices,67439.45
-The Presidency,A-312609,Emergency procurement through quotations,30/04/2020,Rentokil Initial,MAAA0102243,"Disinfection Mmabatho, Rustenburg, Mabopane, Klerksdorp and Vryburg",35777.00
-The Presidency,A-312611,Emergency procurement through quotations,30/04/2020,Rentokil initial,MAAA0102243,Disinfection Free State Province buildings and vehicles,37637.20
-The Presidency,A-312612,Emergency procurement through quotations,30/04/2020,Tikedi Holdings,MAAA0030777,Disinfection Piketberg Offices,27885.00
-The Presidency,A-312615,Emergency procurement through quotations,30/04/2020,Savage Wear Production,MAAA0654359,Disinfection George D/O,14990.00
-The Presidency,A-312616,Emergency procurement through quotations,30/04/2020,Think Smart Clean,MAAA0131428,"Disinfection Prov Office, Metro 1 and 2",22897.31
-The Presidency,A-312618,Emergency procurement through quotations,30/04/2020,Qeda Structual Pest Management,MAAA0589205,"Pest control, deep cleaning and disi nfecting KZN offices",14700.00
-The Presidency,A-312626,Emergency procurement through quotations,20/05/2020,The Specialists,MAAA0506984,Fogging PE Office and one vechile,2277.00
-The Presidency,A-312627,Emergency procurement through quotations,26/05/2020,Sthewetha Trading,MAAA0464948,Wash and Disinfecting Cars - Gauteng,23575.00
-The Presidency,A-312635,Emergency procurement through quotations,30/06/2020,Geozone Environmental,MAAA0599431,Air Quality Testing - Free State,13570.00
-The Presidency,A-312638,Emergency procurement through quotations,30/06/2020,Red Spot Hygiene & Cleaning,MAAA0546045,Disinfection - Klerksdorp Office,6269.19
-The Presidency,OR-066228,Emergency procurement through quotations,07/08/2020,Budget Pest Control,MAAA0113066,Fogging  Bisho Office,3848.39
-The Presidency,A-312653,Emergency procurement through quotations,08/04/2020,Zappit Fumigation & Pest Control,MAAA0021746,Fogging Kokstad Office,4851.00
-The Presidency,Direct with the service provider,Petty cash,03/09/2020,Hychem,Direct with the service provider,Surface Devence treatment x4,1840.00
-The Presidency,Direct with the service provider,Facities management PPP,03/09/2020,Dip FM,Direct with the service provider,Access Cards x2000,88377.50
-The Presidency,Direct with the service provider,Facities management PPP,17/04/2020,Servest,Direct with the service provider,Sanitation of Isibalo house,192173.05
-The Presidency,Direct with the service provider,Facities management PPP,05/11/2020,Servest,Direct with the service provider,Sanitation of Isibalo house (wing 2 and common areas),14391.91
-The Presidency,Direct with the service provider,Facities management PPP,26/06/2020,Servest,Direct with the service provider,Sanitation of Isibalo house,168866.58
-The Presidency,Direct with the service provider,Facities management PPP,07/08/2020,Servest,Direct with the service provider,Sanitation of Isibalo house,208676.70
-The Presidency,Direct with the service provider,Facities management PPP,13/07/2020,Servest,Direct with the service provider,Sanitation of Isibalo house - Air Sanitation - DPC,66318.19
-The Presidency,Direct with the service provider,Petty cash,20/05/2020,Petty cash vouchers - EC,Direct with the service provider,"Screen reception area, Stickers, Schilzds",4830.00
-The Presidency,Direct with the service provider,Emergency procurement through quotations,07/08/2020,Budget Pest Control,Direct with the service provider,Disinfecting: East London Office,3848.39
-The Presidency,Direct with the service provider,Facities management PPP,26/07/2020,Bontle Ke Botho,Direct with the service provider,Sanitation of Isibalo house (DPC),10961.96
+The Presidency,A-312602,Emergency procurement through quotations,2020-04-22,Rentokil Intital,MAAA0102243,Sanitising  offices Limpopo,27082.5
+The Presidency,A-312603,Emergency procurement through quotations,2020-04-24,Sthewetha Trading,MAAA0464948,"Disinfection Benoni, Westrand, Sedibeng, Prov Office",142750
+The Presidency,A-312606,Emergency procurement through quotations,2020-04-24,Happy Endings Plumbers,MAAA0585432,Disinfecting: Mpumalanga Offices,67439.45
+The Presidency,A-312609,Emergency procurement through quotations,2020-04-30,Rentokil Initial,MAAA0102243,"Disinfection Mmabatho, Rustenburg, Mabopane, Klerksdorp and Vryburg",35777
+The Presidency,A-312611,Emergency procurement through quotations,2020-04-30,Rentokil initial,MAAA0102243,Disinfection Free State Province buildings and vehicles,37637.2
+The Presidency,A-312612,Emergency procurement through quotations,2020-04-30,Tikedi Holdings,MAAA0030777,Disinfection Piketberg Offices,27885
+The Presidency,A-312615,Emergency procurement through quotations,2020-04-30,Savage Wear Production,MAAA0654359,Disinfection George D/O,14990
+The Presidency,A-312616,Emergency procurement through quotations,2020-04-30,Think Smart Clean,MAAA0131428,"Disinfection Prov Office, Metro 1 and 2",22897.31
+The Presidency,A-312618,Emergency procurement through quotations,2020-04-30,Qeda Structual Pest Management,MAAA0589205,"Pest control, deep cleaning and disi nfecting KZN offices",14700
+The Presidency,A-312626,Emergency procurement through quotations,2020-05-20,The Specialists,MAAA0506984,Fogging PE Office and one vechile,2277
+The Presidency,A-312627,Emergency procurement through quotations,2020-05-26,Sthewetha Trading,MAAA0464948,Wash and Disinfecting Cars - Gauteng,23575
+The Presidency,A-312635,Emergency procurement through quotations,2020-06-30,Geozone Environmental,MAAA0599431,Air Quality Testing - Free State,13570
+The Presidency,A-312638,Emergency procurement through quotations,2020-06-30,Red Spot Hygiene & Cleaning,MAAA0546045,Disinfection - Klerksdorp Office,6269.19
+The Presidency,OR-066228,Emergency procurement through quotations,2020-08-07,Budget Pest Control,MAAA0113066,Fogging  Bisho Office,3848.39
+The Presidency,A-312653,Emergency procurement through quotations,2020-04-08,Zappit Fumigation & Pest Control,MAAA0021746,Fogging Kokstad Office,4851
+The Presidency,Direct with the service provider,Petty cash,2020-09-03,Hychem,Direct with the service provider,Surface Devence treatment x4,1840
+The Presidency,Direct with the service provider,Facities management PPP,2020-09-03,Dip FM,Direct with the service provider,Access Cards x2000,88377.5
+The Presidency,Direct with the service provider,Facities management PPP,2020-04-17,Servest,Direct with the service provider,Sanitation of Isibalo house,192173.05
+The Presidency,Direct with the service provider,Facities management PPP,2020-11-05,Servest,Direct with the service provider,Sanitation of Isibalo house (wing 2 and common areas),14391.91
+The Presidency,Direct with the service provider,Facities management PPP,2020-06-26,Servest,Direct with the service provider,Sanitation of Isibalo house,168866.58
+The Presidency,Direct with the service provider,Facities management PPP,2020-08-07,Servest,Direct with the service provider,Sanitation of Isibalo house,208676.7
+The Presidency,Direct with the service provider,Facities management PPP,2020-07-13,Servest,Direct with the service provider,Sanitation of Isibalo house - Air Sanitation - DPC,66318.19
+The Presidency,Direct with the service provider,Petty cash,2020-05-20,Petty cash vouchers - EC,Direct with the service provider,"Screen reception area, Stickers, Schilzds",4830
+The Presidency,Direct with the service provider,Emergency procurement through quotations,2020-08-07,Budget Pest Control,Direct with the service provider,Disinfecting: East London Office,3848.39
+The Presidency,Direct with the service provider,Facities management PPP,2020-07-26,Bontle Ke Botho,Direct with the service provider,Sanitation of Isibalo house (DPC),10961.96
