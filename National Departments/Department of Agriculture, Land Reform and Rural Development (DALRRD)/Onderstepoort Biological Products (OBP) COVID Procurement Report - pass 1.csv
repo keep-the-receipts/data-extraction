@@ -1,0 +1,9 @@
+buyer_name,supplier_name,items_description,items_quantity,cost_per_unit_zar,order_amount_zar
+Onderstepoort Biological Products,Siphumelele Industries,Surgical Face Masks,150*50(per box),32.00,240000.00
+Onderstepoort Biological Products,Siphumelele Industries,Surgical Face Masks,180*50 (per box),32.00,288000.00
+Onderstepoort Biological Products,Rashuma Consulting,Surgical Face Masks,300 * 50 (per Box),7.20,108000.00
+Onderstepoort Biological Products,ACS Promotions,99% Ethanol,160*25 Litres,22.59,90390.00
+Onderstepoort Biological Products,KRU Energy,Ethanol,600*25 Litres,69.00,1035000.00
+Onderstepoort Biological Products,KRU Energy (Pty) Ltd,Ethanol,2000 Litres,50.60,105685.00
+Onderstepoort Biological Products,KRU Energy (Pty) Ltd,Hand Sanitizer,2000 L,69.00,138000.00
+Onderstepoort Biological Products,KRU Energy (Pty) Ltd,Hand Sanitizer,7020 L,69.00,484380.00
