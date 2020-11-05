@@ -1,69 +1,62 @@
-DHET:PROCUREMENT OF PPEs AS AT 06 AUGUT 2020,,,,,,,,,,,
-No,SUPPLIER NAME,ITEM DESCRIPTION,Unit of Issue,Quantity,TOTAL COST,"Goods/
-Services","Procuremetn
-method","Deviation
-(yes or no)",Deviation (a) why,Deviation  (b) detail,"What were the reasons that the goods/service were
-purchased from a specified company"
-1,"PRIME UNIVERSAL
+No,buyer_name,supplier_name,items_description,items_unit,items_quantity,order_amount_zar,Goods/Services,procurement_method,Deviation(yes or no),Deviation (a) why,Deviation  (b) detail,What were the reasons that the goods/service were purchased from a specified company
+1,Department of Higher Education and Training (DHET),"PRIME UNIVERSAL
 FOODS T/A HELGA'S
-RETAIL",Hand Sanitiser,250ml,30,"R        1,800.00",Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+RETAIL",Hand Sanitiser,250ml,30,1800.00,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
-2,"CHECKERS,
-QUEENSWOOD",Savlon liquid,500ml,4,R 199.96,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+2,Department of Higher Education and Training (DHET),"CHECKERS,
+QUEENSWOOD",Savlon liquid,500ml,4,199.96,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
-3,"PRIME UNIVERSAL
+3,Department of Higher Education and Training (DHET),"PRIME UNIVERSAL
+FOODS T/A HELGA’S RETAIL",Hand Sanitiser,250 ml,30,1800.00,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+issuing of National Treasury Instruction 8 of 2019/20.
+Petty cash purchase allows the Department to procure
+from any supplier under R2000 without sourcing 3
+quotes. This supplier is located in the Pretoria
+surroundings."
+4,Department of Higher Education and Training (DHET),"PRIME UNIVERSAL
 FOODS T/A HELGA'S
-RETAIL",Hand Sanitiser,250 ml,30,"R        1,800.00",Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+RETAIL",Hand Sanitiser,250 ml,30,1800.00,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
-4,"PRIME UNIVERSAL
-FOODS T/A HELGA'S
-RETAIL",Hand Sanitiser,250 ml,30,"R        1,800.00",Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+5,Department of Higher Education and Training (DHET),"CHECKERS,
+QUEENSWOOD",Savlon liquid,500ml,1,49.99,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
-5,"CHECKERS,
-QUEENSWOOD",Savlon liquid,500ml,1,R 49.99,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+6,Department of Higher Education and Training (DHET),"CHECKERS,
+QUEENSWOOD",Detergent,1500ml,2,45.98,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
-6,"CHECKERS,
-QUEENSWOOD",Detergent,1500ml,2,R 45.98,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+7,Department of Higher Education and Training (DHET),"CYCLE MANIA,
+WATERMEYER PARK",Anti-bacterial waterless cleaner,300ml,40,2000.00,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
-7,"CYCLE MANIA,
-WATERMEYER PARK","Anti-bacterial waterless
-cleaner",300ml,40,"R        2,000.00",Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
+8,Department of Higher Education and Training (DHET),L.M. SUPERMARKET,Latex Gloves,Box of 100,3,83.97,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
 issuing of National Treasury Instruction 8 of 2019/20.
 Petty cash purchase allows the Department to procure
 from any supplier under R2000 without sourcing 3
 quotes. This supplier is located in the Pretoria
 surroundings."
-8,L.M. SUPERMARKET,Latex Gloves,Box of 100,3,R 83.97,Goods,Petty Cash,No,NA,NA,"The items were procured through petty cash prior to the
-issuing of National Treasury Instruction 8 of 2019/20.
-Petty cash purchase allows the Department to procure
-from any supplier under R2000 without sourcing 3
-quotes. This supplier is located in the Pretoria
-surroundings."
-9,EVERGREEN LATEX,Disposable gloves,Box of 100,100,"R        4,986.00",Goods,"National
+9,Department of Higher Education and Training (DHET),EVERGREEN LATEX,Disposable gloves,Box of 100,100,4986.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -72,8 +65,8 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-10,"LIORA MEDICAL
-SUPPLIES",Masks,Box of 50,600,"R        3,210.00",Goods,"National
+10,Department of Higher Education and Training (DHET),"LIORA MEDICAL
+SUPPLIES",Masks,Box of 50,600,3210.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -82,7 +75,7 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-11,TARA HEALTHCARE,Sanitizer,500ml,2400,"R    236,400.00",Goods,"National
+11,Department of Higher Education and Training (DHET),TARA HEALTHCARE,Sanitizer,500ml,2400,236400.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -91,7 +84,7 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts. ."
-12,TARA HEALTHCARE,Sanitizer,500ml,29,"R        2,856.50",Goods,"National
+12,Department of Higher Education and Training (DHET),TARA HEALTHCARE,Sanitizer,500ml,29,2856.50,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -100,7 +93,7 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-13,SUPRA HEALTHCARE,Apron,pk of 100,150,"R      18,975.00",Goods,"National
+13,Department of Higher Education and Training (DHET),SUPRA HEALTHCARE,Apron,pk of 100,150,18975.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -109,15 +102,14 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-14,Kaytie Identity Promotions,"Cloth masks  (re-
-useable)",Box of 100,3802,"R      87,446.00",Goods,"3-Quotation
+14,Department of Higher Education and Training (DHET),Kaytie Identity Promotions,Cloth masks  (re-useable),Box of 100,3802,87446.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-15,Tomema Trading,"Appointment of a
+15,Department of Higher Education and Training (DHET),Tomema Trading,"Appointment of a
 service provider for the
 provision of
 comprehensive
@@ -131,7 +123,7 @@ Francis Baard Street,
 178 Ndinaye House
 and Indlela situated in
 Olifantsfontein for a
-period three months",PM,3 months,"R 1,244,534.49",Services,Bid ito PPPFA,Yes,"The services could not be
+period three months",PM,3 months,1244534.49,Services,Bid ito PPPFA,Yes,"The services could not be
 sourced through the normal
 bid process as it would take
 at least 3 months.","Treasury approval was
@@ -147,33 +139,15 @@ Bid Evaluation Committee where the selection and final
 award was based on the Preferential Procurement
 Policy Framwork Regulations. The bidder scoring the
 highest points was appointed."
-16,Muvigo Africa Solutions,"Supply and delivery of
-thermometers",ea,14,"R      19,320.00",Goods,"3-Quotation
+16,Department of Higher Education and Training (DHET),Muvigo Africa Solutions,"Supply and delivery of
+thermometers",ea,14,19320.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-17,Tripple N Medical,Surgical Masks,Box of 100,10000,"R    102,200.00",Goods,"National
-Treasury
-Trasnversal",No,NA,NA,"This item was procured from National Treasury
-transversal contracts RT 296-2020; RT32-2019; RT76-
-2020. Quotations are sourced from the listed
-contractors where the cheapest quotations are selected
-from award. There is no financial threshold limit for
-quotations selected from transversal contracts."
-17,Tripple N Medical,Face shield,ea,350,"R      28,003.50",Goods,"National
-Treasury
-Trasnversal
-Contract",,,,
-17,Tripple N Medical,"Bacticide hand
-disinfectant",500ml,6000,"R    480,000.00",Goods,"National
-Treasury
-Trasnversal
-Contract",,,,
-18,SupraHealthCare,"Disposable plastic
-aprons",ea,15000,"R      18,975.00",Goods,"National
+17,Department of Higher Education and Training (DHET),Tripple N Medical,Surgical Masks,Box of 100,10000,102200.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -182,9 +156,17 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-19,"King T Square Trading 33
-cc","General purpose PVC
-Gumboots (unisex)",pair,70,"R      24,500.00",Goods,"National
+17,Department of Higher Education and Training (DHET),Tripple N Medical,Face shield,ea,350,28003.50,Goods,"National
+Treasury
+Trasnversal
+Contract",,,,
+17,Department of Higher Education and Training (DHET),Tripple N Medical,"Bacticide hand
+disinfectant",500ml,6000,480000.00,Goods,"National
+Treasury
+Trasnversal
+Contract",,,,
+18,Department of Higher Education and Training (DHET),SupraHealthCare,"Disposable plastic
+aprons",ea,15000,18975.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -193,28 +175,37 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-20,Samilson Group,Durable rubber gloves,Box of 100,500,"R      11,350.00",Goods,"National
+19,Department of Higher Education and Training (DHET),King T Square Trading 33cc,"General purpose PVC
+Gumboots (unisex)",pair,70,24500.00,Goods,"National
+Treasury
+Trasnversal
+Contract",No,NA,NA,"This item was procured from National Treasury
+transversal contracts RT 296-2020; RT32-2019; RT76-
+2020. Quotations are sourced from the listed
+contractors where the cheapest quotations are selected
+from award. There is no financial threshold limit for
+quotations selected from transversal contracts."
+20,Department of Higher Education and Training (DHET),Samilson Group,Durable rubber gloves,Box of 100,500,11350.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,
-21,"King T Square Trading 33
-cc",High pressure washer,ea,6,"R      20,400.00",Goods,"3-Quotation
+21,Department of Higher Education and Training (DHET),King T Square Trading 33cc,High pressure washer,ea,6,20400.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-22,KTF Africa,"Surgical Disposable
-gloves",Box of 100,100,"R      17,250.00",Goods,"3-Quotation
+22,Department of Higher Education and Training (DHET),KTF Africa,"Surgical Disposable
+gloves",Box of 100,100,17250.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-23,Tara Healthcare (Pty) Ltd,"Disposable plastic
-aprons (NSF)",pk of 100,780,R 782.00,Goods,"National
+23,Department of Higher Education and Training (DHET),Tara Healthcare (Pty) Ltd,"Disposable plastic
+aprons (NSF)",pk of 100,780,782.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -223,15 +214,15 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-24,Makase Solutions,"Fumigation services -
-NW regional office",PM,3months,"R      78,234.00",Services,"3-Quotation
+24,Department of Higher Education and Training (DHET),Makase Solutions,"Fumigation services -
+NW regional office",PM,3months,78234.00,Services,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-25,Tripple N Medical,Disposable  gloves,Box of 100,10 boxes,"R        2,000.00",Goods,"National
+25,Department of Higher Education and Training (DHET),Tripple N Medical,Disposable  gloves,Box of 100,10 boxes,2000.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
@@ -240,142 +231,180 @@ transversal contracts RT 296-2020; RT32-2019; RT76-
 contractors where the cheapest quotations are selected
 from award. There is no financial threshold limit for
 quotations selected from transversal contracts."
-25,Tripple N Medical,Sanitiser,10L,1,"R        5,110.00","National
+25,Department of Higher Education and Training (DHET),Tripple N Medical,Sanitiser,10L,1,5110.00,Goods,"National
 Treasury
 Trasnversal
-Contract",,,,,
-25,Tripple N Medical,Empty bottles 750ML,750ml,3,"R        1,200.00","National
+Contract",No,NA,NA,"This item was procured from National Treasury
+transversal contracts RT 296-2020; RT32-2019; RT76-
+2020. Quotations are sourced from the listed
+contractors where the cheapest quotations are selected
+from award. There is no financial threshold limit for
+quotations selected from transversal contracts."
+25,Department of Higher Education and Training (DHET),Tripple N Medical,Empty bottles 750ML,750ml,3,1200.00,Goods,"National
 Treasury
 Trasnversal
-Contract",,,,,
-25,Tripple N Medical,Disposable Masks,Box of 100,10 boxes,R 172.50,"National
+Contract",No,NA,NA,"This item was procured from National Treasury
+transversal contracts RT 296-2020; RT32-2019; RT76-
+2020. Quotations are sourced from the listed
+contractors where the cheapest quotations are selected
+from award. There is no financial threshold limit for
+quotations selected from transversal contracts."
+25,Department of Higher Education and Training (DHET),Tripple N Medical,Disposable Masks,Box of 100,10 boxes,172.50,Goods,"National
 Treasury
 Trasnversal
-Contract",,,,,
-26,4Matik,Domestos,25L,15,"R        6,000.00",Goods,"3-Quotation
+Contract",No,NA,NA,"This item was procured from National Treasury
+transversal contracts RT 296-2020; RT32-2019; RT76-
+2020. Quotations are sourced from the listed
+contractors where the cheapest quotations are selected
+from award. There is no financial threshold limit for
+quotations selected from transversal contracts."
+26,Department of Higher Education and Training (DHET),4Matik,Domestos,25L,15,6000.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-26,4Matik,Jik,3L,55,"R        2,750.00","3-Quotation
+26,Department of Higher Education and Training (DHET),4Matik,Jik,3L,55,2750.00,Goods,"3-Quotation
 system ito
-PPPFA",,,,,
-26,4Matik,Pine Gel,25L,15,"R        6,900.00","3-Quotation
+PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
+supplier database (CSD). Quotations were evaluated
+and scored in terms of the 80/20 Preferential
+Procurement Policy Framework Regulations where the
+bidder scoring the highest points were appointed."
+26,Department of Higher Education and Training (DHET),4Matik,Pine Gel,25L,15,6900.00,Goods,"3-Quotation
 system ito
-PPPFA",,,,,
-26,4Matik,Pine Soap,25L,15,"R        5,370.00","3-Quotation
+PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
+supplier database (CSD). Quotations were evaluated
+and scored in terms of the 80/20 Preferential
+Procurement Policy Framework Regulations where the
+bidder scoring the highest points were appointed."
+26,Department of Higher Education and Training (DHET),4Matik,Pine Soap,25L,15,5370.00,Goods,"3-Quotation
 system ito
-PPPFA",,,,,
-26,4Matik,Mr Min,300ml,150,"R        5,250.00","3-Quotation
+PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
+supplier database (CSD). Quotations were evaluated
+and scored in terms of the 80/20 Preferential
+Procurement Policy Framework Regulations where the
+bidder scoring the highest points were appointed."
+26,Department of Higher Education and Training (DHET),4Matik,Mr Min,300ml,150,5250.00,Goods,"3-Quotation
 system ito
-PPPFA",,,,,
-26,4Matik,Teak Oil,500ml,150,"R        5,400.00","3-Quotation
+PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
+supplier database (CSD). Quotations were evaluated
+and scored in terms of the 80/20 Preferential
+Procurement Policy Framework Regulations where the
+bidder scoring the highest points were appointed."
+26,Department of Higher Education and Training (DHET),4Matik,Teak Oil,500ml,150,5400.00,Goods,"3-Quotation
 system ito
-PPPFA",,,,,
-26,4Matik,Sunlight Liq,5L,45,"R        8,829.00","3-Quotation
+PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
+supplier database (CSD). Quotations were evaluated
+and scored in terms of the 80/20 Preferential
+Procurement Policy Framework Regulations where the
+bidder scoring the highest points were appointed."
+26,Department of Higher Education and Training (DHET),4Matik,Sunlight Liq,5L,45,8829.00,Goods,"3-Quotation
 system ito
-PPPFA",,,,,
-27,Samilson Group,"Fogging of DHET
+PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
+supplier database (CSD). Quotations were evaluated
+and scored in terms of the 80/20 Preferential
+Procurement Policy Framework Regulations where the
+bidder scoring the highest points were appointed."
+27,Department of Higher Education and Training (DHET),Samilson Group,"Fogging of DHET
 Offices - 123 Francis
 Baard - 178 Ndinaye &
-Indlela Olifantsfontein",PM,3xbuildings for 6 months,"R    198,992.00",Services,"3-Quotation
+Indlela Olifantsfontein",PM,3xbuildings for 6 months,198992.00,Services,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-28,GakePhaloe,"Medical Examinatio
+28,Department of Higher Education and Training (DHET),GakePhaloe,"Medical Examinatio
 Beds and Contour
-Plastic Chairs",ea,8x beds + 20 chairs,"R      24,600.00",Goods,"3-Quotation
+Plastic Chairs",ea,8x beds + 20 chairs,24600.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-29,"Mketwa Construction &
-Projects","Ruby Pink Soap 5
+29,Department of Higher Education and Training (DHET),Mketwa Construction &Projects,"Ruby Pink Soap 5
 Litres for Warehouse
-at INDLELA",5L,250,"R      25,000.00",Goods,"3-Quotation
+at INDLELA",5L,250,25000.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-30,Kuhlaria Holdings,"Deep Cleaning
-Services in North West",PM,3,"R      66,119.25",Services,"3-Quotation
+30,Department of Higher Education and Training (DHET),Kuhlaria Holdings,"Deep Cleaning
+Services in North West",PM,3,66119.25,Services,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-31,GIY Cleaning Services,"Deep Cleaning and
+31,Department of Higher Education and Training (DHET),GIY Cleaning Services,"Deep Cleaning and
 Fumigation in Cape
-Town - Adderley Street",PM,1,"R      31,740.00",Services,"3-Quotation
+Town - Adderley Street",PM,1,31740.00,Services,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-32,Welcome Mbali Trading,"Foot pedal sanitizer
-dispensers",ea,20,"R      2 7,000.00",Goods,"3-Quotation
+32,Department of Higher Education and Training (DHET),Welcome Mbali Trading,"Foot pedal sanitizer
+dispensers",ea,20,27000.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-33,Aporele Trading,"Fumigation of Offices -
+33,Department of Higher Education and Training (DHET),Aporele Trading,"Fumigation of Offices -
 Limpopo Regional
 Offices
 RENTMEESTER
-BUILDING",PM,6,"R      3 8,700.00",Service,"3-Quotation
+BUILDING",PM,6,38700.00,Service,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-34,"Eyamaphemba Project (Pty)
+34,Department of Higher Education and Training (DHET),"Eyamaphemba Project (Pty)
 Ltd","Fumigation KZN
 Regional Office -
-Pietermaritzburg",PM,1,"R        6 ,456.59",Service,"3-Quotation
+Pietermaritzburg",PM,1,6456.59,Service,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-35,First Office Stationery,"Printing of COVID-19
-Floor stickers",ea,135,"R      1 0,800.00",Goods,"3-Quotation
+35,Department of Higher Education and Training (DHET),First Office Stationery,"Printing of COVID-19
+Floor stickers",ea,135,10800.00,Goods,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-36,Grayan,"Cleaning Services
+36,Department of Higher Education and Training (DHET),Grayan,"Cleaning Services
 Limpopo Regional
 Offices
 RENTMEESTER
-BUILDING",PM,6 months,"R    1 92,245.50",Service,"3-Quotation
+BUILDING",PM,6 months,192245.50,Service,"3-Quotation
 system ito
 PPPFA",No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where the
 bidder scoring the highest points were appointed."
-37,Tripple N,"520 Face Cloth Masks
+37,Department of Higher Education and Training (DHET),Tripple N,"520 Face Cloth Masks
 (with laces) + 50 Covid
 19 Clear Perspex
 Screens","Masks = ea
-screens = ea",520 x masks + 50 screens,"R    6 10,203.00",Goods,"National
+screens = ea",520 x masks + 50 screens,610203.00,Goods,"National
 Treasury
 Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
