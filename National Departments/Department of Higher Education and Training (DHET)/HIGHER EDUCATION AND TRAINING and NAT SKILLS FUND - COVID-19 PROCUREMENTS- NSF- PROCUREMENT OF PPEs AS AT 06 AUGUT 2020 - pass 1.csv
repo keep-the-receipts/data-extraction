@@ -1,8 +1,6 @@
-NSF: PROCUREMENT OF PPEs AS AT 06 AUGUT 2020,,,,,,,,,,,
-No,SUPPLIER NAME,ITEM DESCRIPTION,Unit of Issue,Quantity,TOTAL COST,Goods/ Services,Procuremetn method,Deviation (yes or no),Deviation (a) why,Deviation  (b) detail,"What were the reasons that the goods/service
-were purchased from a specified company"
-1,"Lechoba Medical
-Technologies (Pty) Ltd",Surgical masks,box of 50,1750,R32 812.50,Goods,"National Treasury Trasnversal
+buyer_name,No,supplier_name,items_description,items_unit,items_quantity,order_amount_zar,Goods/ Services,procurement_method,Deviation (yes or no),Deviation (a) why,Deviation  (b) detail,What were the reasons that the goods/service were purchased from a specified company
+NAT Skills Fund (NSF),1,"Lechoba Medical
+Technologies (Pty) Ltd",Surgical masks,box of 50,1750,32812.50,Goods,"National Treasury Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
 transversal contracts RT 296-2020; RT32-2019;
 RT76-2020. Quotations are sourced from the listed
@@ -10,8 +8,8 @@ contractors where the cheapest quotations are
 selected from award. There is no financial threshold
 limit for quotations selected from transversal
 contracts. ."
-2,"Lechoba Medical
-Technologies (Pty) Ltd",Hand sanitisers,500ml,175,R10 631.25,Goods,"National Treasury Trasnversal
+NAT Skills Fund (NSF),2,"Lechoba Medical
+Technologies (Pty) Ltd",Hand sanitisers,500ml,175,10631.25,Goods,"National Treasury Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
 transversal contracts RT 296-2020; RT32-2019;
 RT76-2020. Quotations are sourced from the listed
@@ -19,14 +17,14 @@ contractors where the cheapest quotations are
 selected from award. There is no financial threshold
 limit for quotations selected from transversal
 contracts. ."
-3,KTF Africa (Pty) Ltd,"Examination gloves, none
+NAT Skills Fund (NSF),3,KTF Africa (Pty) Ltd,"Examination gloves, none
 sterile, type 1 powder free,
-small, medium, large",box of 100,18 boxes,R3 105.00,Goods,3-Quotation system ito PPPFA,No,NA,NA,"3 Quotations were sourced from the Treasury central
+small, medium, large",box of 100,18 boxes,3105.00,Goods,3-Quotation system ito PPPFA,No,NA,NA,"3 Quotations were sourced from the Treasury central
 supplier database (CSD). Quotations were evaluated
 and scored in terms of the 80/20 Preferential
 Procurement Policy Framework Regulations where
 the bidder scoring the highest points were appointed."
-4,Tara Technologies (Pty) Ltd,Aprons,pk of 100,8 packs,R 782.00,Goods,"National Treasury Trasnversal
+NAT Skills Fund (NSF),4,Tara Technologies (Pty) Ltd,Aprons,pk of 100,8 packs,782.00,Goods,"National Treasury Trasnversal
 Contract",No,NA,NA,"This item was procured from National Treasury
 transversal contracts RT 296-2020; RT32-2019;
 RT76-2020. Quotations are sourced from the listed
