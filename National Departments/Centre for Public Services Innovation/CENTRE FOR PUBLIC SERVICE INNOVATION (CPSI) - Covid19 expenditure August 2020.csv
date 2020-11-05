@@ -1,18 +1,18 @@
-supplier_name,buyer_name,items_description,order_amount_za
-Bela Consulting,Centre for public services innovation,Mobile foot operated hand sanitizer dispenses,7880.00
-Bela Consulting,Centre for public services innovation,"PPE (aprons, wipes, show covers)",67826.80
-Company Wellness Solutions,Centre for public services innovation,Covid 19 Screening,115225.00
-D&F Commodity Broking CC,Centre for public services innovation,Desk based screens,123653.75
-Petty cash,Centre for public services innovation,3 ply Cloth Masks,1225.00
-Petty cash,Centre for public services innovation,Adhesive stickers,1225.00
-Petty Cash,Centre for public services innovation,10 shield mask,2700.00
-Petty cash,Centre for public services innovation,3 ply Cloth Masks,2325.00
-Petty Cash  14/05/2020,Centre for public services innovation,3 ply Cloth Masks,1200.00
-Phinot Nostalgic Projects,Centre for public services innovation,70% Alcohol Sanitizer gel,10600.00
-Skitterblink Doringkloof (PTY)LTD,Centre for public services innovation,Disinfection,2961.25
-Skitterblink Doringkloof (PTY)LTD,Centre for public services innovation,PPE,287.50
-SPS Advertising & Marketing (PTY),Centre for public services innovation,Digital Body Thermometer,4599.89
-SPS Advertising & Marketing (PTY),Centre for public services innovation,Gloves,3449.43
-SPS Advertising & Marketing (PTY),Centre for public services innovation,Hand Sanitizers,12870.80
-SPS Advertising & Marketing (PTY),Centre for public services innovation,Sanitizer Bottles,18972.13
-SPS Advertising & Marketing (PTY),Centre for public services innovation,Surface Disinfection,21272.13
+buyer_name,supplier_name,items_description,order_amount_za
+Centre for public services innovation,Bela Consulting,Mobile foot operated hand sanitizer dispenses,7880.00
+Centre for public services innovation,Bela Consulting,"PPE (aprons, wipes, show covers)",67826.80
+Centre for public services innovation,Company Wellness Solutions,Covid 19 Screening,115225.00
+Centre for public services innovation,D&F Commodity Broking CC,Desk based screens,123653.75
+Centre for public services innovation,Petty cash,3 ply Cloth Masks,1225.00
+Centre for public services innovation,Petty cash,Adhesive stickers,1225.00
+Centre for public services innovation,Petty Cash,10 shield mask,2700.00
+Centre for public services innovation,Petty cash,3 ply Cloth Masks,2325.00
+Centre for public services innovation,Petty Cash  14/05/2020,3 ply Cloth Masks,1200.00
+Centre for public services innovation,Phinot Nostalgic Projects,70% Alcohol Sanitizer gel,10600.00
+Centre for public services innovation,Skitterblink Doringkloof (PTY)LTD,Disinfection,2961.25
+Centre for public services innovation,Skitterblink Doringkloof (PTY)LTD,PPE,287.50
+Centre for public services innovation,SPS Advertising & Marketing (PTY),Digital Body Thermometer,4599.89
+Centre for public services innovation,SPS Advertising & Marketing (PTY),Gloves,3449.43
+Centre for public services innovation,SPS Advertising & Marketing (PTY),Hand Sanitizers,12870.80
+Centre for public services innovation,SPS Advertising & Marketing (PTY),Sanitizer Bottles,18972.13
+Centre for public services innovation,SPS Advertising & Marketing (PTY),Surface Disinfection,21272.13
