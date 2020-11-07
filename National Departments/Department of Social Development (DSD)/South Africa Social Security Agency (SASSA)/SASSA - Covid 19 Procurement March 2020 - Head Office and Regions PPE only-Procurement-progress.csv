@@ -1,0 +1,20 @@
+buyer_name, No,Month,item_description,supplier_name,order_amount_zar,order_name,invoice_date,procurement_method
+South African Social Security Agency (SASSA),1, March,500ml Hand Sanitizers,MDP Sure Clean,36800.00,10296,2020-03-26,Emergency
+South African Social Security Agency (SASSA),2, April,Office Sanitising,Limpopo Supplement Traders,158759.23,10307,2020-04-21,Emergency
+South African Social Security Agency (SASSA),3, May,Face Cloth Masks,Seding sa Tsebo Development Primary Co-Operative,25000.00,10343,2020-05-01,Emergency
+South African Social Security Agency (SASSA),4, May,20 Litre Handsanitizer,ScrubMobi,486000.00,10345,2020-05-01,Emergency
+South African Social Security Agency (SASSA),5, May,500 ML Spray Bottles,ScrubMobi,22500.00,10345,2020-05-01,Emergency
+South African Social Security Agency (SASSA),6, May,Digital Thermometer (infrared non-contact),Royal Base General Trading and Projects,166795.20,10346,2020-05-07,Emergency
+South African Social Security Agency (SASSA),7, May,Face Cloth Masks,Seding sa Tsebo Development Primary Co-Operative,50000.00,10348,2020-05-12,Emergency
+South African Social Security Agency (SASSA),8, May,Digital Thermometer (infrared non-contact),Cleaning Basics and Projects,153000.00,10349,2020-05-12,Quotation
+South African Social Security Agency (SASSA),9, May,Face Cloth Masks,Esprior General Trading,35750.00,10350,2020-05-12,Emergency
+South African Social Security Agency (SASSA),10, May,Face Shields,Digital and Communication Solutions,108000.00,10351,2020-05-08,Emergency
+South African Social Security Agency (SASSA),11, June,20L Sanitizers,Tlhabololo Consulting,255000.00,10398,2020-06-19,Quotation
+South African Social Security Agency (SASSA),12, June,Spray Bottles,Tlhabololo Consulting,14200.00,10398,2020-06-19,Quotation
+South African Social Security Agency (SASSA),13, June,Face Cloth Masks,Mathosim Trimming and Uphlstry,16330.00,10404,2020-06-24,Quotation
+South African Social Security Agency (SASSA),14, July,"Office Sanitising:
+Regional Office,
+Capricorn District Office, Polokwane Local Office",Onahk Urban,61447.05,10415,2020-07-15,Quotation
+South African Social Security Agency (SASSA),15, July,Office Sanitising: Nebo and Moroke Local Office,Marinkop Trading,9000.00,10447,2020-07-29,Quotation
+South African Social Security Agency (SASSA),16, July,Office Sanitising: Maruleng Local Office,Dynamic Safe and Clean Solution,6885.00,10473,2020-07-31,Quotation
+South African Social Security Agency (SASSA),17, July,Office Sanitising: Sekhukhune District Office,Hygolet Hygien Services,27975.00,10474,2020-08-01,Quotation
