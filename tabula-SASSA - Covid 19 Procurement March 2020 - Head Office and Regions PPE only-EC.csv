@@ -1,103 +1,75 @@
-No,Office,Description,"Order
-Number",Order Date,Value,Procurement Strategy,Awarded To,Comments
+No,Office,Description,Order Number,Order Date,Value,Procurement Strategy,Awarded To,Comments
 1,Regional Office,Gloves,16195,20-03-2020,"133,400.00",Emergency Procurement,Xhobani Security Services,Goods Delivered
-2,,Hand Sanitzers,"69,230.00",,,,,
-3,,Surgical Masks,"316,250.00",,,,,
+2,Regional Office,Hand Sanitzers,16195,20-03-2020,"69,230.00",Emergency Procurement,Xhobani Security Services,Goods Delivered
+3,Regional Office,Surgical Masks,16195,20-03-2020,"316,250.00",Emergency Procurement,Xhobani Security Services,Goods Delivered
 4,Regional Office,Gloves - 330 boxes,16214,15/04/2020,"33,000.00",Emergency Procurement,My Peace Mali Investments,Goods Delivered
-5,,"Hand Sanitzers 25 litres
-x 55","231,000.00",,,,,
-6,,Surgical Masks - 1100,"60,500.00",,,,,
-7,Regional Office,"Hand Sanitzers (20 x 5
-litre)",16213,15/04/2020,"13,000.00",Emergency Procurement,Kwasa Food Suppliers,Goods Delivered
-8,Regional Office,"Disinfecting and
-Sanitizing of Regional
-and Amathole District
-Offices",16228,"213,948.30",Normal Procument process,Lucob Cleaning Services,"Services
-rendered",
-9,Regional Office,"Disinfecting and
-Sanitizing of Chris Hani
-and Joe Gqabi District
-Offices",16229,"129,632.00",Normal Procument process,Colirose Catering and Cleaning Service,"Services
-rendered",
-10,Regional Office,"Disinfecting and
-Sanitizing of OR Tambo
-and Alfred Nzo District",16227,28-04-2020,"188,244.00",Normal Procument process,ZEDEK Cleaning services,"Services
-rendered"
-11,Regional Office,"Disinfecting and
-Sanitizing of Nelson
-Mandela Metro and
-Sarah Baartman",16226,28-04-2020,"90,897.14",Normal Procument process,Kaisers Cleaning services,"Services
-rendered"
-"",Regional Office,Surgical Masks (16000),16225,28-04-2020,"73,600.00",Normal Procument process,Multi Surge,Goods Delivered
-12,Regional Office,"1000 Cloth Masks
-(Branding)",16230,29-04-2020,"45,000.00",Normal Procument process,Buzwe Bethu Trading,Delivered
-13,Regional Office,"Body Thermometer
-infrared ( 150)",16231,29-04-2020,"307,500.23",Normal Procument process,A D Medical,Delivered
-"",Regional Office,Reusable coveralls,16353,01-06-2020,"171,925.00",Normal Procument process,Thansasana Trading,Delivered
+5,Regional Office,Hand Sanitzers 25 litres x 55,16214,15/04/2020,"231,000.00",Emergency Procurement,My Peace Mali Investments,Goods Delivered
+6,Regional Office,Surgical Masks - 1100,16214,15/04/2020,"60,500.00",Emergency Procurement,My Peace Mali Investments,Goods Delivered
+7,Regional Office,Hand Sanitzers (20 x 5 litre),16213,15/04/2020,"13,000.00",Emergency Procurement,Kwasa Food Suppliers,Goods Delivered
+8,Regional Office,Disinfecting and Sanitizing of Regional and Amathole District Offices,16228,15/04/2020,"213,948.30",Normal Procument process,Lucob Cleaning Services,Services rendered
+9,Regional Office,Disinfecting and Sanitizing of Chris Hani and Joe Gqabi District Offices,16229,15/04/2020,"129,632.00",Normal Procument process,Colirose Catering and Cleaning Service,Services rendered
+10,Regional Office,Disinfecting and Sanitizing of OR Tambo and Alfred Nzo District,16227,28-04-2020,"188,244.00",Normal Procument process,ZEDEK Cleaning services,Services rendered
+11,Regional Office,Disinfecting and Sanitizing of Nelson Mandela Metro and Sarah Baartman,16226,28-04-2020,"90,897.14",Normal Procument process,Kaisers Cleaning services,Services rendered
+11,Regional Office,Surgical Masks (16000),16225,28-04-2020,"73,600.00",Normal Procument process,Multi Surge,Goods Delivered
+12,Regional Office,1000 Cloth Masks (Branding),16230,29-04-2020,"45,000.00",Normal Procument process,Buzwe Bethu Trading,Delivered
+13,Regional Office,Body Thermometer infrared ( 150),16231,29-04-2020,"307,500.23",Normal Procument process,A D Medical,Delivered
+13,Regional Office,Reusable coveralls,16353,01-06-2020,"171,925.00",Normal Procument process,Thansasana Trading,Delivered
 14,Nelson Mandela Metro,Hand Sanitzers,16188,19-03-2020,"1,995.00",Normal Procument process,Emilux,Goods Delivered
-15,,Facial Shield Masks (40),16211,14-04-2020,"2,000.00",Normal Procument process,"Regent Corporate Administrators 65 CC
-Golden Stitches 1 Co Op",Goods Delivered
-16,,Cloth Masks (274),16236,05-05-2020,"9,590.00",Normal Procument process,Goods Delivered,
-17,,"Body Thermometer
-infrared ( 7)",16237,05-05-2020,"43,400.00",Normal Procument process,In Your Tank Petroleum (Pty)Ltd,Goods Delivered
-"",,BP Monitor,16432,08-07-2020,"20,300.00",Normal Procument process,Sonzwaca,Goods Delivered
-"",,Surgical masks,16432,08-07-2020,"7,980.00",Normal Procument process,Sonzwaca,Goods Delivered
-"",,Disposable towels,16432,08-07-2020,"5,880.00",Normal Procument process,Sonzwaca,Goods Delivered
-"",,Bins with Lids,16432,08-07-2020,"1,820.00",Normal Procument process,Sonzwaca,Goods Delivered
-"",,Thermometer Batteries,16432,08-07-2020,"5,040.00",Normal Procument process,Sonzwaca,Goods Delivered
-"",,Face Shields,16333,27-05-2020,"21,074.00",Normal Procument process,Thula Senze Trading,Goods Delivered
-"",,Cloth Masks,16334,27-05-2020,"5,520.00",Normal Procument process,Mr Lee Trading,Goods Delivered
-"",,Hand gloves,16334,27-05-2020,"3,480.00",Normal Procument process,Mr Lee Trading,Goods Delivered
-"",,Sanitiser,16334,27-05-2020,"42,940.12",Normal Procument process,Mr Lee Trading,Goods Delivered
-"",,Cloth masks,16236,05-05-2020,"6,850.00",Normal Procument process,Golden Stitches 1 Co Op,Goods Delivered
-"",,,,,,,,
+15,Nelson Mandela Metro,Facial Shield Masks (40),16211,14-04-2020,"2,000.00",Normal Procument process,Regent Corporate Administrators 65 CC Golden Stitches 1 Co Op,Goods Delivered
+16,Nelson Mandela Metro,Cloth Masks (274),16236,05-05-2020,"9,590.00",Normal Procument process,Goods Delivered,Goods Delivered
+17,Nelson Mandela Metro,Body Thermometer infrared ( 7),16237,05-05-2020,"43,400.00",Normal Procument process,In Your Tank Petroleum (Pty)Ltd,Goods Delivered
+17,Nelson Mandela Metro,BP Monitor,16432,08-07-2020,"20,300.00",Normal Procument process,Sonzwaca,Goods Delivered
+17,Nelson Mandela Metro,Surgical masks,16432,08-07-2020,"7,980.00",Normal Procument process,Sonzwaca,Goods Delivered
+17,Nelson Mandela Metro,Disposable towels,16432,08-07-2020,"5,880.00",Normal Procument process,Sonzwaca,Goods Delivered
+17,Nelson Mandela Metro,Bins with Lids,16432,08-07-2020,"1,820.00",Normal Procument process,Sonzwaca,Goods Delivered
+17,Nelson Mandela Metro,Thermometer Batteries,16432,08-07-2020,"5,040.00",Normal Procument process,Sonzwaca,Goods Delivered
+17,Nelson Mandela Metro,Face Shields,16333,27-05-2020,"21,074.00",Normal Procument process,Thula Senze Trading,Goods Delivered
+17,Nelson Mandela Metro,Cloth Masks,16334,27-05-2020,"5,520.00",Normal Procument process,Mr Lee Trading,Goods Delivered
+17,Nelson Mandela Metro,Hand gloves,16334,27-05-2020,"3,480.00",Normal Procument process,Mr Lee Trading,Goods Delivered
+17,Nelson Mandela Metro,Sanitiser,16334,27-05-2020,"42,940.12",Normal Procument process,Mr Lee Trading,Goods Delivered
+17,Nelson Mandela Metro,Cloth masks,16236,05-05-2020,"6,850.00",Normal Procument process,Golden Stitches 1 Co Op,Goods Delivered
 18,Sarah Baartman District,Hand Sanitzers,16206,24-03-2020,"1,984.50",Normal Procument process,Cyber Enginering & Projects,Goods Delivered
-"",,Hand Sanitzers,16436,09-07-2020,"12,744.00",Normal Procument process,Ziphozihle Security & Cleaning,Goods Delivered
-"",,Surgical masks,16225,28-04-2020,"73,600.00",Normal Procument process,Multi Surge,Goods Delivered
-"",,Cloth Masks,16308,15-05-2020,"6,150.00",Normal Procument process,Thula Senze,Goods Delivered
-"",,Sanitizers,16308,15-05-2020,"22,547.00",Normal Procument process,Thula Senze,Goods Delivered
-"",,Gloves,16308,15-05-2020,828.00,Normal Procument process,Thula Senze,Goods Delivered
-"",,Cloth Masks,16361,02-06-2020,"10,073.70",Normal Procument process,Ezabathembu trading,Goods Delivered
-"",,Desk screens,16388,11-06-2020,"82,743.20",Normal Procument process,dabane solutions,Goods Delivered
-"",,,,,,,,
-"",,,,,,,,
+18,Sarah Baartman District,Hand Sanitzers,16436,09-07-2020,"12,744.00",Normal Procument process,Ziphozihle Security & Cleaning,Goods Delivered
+18,Sarah Baartman District,Surgical masks,16225,28-04-2020,"73,600.00",Normal Procument process,Multi Surge,Goods Delivered
+18,Sarah Baartman District,Cloth Masks,16308,15-05-2020,"6,150.00",Normal Procument process,Thula Senze,Goods Delivered
+18,Sarah Baartman District,Sanitizers,16308,15-05-2020,"22,547.00",Normal Procument process,Thula Senze,Goods Delivered
+18,Sarah Baartman District,Gloves,16308,15-05-2020,828.00,Normal Procument process,Thula Senze,Goods Delivered
+18,Sarah Baartman District,Cloth Masks,16361,02-06-2020,"10,073.70",Normal Procument process,Ezabathembu trading,Goods Delivered
+18,Sarah Baartman District,Desk screens,16388,11-06-2020,"82,743.20",Normal Procument process,dabane solutions,Goods Delivered
 19,Joe Gqabi District Office,Hand Sanitzers,16185,18-03-2020,"1,999.00",Normal Procument process,Thamtham Investments,Goods Delivered
-20,,Cloth Masks,16223,24-04-2020,"1,980.00",Normal Procument process,Kaizen Primary Co-op,Goods Delivered
-21,,Cloth Masks,16232,30-04-2020,"5,000.00",Normal Procument process,Kaizen Primary Co-op,Goods Delivered
-"",,Face Shields,16337,28-05-2020,"11,970.00",Normal Procument process,Visor,Goods Delivered
-"",,Gloves,16348,29-05-2020,"4,500.00",Normal Procument process,Evergreen Latex,Goods Delivered
-"",,Sanitizers,16339,28-05-2020,"37,260.00",Normal Procument process,Promed,Goods Delivered
-"",,Sanitizers bottles,16390,15-06-2020,"3,813.00",Normal Procument process,Geemabie,Goods Delivered
-"",,Cloth masks,16344,28-05-2020,"1,500.00",Normal Procument process,Beladin Co-op,Goods Delivered
+20,Joe Gqabi District Office,Cloth Masks,16223,24-04-2020,"1,980.00",Normal Procument process,Kaizen Primary Co-op,Goods Delivered
+21,Joe Gqabi District Office,Cloth Masks,16232,30-04-2020,"5,000.00",Normal Procument process,Kaizen Primary Co-op,Goods Delivered
+21,Joe Gqabi District Office,Face Shields,16337,28-05-2020,"11,970.00",Normal Procument process,Visor,Goods Delivered
+21,Joe Gqabi District Office,Gloves,16348,29-05-2020,"4,500.00",Normal Procument process,Evergreen Latex,Goods Delivered
+21,Joe Gqabi District Office,Sanitizers,16339,28-05-2020,"37,260.00",Normal Procument process,Promed,Goods Delivered
+21,Joe Gqabi District Office,Sanitizers bottles,16390,15-06-2020,"3,813.00",Normal Procument process,Geemabie,Goods Delivered
+21,Joe Gqabi District Office,Cloth masks,16344,28-05-2020,"1,500.00",Normal Procument process,Beladin Co-op,Goods Delivered
 22,Chris Hani District Office,Hand Sanitzers,16187,19-03-2020,"2,000.00",Normal Procument process,Gold Apple,Goods Delivered
-23,,Surgical Masks,16216,17-04-2020,"25,990.00",Normal Procument process,24/7 Services,Goods Delivered
-24,,Cloth Masks,16234,05-05-2020,"11,900.00",Normal Procument process,Imvelo Sewing Co-op,Goods Delivered
-"",,Thula Senze,16308,15-05-2020,"29,525.97",Normal Procument process,Thula Senze,Goods Delivered
-"",,Dest screens,16329,25-05-2020,"118,415.00",Normal Procument process,Max Sports Agencies,Goods Delivered
-"",,Hand Sanitzers,16327,25-05-2020,"71,999.20",Normal Procument process,promed,
-"",,,,,,,,Goods Delivered
+23,Chris Hani District Office,Surgical Masks,16216,17-04-2020,"25,990.00",Normal Procument process,24/7 Services,Goods Delivered
+24,Chris Hani District Office,Cloth Masks,16234,05-05-2020,"11,900.00",Normal Procument process,Imvelo Sewing Co-op,Goods Delivered
+24,Chris Hani District Office,Thula Senze,16308,15-05-2020,"29,525.97",Normal Procument process,Thula Senze,Goods Delivered
+24,Chris Hani District Office,Dest screens,16329,25-05-2020,"118,415.00",Normal Procument process,Max Sports Agencies,Goods Delivered
+24,Chris Hani District Office,Hand Sanitzers,16327,25-05-2020,"71,999.20",Normal Procument process,promed,Goods Delivered
 25,Alfred Nzo District Office,Hand Sanitzers,16186,18-03-2020,"1,998.00",Normal Procument process,K2012012150 South Africa,Goods Delivered
-"",,Desk Shield Screens,16438,10-07-2020,"17,001.20",Normal Procument process,Singabathwa Trading,Goods Delivered
-"",,Sanitisers,16438,10-07-2020,"6,999.70",Normal Procument process,Singabathwa Trading,Goods Delivered
-26,,Cloth Masks,16235,02-05-2020,"8,400.00",Normal Procument process,Sinozinto Multi Purpose Co-Op,Goods Delivered
-"",,Faceshield,16323,20-05-2020,"15,587.00",Normal Procument process,J and S Tool,Goods Delivered
-"",,Gloves,16240,08-05-2020,"2,700.00",Normal Procument process,Sam Sam,Goods Delivered
-"",,Cloth Masks,16332,26-05-2020,"12,760.00",Normal Procument process,Phumaphambili,Goods Delivered
-"",,BP Monitors,16380,05-06-2020,"25,890.00",Normal Procument process,Siyive Trading,Goods Delivered
-"",,,,,,,,
-"",Amathole District,Hand Sanitzers,16205,23-03-2020,"1,998.00",Normal Procument process,Iviama Trading,Goods Delivered
-"",,Facial Shield Masks (40),16219,19-04-2020,"1,739.13",Normal Procument process,Regent Corporate Administrators 65 CC,Goods Delivered
-"",,Cloth Masks and Gloves,16233,04-05-2020,"135,780.00",Normal Procument process,Afriwaste Group,Goods Delivered
-"",,Desk Screens,16426,08-07-2020,"100,000.00",Normal Procument process,Kuboni Business Solutions,Goods Delivered
-"",,Microfiber cleaning cloth,16426,08-07-2020,"135,200.00",Normal Procument process,Kuboni Business Solutions,Goods Delivered
-"",,Gloves,16426,08-07-2020,"12,000.00",Normal Procument process,Kuboni Business Solutions,Goods Delivered
-"",,Sanitisers,16426,08-07-2020,"10,374.00",Normal Procument process,Kuboni Business Solutions,Goods Delivered
-"",,Desk Screens,16359,02-06-2020,"348,865.00",Normal Procument process,Willmake it 18,Goods Delivered
-"",,Sanitisers,16363,03-06-2020,"298,180.00",Normal Procument process,Iviama,Goods Delivered
-"",,Cloth Masks,16351,01-06-2020,"9,775.00",Normal Procument process,Zatho dox,Goods Delivered
-"",,,,,,,,
-"",OR Tambo District,Cloth Masks (100),16238,06/05/2020,"2,000.00",Normal Procument process,Cador Multi purpose Co-op,Goods Delivered
-"",,Desk screens,16258,02/06/2020,"108,050.00",Normal Procument process,Kwakwasa,Goods Delivered
-"",,Cloth Masks,16320,20-05-2020,"10,800.00",Normal Procument process,Phumaphambili,Goods Delivered
-"",,Hand sanitisers,16321,20-05-2020,"12,966.25",Normal Procument process,Alenco Medical,Goods Delivered
-"",,Hand sanitisers,16437,09-07-2020,"22,632.00",Normal Procument process,Alenco Medical,Goods Delivered
+25,Alfred Nzo District Office,Desk Shield Screens,16438,10-07-2020,"17,001.20",Normal Procument process,Singabathwa Trading,Goods Delivered
+25,Alfred Nzo District Office,Sanitisers,16438,10-07-2020,"6,999.70",Normal Procument process,Singabathwa Trading,Goods Delivered
+26,Alfred Nzo District Office,Cloth Masks,16235,02-05-2020,"8,400.00",Normal Procument process,Sinozinto Multi Purpose Co-Op,Goods Delivered
+26,Alfred Nzo District Office,Faceshield,16323,20-05-2020,"15,587.00",Normal Procument process,J and S Tool,Goods Delivered
+26,Alfred Nzo District Office,Gloves,16240,08-05-2020,"2,700.00",Normal Procument process,Sam Sam,Goods Delivered
+26,Alfred Nzo District Office,Cloth Masks,16332,26-05-2020,"12,760.00",Normal Procument process,Phumaphambili,Goods Delivered
+26,Alfred Nzo District Office,BP Monitors,16380,05-06-2020,"25,890.00",Normal Procument process,Siyive Trading,Goods Delivered
+26,Amathole District,Hand Sanitzers,16205,23-03-2020,"1,998.00",Normal Procument process,Iviama Trading,Goods Delivered
+26,Amathole District,Facial Shield Masks (40),16219,19-04-2020,"1,739.13",Normal Procument process,Regent Corporate Administrators 65 CC,Goods Delivered
+26,Amathole District,Cloth Masks and Gloves,16233,04-05-2020,"135,780.00",Normal Procument process,Afriwaste Group,Goods Delivered
+26,Amathole District,Desk Screens,16426,08-07-2020,"100,000.00",Normal Procument process,Kuboni Business Solutions,Goods Delivered
+26,Amathole District,Microfiber cleaning cloth,16426,08-07-2020,"135,200.00",Normal Procument process,Kuboni Business Solutions,Goods Delivered
+26,Amathole District,Gloves,16426,08-07-2020,"12,000.00",Normal Procument process,Kuboni Business Solutions,Goods Delivered
+26,Amathole District,Sanitisers,16426,08-07-2020,"10,374.00",Normal Procument process,Kuboni Business Solutions,Goods Delivered
+26,Amathole District,Desk Screens,16359,02-06-2020,"348,865.00",Normal Procument process,Willmake it 18,Goods Delivered
+26,Amathole District,Sanitisers,16363,03-06-2020,"298,180.00",Normal Procument process,Iviama,Goods Delivered
+26,Amathole District,Cloth Masks,16351,01-06-2020,"9,775.00",Normal Procument process,Zatho dox,Goods Delivered
+26,OR Tambo District,Cloth Masks (100),16238,06/05/2020,"2,000.00",Normal Procument process,Cador Multi purpose Co-op,Goods Delivered
+26,OR Tambo District,Desk screens,16258,02/06/2020,"108,050.00",Normal Procument process,Kwakwasa,Goods Delivered
+26,OR Tambo District,Cloth Masks,16320,20-05-2020,"10,800.00",Normal Procument process,Phumaphambili,Goods Delivered
+26,OR Tambo District,Hand sanitisers,16321,20-05-2020,"12,966.25",Normal Procument process,Alenco Medical,Goods Delivered
+26,OR Tambo District,Hand sanitisers,16437,09-07-2020,"22,632.00",Normal Procument process,Alenco Medical,Goods Delivered
