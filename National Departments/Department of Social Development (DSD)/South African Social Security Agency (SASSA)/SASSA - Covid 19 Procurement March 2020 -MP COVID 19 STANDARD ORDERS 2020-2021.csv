@@ -1,4 +1,4 @@
-buyer_name,Item No,items_description,supplier_name,invoice_date,order_number,order_amount_zar,procurement_method,Delivered (Yes/No)
+buyer_name,Item No,items_description,supplier_name,invoice_date,order_number,order_amount_zar,procurement_method,implementation_status
 South African Social Security Services (SASSA),1,Supply and delivery of Sanitisers & Disinfectant,Masana Hygiene Services,2020-03-31,9281,184894.14,Single sourcing,Yes
 South African Social Security Services (SASSA),2,Supply and delivery for Protective  Items ( masks and hand gloves),Be Sure Events Solutions,2020-03-31,9278,3259100.00,Single sourcing,Yes
 South African Social Security Services (SASSA),3,Delivery of disinfectent  services for  54 offices  and 151 Vehicles,Masana Hygiene Services,2020-04-20,9341,269868.50,Single sourcing,Yes
