@@ -1,30 +1,27 @@
-Item Description,Contract/Quotation,AWARDED BIDDER,"QUANTIT
-Y","REVISED LATEST ADJUSTED
-PRICE (15% VAT)","Date Commitment
-letter issued","DELIVERY PERIOD
+implementation_location_province,buyer_name,order_number,items_description,Contract/Quotation,supplier_name,items_quantity,order_amount_zar,award_date,"DELIVERY PERIOD
 MIN (DAYS)","DELIVERY PERIOD
 MAX (DAYS)","Date for
 delivery MIN","Date for
 delivery
-MAX",Purchase order,Payment,Status of Delivery
-Hospital beds,019/20/COVID,Steigermeiyer,261,"ZAR                   6,784,891.00",22-Jun-20,,,22-Jun-20,,UH139140,Not done,Delivered
-Hospital beds,019/20/COVID,Mbuso,425,"ZAR                   9,341,809.80",19-Jun-20,,,19-Jun-20,,On delivery,Not done,Beds are in Durban customs and email was sent for Dr Pearce to confirm delivery date.
-Hospital beds,019/20/COVID,C- Squared -,75,"ZAR                   2,146,762.50",29-Jun-20,,,29-Jun-20,,On delivery,Not done,Confirmation to be send by email
-Hospital beds,019/20/COVID,Cam-sher,350,"ZAR                   8,050,000.00",19-Jun-20,,,19-Jun-20,,On delivery,Not done,"Company clearing with agents in terms of ETA(estimated time of arrival). Company will inform us as soon as
+MAX",Purchase order,Payment,implementation_status
+Free State,Free State Department of Health,"019/20/COVID,UH139140",Hospital beds,019/20/COVID,Steigermeiyer,261,6784891.00,2020-06-22,,,22-Jun-20,,UH139140,Not done,Delivered
+Free State,Free State Department of Health,"019/20/COVID,On delivery",Hospital beds,019/20/COVID,Mbuso,425,9341809.80,2020-06-19,,,19-Jun-20,,On delivery,Not done,Beds are in Durban customs and email was sent for Dr Pearce to confirm delivery date.
+Free State,Free State Department of Health,"019/20/COVID,On delivery",Hospital beds,019/20/COVID,C- Squared -,75,2146762.50,2020-06-29,,,29-Jun-20,,On delivery,Not done,Confirmation to be send by email
+Free State,Free State Department of Health,"019/20/COVID,On delivery",Hospital beds,019/20/COVID,Cam-sher,350,8050000.00,2020-06-19,,,19-Jun-20,,On delivery,Not done,"Company clearing with agents in terms of ETA(estimated time of arrival). Company will inform us as soon as
 clearance is resolved. Email is send that 275 will be delivered by the 14th of August."
-matress,RT24-2017,Arjo,450,"ZAR                      416,857.50",15-May-20,21,,5-Jun-20,,HH042657,Paid,Delivered
-Flow meters and engineering,Q013/20/COVID19,Bloemmed,463,"ZAR                      445,412.55",5-Jun-20,42,,17-Jul-20,,On delivery,Not done,Delivered
-monitors,RT2-2016,Echomed,50,"ZAR                      964,839.00",5-Jun-20,28,,3-Jul-20,,Create,Not done,Ex-stock- awaiting purchase orer to be generated.
-monitors,RT2-2016,RCA,50,"ZAR                   1,789,154.27",15-May-20,21,,5-Jun-20,,Create,Not done,Delivery to be confirmed with supplier on the 5th of August
-Humidifier - reusable wall,RT2-2016,East Coast Medical,900,"ZAR                      279,450.00",12-May-20,7,,19-May-20,,HH0426 t5o8,e effected,Delivered
-blankets,DOH(FS)25/18/19,Kaofelo,1200,"ZAR                      600,000.00",15-May-20,28,,12-Jun-20,,HH0426 t6o4,e effected,Delivered
-sheets,DOH(FS)25/18/19,Kaofelo,4200,"ZAR                         84,000.00",15-May-20,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM
-theatre gowns,DOH(FS)25/18/19,Kaofela,4000,"ZAR                      140,000.00",15-May-20,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM
-theatre pants various sizes,DOH(FS)25/18/19,Kaofelo,4000,"ZAR                      120,000.00",15-May-20,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM
-Theatre shirts various sizes,DOH(FS)25/18/19,Kaofela,4000,"ZAR                      120,000.00",15-May-20,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM
-towels,DOH(FS)25/18/19,Kaofela,1100,"ZAR                      220,000.00",15-May-20,28,,12-Jun-20,,HH0426 t6o4,e effected,Delivered
-matresss protector,DOH(FS)25/18/19,Kaofela,4000,"ZAR                   1,200,000.00",8-Jul-20,28,,5-Aug-20,,Create,Not done,Delivery to be done on the 5th of August 2020
-Humidifier,RT2-2016,Drager,50,"ZAR                   1,016,833.20",11-Jun-20,28,,9-Jul-20,,HH-042850,Not done,Delivered
-lazy boys,Q007/20/COVID19,Dmatt,20,"ZAR                      310,463.00",1-Jun-20,2,,3-Jun-20,,HH0426 t8o4,e effected,Delivered
-masimo,Q015/20/COVID19,Novagen,100,"ZAR                 14,647,903.50",18-Jun-20,2,,20-Jun-20,,UH139139,Not done,Quantity of 10 to be delivered on the 5th of August and 20 to be confirmed at a later stage.
-"Theatre jade green, white sheet rolls",DOH(FS)09/18/19,KYM Investment,21650m,"ZAR                   3,349,428.50",24-Jun-20,,,,,HH-0428 t2o3,e effected,Delivered
+Free State,Free State Department of Health,"RT24-2017,HH042657",matress,RT24-2017,Arjo,450,416857.50,2020-05-15,21,,05-Jun-20,,HH042657,Paid,Delivered
+Free State,Free State Department of Health,"Q013/20/COVID19,On delivery",Flow meters and engineering,Q013/20/COVID19,Bloemmed,463,445412.55,2020-06-05,42,,17-Jul-20,,On delivery,Not done,Delivered
+Free State,Free State Department of Health,"RT2-2016,Create",monitors,RT2-2016,Echomed,50,964839.00,2020-06-05,28,,03-Jul-20,,Create,Not done,Ex-stock- awaiting purchase orer to be generated.
+Free State,Free State Department of Health,"RT2-2016,Create",monitors,RT2-2016,RCA,50,1789154.27,2020-05-15,21,,05-Jun-20,,Create,Not done,Delivery to be confirmed with supplier on the 5th of August
+Free State,Free State Department of Health,"RT2-2016,HH0426 t5o8",Humidifier - reusable wall,RT2-2016,East Coast Medical,900,279450.00,2020-05-12,7,,19-May-20,,HH0426 t5o8,e effected,Delivered
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH0426 t6o4",blankets,DOH(FS)25/18/19,Kaofelo,1200,600000.00,2020-05-15,28,,12-Jun-20,,HH0426 t6o4,e effected,Delivered
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH042664",sheets,DOH(FS)25/18/19,Kaofelo,4200,84000.00,2020-05-15,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH042664",theatre gowns,DOH(FS)25/18/19,Kaofela,4000,140000.00,2020-05-15,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH042664",theatre pants various sizes,DOH(FS)25/18/19,Kaofelo,4000,120000.00,2020-05-15,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH042664",Theatre shirts various sizes,DOH(FS)25/18/19,Kaofela,4000,120000.00,2020-05-15,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH0426 t6o4",towels,DOH(FS)25/18/19,Kaofela,1100,220000.00,2020-05-15,28,,12-Jun-20,,HH0426 t6o4,e effected,Delivered
+Free State,Free State Department of Health,"DOH(FS)25/18/19,Create",matresss protector,DOH(FS)25/18/19,Kaofela,4000,1200000.00,2020-07-08,28,,05-Aug-20,,Create,Not done,Delivery to be done on the 5th of August 2020
+Free State,Free State Department of Health,"RT2-2016,HH-042850",Humidifier,RT2-2016,Drager,50,1016833.20,2020-06-11,28,,09-Jul-20,,HH-042850,Not done,Delivered
+Free State,Free State Department of Health,"Q007/20/COVID19,HH0426 t8o4",lazy boys,Q007/20/COVID19,Dmatt,20,310463.00,2020-06-01,2,,03-Jun-20,,HH0426 t8o4,e effected,Delivered
+Free State,Free State Department of Health,"Q015/20/COVID19,UH139139",masimo,Q015/20/COVID19,Novagen,100,14647903.50,2020-06-18,2,,20-Jun-20,,UH139139,Not done,Quantity of 10 to be delivered on the 5th of August and 20 to be confirmed at a later stage.
+Free State,Free State Department of Health,"DOH(FS)09/18/19,HH-0428 t2o3","Theatre jade green, white sheet rolls",DOH(FS)09/18/19,KYM Investment,21650m,3349428.50,2020-06-24,,,,,HH-0428 t2o3,e effected,Delivered
