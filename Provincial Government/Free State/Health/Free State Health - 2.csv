@@ -1,8 +1,6 @@
-Item Description,Contract/Quotation,AWARDED BIDDER,"REVISED LATEST
-ADJUSTED PRICE (15%
-VAT)",QUANTITY,"Date
+implementation_location_province,buyer_name,order_number,items_description,Contract/Quotation,supplier_name,order_amount_zar,items_quantity,"Date
 Commitment
-letter issued","DELIVERY
+letter issued",award_date,"DELIVERY
 PERIOD
 MIN (DAYS)","DELIVERY
 PERIOD
@@ -10,38 +8,35 @@ MAX
 (DAYS)","Date for
 delivery MIN","Date for
 delivery MAX","Purchase
-order",Payment,Status of Delivery
-"SUPPLY AND DELIVERY OF PHARMACEUTICAL LIQUID, ALCOHOL,",RT300-2017,BARRS PHARMACEUTICALS,R2 371 200.00,96 000,15-May-20,,,,,HH042660  to,e effected,delivered
-SUPPLY OF DISINFECTANTS CIDEX,DOH(FS)14/16/17,FS AND NCP,R3 283 200.00,96 000,15-May-20,,,,,HH042661,Not done,Arrangement is made that 600 quantity delivere
-SUPPLY AND DELIVERY OF BODY BAGS,DOH(FS)17/17/18,Zaahir Concept Design and Projects,R266 660.00,9500,15-May-20,,,,,HH042663,Not done,Partial deliveries done for the last past 3 weeks.
-SUPPLY AND DELIVERY OF VISORS,Q003/20/COVID19,C-SQUARED CONSUMER,R3 478 640.00,44 000,1-Jun-20,,,,,HH042689  to,e effected,delivered
-SUPPLY AND DELIVERY OF INFRARED THERMOMETER,Q004/20/COVID19,C-SQUARED CONSUMER,R412 450.38,250,1-May-20,,,,,HH042687  to,e effected,delivered
-SUPPLY AND DELIVERY OF BIOHAZARD BAGS,,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,,
-SUPPLY AND DELIVERY OF COVERALLS,,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,,
-SUPPLY AND DELIVERY OF SURGICAL GLOVES,Q008/20/COVID19,Godinako,"R3 600 200.00
-",1 5320,23-Jun-20,,,,,HH-042849 (3),Not done,"Godinalo delivery completed. Thato ya Lesedi
+order",Payment,implementation_status
+Free State,Free State Department of Health,"RT300-2017, HH042660","SUPPLY AND DELIVERY OF PHARMACEUTICAL LIQUID, ALCOHOL,",RT300-2017,BARRS PHARMACEUTICALS,2371200.00,96000,15-May-20,2020-05-15,,,,,HH042660,To be effected,delivered
+Free State,Free State Department of Health,"DOH(FS)14/16/17, HH042661",SUPPLY OF DISINFECTANTS CIDEX,DOH(FS)14/16/17,FS AND NCP,3283200.00,96000,15-May-20,2020-05-15,,,,,HH042661,Not done,Arrangement is made that 600 quantity delivere
+Free State,Free State Department of Health,"DOH(FS)17/17/18, HH042663",SUPPLY AND DELIVERY OF BODY BAGS,DOH(FS)17/17/18,Zaahir Concept Design and Projects,266660.00,9500,15-May-20,2020-05-15,,,,,HH042663,Not done,Partial deliveries done for the last past 3 weeks.
+Free State,Free State Department of Health,"Q003/20/COVID19, HH042689",SUPPLY AND DELIVERY OF VISORS,Q003/20/COVID19,C-SQUARED CONSUMER,3478640.00,44000,1-Jun-20,2020-06-01,,,,,HH042689,To be effected,delivered
+Free State,Free State Department of Health,"Q004/20/COVID19, HH042687",SUPPLY AND DELIVERY OF INFRARED THERMOMETER,Q004/20/COVID19,C-SQUARED CONSUMER,412450.38,250,1-May-20,2020-05-01,,,,,HH042687,To be effected,delivered
+Free State,Free State Department of Health,Cancelled: Provincial Treasury to provide the item.,SUPPLY AND DELIVERY OF BIOHAZARD BAGS,Cancelled: Provincial Treasury to provide the item.,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,Cancelled: Provincial Treasury to provide the item.,Cancelled: Provincial Treasury to provide the item.,Cancelled: Provincial Treasury to provide the item.
+Free State,Free State Department of Health,Cancelled: Provincial Treasury to provide the item.,SUPPLY AND DELIVERY OF COVERALLS,Cancelled: Provincial Treasury to provide the item.,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,Cancelled: Provincial Treasury to provide the item.,Cancelled: Provincial Treasury to provide the item.,Cancelled: Provincial Treasury to provide the item.
+Free State,Free State Department of Health,"Q008/20/COVID19, HH-042849",SUPPLY AND DELIVERY OF SURGICAL GLOVES,Q008/20/COVID19,Godinako,3600200.00,15320,23-Jun-20,2020-06-23,,,,,HH-042849,Not done,"Godinalo delivery completed. Thato ya Lesedi
 and Xhibitit delivery to be completed on the
 4th August."
-SUPPLY AND DELIVERY OF SURGICAL GLOVES,Q008/20/COVID19,Thato ya Lesedi,R2 929 243.75,9805,23-Jun-20,,,,,HH-042849 (3),Not done,"Godinalo delivery completed. Thato ya Lesedi
+Free State,Free State Department of Health,"Q008/20/COVID19, HH-042849",SUPPLY AND DELIVERY OF SURGICAL GLOVES,Q008/20/COVID19,Thato ya Lesedi,2929243.75,9805,23-Jun-20,2020-06-23,,,,,HH-042849,Not done,"Godinalo delivery completed. Thato ya Lesedi
 and Xhibitit delivery to be completed on the
 4th August."
-SUPPLY AND DELIVERY OF SURGICAL GLOVES,Q008/20/COVID19,Xhibitit,R1 966 097.50,5515,23-Jun-20,,,,,HH-042849 (3),Not done,"Godinalo delivery completed. Thato ya Lesedi
+Free State,Free State Department of Health,"Q008/20/COVID19, HH-042849",SUPPLY AND DELIVERY OF SURGICAL GLOVES,Q008/20/COVID19,Xhibitit,1966097.50,5515,23-Jun-20,2020-06-23,,,,,HH-042849,Not done,"Godinalo delivery completed. Thato ya Lesedi
 and Xhibitit delivery to be completed on the
 4th August."
-SUPPLY AND DELIVERY OF APRON,Q009/20/COVID19,NTSU,R546 000.00,454 510,5-Jun-20,,,,,HH-042802 to,e effected,delivered
-SUPPLY AND DELIVERY OF OVERSHOES,Q011/20/COVID19,Bazix First,"R 1, 170, 000.00",9000,20-Jul-20,,,,,HH042717,Not done,Delivery to be done on the 4th of August.
-SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Basix First,"R 2, 700,000.00 
-",55000,2-Jun-20,,,,,"HH042691
-",e effected,delivered
-SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Motheko,"R 2, 295,000.00",45000,2-Jun-20,,,,,HH042683,,delivered
-SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Xhibit,"R 1, 148,000.00",12000,2-Jun-20,,,,,HH042682,,delivered
-SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Sehololo,"R 671,000.00",11000,2-Jun-20,,,,,HH042681,,delivered
-SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Chisel Hill,"R 625,000.00",1000,2-Jun-20,,,,,HH042688,,delivered
-SUPPLY AND DELIVERY OF SURGICAL GOWNS,Q014/20/COVID19,C-squaed,R2 428 020.00,18 000,19-Jun-20,,,,,HH-042826,e effected,delivered
-SUPPLY AND DELIVERY OF SURGICAL GOWNS,Q014/20/COVID19,Fredock,R5 500 000.00,50 000,19-Jun-20,,,,,HH-042826,,delivered
-SUPPLY AND DELIVERY OF SURGICAL GOWNS,Q014/20/COVID19,Century,R4 105 600.00,32000,19-Jun-20,,,,,HH-042826,,delivered
-SUPPLY AND DELIVERY OF THEATRE CAPS,Q018/20/COVID19,MAPHCON CONSULTING,R176 836.00,440 000,CANCELLED,,,,,HH042686,,cancelled
-SUPPLY AND DELIVERY OF GOGGLES,Q021/19/COVID19,QUALITY MEDICAL SUPPLIES,R 64 998.00,1000,17-Jun-20,,,,,HH042685  to,e effected,delivered
-SUPPLY AND DELIVERY OF SPRAY BOTTLES,Q021/19/COVID19,Bahurutsi,R19800.00,2000,27-Jun-20,29-Jun-20,,,,HH-042851 to,e effected,delivered
-SUPPLY AND DELIVERY OF SANITIZER,,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,,cancelled
-SUPPLY AND DELIVERY OF DISPOSABLE SCRUBS,,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,,cancelled
+Free State,Free State Department of Health,"Q009/20/COVID19, HH-042802",SUPPLY AND DELIVERY OF APRON,Q009/20/COVID19,NTSU,546000.00,454510,5-Jun-20,2020-06-05,,,,,HH-042802,To be effected,delivered
+Free State,Free State Department of Health,"Q011/20/COVID19, HH042717",SUPPLY AND DELIVERY OF OVERSHOES,Q011/20/COVID19,Bazix First,1170000.00,9000,20-Jul-20,2020-07-20,,,,,HH042717,Not done,Delivery to be done on the 4th of August.
+Free State,Free State Department of Health,"Q012/20/COVID19, HH042691",SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Basix First,2700000.00,55000,2-Jun-20,2020-06-02,,,,,HH042691,To be effected,delivered
+Free State,Free State Department of Health,"Q012/20/COVID19, HH042683",SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Motheko,2295000.00,45000,2-Jun-20,2020-06-02,,,,,HH042683,To be effected,delivered
+Free State,Free State Department of Health,"Q012/20/COVID19, HH042682",SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Xhibit,1148000.00,12000,2-Jun-20,2020-06-02,,,,,HH042682,To be effected,delivered
+Free State,Free State Department of Health,"Q012/20/COVID19, HH042681",SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Sehololo,671000.00,11000,2-Jun-20,2020-06-02,,,,,HH042681,To be effected,delivered
+Free State,Free State Department of Health,"Q012/20/COVID19, HH042688",SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,Chisel Hill,625000.00,1000,2-Jun-20,2020-06-02,,,,,HH042688,To be effected,delivered
+Free State,Free State Department of Health,"Q014/20/COVID19, HH-042826",SUPPLY AND DELIVERY OF SURGICAL GOWNS,Q014/20/COVID19,C-squaed,2428020.00,18000,19-Jun-20,2020-06-19,,,,,HH-042826,To be effected,delivered
+Free State,Free State Department of Health,"Q014/20/COVID19, HH-042826",SUPPLY AND DELIVERY OF SURGICAL GOWNS,Q014/20/COVID19,Fredock,5500000.00,50000,19-Jun-20,2020-06-19,,,,,HH-042826,To be effected,delivered
+Free State,Free State Department of Health,"Q014/20/COVID19, HH-042826",SUPPLY AND DELIVERY OF SURGICAL GOWNS,Q014/20/COVID19,Century,4105600.00,32000,19-Jun-20,2020-06-19,,,,,HH-042826,To be effected,delivered
+Free State,Free State Department of Health,"Q018/20/COVID19, HH042686",SUPPLY AND DELIVERY OF THEATRE CAPS,Q018/20/COVID19,MAPHCON CONSULTING,176836.00,440000,CANCELLED,,CANCELLED,CANCELLED,CANCELLED,CANCELLED,HH042686,cancelled,cancelled
+Free State,Free State Department of Health,"Q021/19/COVID19, HH042685",SUPPLY AND DELIVERY OF GOGGLES,Q021/19/COVID19,QUALITY MEDICAL SUPPLIES,64998.00,1000,17-Jun-20,2020-06-17,,,,,HH042685,To be effected,delivered
+Free State,Free State Department of Health,"Q021/19/COVID19, HH-042851",SUPPLY AND DELIVERY OF SPRAY BOTTLES,Q021/19/COVID19,Bahurutsi,19800.00,2000,27-Jun-20,2020-06-27,2020-06-29,,,,HH-042851,To be effected,delivered
+Free State,Free State Department of Health,Cancelled: Provincial Treasury to provide the item.,SUPPLY AND DELIVERY OF SANITIZER,Cancelled: Provincial Treasury to provide the item.,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,,,cancelled
+Free State,Free State Department of Health,Cancelled: Provincial Treasury to provide the item.,SUPPLY AND DELIVERY OF DISPOSABLE SCRUBS,Cancelled: Provincial Treasury to provide the item.,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,,,cancelled
