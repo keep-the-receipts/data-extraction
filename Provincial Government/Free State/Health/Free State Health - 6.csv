@@ -1,5 +1,4 @@
-Item Description,Contract/Quotation,AWARDED BIDDER,QUANTITY,"REVISED LATEST ADJUSTED
-PRICE (15% VAT)",Date letter issued,"DELIVERY
+implementation_location_province,buyer_name,order_number,items_description,Contract/Quotation,supplier_name,items_quantity,order_amount_zar,award_date,"DELIVERY
 PERIOD
 MIN (DAYS)","DELIVERY
 PERIOD
@@ -7,17 +6,17 @@ MAX
 (DAYS)","Date for delivery
 MIN","Date for delivery
 MAX","Purchase
-order",Payment,Status of Delivery
-Reverse osmosis plant Replacement,2,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
-Intermittent Hemodialysis Machines,6,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
-Mobile Reverse Osmosis Machines,6,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
-Continuous Hemodialysis Machine,2,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
-Automated Peritoneal Dialysis Machine,2,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
-PD Fluid warmer,1,no quote,,,,,,,,,,No quote received.
-Roller-boards for patient transfer,RT24-2017,Delta,340,"ZAR                      115,485.00",29-Jun-20,28,42,27-Jul-20,10-Aug-20,Create,Not done,Awaiting purchase order to be generated before delivery
-Fluid warmer for IV fluids (“oven”),RT2-1-2016,Class three Medical,20,"ZAR                  1,327,682.00",29-Jun-20,14,56,13-Jul-20,24-Aug-20,UH138969,Not done,Within 14 days from today
-Wall suction units with filters and tubing,RT2-2016,Esat Coast Medical,500,"ZAR                   1,106,040.00",29-Jun-20,30,0,29-Jul-20,29-Jun-20,UH139009,Not done,Delivery to be done on 5th of August 2020
-Dressing trolleys,RT24-2017,New Horizon,15,"ZAR                        28,882.35",29-Jun-20,30,0,29-Jul-20,29-Jun-20,UH138997,Not done,Awaiting delivery address from Dr. Pearce
-Air mattresses,RT24-2017,Arjo,60,"ZAR                      119,774.96",29-Jun-20,42,72,10-Aug-20,9-Sep-20,HH-042846,Not done,Awating for purchase order to be generated
-pillow cases,DOH(FS)25/18/19,Koafela,2600,"ZAR                      103,844.00",29-Jun-20,42,72,10-Aug-20,9-Sep-20,HH-042839,Not done,"Ready for delivery, awaiting printing confirmation from Dr. Pearce"
-Ultrasound machine,RT2-2016,RCA,4,"ZAR                   2,056,619.93",29-Jun-20,42,72,10-Aug-20,9-Sep-20,UH139776,Not done,Delivery to be done on 31st of August 2020
+order",Payment,implementation_status
+Free State,Free State Department of Health,2,Reverse osmosis plant Replacement,2,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
+Free State,Free State Department of Health,6,Intermittent Hemodialysis Machines,6,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
+Free State,Free State Department of Health,6,Mobile Reverse Osmosis Machines,6,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
+Free State,Free State Department of Health,2,Continuous Hemodialysis Machine,2,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
+Free State,Free State Department of Health,2,Automated Peritoneal Dialysis Machine,2,submision for approval,,,,,,,,Q,Not done,"Quotation process done, submission to be approved by HOD."
+Free State,Free State Department of Health,1,PD Fluid warmer,1,no quote,,,,,,,,,,No quote received.
+Free State,Free State Department of Health,RT24-2017,Roller-boards for patient transfer,RT24-2017,Delta,340,115485.00,2020-06-29,28,42,27-Jul-20,10-Aug-20,Create,Not done,Awaiting purchase order to be generated before delivery
+Free State,Free State Department of Health,"RT2-1-2016,UH138969",Fluid warmer for IV fluids (“oven”),RT2-1-2016,Class three Medical,20,1327682.00,2020-06-29,14,56,13-Jul-20,24-Aug-20,UH138969,Not done,Within 14 days from today
+Free State,Free State Department of Health,"RT2-2016,UH139009",Wall suction units with filters and tubing,RT2-2016,Esat Coast Medical,500,1106040.00,2020-06-29,30,0,29-Jul-20,29-Jun-20,UH139009,Not done,Delivery to be done on 5th of August 2020
+Free State,Free State Department of Health,"RT24-2017,UH138997",Dressing trolleys,RT24-2017,New Horizon,15,28882.35,2020-06-29,30,0,29-Jul-20,29-Jun-20,UH138997,Not done,Awaiting delivery address from Dr. Pearce
+Free State,Free State Department of Health,"RT24-2017,HH-042846",Air mattresses,RT24-2017,Arjo,60,119774.96,2020-06-29,42,72,10-Aug-20,09-Sep-20,HH-042846,Not done,Awating for purchase order to be generated
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH-042839",pillow cases,DOH(FS)25/18/19,Koafela,2600,103844.00,2020-06-29,42,72,10-Aug-20,09-Sep-20,HH-042839,Not done,"Ready for delivery, awaiting printing confirmation from Dr. Pearce"
+Free State,Free State Department of Health,"RT2-2016,UH139776",Ultrasound machine,RT2-2016,RCA,4,2056619.93,2020-06-29,42,72,10-Aug-20,09-Sep-20,UH139776,Not done,Delivery to be done on 31st of August 2020
