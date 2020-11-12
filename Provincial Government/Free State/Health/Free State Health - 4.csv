@@ -1,47 +1,45 @@
-Item Description,Contract/Quotation,AWARDED BIDDER,QUANTITY,"REVISED LATEST ADJUSTED PRICE
-(15% VAT)","Date letter
-issued","DELIVERY
+implementation_location_province,buyer_name,order_number,items_description,Contract/Quotation,supplier_name,items_quantity,order_amount_zar,award_date,"DELIVERY
 PERIOD MIN
 (DAYS)","DELIVERY
 PERIOD
 MAX (DAYS)",Date for delivery MIN,"Date for delivery
 MAX","Purchase
-order",Payment,iti
-Mattress,RT24-2017,Arjo - Riaan 0738236015/Kay 07114839,2925,"ZAR                                     985,404.82",19-Jun-20,21,,10-Jul-20,,UH139010,Not done,Delivered
-Monitor,RT2-2016,Echomed CJ 0793426254,50,"ZAR                                     762,049.50",17-Jun-20,25,35,12-Jul-20,22-Jul-20,UH138975,Not done,Delivery to be don on the 30th of August
-flow meter,RT2-2016,Echomed CJ 0793426254,463,"ZAR                                     281,943.85",17-Jun-20,28,35,15-Jul-20,22-Jul-20,UH139002,Not done,Delivery to be done on the 12th of August
-blanket,DOH(FS)25/18/19,Kaofela Mpho 0792357935,1233,"ZAR                                     616,500.00",18-Jun-20,14,21,2-Jul-20,9-Jul-20,HH-042821,Not done,"Partial delivery, to be completed by the 7th of August"
-sheet,DOH(FS)25/18/19,Kaofela Mpho 0792357935,1850,"ZAR                                        37,000.00",18-Jun-20,14,21,2-Jul-20,9-Jul-20,HH-042821,Not done,"Partial delivery, to be completed by the 7th of August"
-pillow,Q031/20/COVID,Kaofela Mpho 0792357935,1700,"ZAR                                     161,500.00",22-Jul-20,14,21,5-Aug-20,12-Aug-20,On delivery,Not done,"Partial delivery, to be completed by the 7th of August"
-pillow cases,DOH(FS)25/18/19,Kaofela Mpho 0792357935,675,"ZAR                                        13,500.00",18-Jun-20,14,21,2-Jul-20,9-Jul-20,HH-042821,Not done,"Partial delivery, to be completed by the 7th of August"
-Humidifier,RT2-2016,East Coast medical Charles 086 100 0428,925,"ZAR                                     287,212.50",19-Jun-20,7,,26-Jun-20,19-Jun-20,UH139003/4,to be effected,Delivered
-drip stand,RT24-2017,New Horizon 031 5647380,675,"ZAR                                     378,432.00",19-Jun-20,14,28,3-Jul-20,17-Jul-20,Create,Not done,Pending
-shield/screen,RT24-2017,Hospital equipment gladys 011-894-4264,135,"ZAR                                     374,252.40",17-Jun-20,28,42,15-Jul-20,29-Jul-20,HH-042848,Not done,Delivery to be done on 31st of August 2020
-emergency trolly,RT24-2017,siyakhanda cindy - 0437362996,27,"ZAR                                     551,642.94",17-Jun-20,56,84,12-Aug-20,9-Sep-20,HH042711,Not done,Pending
-laryngoscope,RT4,Unicore-0829297446,30,"ZAR                                       50,486.10",18-Jun-20,14,,2-Jul-20,,HH-042841,Not done,Pending
-Defibrillator/AED/ECG,RT2-2016,Be safe Gavin 0217884681,27,"ZAR                                  1,015,781.80",19-Jun-20,4,7,23-Jun-20,26-Jun-20,Create,Not done,Awaiting for purchase order to be generated
-medicine trolly,RT24-2017,siyakhanda cindy - 0437362996,33.75,"ZAR                                     457,629.80",18-Jan-00,70,84,28-Mar-00,11-Apr-00,HH042712,Not done,Pending
-table over the bed,RT24-2017,Arjo - Riaan 0738236015/Kay,1500,"ZAR                                  3,142,743.00",22-Jun-20,56,84,17-Aug-20,14-Sep-20,UH139010,Not done,To be confirmed by email today
-oxygen cylinders,RT4,Echomed CJ 0793426254,45,"ZAR                                       59,683.95",19-Jun-20,0,0,19-Jun-20,19-Jun-20,HH-042840,Not done,Delivery to be don on the 29th of August
-Mobile Suction,RT2-2016,Echomed CJ 0793426254,27,"ZAR                                     184,125.96",17-Jun-20,21,28,8-Jul-20,15-Jul-20,UH139047,Not done,Delivery to be don on the 21st of August
-Stethoscopes,RT4-2017,Selective Decision 0117915754,45,"ZAR                                          1,218.15",18-Jun-20,42,56,30-Jul-20,13-Aug-20,UH138970,Not done,Pending
-Lighting with battery,RT2-2016,Sanbonani Holdings 0824136617,14,"ZAR                                     407,019.34",22-Jun-20,70,84,31-Aug-20,14-Sep-20,Create,Not done,Awaiting for purchase order to be generated
-Medications Fridge,RT2-2016,Minus 40 Duncan 0213862290,5,"ZAR                                     305,214.05",10-Jun-20,ex stock,ex stock,ex stock,ex stock,HH042698,paid,Delivered
-Scale,RT2-2016,delta surgical Ashley,27,"ZAR                                     108,990.90",23-Jun-20,0,,23-Jun-20,23-Jun-20,UH138967,Not done,Pending
-Wheel chairs and stretcher trolleys,RT233-2107,CE Mobility phindi phindi@cemobility.co,za45,"ZAR                                     113,772.60",25-Jun-20,14,21,9-Jul-20,16-Jul-20,UH139125,Not done,Pending
-Commodes/bedpans,RT24-2017,Safarmex Felicity0119740429,135,"ZAR                                       15,161.85",22-Jun-20,,,22-Jun-20,22-Jun-20,UH138971,Not done,Pending
-Body Trolley,RT24-2017,New Horizon 031 5647380,14,"ZAR                                     109,013.40",19-Jun-20,30,,19-Jul-20,19-Jun-20,UH138995,Not done,Awaiting delivery address from Dr. Pearce
-bedpan stand,RT24-2017,New Horizon 031 5647380,5,"ZAR                                       16,199.40",18-Jun-20,30,,18-Jul-20,18-Jun-20,UH138994,Not done,Awaiting delivery address from Dr. Pearce
-INTUBATION VIDEO LARYNGOSCOPE,RT2-1-2016,SSEM Jannie 0833795943,6,"ZAR                                     912,870.00",19-Jun-20,70,84,28-Aug-20,11-Sep-20,HH-042847,Not done,Delivery to be completed by the 7th of August
-Hemocue - Hb Meter - for each ward,Q043/20/COVID19,Approved- went for capturing,27,,,,,,,On delivery,Not done,Awaiting for purchase order to be generated
-Glucometer- for each ward,DOH(FS)29/18/19,Khalienyane Trading Tshepiso - 0737544,9227,"ZAR                                          5,062.50",22-Jun-20,5,,27-Jun-20,,Create,Not done,Delivered
-Portable ultrasound machine,RT2-1-2016,Tecmed Lubbe 0825787745,5,"ZAR                                  2,479,325.09",17-Jun-20,14,49,1-Jul-20,5-Aug-20,HH-042829,Not done,Delivery to be done before 14th August
-12 lead ECG machine,RT2-2016,Echomed CJ 0793426254,10,"ZAR                                        27,838.30",19-Jun-20,28,35,17-Jul-20,24-Jul-20,UH138999,Not done,Delivery to be done on the 12th of August
-ICU Monitor,RT2-2016,Echomed CJ 0793426254,70,"ZAR                                  3,083,855.60",19-Jun-20,28,35,17-Jul-20,24-Jul-20,UH139007,Not done,Delivery to be don on the 28th of August
-SYRINGE DRIVER,RT4-2017,Echomed CJ 0793426255,120,"ZAR                                     676,200.00",23-Jun-20,28,35,21-Jul-20,28-Jul-20,HH-042859,to be effected,Delivered
-infusion pump,RT2-2016,Echomed CJ 0793426256,300,"ZAR                                  2,253,615.00",23-Jun-20,28,35,21-Jul-20,28-Jul-20,Create,Not done,Ex-stock- awaiting purchase orer to be generated.
-ventilator,RT2-2016,RCA Angelique0834119690,50,"ZAR                               20,732,458.46",19-Jun-20,42,84,31-Jul-20,11-Sep-20,UH139008,Not done,Delivery to begin in September and completed in October
-high flow oxygen,Q030/20/COVID19,RCA Angelique0834119690,100,"ZAR                               12,459,966.53",1-Jul-20,2,70,,,Create,Not done,Partial- Delivery to be completed end of September  2020
-WARMER,Q028/20/COVID19,Augustine,80,"ZAR                                  2,222,540.00",3-Jul-20,2,49,,,Create,Not done,Awaiting for purchase order to be generated
-Intermittent pneumatic compression device,DOH(FS)08/18,DISA VASCULAR,60,"ZAR                                  1,007,371.77",25-Jun-20,2,3,27-Jun-20,28-Jun-20,Create,Not done,Awaiting for purchase order to be generated
-Lazy boys chairs,Q041/20/COVID19,Approved- went for capturing,30,,,,,,,On delivery,Not done,Awaiting for purchase order to be generated
+order",Payment,implementation_status
+Free State,Free State Department of Health,"RT24-2017,UH139010",Mattress,RT24-2017,Arjo - Riaan 0738236015/Kay 07114839,2925,985404.82,19/06/2020,21,,10-Jul-20,,UH139010,Not done,Delivered
+Free State,Free State Department of Health,"RT2-2016,UH138975",Monitor,RT2-2016,Echomed CJ 0793426254,50,762049.50,17/06/2020,25,35,12-Jul-20,22-Jul-20,UH138975,Not done,Delivery to be don on the 30th of August
+Free State,Free State Department of Health,"RT2-2016,UH139002",flow meter,RT2-2016,Echomed CJ 0793426254,463,281943.85,17/06/2020,28,35,15-Jul-20,22-Jul-20,UH139002,Not done,Delivery to be done on the 12th of August
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH-042821",blanket,DOH(FS)25/18/19,Kaofela Mpho 0792357935,1233,616500.00,18/06/2020,14,21,02-Jul-20,09-Jul-20,HH-042821,Not done,"Partial delivery, to be completed by the 7th of August"
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH-042821",sheet,DOH(FS)25/18/19,Kaofela Mpho 0792357935,1850,37000.00,18/06/2020,14,21,02-Jul-20,09-Jul-20,HH-042821,Not done,"Partial delivery, to be completed by the 7th of August"
+Free State,Free State Department of Health,"Q031/20/COVID,On delivery",pillow,Q031/20/COVID,Kaofela Mpho 0792357935,1700,161500.00,22/07/2020,14,21,05-Aug-20,12-Aug-20,On delivery,Not done,"Partial delivery, to be completed by the 7th of August"
+Free State,Free State Department of Health,"DOH(FS)25/18/19,HH-042821",pillow cases,DOH(FS)25/18/19,Kaofela Mpho 0792357935,675,13500.00,18/06/2020,14,21,02-Jul-20,09-Jul-20,HH-042821,Not done,"Partial delivery, to be completed by the 7th of August"
+Free State,Free State Department of Health,"RT2-2016,UH139003/4",Humidifier,RT2-2016,East Coast medical Charles 086 100 0428,925,287212.50,19/06/2020,7,,26-Jun-20,19-Jun-20,UH139003/4,to be effected,Delivered
+Free State,Free State Department of Health,"RT24-2017,Create",drip stand,RT24-2017,New Horizon 031 5647380,675,378432.00,19/06/2020,14,28,03-Jul-20,17-Jul-20,Create,Not done,Pending
+Free State,Free State Department of Health,"RT24-2017,HH-042848",shield/screen,RT24-2017,Hospital equipment gladys 011-894-4264,135,374252.40,17/06/2020,28,42,15-Jul-20,29-Jul-20,HH-042848,Not done,Delivery to be done on 31st of August 2020
+Free State,Free State Department of Health,"RT24-2017,HH042711",emergency trolly,RT24-2017,siyakhanda cindy - 0437362996,27,551642.94,17/06/2020,56,84,12-Aug-20,09-Sep-20,HH042711,Not done,Pending
+Free State,Free State Department of Health,"RT4,HH-042841",laryngoscope,RT4,Unicore-0829297446,30,50486.10,18/06/2020,14,,02-Jul-20,,HH-042841,Not done,Pending
+Free State,Free State Department of Health,"RT2-2016,Create",Defibrillator/AED/ECG,RT2-2016,Be safe Gavin 0217884681,27,1015781.80,19/06/2020,4,7,23-Jun-20,26-Jun-20,Create,Not done,Awaiting for purchase order to be generated
+Free State,Free State Department of Health,"RT24-2017,HH042712",medicine trolly,RT24-2017,siyakhanda cindy - 0437362996,33.75,457629.80,18/01/2000,70,84,28-Mar-00,11-Apr-00,HH042712,Not done,Pending
+Free State,Free State Department of Health,"RT24-2017,UH139010",table over the bed,RT24-2017,Arjo - Riaan 0738236015/Kay,1500,3142743.00,22/06/2020,56,84,17-Aug-20,14-Sep-20,UH139010,Not done,To be confirmed by email today
+Free State,Free State Department of Health,"RT4,HH-042840",oxygen cylinders,RT4,Echomed CJ 0793426254,45,59683.95,19/06/2020,0,0,19-Jun-20,19-Jun-20,HH-042840,Not done,Delivery to be don on the 29th of August
+Free State,Free State Department of Health,"RT2-2016,UH139047",Mobile Suction,RT2-2016,Echomed CJ 0793426254,27,184125.96,17/06/2020,21,28,08-Jul-20,15-Jul-20,UH139047,Not done,Delivery to be don on the 21st of August
+Free State,Free State Department of Health,"RT4-2017,UH138970",Stethoscopes,RT4-2017,Selective Decision 0117915754,45,1218.15,18/06/2020,42,56,30-Jul-20,13-Aug-20,UH138970,Not done,Pending
+Free State,Free State Department of Health,"RT2-2016,Create",Lighting with battery,RT2-2016,Sanbonani Holdings 0824136617,14,407019.34,22/06/2020,70,84,31-Aug-20,14-Sep-20,Create,Not done,Awaiting for purchase order to be generated
+Free State,Free State Department of Health,"RT2-2016,HH042698",Medications Fridge,RT2-2016,Minus 40 Duncan 0213862290,5,305214.05,10/06/2020,ex stock,ex stock,ex stock,ex stock,HH042698,paid,Delivered
+Free State,Free State Department of Health,"RT2-2016,UH138967",Scale,RT2-2016,delta surgical Ashley,27,108990.90,23/06/2020,0,,23-Jun-20,23-Jun-20,UH138967,Not done,Pending
+Free State,Free State Department of Health,"RT233-2107,UH139125",Wheel chairs and stretcher trolleys,RT233-2107,CE Mobility phindi phindi@cemobility.co,45,113772.60,25/06/2020,14,21,09-Jul-20,16-Jul-20,UH139125,Not done,Pending
+Free State,Free State Department of Health,"RT24-2017,UH138971",Commodes/bedpans,RT24-2017,Safarmex Felicity0119740429,135,15161.85,22/06/2020,,,22-Jun-20,22-Jun-20,UH138971,Not done,Pending
+Free State,Free State Department of Health,"RT24-2017,UH138995",Body Trolley,RT24-2017,New Horizon 031 5647380,14,109013.40,19/06/2020,30,,19-Jul-20,19-Jun-20,UH138995,Not done,Awaiting delivery address from Dr. Pearce
+Free State,Free State Department of Health,"RT24-2017,UH138994",bedpan stand,RT24-2017,New Horizon 031 5647380,5,16199.40,18/06/2020,30,,18-Jul-20,18-Jun-20,UH138994,Not done,Awaiting delivery address from Dr. Pearce
+Free State,Free State Department of Health,"RT2-1-2016,HH-042847",INTUBATION VIDEO LARYNGOSCOPE,RT2-1-2016,SSEM Jannie 0833795943,6,912870.00,19/06/2020,70,84,28-Aug-20,11-Sep-20,HH-042847,Not done,Delivery to be completed by the 7th of August
+Free State,Free State Department of Health,"Q043/20/COVID19,On delivery",Hemocue - Hb Meter - for each ward,Q043/20/COVID19,Approved- went for capturing,27,,,,,,,On delivery,Not done,Awaiting for purchase order to be generated
+Free State,Free State Department of Health,"DOH(FS)29/18/19,Create",Glucometer- for each ward,DOH(FS)29/18/19,Khalienyane Trading Tshepiso - 0737544,9227,5062.50,22/06/2020,5,,27-Jun-20,,Create,Not done,Delivered
+Free State,Free State Department of Health,"RT2-1-2016,HH-042829",Portable ultrasound machine,RT2-1-2016,Tecmed Lubbe 0825787745,5,2479325.09,17/06/2020,14,49,01-Jul-20,05-Aug-20,HH-042829,Not done,Delivery to be done before 14th August
+Free State,Free State Department of Health,"RT2-2016,UH138999",12 lead ECG machine,RT2-2016,Echomed CJ 0793426254,10,27838.30,19/06/2020,28,35,17-Jul-20,24-Jul-20,UH138999,Not done,Delivery to be done on the 12th of August
+Free State,Free State Department of Health,"RT2-2016,UH139007",ICU Monitor,RT2-2016,Echomed CJ 0793426254,70,3083855.60,19/06/2020,28,35,17-Jul-20,24-Jul-20,UH139007,Not done,Delivery to be don on the 28th of August
+Free State,Free State Department of Health,"RT4-2017,HH-042859",SYRINGE DRIVER,RT4-2017,Echomed CJ 0793426255,120,676200.00,23/06/2020,28,35,21-Jul-20,28-Jul-20,HH-042859,to be effected,Delivered
+Free State,Free State Department of Health,"RT2-2016,Create",infusion pump,RT2-2016,Echomed CJ 0793426256,300,2253615.00,23/06/2020,28,35,21-Jul-20,28-Jul-20,Create,Not done,Ex-stock- awaiting purchase orer to be generated.
+Free State,Free State Department of Health,"RT2-2016,UH139008",ventilator,RT2-2016,RCA Angelique0834119690,50,20732458.46,19/06/2020,42,84,31-Jul-20,11-Sep-20,UH139008,Not done,Delivery to begin in September and completed in October
+Free State,Free State Department of Health,"Q030/20/COVID19,Create",high flow oxygen,Q030/20/COVID19,RCA Angelique0834119690,100,12459966.53,01/07/2020,2,70,,,Create,Not done,Partial- Delivery to be completed end of September  2020
+Free State,Free State Department of Health,"Q028/20/COVID19,Create",WARMER,Q028/20/COVID19,Augustine,80,2222540.00,03/07/2020,2,49,,,Create,Not done,Awaiting for purchase order to be generated
+Free State,Free State Department of Health,"DOH(FS)08/18,Create",Intermittent pneumatic compression device,DOH(FS)08/18,DISA VASCULAR,60,1007371.77,25/06/2020,2,3,27-Jun-20,28-Jun-20,Create,Not done,Awaiting for purchase order to be generated
+Free State,Free State Department of Health,"Q041/20/COVID19,On delivery",Lazy boys chairs,Q041/20/COVID19,Approved- went for capturing,30,,,,,,,On delivery,Not done,Awaiting for purchase order to be generated
