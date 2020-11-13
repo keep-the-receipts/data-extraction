@@ -1,0 +1,56 @@
+buyer_name,"Item
+No",items_quantity,"Main Category
+of Expense","Sub-
+Catego
+ry",items_description,order_amount_zar,"Q1
+Purchase
+orders","Q2
+Purchase
+orders",supplier_name,company_registration_number,award_date,"SCM
+PROCESS
+FOLLOWED
+(Request for
+Quotation)","Q1
+Payments",Q2 Payments,payment_amount_zar
+Special Investigating Unit (SIU),1,50 boxes,Covid-19 Costs,PPE,Masks,20995.00,R20 995.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/07,2020-06-05,RFQ,,,150948.00
+Special Investigating Unit (SIU),2,40 boxes,Covid-19 Costs,PPE,Gloves,9596.00,R9 596.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/08,2020-06-06,RFQ,,,0.00
+Special Investigating Unit (SIU),3,30 boxes,Covid-19 Costs,PPE,Gloves,7197.00,R7 197.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/09,2020-06-07,RFQ,,,0.00
+Special Investigating Unit (SIU),4,150,Covid-19 Costs,PPE,Sanitizer,8985.00,R8 985.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/10,2020-06-08,RFQ,,,0.00
+Special Investigating Unit (SIU),5,100,Covid-19 Costs,PPE,Sanitizer,22000.00,R22 000.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/11,2020-06-09,RFQ,,,0.00
+Special Investigating Unit (SIU),6,1000,Covid-19 Costs,PPE,Biohazard bags,4000.00,R4 000.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/12,2020-06-10,RFQ,,,0.00
+Special Investigating Unit (SIU),7,100,Covid-19 Costs,PPE,Sanitizer,5590.00,R5 590.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/13,2020-06-11,RFQ,,,0.00
+Special Investigating Unit (SIU),8,1000,Covid-19 Costs,PPE,Sanitizer,26900.00,R26 900.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/14,2020-06-12,RFQ,,,0.00
+Special Investigating Unit (SIU),9,500 packs,Covid-19 Costs,PPE,Sanitizer,1945.00,R1 945.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/15,2020-06-13,RFQ,,,0.00
+Special Investigating Unit (SIU),10,25,Covid-19 Costs,PPE,Sanitizer floor units,28750.00,R28 750.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/16,2020-06-14,RFQ,,,0.00
+Special Investigating Unit (SIU),11,100,Covid-19 Costs,PPE,Disinfectant,14990.00,R14 990.00,,Letodi Facilities & logistics (Pty) Ltd,2017/666152/17,2020-06-15,RFQ,,,0.00
+Special Investigating Unit (SIU),12,14,Covid-19 Costs,PPE,Thermometer,25200.00,R25 200.00,,The Medcial Hub (Pty) Ltd,2017/358930/07,2020-05-18,RFQ,R25 200.00,,25200.00
+Special Investigating Unit (SIU),13,1200,Covid-19 Costs,PPE,Cloth masks,39000.00,R39 000.00,,SA Doctor App (Pty) Ltd,2014/176315/07,2020-05-12,RFQ,,,58500.00
+Special Investigating Unit (SIU),14,600,Covid-19 Costs,PPE,Cloth masks,19500.00,R19 500.00,,SA Doctor App (Pty) Ltd,2014/176315/08,2020-05-13,RFQ,,,0.00
+Special Investigating Unit (SIU),15,2,Covid-19 Costs,PPE,Clear screen,5514.25,R5 514.25,,Jahman Office (Pty) Ltd,2004/037428/23,2020-06-25,RFQ,,,0.00
+Special Investigating Unit (SIU),16,6,Covid-19 Costs,PPE,Clear screen,14470.68,R14 470.68,,Jahman Office (Pty) Ltd,2004/037428/24,2020-06-26,RFQ,,,0.00
+Special Investigating Unit (SIU),17,1,Covid-19 Costs,PPE,Clear screen,2170.00,R2 170.00,,Jahman Office (Pty) Ltd,2004/037428/25,2020-06-27,RFQ,,,0.00
+Special Investigating Unit (SIU),18,1,Covid-19 Costs,PPE,Clear screen,2769.20,R2 769.20,,Jahman Office (Pty) Ltd,2004/037428/26,2020-06-28,RFQ,,,0.00
+Special Investigating Unit (SIU),19,1,Covid-19 Costs,PPE,Clear screen,2970.45,R2 970.45,,Jahman Office (Pty) Ltd,2004/037428/27,2020-06-29,RFQ,,,0.00
+Special Investigating Unit (SIU),20,2,Covid-19 Costs,PPE,Clear screen,4335.73,R4 335.73,,Jahman Office (Pty) Ltd,2004/037428/28,2020-06-30,RFQ,,,0.00
+Special Investigating Unit (SIU),21,1,Covid-19 Costs,PPE,Clear screen,2769.20,R2 769.20,,Jahman Office (Pty) Ltd,2004/037428/29,2020-07-01,RFQ,,,0.00
+Special Investigating Unit (SIU),22,10,Covid-19 Costs,PPE,Sanitizer,2440.00,R2 440.00,,SB Printing and Solutions (Pty) Ltd,2018/204671/07,2020-07-31,RFQ,,,0.00
+Special Investigating Unit (SIU),23,1,Covid-19 Costs,PPE,Cleaning,4500.00,R4 500.00,,Hurricane Pest Control CC,2010/035670/23,2020-06-24,RFQ,,,0.00
+Special Investigating Unit (SIU),24,1,Covid-19 Costs,PPE,Cleaning,3559.50,R3 559.50,,Sidze Pest Control,2015/004692/07,2020-06-24,RFQ,,R3 559.50,3559.50
+Special Investigating Unit (SIU),25,1,Covid-19 Costs,PPE,Cleaning,2521.54,,R2 521.54,Pest Invasion Control Pretoria (Pty) Ltd,2014/016757/07,2020-09-07,RFQ,,,0.00
+Special Investigating Unit (SIU),26,1,Covid-19 Costs,PPE,Cleaning,1479.94,,R1 479.94,Pest Invasion Control Pretoria (Pty) Ltd,2014/016757/08,2020-09-08,RFQ,,R1 479.94,1479.94
+Special Investigating Unit (SIU),27,1,Covid-19 Costs,PPE,Cleaning,3983.98,,R3 983.98,Pestokill Pest and Fumigation Services(Pty) Ltd,2009/075363/23,2020-07-24,RFQ,,,0.00
+Special Investigating Unit (SIU),28,1,Covid-19 Costs,PPE,Cleaning,6379.60,,R6 379.60,Imonti Pest Control,"680601526508
+(Sole
+Proprietorship",2020-06-07,RFQ,,,0.00
+Special Investigating Unit (SIU),29,1,Covid-19 Costs,PPE,Cleaning,1630.77,,R1 630.77,Imonti Pest Control,"680601526508
+(Sole
+Proprietorship",2020-06-07,RFQ,,,0.00
+Special Investigating Unit (SIU),30,1,Covid-19 Costs,PPE,Cleaning,2817.50,,R2 817.50,AVIA-GIS South Africa (Pty) Ltd,2016/426975/07,2020-07-24,RFQ,,,0.00
+Special Investigating Unit (SIU),31,10,Covid-19 Costs,PPE,Sanitizer,750.00,,R750.00,SB Printing and Solutions (Pty) Ltd,2018/204671/07,2020-07-31,RFQ,,,0.00
+Special Investigating Unit (SIU),32,5,Covid-19 Costs,PPE,Sanitizer,1390.00,,R1 390.00,SB Printing and Solutions (Pty) Ltd,2018/204671/08,2020-08-01,RFQ,,,0.00
+Special Investigating Unit (SIU),33,5,Covid-19 Costs,PPE,Sanitizer,300.00,,R300.00,SB Printing and Solutions (Pty) Ltd,2018/204671/09,2020-08-02,RFQ,,,0.00
+Special Investigating Unit (SIU),34,1,Covid-19 Costs,PPE,Cleaning,2939.22,,R2 939.22,Pest Invasion Control Pretoria (Pty) Ltd,2014/016757/07,2020-09-07,RFQ,,,0.00
+Special Investigating Unit (SIU),35,1,Covid-19 Costs,PPE,Cleaning,31035.63,R31 035.63,,The Pest Control Prons (Pty) Ltd,2017/194587/07,2020-03-24,RFQ,,R31 035.63,31035.63
+Special Investigating Unit (SIU),36,1,Covid-19 Costs,PPE,Cleaning,5291.76,,R5 291.76,Imonti Pest Control,"680601526508
+(Sole
+Proprietorship",2020-06-07,RFQ,,,0.00
