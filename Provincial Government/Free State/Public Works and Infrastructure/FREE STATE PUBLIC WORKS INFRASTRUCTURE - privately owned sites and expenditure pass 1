@@ -1,8 +1,6 @@
-Region,NAME OF THE FACILITY,"PROCUREMENT PROCESS
-FOLLOWED","NAME AND LOCALITY OF THE
-OWNER",DEMOGRAPHICS,"EXPENDITURE INCURRED
-FOR THE FACILITY"
-Motheo,Monte Bello,"Database and Register of
+buyer_name,supplier_name,implementation_location_other,implementation_location_facility,procurement_method,"NAME AND LOCALITY OF THE
+OWNER",DEMOGRAPHICS,order_amount_zar
+Free State Department of Public Works and Infrastructure,,Motheo,Monte Bello,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
 State Tourism Authority
@@ -14,8 +12,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",D. Grobler (Bloemfontein),White - Male,"R1 030 607,36"
-Motheo,Emzini Guest House,"Database and Register of
+eligible facilities.",D. Grobler (Bloemfontein),White - Male,1030607.36
+Free State Department of Public Works and Infrastructure,,Motheo,Emzini Guest House,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
 State Tourism Authority
@@ -27,8 +25,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",K. Khoza (Bloemfontein),African – Male,"R2 264 210,00"
-Motheo,Tuscany Lodge,"Database and Register of
+eligible facilities.",K. Khoza (Bloemfontein),African Ð Male,2264210.00
+Free State Department of Public Works and Infrastructure,,Motheo,Tuscany Lodge,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
 State Tourism Authority
@@ -40,8 +38,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",Y. Haley,White - Female,"R314 055,00"
-Motheo,Farm House,"Database and Register of
+eligible facilities.",Y. Haley,White - Female,314055.00
+Free State Department of Public Works and Infrastructure,,Motheo,Farm House,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
 State Tourism Authority
@@ -53,8 +51,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",Y. Haley,White - Female,"R1 072 565,00"
-Motheo,Cura Lodge,"Database and Register of
+eligible facilities.",Y. Haley,White - Female,1072565.00
+Free State Department of Public Works and Infrastructure,,Motheo,Cura Lodge,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
 State Tourism Authority
@@ -66,8 +64,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",B. Kapp,White - Female,"R177 540,00"
-Motheo,"Imvelo Safari and Game
+eligible facilities.",B. Kapp,White - Female,177540.00
+Free State Department of Public Works and Infrastructure,,Motheo,"Imvelo Safari and Game
 Breeders","Database and Register of
 Guest Houses and Hotels
 managed by the Free
@@ -80,8 +78,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",X. Dasheka (Bloemfontein),African – Male,"R1 039 399,91"
-Motheo,"Royal Palace Guesthouse t/a
+eligible facilities.",X. Dasheka (Bloemfontein),African Ð Male,1039399.91
+Free State Department of Public Works and Infrastructure,,Motheo,"Royal Palace Guesthouse t/a
 Thlolo Community
 Development.","Database and Register of
 Guest Houses and Hotels
@@ -95,8 +93,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",T. Motaung (Bloemfontein),African - Male,"R318 000,00"
-Motheo,Monate Wa Phokeng,"Database and Register of
+eligible facilities.",T. Motaung (Bloemfontein),African - Male,318000.00
+Free State Department of Public Works and Infrastructure,,Motheo,Monate Wa Phokeng,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
 State Tourism Authority
@@ -108,8 +106,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",D. Rantoa (Bloemfontein),African – Male,"R285 315,00"
-Motheo,Hide Place Lodge,"Database and Register of
+eligible facilities.",D. Rantoa (Bloemfontein),African Ð Male,285315.00
+Free State Department of Public Works and Infrastructure,,Motheo,Hide Place Lodge,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
 State Tourism Authority
@@ -121,8 +119,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",LJ. Morabane (Bloemfontein),African – Male,"R1 132 000,00"
-Fezile Dabi,Izekhaya Bed & Breakfast,"Database and Register of
+eligible facilities.",LJ. Morabane (Bloemfontein),African Ð Male,1132000.00
+Free State Department of Public Works and Infrastructure,,Fezile Dabi,Izekhaya Bed & Breakfast,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
 State Tourism Authority
@@ -134,8 +132,8 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",S. Simila (Kroonstad),African – Male,"R382 720,00"
-"Thabo
+eligible facilities.",S. Simila (Kroonstad),African Ð Male,382720.00
+Free State Department of Public Works and Infrastructure,,"Thabo
 Mofutsanyane",Riverside Lodge,"Database and Register of
 Guest Houses and Hotels
 managed by the Free
@@ -148,4 +146,4 @@ Association of Southern
 Africa).
 Conclusion of the Service
 Level Agreement with
-eligible facilities.",HC Visser (Ladybrand),White – Male,"R279 450,00"
+eligible facilities.",HC Visser (Ladybrand),White Ð Male,279450.00
