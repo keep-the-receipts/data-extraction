@@ -1,13 +1,11 @@
-Name of the Business,Company Registration Number,Amount,"Goods
-Purchased (PPEs
-procured)",Date of Procurement,Procurement Processes followed
-Lechoba Medical Technologies,2005/044442/07,R 121 502.10,Hand Sanitizers,26/03/2020,Request for Quotation 
-NJU Projects & General Trading ,2018/297547/07,R 63 000.00,Body Temperature Thermal Cameras ,08/06/2020,Request for Quotation 
-Flamingo Moon Trading ,2004/020790/07,R 23 460.00,Face Masks ,13/05/2020,Request for Quotation 
-Esizwe Group ,2003/084491/23,R 5 088.00,Comfort Face Shields ,20/05/2020,Request for Quotation 
-Fortistle ,2018/472346/07,R 48 875.00,Face Masks ,28/05/2020,Request for Quotation 
-Tara Healthcare ,2019/237077/07,R 22 450.00,Gloves ,27/07/2020,Request for Quotation 
-Ayanda Multiserve,2016/347219/07,R 22 500.00,Comfort Face Shields ,11/06/2020,Request for Quotation 
-Yellotec ,2013/231556/07,R 2 591.88,Body Temperature Thermal Cameras ,23/07/2020,Request for Quotation 
-Motlokwa & Farm Holdings ,2016/219919/07,R 1 100.00,Spray Bottles (empty) ,11/06/2020,Request for Quotation 
-Multisurge ,2014/170364/07,R13 800.00,Disinfection Chemical ,04/06/2020,Request for Quotation 
+buyer_name,supplier_name,company_registration_number,order_amount_zar,items_description,invoice_date,procurement_method
+Department of International Relations and Cooperation (DIRCO),Lechoba Medical Technologies,2005/044442/07,121502.10,Hand Sanitizers,2020-03-26,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),NJU Projects & General Trading ,2018/297547/07,63000.00,Body Temperature Thermal Cameras ,2020-06-08,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),Flamingo Moon Trading ,2004/020790/07,23460.00,Face Masks ,2020-05-13,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),Esizwe Group ,2003/084491/23,5088.00,Comfort Face Shields ,2020-05-20,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),Fortistle ,2018/472346/07,48875.00,Face Masks ,2020-05-28,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),Tara Healthcare ,2019/237077/07,22450.00,Gloves ,2020-07-27,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),Ayanda Multiserve,2016/347219/07,22500.00,Comfort Face Shields ,2020-06-11,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),Yellotec ,2013/231556/07,2591.88,Body Temperature Thermal Cameras ,2020-07-23,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),Motlokwa & Farm Holdings ,2016/219919/07,1100.00,Spray Bottles (empty) ,2020-06-11,Request for Quotation 
+Department of International Relations and Cooperation (DIRCO),Multisurge ,2014/170364/07,13800.00,Disinfection Chemical ,2020-06-04,Request for Quotation 
