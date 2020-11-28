@@ -1,5 +1,5 @@
-PO Number,Supplier,Document Date,Item Description,Item quantity,Unit Cost,PO Amount
-Invoice,Motla Investments,08/04/2020,Gloves,5200,,"187,200.00"
-Invoice,Motla Investments,08/04/2020,Bodysuits,520,,"414,278.80"
-Invoice,Motla Investments,08/04/2020,Medical hand sanitizers,520,,"75,530.00"
-Invoice,Motla Investments,08/04/2020,Surgical masks,4160,,"116,480.00"
+buyer_name,order_number,supplier_name,invoice_date,items_description,items_quantity,Unit Cost,order_amount_zar
+National Development Agency (NDA),Invoice,Motla Investments,2020-04-08,"2019-20 Volunteer Programme - Committed in 19-20, expensed in 2020-21:Gloves",5200,,187200.00
+National Development Agency (NDA),Invoice,Motla Investments,2020-04-08,"2019-20 Volunteer Programme - Committed in 19-20, expensed in 2020-21:Bodysuits",520,,414278.80
+National Development Agency (NDA),Invoice,Motla Investments,2020-04-08,"2019-20 Volunteer Programme - Committed in 19-20, expensed in 2020-21:Medical hand sanitizers",520,,75530.00
+National Development Agency (NDA),Invoice,Motla Investments,2020-04-08,"2019-20 Volunteer Programme - Committed in 19-20, expensed in 2020-21:Surgical masks",4160,,116480.00
