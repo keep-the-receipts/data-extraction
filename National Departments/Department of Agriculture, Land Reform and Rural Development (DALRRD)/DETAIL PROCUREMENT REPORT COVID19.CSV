@@ -1,845 +1,841 @@
-No.,Province,Supplier Name,Description of Item,Unit Pice,Quantity,Total Price,"Indicate: Normal process or
-Deviation",Order date,Company registration
-1,National,Coviarant Consulting,"Appointment of a Service Provider to Supply and Deliver
+buyer_name,No.,implementation_location_other,supplier_name,items_description,Unit Pice,cost_per_unit_zar,items_quantity,order_amount_zar,"Indicate: Normal process or
+Deviation",Order date,invoice_date,company_registration_number
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",1,National,Coviarant Consulting,"Appointment of a Service Provider to Supply and Deliver
 PPE (17 000 Parameter Tapes) for Department of
-Agriculture, Rural Development and Land Reform","R                            26,87",17000,"R                        443 478,15",Deviation,20/05/2020,2014/075830/07
-2,National,Coviarant Consulting,"Appointment of a Service Provider to Supply and Deliver
+Agriculture, Rural Development and Land Reform","R                            26,87",26.87,17000,443478.15,Deviation,20/05/2020,2020-05-20,2014/075830/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",2,National,Coviarant Consulting,"Appointment of a Service Provider to Supply and Deliver
 PPE (2000 Distance Markers) for Department of
-Agriculture, Rural Development and Land Reform","R                            17,39",2000,"R                          34 782,60",Deviation,20/05/2020,2014/075830/07
-3,National,Ntsako Lethabo Trading,"Appointment of a Service Provider to Supply and Deliver
+Agriculture, Rural Development and Land Reform","R                            17,39",17.39,2000,34782.60,Deviation,20/05/2020,2020-05-20,2014/075830/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",3,National,Ntsako Lethabo Trading,"Appointment of a Service Provider to Supply and Deliver
 PPE (260 Digital Thermometers) for Department of
-Agriculture, Rural Development and Land Reform","R                       1 913,00",260,"R                        571 987,00",Deviation,20/05/2020,"2016/311523/07
+Agriculture, Rural Development and Land Reform","R                       1 913,00",1913.00,260,571987.00,Deviation,20/05/2020,2020-05-20,"2016/311523/07
 2015/032834/07"
-4,National,Imperatrix,"Appointment of a Service Provider to Supply and Deliver
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",4,National,Imperatrix,"Appointment of a Service Provider to Supply and Deliver
 Touchless Dispenser for Department of Agriculture, Rural
-Development and Land Reform","R                          900,00",260,"R                        234 000,00",Normal Process,26/05/2020,2019/428581/07
-5,National,Imperatrix,"Appointment of a Service Provider to Supply and Deliver
+Development and Land Reform","R                          900,00",900.00,260,234000.00,Normal Process,26/05/2020,2020-05-26,2019/428581/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",5,National,Imperatrix,"Appointment of a Service Provider to Supply and Deliver
 Touchless Dispenser 500ml empty bottles for Department
-of Agriculture, Rural Development and Land Reform","R                            28,00",520,"R                          14 560,00",Normal Process,26/05/2020,2019/428581/07
-6,National,Saferight Group,"Appointment of a Service Provider to Supply and Deliver
+of Agriculture, Rural Development and Land Reform","R                            28,00",28.00,520,14560.00,Normal Process,26/05/2020,2020-05-26,2019/428581/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",6,National,Saferight Group,"Appointment of a Service Provider to Supply and Deliver
 Face Shields for Department of Agriculture, Rural
-Development and Land Reform","R                            38,00",2000,"R                          76 000,00",Normal Process,04/06/2020,2014/008029/07
-7,National,Coviarant Consulting,"Appointment of a Service Provider to Supply and Deliver
+Development and Land Reform","R                            38,00",38.00,2000,76000.00,Normal Process,04/06/2020,2020-06-04,2014/008029/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",7,National,Coviarant Consulting,"Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks for Department of Agriculture,
-Rural Development and Land Reform","R                            20,43",27000,"R                        551 739,06",Deviation,27/05/2020,2014/075830/07
-8,National,Coviarant Consulting,"Appointment of a Service Provider to Supply and Deliver
+Rural Development and Land Reform","R                            20,43",20.43,27000,551739.06,Deviation,27/05/2020,2020-05-27,2014/075830/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",8,National,Coviarant Consulting,"Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks (Branding) for Department of
-Agriculture, Rural Development and Land Reform","R                            16,52",27000,"R                        446 086,71",Deviation,27/05/2021,2014/075830/07
-9,National,"Elyon Designs Primary Co-
+Agriculture, Rural Development and Land Reform","R                            16,52",16.52,27000,446086.71,Deviation,27/05/2021,2021-05-27,2014/075830/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",9,National,"Elyon Designs Primary Co-
 Operative Limited","Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks for Department of Agriculture,
-Rural Development and Land Reform","R                            24,00",10000,"R                        240 000,00",Deviation,27/05/2020,2017/010776/24
-10,National,"Elyon Designs Primary Co-
+Rural Development and Land Reform","R                            24,00",24.00,10000,240000.00,Deviation,27/05/2020,2020-05-27,2017/010776/24
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",10,National,"Elyon Designs Primary Co-
 Operative Limited","Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks (Branding) for Department of
-Agriculture, Rural Development and Land Reform","R                            19,00",10000,"R                        190 000,00",Deviation,27/05/2020,2017/010776/24
-11,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
+Agriculture, Rural Development and Land Reform","R                            19,00",19.00,10000,190000.00,Deviation,27/05/2020,2020-05-27,2017/010776/24
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",11,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
 5L Sanitizer for Department of Agriculture, Rural
-Development and Land Reform","R                          465,00",1000,"R                        465 000,00",Deviation,20/05/2020,2009/009115/23
-12,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
+Development and Land Reform","R                          465,00",465.00,1000,465000.00,Deviation,20/05/2020,2020-05-20,2009/009115/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",12,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
 5L Sanitizer for Department of Agriculture, Rural
-Development and Land Reform","R                          465,00",450,"R                        209 250,00",Deviation,20/05/2020,2009/009115/23
-13,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
+Development and Land Reform","R                          465,00",465.00,450,209250.00,Deviation,20/05/2020,2020-05-20,2009/009115/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",13,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
 5OOml bottles for Department of Agriculture, Rural
-Development and Land Reform","R                            70,00",116,"R                            8 120,00",Deviation,20/05/2020,2009/009115/23
-14,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
+Development and Land Reform","R                            70,00",70.00,116,8120.00,Deviation,20/05/2020,2020-05-20,2009/009115/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",14,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
 Latex Gloves for Department of Agriculture, Rural
-Development and Land Reform","R                            62,00",200,"R                          12 400,00",Deviation,20/05/2020,2009/009115/23
-15,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
+Development and Land Reform","R                            62,00",62.00,200,12400.00,Deviation,20/05/2020,2020-05-20,2009/009115/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",15,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
 Masks for Department of Agriculture, Rural Development
-and Land Reform","R                            42,50",100/20 in a box 5,"R                            4 250,00",Deviation,20/05/2020,2009/009115/23
-16,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
+and Land Reform","R                            42,50",42.50,100/20 in a box 5,4250.00,Deviation,20/05/2020,2020-05-20,2009/009115/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",16,National,Hulisani Consulting,"Appointment of a Service Provider to Supply and Deliver
 1L bottles for Department of Agriculture, Rural
-Development and Land Reform","R                            88,00",35,"R                            3 080,00",Deviation,20/05/2020,2009/009115/23
-17,National,Hulisani Consulting,"Appointment of a Service Provider to Fog/Spray, Sanitize
+Development and Land Reform","R                            88,00",88.00,35,3080.00,Deviation,20/05/2020,2020-05-20,2009/009115/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",17,National,Hulisani Consulting,"Appointment of a Service Provider to Fog/Spray, Sanitize
 and disinfect 4 floors +_ 350 Offices for Department of
-Agriculture, Rural Development and Land Reform","R                              9,02",-350,"R                        390 000,00",Deviation,20/05/2020,2009/009115/23
-18,National,Mmatshuene Tradig cc,"Appointment of a Service Provider to Supply and Deliver
+Agriculture, Rural Development and Land Reform","R                              9,02",9.02,-350,390000.00,Deviation,20/05/2020,2020-05-20,2009/009115/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",18,National,Mmatshuene Tradig cc,"Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks for Department of Agriculture,
-Rural Development and Land Reform","R                            28,00",15000,"R                        494 500,00",Deviation,14/05/2020,2003/031386/23
-19,National,Mmatshuene Tradig cc,"Appointment of a Service Provider to Supply and Deliver
+Rural Development and Land Reform","R                            28,00",28.00,15000,494500.00,Deviation,14/05/2020,2020-05-14,2003/031386/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",19,National,Mmatshuene Tradig cc,"Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks for Department of Agriculture,
-Rural Development and Land Reform","R                            28,00",5000,"R                        140 000,00",Deviation,14/05/2020,2003/031386/23
-20,National,Mmatshuene Tradig cc,"Appointment of a Service Provider to Supply and Deliver
+Rural Development and Land Reform","R                            28,00",28.00,5000,140000.00,Deviation,14/05/2020,2020-05-14,2003/031386/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",20,National,Mmatshuene Tradig cc,"Appointment of a Service Provider to Supply and Deliver
 Gloves for Department of Agriculture, Rural Development
-and Land Reform","R                              3,50",40000,"R                        140 000,00",Deviation,14/05/2020,2003/031386/23
-21,National,Mmatshuene Tradig cc,"Appointment of a Service Provider to Supply and Deliver
+and Land Reform","R                              3,50",3.50,40000,140000.00,Deviation,14/05/2020,2020-05-14,2003/031386/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",21,National,Mmatshuene Tradig cc,"Appointment of a Service Provider to Supply and Deliver
 5L Sanitizer for Department of Agriculture, Rural
-Development and Land Reform","R                          650,00",200,"R                          32 000,00",Deviation,14/05/2020,2003/031386/23
-22,National,Maputiki Enterprise,"Appointment of a Service Provider to Supply and Deliver
+Development and Land Reform","R                          650,00",650.00,200,32000.00,Deviation,14/05/2020,2020-05-14,2003/031386/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",22,National,Maputiki Enterprise,"Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks for Department of Agriculture,
-Rural Development and Land Reform","R                            19,50",25000,"R                        487 500,00",Deviation,22/05/2020,2018/599382/07
-23,National,"Calvinate Investments (Pty)
+Rural Development and Land Reform","R                            19,50",19.50,25000,487500.00,Deviation,22/05/2020,2020-05-22,2018/599382/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",23,National,"Calvinate Investments (Pty)
 Ltd","Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks for Department of Agriculture,
-Rural Development and Land Reform","R                            19,20",25000,"R                        480 000,00",Deviation,22/05/2020,2012/207725/07
-24,National,"BEE Spoiled Day Spa t/a
+Rural Development and Land Reform","R                            19,20",19.20,25000,480000.00,Deviation,22/05/2020,2020-05-22,2012/207725/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",24,National,"BEE Spoiled Day Spa t/a
 Pure Bliss Day Spa","Appointment of a Service Provider to Supply and Deliver
 Three Layer Face Masks for Department of Agriculture,
-Rural Development and Land Reform","R                            25,00",10 000,"R                        250 000,00",Normal Process,,2013/093128/07
-25,National,Ozakwethu,"Appointment of a Service Provider to Supply and Deliver
+Rural Development and Land Reform","R                            25,00",25.00,10 000,250000.00,Normal Process,,,2013/093128/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",25,National,Ozakwethu,"Appointment of a Service Provider to Supply and Deliver
 digital Thermometer for Department of Agriculture, Rural
-Development and Land Reform","R                       1 380,00",100,"R                        138 000,00",Normal Process,30/07/2020,2020/124087/07
-26,National,Quick Splash N Dash Carwas,"Appointment of a Service Provider to Supply and Deliver
+Development and Land Reform","R                       1 380,00",1380.00,100,138000.00,Normal Process,30/07/2020,2020-07-30,2020/124087/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",26,National,Quick Splash N Dash Carwas,"Appointment of a Service Provider to Supply and Deliver
 Reception Shield and Desk Shields for Department of
 Agriculture, Rural Development and Land Reform","981.50
-500","100
-530","R                        363 150,00",Normal Process,18/06/2020,2019/089358/07
-27,Gauteng,"TRM Consulting Engineers
-and Project Managers",Fogging/ Disinfection services,"R                     21 000,00",1,"R                          21 000,00",Normal process,AH-245289,2015/033268/07
-28,Gauteng,"TRM Consulting Engineers
-and Project Managers",Fogging/ Disinfection services,"R                     43 015,41",1,"R                          43 015,41",Normal process,AH-245290,2015/033268/07
-29,Gauteng,"TRM Consulting Engineers
-and Project Managers",Fogging/ Disinfection services,"R 26 418,00",1,"R                          26 418,00",Deviation,AF-395201,2015/033268/07
-30,Gauteng,"TRM Consulting Engineers
-and Project Managers",Fogging/ Disinfection services,"R 38 421,66",1,"R                          38 421,66",Deviation,AF-395202,2015/033268/07
-31,Gauteng,"TRM Consulting Engineers
-and Project Managers",Fogging/ Disinfection services,"R 21 000,00",1,"R                          21 000,00",Deviation,13/07/2020,2015/033268/07
-32,Gauteng,"TRM Consulting Engineers
-and Project Managers",Fogging/ Disinfection services,"R 26 418,00",1,"R                          26 418,00",Deviation,14/07/2020,2015/033268/07
-33,Gauteng,"TRM Consulting Engineers
-and Project Managers",Fogging/ Disinfection services,"R 26 418,00",1,"R                          26 418,00",Deviation,21/07/2020,2015/033268/07
-34,Gauteng,"TRM Consulting Engineers
-and Project Managers",Fogging/ Disinfection services,"R 26 418,00",1,"R                          26 418,00",Normal process,31/07/2020,2015/033268/07
-35,North West,Reatswelela,25 L Sanitiser,"R                       3 900,00",50 (25L),"R                        195 000,00",DEVIATION,13-Mar-20,2007/230696
-36,North West,Reatswelela,Disposable Musk,"R                              6,80",50 (100),"R                          34 000,00",DEVIATION,13-Mar-20,2007/230696
-37,North West,Reatswelela,Gloves,"R                              2,80",40 (100),"R                          11 200,00",DEVIATION,13-Mar-20,2007/230696
-38,North West,Reatswelela,1L Bottles,"R                            55,00","20,00","R                            1 100,00",DEVIATION,13-Mar-20,2007/230696
-39,North West,Reatswelela,Double spray holder,"R                          150,00","5,00","R                               750,00",DEVIATION,13-Mar-20,2007/230696
-40,North West,Reatswelela,Single holder,"R                            75,00","2,00","R                               150,00",DEVIATION,13-Mar-20,2007/230696
-41,North West,Leabetswe trading,1 L Sanitiser,195.95,250,"R                          48 987,50",DEVIATION,15-Apr-20,2008/159038/23
-42,North West,Leabetswe trading,250ml Sanitiser,40.95,1200,"R                          49 140,00",DEVIATION,15-Apr-20,2008/159038/23
-43,North West,Leabetswe trading,Branded Cloth Musk,75.00,2350,"R                        176 250,00",DEVIATION,15-Apr-20,2008/159038/23
-44,North West,Leabetswe trading,Disposable Musk,"R                          6,2295",2000,"R                          12 459,00",DEVIATION,15-Apr-20,2008/159038/23
-45,North West,Leabetswe trading,Gloves,"R                          2,7695",2000,"R                            5 539,00",DEVIATION,15-Apr-20,2008/159038/23
-46,North West,Rediko Enterprises (PTY)LTD,"Disinfection of Offices and Cars  -NWPSSC Westgallery
-megacity  Buildings 5483m2",R20.00,1,"R                        109 660,00",DEVIATION,30-Apr-20,2012/020327/07
-47,North West,Rediko Enterprises (PTY)LTD,"Megacity Building Motor vehicles disinfecting : 14
-Bakkies (1X200) , 1 Bus(1X400) and 7 Sedan (1X150)","R                       4 100,00",1,"R                            4 100,00",DEVIATION,30-Apr-20,2012/020327/07
-48,North West,Rediko Enterprises (PTY)LTD,"Disinefcting of offices Ngaka Modiri Molema District
-Office 1 Station Road , Molopo Building 784.45 m2",R20.00,1,"R                          15 689,00",DEVIATION,30-Apr-20,2012/020327/07
-49,North West,Rediko Enterprises (PTY)LTD,"Molopo building Motor vehicles disinfecting : 2 bakkies
-and 1 Sedan","R                          550,00",1,"R                               550,00",DEVIATION,30-Apr-20,2012/020327/07
-50,North West,Rediko Enterprises (PTY)LTD,"Disinecting of Bojanala District office leyds Street 1358
-.39 m2",R20.00,1,"R                          27 167,00",DEVIATION,30-Apr-20,2012/020327/07
-51,North West,Rediko Enterprises (PTY)LTD,Disinfecting of Bojanala District office ledys street 537m2,R20.00,1,"R                          10 740,00",DEVIATION,30-Apr-20,2012/020327/07
-52,North West,Rediko Enterprises (PTY)LTD,"Motor vehicles disinfecting at Bojanala : 3 bakkies (200)
-and 1 sedan (150)","R                          750,00",1,"R                               750,00",DEVIATION,30-Apr-20,2012/020327/07
-53,North West,Rediko Enterprises (PTY)LTD,"Disinfecting offices at Dr Kenneth kaunda District PC
-Pelser Building 1433m2,",R20.00,1,"R                          28 660,00",DEVIATION,30-Apr-20,2012/020327/07
-54,North West,Rediko Enterprises (PTY)LTD,"Motor vehicles disinfecting at Dr kenneth kaunda district
-PC Pelser Building  : 3 bakkies (200) and 1 sedan (150)","R                          750,00",1,"R                               750,00",DEVIATION,30-Apr-20,2012/020327/07
-55,North West,Rediko Enterprises (PTY)LTD,"Disinefcting of offices at Dr Ruth Segomotso Mompati
-District Prime Plaza Buidling 573m2",R20.00,1,"R                          11 400,00",DEVIATION,30-Apr-20,2012/020327/07
-56,North West,Rediko Enterprises (PTY)LTD,"Motor vehicle disinection at Dr Ruth Segomotso Mompati
-3 bakkies and 1 Sedan",R20.00,1,"R                               750,00",DEVIATION,30-Apr-20,2012/020327/07
-57,North West,Rediko Enterprises (PTY)LTD,"Disfencting the DAFF boarder posts at Ramatlabama
-land Port 36m2",R20.00,1,"R                               720,00",DEVIATION,26-May-20,2012/020327/07
-58,North West,Rediko Enterprises (PTY)LTD,Disinfecting the DAFF Offices at Kopfontein 18m2,R20.00,1,"R                               360,00",DEVIATION,26-May-20,2012/020327/07
-59,North West,Rediko Enterprises (PTY)LTD,"Disinfecting the DAFF offices at Skilpadhek land Port
-102.52",R20.00,1,"R                            2 050,00",DEVIATION,26-May-20,2012/020327/07
-60,North West,Rediko Enterprises (PTY)LTD,"Disinefcting the DAFF offices Louis le Grange Building
-570m2",R20.00,1,"R                          11 400,00",DEVIATION,26-May-20,2012/020327/07
-61,North West,Rediko Enterprises (PTY)LTD,Disinefcting of Agri hub at Springbokpan 2450m2,R20.00,1,"R                          49 000,00",DEVIATION,26-May-20,2012/020327/07
-62,North West,Rediko Enterprises (PTY)LTD,Disinceting outstanding offices in Megacity Building 72m2,R20.00,1,"R                            1 440,00",DEVIATION,26-May-20,2012/020327/07
-63,North West,Lethoko Developments,"Disinfecting of offices at  DAFF Le Grange Building ,
-Potchefstroom 570m2",R13.50,1,"R                            8 849,25",DEVIATION,22-Jun-20,2005/095524/23
-64,North West,Lethoko Developments,"Disinfecting offices at Dr Kenneth kaunda District PC
-Pelser Building 1433m2,",R13.50,1,"R                          19 345,50",DEVIATION,22-Jun-20,2005/095524/23
-65,North West,Lethoko Developments,"Disinefcting of offices at Dr Ruth Segomotso Mompati
-District Prime Plaza Buidling 537m2",R13.50,1,"R                            7 249,50",DEVIATION,22-Jun-20,2005/095524/23
-66,North West,Lethoko Developments,"Disinefcting of offices at Dr Ruth Segomotso Mompati
-District Prime Plaza Buidling 570m2",R13.50,1,"R                            7 695,00",DEVIATION,22-Jun-20,2005/095524/23
-67,North West,Lethoko Developments,"Disinfection of Offices and Cars  -NWPSSC Westgallery
-megacity  Buildings 5483m2",R13.50,1,"R                          74 020,00",DEVIATION,14-Jul-20,2005/095524/23
-68,North West,Lethoko Developments,"Disinefcting of offices Ngaka Modiri Molema District
-Office 1 Station Road , Molopo Building 784.45 m2",R13.50,1,"R                          10 590,08",DEVIATION,14-Jul-20,2005/095524/23
-69,Free State,BOLENG RETZ,1LITER HAND SANITIZER  70% ALCOHOL,195.00,750,"R                        146 250,00",DEVIATION,20/03/2020,2017/154208/07
-70,Free State,BOLENG RETZ,DISPOSABLE MASK,29.00,3000,"R                          86 000,00",DEVIATION,20/03/2020,2017/154208/07
-71,Free State,BOLENG RETZ,"1LTR SPRAY BOTTLE WITH CHEMICAL SURFACE
-CLEANER",165.00,30,"R                            4 950,00",DEVIATION,20/03/2020,2017/154208/07
-72,Free State,BOLENG RETZ,5LTR CHEMICAL SURFACE CLEANER,595.00,40,"R                          23 800,00",DEVIATION,20/03/2020,2017/154208/07
-73,Free State,"SHADOW MOON TRADING
-596",DISPOSABLE MASK,30.00,3000,"R                          90 000,00",DEVIATION,20/03/2020,2010/111559/23
-74,Free State,"SHADOW MOON TRADING
-596",GLOVES (100 IN A BOX),"R                              5,50",3000,"R                          16 500,00",DEVIATION,20/03/2020,2010/111559/23
-75,Free State,"SHADOW MOON TRADING
-596",HAND SANITIZER  70% ALCOHOL,198.00,340,"R                          67 320,00",DEVIATION,20/03/2020,2010/111559/23
-76,Free State,"KGOLAGANYO TRADING
+500.00",,"100
+530",363150.00,Normal Process,18/06/2020,2020-06-18,2019/089358/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",27,Gauteng,"TRM Consulting Engineers
+and Project Managers",Fogging/ Disinfection services,"R                     21 000,00",21000.00,1,21000.00,Normal process,AH-245289,,2015/033268/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",28,Gauteng,"TRM Consulting Engineers
+and Project Managers",Fogging/ Disinfection services,"R                     43 015,41",43015.41,1,43015.41,Normal process,AH-245290,,2015/033268/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",29,Gauteng,"TRM Consulting Engineers
+and Project Managers",Fogging/ Disinfection services,"R 26 418,00",26418.00,1,26418.00,Deviation,AF-395201,,2015/033268/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",30,Gauteng,"TRM Consulting Engineers
+and Project Managers",Fogging/ Disinfection services,"R 38 421,66",38421.66,1,38421.66,Deviation,AF-395202,,2015/033268/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",31,Gauteng,"TRM Consulting Engineers
+and Project Managers",Fogging/ Disinfection services,"R 21 000,00",21000.00,1,21000.00,Deviation,13/07/2020,2020-07-13,2015/033268/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",32,Gauteng,"TRM Consulting Engineers
+and Project Managers",Fogging/ Disinfection services,"R 26 418,00",26418.00,1,26418.00,Deviation,14/07/2020,2020-07-14,2015/033268/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",33,Gauteng,"TRM Consulting Engineers
+and Project Managers",Fogging/ Disinfection services,"R 26 418,00",26418.00,1,26418.00,Deviation,21/07/2020,2020-07-21,2015/033268/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",34,Gauteng,"TRM Consulting Engineers
+and Project Managers",Fogging/ Disinfection services,"R 26 418,00",26418.00,1,26418.00,Normal process,31/07/2020,2020-07-31,2015/033268/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",35,North West,Reatswelela,25 L Sanitiser,"R                       3 900,00",3900.00,50 (25L),195000.00,DEVIATION,13-Mar-20,2020-03-13,2007/230696
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",36,North West,Reatswelela,Disposable Musk,"R                              6,80",6.80,50 (100),34000.00,DEVIATION,13-Mar-20,2020-03-13,2007/230696
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",37,North West,Reatswelela,Gloves,"R                              2,80",2.80,40 (100),11200.00,DEVIATION,13-Mar-20,2020-03-13,2007/230696
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",38,North West,Reatswelela,1L Bottles,"R                            55,00",55.00,"20,00",1100.00,DEVIATION,13-Mar-20,2020-03-13,2007/230696
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",39,North West,Reatswelela,Double spray holder,"R                          150,00",150.00,"5,00",750.00,DEVIATION,13-Mar-20,2020-03-13,2007/230696
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",40,North West,Reatswelela,Single holder,"R                            75,00",75.00,"2,00",150.00,DEVIATION,13-Mar-20,2020-03-13,2007/230696
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",41,North West,Leabetswe trading,1 L Sanitiser,195.95,195.95,250,48987.50,DEVIATION,15-Apr-20,2020-04-15,2008/159038/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",42,North West,Leabetswe trading,250ml Sanitiser,40.95,40.95,1200,49140.00,DEVIATION,15-Apr-20,2020-04-15,2008/159038/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",43,North West,Leabetswe trading,Branded Cloth Musk,75,75.00,2350,176250.00,DEVIATION,15-Apr-20,2020-04-15,2008/159038/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",44,North West,Leabetswe trading,Disposable Musk,"R                          6,2295",6.23,2000,12459.00,DEVIATION,15-Apr-20,2020-04-15,2008/159038/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",45,North West,Leabetswe trading,Gloves,"R                          2,7695",2.77,2000,5539.00,DEVIATION,15-Apr-20,2020-04-15,2008/159038/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",46,North West,Rediko Enterprises (PTY)LTD,"Disinfection of Offices and Cars  -NWPSSC Westgallery
+megacity  Buildings 5483m2",R20.00,20.00,1,109660.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",47,North West,Rediko Enterprises (PTY)LTD,"Megacity Building Motor vehicles disinfecting : 14
+Bakkies (1X200) , 1 Bus(1X400) and 7 Sedan (1X150)","R                       4 100,00",4100.00,1,4100.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",48,North West,Rediko Enterprises (PTY)LTD,"Disinefcting of offices Ngaka Modiri Molema District
+Office 1 Station Road , Molopo Building 784.45 m2",R20.00,20.00,1,15689.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",49,North West,Rediko Enterprises (PTY)LTD,"Molopo building Motor vehicles disinfecting : 2 bakkies
+and 1 Sedan","R                          550,00",550.00,1,550.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",50,North West,Rediko Enterprises (PTY)LTD,"Disinecting of Bojanala District office leyds Street 1358
+.39 m2",R20.00,20.00,1,27167.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",51,North West,Rediko Enterprises (PTY)LTD,Disinfecting of Bojanala District office ledys street 537m2,R20.00,20.00,1,10740.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",52,North West,Rediko Enterprises (PTY)LTD,"Motor vehicles disinfecting at Bojanala : 3 bakkies (200)
+and 1 sedan (150)","R                          750,00",750.00,1,750.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",53,North West,Rediko Enterprises (PTY)LTD,"Disinfecting offices at Dr Kenneth kaunda District PC
+Pelser Building 1433m2,",R20.00,20.00,1,28660.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",54,North West,Rediko Enterprises (PTY)LTD,"Motor vehicles disinfecting at Dr kenneth kaunda district
+PC Pelser Building  : 3 bakkies (200) and 1 sedan (150)","R                          750,00",750.00,1,750.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",55,North West,Rediko Enterprises (PTY)LTD,"Disinefcting of offices at Dr Ruth Segomotso Mompati
+District Prime Plaza Buidling 573m2",R20.00,20.00,1,11400.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",56,North West,Rediko Enterprises (PTY)LTD,"Motor vehicle disinection at Dr Ruth Segomotso Mompati
+3 bakkies and 1 Sedan",R20.00,20.00,1,750.00,DEVIATION,30-Apr-20,2020-04-30,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",57,North West,Rediko Enterprises (PTY)LTD,"Disfencting the DAFF boarder posts at Ramatlabama
+land Port 36m2",R20.00,20.00,1,720.00,DEVIATION,26-May-20,2020-05-26,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",58,North West,Rediko Enterprises (PTY)LTD,Disinfecting the DAFF Offices at Kopfontein 18m2,R20.00,20.00,1,360.00,DEVIATION,26-May-20,2020-05-26,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",59,North West,Rediko Enterprises (PTY)LTD,"Disinfecting the DAFF offices at Skilpadhek land Port
+102.52",R20.00,20.00,1,2050.00,DEVIATION,26-May-20,2020-05-26,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",60,North West,Rediko Enterprises (PTY)LTD,"Disinefcting the DAFF offices Louis le Grange Building
+570m2",R20.00,20.00,1,11400.00,DEVIATION,26-May-20,2020-05-26,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",61,North West,Rediko Enterprises (PTY)LTD,Disinefcting of Agri hub at Springbokpan 2450m2,R20.00,20.00,1,49000.00,DEVIATION,26-May-20,2020-05-26,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",62,North West,Rediko Enterprises (PTY)LTD,Disinceting outstanding offices in Megacity Building 72m2,R20.00,20.00,1,1440.00,DEVIATION,26-May-20,2020-05-26,2012/020327/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",63,North West,Lethoko Developments,"Disinfecting of offices at  DAFF Le Grange Building ,
+Potchefstroom 570m2",R13.50,13.50,1,8849.25,DEVIATION,22-Jun-20,2020-06-22,2005/095524/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",64,North West,Lethoko Developments,"Disinfecting offices at Dr Kenneth kaunda District PC
+Pelser Building 1433m2,",R13.50,13.50,1,19345.50,DEVIATION,22-Jun-20,2020-06-22,2005/095524/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",65,North West,Lethoko Developments,"Disinefcting of offices at Dr Ruth Segomotso Mompati
+District Prime Plaza Buidling 537m2",R13.50,13.50,1,7249.50,DEVIATION,22-Jun-20,2020-06-22,2005/095524/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",66,North West,Lethoko Developments,"Disinefcting of offices at Dr Ruth Segomotso Mompati
+District Prime Plaza Buidling 570m2",R13.50,13.50,1,7695.00,DEVIATION,22-Jun-20,2020-06-22,2005/095524/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",67,North West,Lethoko Developments,"Disinfection of Offices and Cars  -NWPSSC Westgallery
+megacity  Buildings 5483m2",R13.50,13.50,1,74020.00,DEVIATION,14-Jul-20,2020-07-14,2005/095524/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",68,North West,Lethoko Developments,"Disinefcting of offices Ngaka Modiri Molema District
+Office 1 Station Road , Molopo Building 784.45 m2",R13.50,13.50,1,10590.08,DEVIATION,14-Jul-20,2020-07-14,2005/095524/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",69,Free State,BOLENG RETZ,1LITER HAND SANITIZER  70% ALCOHOL,195,195.00,750,146250.00,DEVIATION,20/03/2020,2020-03-20,2017/154208/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",70,Free State,BOLENG RETZ,DISPOSABLE MASK,29,29.00,3000,86000.00,DEVIATION,20/03/2020,2020-03-20,2017/154208/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",71,Free State,BOLENG RETZ,"1LTR SPRAY BOTTLE WITH CHEMICAL SURFACE
+CLEANER",165,165.00,30,4950.00,DEVIATION,20/03/2020,2020-03-20,2017/154208/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",72,Free State,BOLENG RETZ,5LTR CHEMICAL SURFACE CLEANER,595,595.00,40,23800.00,DEVIATION,20/03/2020,2020-03-20,2017/154208/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",73,Free State,"SHADOW MOON TRADING
+596",DISPOSABLE MASK,30,30.00,3000,90000.00,DEVIATION,20/03/2020,2020-03-20,2010/111559/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",74,Free State,"SHADOW MOON TRADING
+596",GLOVES (100 IN A BOX),"R                              5,50",5.50,3000,16500.00,DEVIATION,20/03/2020,2020-03-20,2010/111559/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",75,Free State,"SHADOW MOON TRADING
+596",HAND SANITIZER  70% ALCOHOL,198,198.00,340,67320.00,DEVIATION,20/03/2020,2020-03-20,2010/111559/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",76,Free State,"KGOLAGANYO TRADING
 ENTERPRISE","CLEANING, DISINFECTION/FOGGING SERVICES FOR
 LEJWELEPUTSWA OFFICE, FEZILE DABI OFFICES
-AND THABO MOFUTSANYANE OFFICES.",112 700.00,1,"R                        112 700,00",DEVIATION,20/05/2020,2005/068758/23
-77,Free State,MJO CONSULTING,"CLEANING, DISINFECTION/FOGGING SERVICES FOR
+AND THABO MOFUTSANYANE OFFICES.",112 700.00,112700.00,1,112700.00,DEVIATION,20/05/2020,2020-05-20,2005/068758/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",77,Free State,MJO CONSULTING,"CLEANING, DISINFECTION/FOGGING SERVICES FOR
 PSSC FS OFFICE, OMNI BUILDING (SURVEYOR
 GENERAL,  SPLUM OFFICES, AGRICULTURAL
-OFFICES) AND AGRICULTURAL BUILDING.",189 180.00,1,"R                        189 180,00",DEVIATION,20/05/2020,9225297521
-78,Free State,MJO CONSULTING,Decontamination Sasoburg Office,"R                     29 640,00",1,"R                          29 640,00",DEVIATION,06/07/2020,2014/035097/07
-79,Free State,MJO CONSULTING,Decontamination PSSC Office,"R                     96 000,00",1,"R                          96 000,00",DEVIATION,13/06/2020,2014/035097/07
-80,Free State,Samagaba Cleaning Services,Decontamination RLCC Office,"R                     55 097,00",1,"R                          55 097,00",DEVIATION,20/07/2020,2004/017019/07
-81,Free State,Shadowmoon Trading,Decontamination PSSC Office,"R                     79 212,00",1,"R                          79 212,00",DEVIATION,23/07/2020,2010/111559/23
-82,Deeds & OVG,Masana Hygiene Services,"Hand Sanitizer, 550ml - Chief Registrar of Deeds,
+OFFICES) AND AGRICULTURAL BUILDING.",189 180.00,189180.00,1,189180.00,DEVIATION,20/05/2020,2020-05-20,9225297521
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",78,Free State,MJO CONSULTING,Decontamination Sasoburg Office,"R                     29 640,00",29640.00,1,29640.00,DEVIATION,06/07/2020,2020-07-06,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",79,Free State,MJO CONSULTING,Decontamination PSSC Office,"R                     96 000,00",96000.00,1,96000.00,DEVIATION,13/06/2020,2020-06-13,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",80,Free State,Samagaba Cleaning Services,Decontamination RLCC Office,"R                     55 097,00",55097.00,1,55097.00,DEVIATION,20/07/2020,2020-07-20,2004/017019/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",81,Free State,Shadowmoon Trading,Decontamination PSSC Office,"R                     79 212,00",79212.00,1,79212.00,DEVIATION,23/07/2020,2020-07-23,2010/111559/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",82,Deeds & OVG,Masana Hygiene Services,"Hand Sanitizer, 550ml - Chief Registrar of Deeds,
 Pretoria Deeds Registry, Chief Surveyor-General and
-Surveyor-General Gauteng","R                          103,50",250,"R                          25 875,00",Deviation - Emergency,2020/03/10,2014/110265/07
-83,Deeds & OVG,Masana Hygiene Services,"Hand Sanitizer, 550ml - Johannesburg Deeds Registry","R                          103,50",2600,"R                        269 100,00",Deviation - Emergency,2020/03/10,2014/110265/07
-84,Deeds & OVG,Masana Hygiene Services,Brackets - Johannesburg Deeds Registry,"R                          120,75",50,"R                            6 037,50",Deviation - Emergency,2020/03/10,2014/110265/07
-85,Deeds & OVG,JDA Sourcing and Consulting,"Hand Sanitizer, 1l - Cape Town Deeds Registry","R                          220,80",210,"R                          46 368,00",Deviation - Emergency,2020/03/11,2017/216228/07
-86,Deeds & OVG,Simulo (Pty) Ltd,"Wall Mount Hand Sanitizer Dispenser, 800ml; Hand
+Surveyor-General Gauteng","R                          103,50",103.50,250,25875.00,Deviation - Emergency,10/03/2020,2020-03-10,2014/110265/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",83,Deeds & OVG,Masana Hygiene Services,"Hand Sanitizer, 550ml - Johannesburg Deeds Registry","R                          103,50",103.50,2600,269100.00,Deviation - Emergency,10/03/2020,2020-03-10,2014/110265/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",84,Deeds & OVG,Masana Hygiene Services,Brackets - Johannesburg Deeds Registry,"R                          120,75",120.75,50,6037.50,Deviation - Emergency,10/03/2020,2020-03-10,2014/110265/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",85,Deeds & OVG,JDA Sourcing and Consulting,"Hand Sanitizer, 1l - Cape Town Deeds Registry","R                          220,80",220.80,210,46368.00,Deviation - Emergency,11/03/2020,2020-03-11,2017/216228/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",86,Deeds & OVG,Simulo (Pty) Ltd,"Wall Mount Hand Sanitizer Dispenser, 800ml; Hand
 Sanitizer Refill Chemical - Pietermaritzburg Deeds
-Registry","R                          700,00",20,"R                          14 000,00",Deviation - Emergency,2020/03/06,2020/025952/07
-87,Deeds & OVG,"Cleaning Specialists (SUSKIA
+Registry","R                          700,00",700.00,20,14000.00,Deviation - Emergency,06/03/2020,2020-03-06,2020/025952/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",87,Deeds & OVG,"Cleaning Specialists (SUSKIA
 TRADING 1114 - The
 Specialists - Pest Control and
-Cleaning","Hand Sanitizer, 5l - Kimberley Deeds Registry","R                          632,50",2,"R                            1 265,00",Deviation - Emergency,2020/03/13,2010/019553/07
-88,Deeds & OVG,"Cleaning Specialists (SUSKIA
+Cleaning","Hand Sanitizer, 5l - Kimberley Deeds Registry","R                          632,50",632.50,2,1265.00,Deviation - Emergency,13/03/2020,2020-03-13,2010/019553/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",88,Deeds & OVG,"Cleaning Specialists (SUSKIA
 TRADING 1114 - The
 Specialists - Pest Control and
-Cleaning","Hand Sanitizer, 500ml - Kimberley Deeds Registry","R                          172,50",10,"R                            1 725,00",Deviation - Emergency,2020/03/13,2010/019553/07
-89,Deeds & OVG,Bidvest Steiner,"Hand Sanitizer, 500ml - Vryburg Deeds Registry","R                          103,50",48,"R                            4 968,00",Deviation - Emergency,2020/03/11,2000/011155/07
-90,Deeds & OVG,"Xhobani Cleaning and
-Security Services","Hand Sanitizer, 550ml - Mthatha Deeds Registry","R                            69,00",80,"R                            5 520,00",Deviation - Emergency,2020/03/12,2009/167816/23
-91,Deeds & OVG,Bidvest Steiner,"Hand Sanitizer, 1l - Mpumalanga Deeds Registry","R                          155,24",50,"R                            7 762,00",Deviation - Emergency,2020/03/13,2000/011155/07
-92,Deeds & OVG,Bidvest Steiner,"Hand Sanitizer, 500ml - Limpopo Deeds Registry","R                            90,74",90,"R                            8 166,15",Deviation - Emergency,2020/03/11,2000/011155/07
-93,Deeds & OVG,"Lechoba Medical
-Technologies","Hand Sanitizer, 500ml - All Deeds Registries","R                            60,75",3450,"R                        209 587,50",Deviation - Emergency,2020/03/23,2005/044442/07
-94,Deeds & OVG,"Lechoba Medical
-Technologies","Hand Sanitizer, 500ml - Office of the Valuer-General","R                            60,75",150,"R                            9 112,50",Deviation - Emergency,2020/03/23,2005/044442/07
-95,Deeds & OVG,Delta Facilities Management,"Deep Cleaning and Disinfection - Office of the Valuer-
-General","R                       6 810,02",1,"R                            6 810,02",Deviation - Emergency,2020/04/30,2009/024210/07
-96,Deeds & OVG,"M-JNR and Olwethu
+Cleaning","Hand Sanitizer, 500ml - Kimberley Deeds Registry","R                          172,50",172.50,10,1725.00,Deviation - Emergency,13/03/2020,2020-03-13,2010/019553/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",89,Deeds & OVG,Bidvest Steiner,"Hand Sanitizer, 500ml - Vryburg Deeds Registry","R                          103,50",103.50,48,4968.00,Deviation - Emergency,11/03/2020,2020-03-11,2000/011155/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",90,Deeds & OVG,"Xhobani Cleaning and
+Security Services","Hand Sanitizer, 550ml - Mthatha Deeds Registry","R                            69,00",69.00,80,5520.00,Deviation - Emergency,12/03/2020,2020-03-12,2009/167816/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",91,Deeds & OVG,Bidvest Steiner,"Hand Sanitizer, 1l - Mpumalanga Deeds Registry","R                          155,24",155.24,50,7762.00,Deviation - Emergency,13/03/2020,2020-03-13,2000/011155/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",92,Deeds & OVG,Bidvest Steiner,"Hand Sanitizer, 500ml - Limpopo Deeds Registry","R                            90,74",90.74,90,8166.15,Deviation - Emergency,11/03/2020,2020-03-11,2000/011155/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",93,Deeds & OVG,"Lechoba Medical
+Technologies","Hand Sanitizer, 500ml - All Deeds Registries","R                            60,75",60.75,3450,209587.50,Deviation - Emergency,23/03/2020,2020-03-23,2005/044442/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",94,Deeds & OVG,"Lechoba Medical
+Technologies","Hand Sanitizer, 500ml - Office of the Valuer-General","R                            60,75",60.75,150,9112.50,Deviation - Emergency,23/03/2020,2020-03-23,2005/044442/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",95,Deeds & OVG,Delta Facilities Management,"Deep Cleaning and Disinfection - Office of the Valuer-
+General","R                       6 810,02",6810.02,1,6810.02,Deviation - Emergency,30/04/2020,2020-04-30,2009/024210/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",96,Deeds & OVG,"M-JNR and Olwethu
 Consulting (Pty) Ltd","Disinfection and Fogging Services - King Williams Town
-Deeds Registry","R                       9 432,00",1,"R                            9 432,00",Deviation - Emergency,2020/04/30,2014/035097/07
-97,Deeds & OVG,OKS Investment 2009 CC,"Disinfection and Fogging Services - Chief Registrar of
+Deeds Registry","R                       9 432,00",9432.00,1,9432.00,Deviation - Emergency,30/04/2020,2020-04-30,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",97,Deeds & OVG,OKS Investment 2009 CC,"Disinfection and Fogging Services - Chief Registrar of
 Deeds, Pretoria Deeds Registry, Chief Surveyor-General
-and Surveyor-General Gauteng","R                   555 928,00",1,"R                        555 928,00",Deviation - Emergency,2020/04/30,2009/221179/23
-98,Deeds & OVG,"Vukheta Risk Services (Pty)
+and Surveyor-General Gauteng","R                   555 928,00",555928.00,1,555928.00,Deviation - Emergency,30/04/2020,2020-04-30,2009/221179/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",98,Deeds & OVG,"Vukheta Risk Services (Pty)
 Ltd","Disinfection and Fogging Services - Bloemfontein Deeds
-Registry","R                   238 955,25",1,"R                        238 955,25",Deviation - Emergency,2020/04/30,2014/167526/07
-99,Deeds & OVG,"Walking Tall Trading and
+Registry","R                   238 955,25",238955.25,1,238955.25,Deviation - Emergency,30/04/2020,2020-04-30,2014/167526/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",99,Deeds & OVG,"Walking Tall Trading and
 Projects 186","Disinfection and Fogging Services - Johannesburg
-Deeds Registry","R                     20 500,00",1,"R                          20 500,00",Deviation - Emergency,2020/04/30,2011/033650/23
-100,Deeds & OVG,"Kamatsikaa Trading
+Deeds Registry","R                     20 500,00",20500.00,1,20500.00,Deviation - Emergency,30/04/2020,2020-04-30,2011/033650/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",100,Deeds & OVG,"Kamatsikaa Trading
 Enterprises","Disinfection and Fogging Services - Mpumalanga Deeds
-Registry","R                     83 020,00",1,"R                          83 020,00",Deviation - Emergency,2020/04/30,2006/114060/23
-101,Deeds & OVG,Kgatisi Trading CC,"Disinfection and Fogging Services - Vryburg Deeds
-Registry","R                     67 597,65",1,"R                          67 597,65",Deviation - Emergency,2020/04/30,2007/016590/23
-102,Deeds & OVG,"Xhobani Cleaning and
+Registry","R                     83 020,00",83020.00,1,83020.00,Deviation - Emergency,30/04/2020,2020-04-30,2006/114060/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",101,Deeds & OVG,Kgatisi Trading CC,"Disinfection and Fogging Services - Vryburg Deeds
+Registry","R                     67 597,65",67597.65,1,67597.65,Deviation - Emergency,30/04/2020,2020-04-30,2007/016590/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",102,Deeds & OVG,"Xhobani Cleaning and
 Security Services","Disinfection and Fogging Services - Mthatha Deeds
-Registry","R                     29 230,12",1,"R                          29 230,12",Deviation - Emergency,2020/04/30,2009/167816/23
-103,Deeds & OVG,XON Systems (Pty) Ltd,"KODAK Alaris Capture Pro OCR(Optical Character
-Reader) Software","R                     68 344,50",60,"R                     4 100 670,00",Deviation - Emergency,2020/04/30,1998/004786/07
-104,"Deeds
+Registry","R                     29 230,12",29230.12,1,29230.12,Deviation - Emergency,30/04/2020,2020-04-30,2009/167816/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",103,Deeds & OVG,XON Systems (Pty) Ltd,"KODAK Alaris Capture Pro OCR(Optical Character
+Reader) Software","R                     68 344,50",68344.50,60,4100670.00,Deviation - Emergency,30/04/2020,2020-04-30,1998/004786/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",104,"Deeds
 Registration
 Trading Account","Walking Tall Trading and
 Projects 186","Decontamination/ Disinfecting Service - Johannesburg
-Deeds Registry on 05 June 2020","R 20 125,00",1,"R                          20 125,00",Deviation (Emergency),2020/06/02,2011/033650/23
-105,"Deeds
+Deeds Registry on 05 June 2020","R 20 125,00",20125.00,1,20125.00,Deviation (Emergency),02/06/2020,2020-06-02,2011/033650/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",105,"Deeds
 Registration
 Trading Account","South End Enviromental
 Services (Pty) Ltd","Decontamination/ Disinfecting Service - Cape Town
 Deeds Registry and Surveyor-General on 10/11 June
-2020","R 53 930,17",1,"R                          53 930,17",Deviation (Emergency),2020/06/08,2012/131438/07
-106,"Deeds
+2020","R 53 930,17",53930.17,1,53930.17,Deviation (Emergency),08/06/2020,2020-06-08,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",106,"Deeds
 Registration
 Trading Account",Orizoe Services CC,"Decontamination/ Disinfecting Service - Johannesburg
-Deeds Registry on 13 June 2020","R 94 560,94",1,"R                          94 560,94",Deviation (Emergency),2020/06/12,2007/214932/23
-107,"Deeds
+Deeds Registry on 13 June 2020","R 94 560,94",94560.94,1,94560.94,Deviation (Emergency),12/06/2020,2020-06-12,2007/214932/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",107,"Deeds
 Registration
 Trading Account","Botsengkwala Hygiene
 Services","Decontamination/ Disinfecting Service - Pretoria Deeds
-Registry on 14 June 2020","R 94 565,33",1,"R                          94 565,33",Deviation (Emergency),2020/06/13,2009/165043/23
-108,"Deeds
+Registry on 14 June 2020","R 94 565,33",94565.33,1,94565.33,Deviation (Emergency),13/06/2020,2020-06-13,2009/165043/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",108,"Deeds
 Registration
 Trading Account","M-JNR and Olwethu
 Consulting (Pty) Ltd","Decontamination/ Disinfecting Service - King Williams
-Town Deeds Registry on 15 June 2020","R 7 215,70",1,"R                            7 215,70",Deviation (Emergency),2020/06/14,2014/035097/07
-109,"Deeds
+Town Deeds Registry on 15 June 2020","R 7 215,70",7215.70,1,7215.70,Deviation (Emergency),14/06/2020,2020-06-14,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",109,"Deeds
 Registration
 Trading Account","Botsengkwala Hygiene
 Services","Decontamination/ Disinfecting Service - Office of the
-Chief Registrar of Deeds on 17 June 2020","R 44 240,87",1,"R                          44 240,87",Deviation (Emergency),2020/06/16,2009/165043/23
-110,"Deeds
+Chief Registrar of Deeds on 17 June 2020","R 44 240,87",44240.87,1,44240.87,Deviation (Emergency),16/06/2020,2020-06-16,2009/165043/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",110,"Deeds
 Registration
 Trading Account","Walking Tall Trading and
 Projects 186","Decontamination/ Disinfecting Service - Johannesburg
-Deeds Registry on 27 June 2020","R 20 125,00",1,"R                          20 125,00",Deviation (Emergency),2020/06/26,2011/033650/23
-111,"Deeds
+Deeds Registry on 27 June 2020","R 20 125,00",20125.00,1,20125.00,Deviation (Emergency),26/06/2020,2020-06-26,2011/033650/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",111,"Deeds
 Registration
 Trading Account","South End Enviromental
 Services (Pty) Ltd","Decontamination/ Disinfecting Service - Cape Town
-Deeds Registry and Surveyor-General on 28 June 2020","R 53 930,17",1,"R                          53 930,17",Deviation (Emergency),2020/06/26,2012/131438/07
-112,"Deeds
+Deeds Registry and Surveyor-General on 28 June 2020","R 53 930,17",53930.17,1,53930.17,Deviation (Emergency),26/06/2020,2020-06-26,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",112,"Deeds
 Registration
 Trading Account","M-JNR and Olwethu
 Consulting (Pty) Ltd","Decontamination/ Disinfecting Service - King Williams
-Town Deeds Registry on 03 July 2020","R 7 215,70",1,"R                            7 215,70",Deviation (Emergency),2020/07/02,2014/035097/07
-113,"Office of the
+Town Deeds Registry on 03 July 2020","R 7 215,70",7215.70,1,7215.70,Deviation (Emergency),02/07/2020,2020-07-02,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",113,"Office of the
 Valuer-General",Delta Facilities Management,"Decontamination/ Disinfecting Service - Office of the
-Valuer-General on 06 July 2020","R 2 070,00",1,"R                            2 070,00",Deviation (Emergency),2020/07/03,2009/024210/07
-114,"Deeds
+Valuer-General on 06 July 2020","R 2 070,00",2070.00,1,2070.00,Deviation (Emergency),03/07/2020,2020-07-03,2009/024210/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",114,"Deeds
 Registration
 Trading Account","Walking Tall Trading and
 Projects 186","Decontamination/ Disinfecting Service - Johannesburg
-Deeds Registry on 06 July 2020","R 20 125,00",1,"R                          20 125,00",Deviation (Emergency),2020/07/05,2011/033650/23
-115,"Deeds
+Deeds Registry on 06 July 2020","R 20 125,00",20125.00,1,20125.00,Deviation (Emergency),05/07/2020,2020-07-05,2011/033650/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",115,"Deeds
 Registration
 Trading Account","Botsengkwala Hygiene
 Services","Decontamination/ Disinfecting Service - Pretoria Deeds
-Registry on 07 July 2020","R 85 739,95",1,"R                          85 739,95",Deviation (Emergency),2020/07/06,2009/165043/23
-116,"Deeds
+Registry on 07 July 2020","R 85 739,95",85739.95,1,85739.95,Deviation (Emergency),06/07/2020,2020-07-06,2009/165043/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",116,"Deeds
 Registration
 Trading Account","Palmridge Community
 Development and Projects Co
 operative Limited","Deep Cleaning Services - Cape Town Deeds Registry,
-Mowbray Site on 08 July 2020","R 6 491,69",1,"R                            6 491,69",Deviation (Emergency),2020/07/07,2013/007388/24
-117,"Deeds
+Mowbray Site on 08 July 2020","R 6 491,69",6491.69,1,6491.69,Deviation (Emergency),07/07/2020,2020-07-07,2013/007388/24
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",117,"Deeds
 Registration
 Trading Account","M-JNR and Olwethu
 Consulting (Pty) Ltd","Decontamination/ Disinfecting Service - Pietermaritzburg
 Deeds Registry and Surveyor-General: Kwazulu-Natal on
-08 July 2020","R 37 700,00",1,"R                          37 700,00",Deviation (Emergency),2020/07/07,2014/035097/07
-118,"Deeds
+08 July 2020","R 37 700,00",37700.00,1,37700.00,Deviation (Emergency),07/07/2020,2020-07-07,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",118,"Deeds
 Registration
 Trading Account","Botsengkwala Hygiene
 Services","Decontamination/ Disinfecting Service - Office of the
-Chief Registrar of Deeds on 10 July 2020","R 44 240,87",1,"R                          44 240,87",Deviation (Emergency),2020/07/09,2009/165043/23
-119,"Deeds
+Chief Registrar of Deeds on 10 July 2020","R 44 240,87",44240.87,1,44240.87,Deviation (Emergency),09/07/2020,2020-07-09,2009/165043/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",119,"Deeds
 Registration
 Trading Account","M-JNR and Olwethu
 Consulting (Pty) Ltd","Decontamination/ Disinfecting Service - Mthatha Deeds
-Registry on 11 July 2020","R 5 580,00",1,"R                            5 580,00",Deviation (Emergency),2020/07/10,2014/035097/07
-120,"Deeds
+Registry on 11 July 2020","R 5 580,00",5580.00,1,5580.00,Deviation (Emergency),10/07/2020,2020-07-10,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",120,"Deeds
 Registration
 Trading Account",SkitterBlink Cleaning Services,"Decontamination/ Disinfecting Service - Bloemfontein
-Deeds Registry on 11 July 2020","R 45 380,70",1,"R                          45 380,70",Deviation (Emergency),2020/07/10,2006/002594/07
-121,"Deeds
+Deeds Registry on 11 July 2020","R 45 380,70",45380.70,1,45380.70,Deviation (Emergency),10/07/2020,2020-07-10,2006/002594/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",121,"Deeds
 Registration
 Trading Account","South End Enviromental
 Services (Pty) Ltd","Decontamination/ Disinfecting Service - Cape Town
 Deeds Registry and Surveyor-General, 90 Plein Street on
-15 July 2020","R 53 930,17",1,"R                          53 930,17",Deviation (Emergency),2020/07/14,2012/131438/07
-122,"Deeds
+15 July 2020","R 53 930,17",53930.17,1,53930.17,Deviation (Emergency),14/07/2020,2020-07-14,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",122,"Deeds
 Registration
 Trading Account","South End Enviromental
 Services (Pty) Ltd","Decontamination/ Disinfecting Service - Cape Town
 Deeds Registry and Surveyor-General, Mowbray on 15
-July 2020","R 1 311,00",1,"R                            1 311,00",Deviation (Emergency),2020/07/14,2012/131438/07
-123,"Deeds
+July 2020","R 1 311,00",1311.00,1,1311.00,Deviation (Emergency),14/07/2020,2020-07-14,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",123,"Deeds
 Registration
 Trading Account","Mantella Trading 634 T/A
 Mantella IT Support Services
 (Pty) Lts","Installation and Configuration of Network Infrastructure -
-Cape Town Deeds Registry, Mowbray Site","R 245 525,86",1,"R                        245 525,86",Deviation (Emergency),2020/07/04,2007/007006/07
-124,"Deeds
+Cape Town Deeds Registry, Mowbray Site","R 245 525,86",245525.86,1,245525.86,Deviation (Emergency),04/07/2020,2020-07-04,2007/007006/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",124,"Deeds
 Registration
 Trading Account","Kamatshika Services T/A
 Kamatsikaa Trading
 Enterprises CC","Decontamination/ Disinfecting Service - Mpumalanga
-Deeds Registry on 20 July 2020","R 34 580,00",1,"R                          34 580,00",Deviation (Emergency),2020/07/20,2006/114060/23
-125,"Deeds
+Deeds Registry on 20 July 2020","R 34 580,00",34580.00,1,34580.00,Deviation (Emergency),20/07/2020,2020-07-20,2006/114060/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",125,"Deeds
 Registration
 Trading Account","M-JNR and Olwethu
 Consulting (Pty) Ltd","Decontamination/ Disinfecting Service - King Williams
-Town Deeds Registry on 21 July 2020","R 7 760,30",1,"R                            7 760,30",Deviation (Emergency),2020/07/21,2014/035097/07
-126,"Deeds
+Town Deeds Registry on 21 July 2020","R 7 760,30",7760.30,1,7760.30,Deviation (Emergency),21/07/2020,2020-07-21,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",126,"Deeds
 Registration
 Trading Account",Orizoe Services CC,"Decontamination/ Disinfecting Service - Johannesburg
-Deeds Registry on 24 July 2020","R 58 491,30",1,"R                          58 491,30",Deviation (Emergency),2020/07/23,2007/214932/23
-127,"Deeds
+Deeds Registry on 24 July 2020","R 58 491,30",58491.30,1,58491.30,Deviation (Emergency),23/07/2020,2020-07-23,2007/214932/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",127,"Deeds
 Registration
 Trading Account","South End Enviromental
 Services (Pty) Ltd","Decontamination/ Disinfecting Service - Cape Town
-Deeds Registry, 90 Plein Street on 25 July 2020","R 30 817,24",1,"R                          30 817,24",Deviation (Emergency),2020/07/24,2012/131438/07
-128,"Deeds
+Deeds Registry, 90 Plein Street on 25 July 2020","R 30 817,24",30817.24,1,30817.24,Deviation (Emergency),24/07/2020,2020-07-24,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",128,"Deeds
 Registration
 Trading Account","M-JNR and Olwethu
 Consulting (Pty) Ltd","Decontamination/ Disinfecting Service - Pietermaritzburg
-Deeds Registry 25 July 2020","R 14 110,00",1,"R                          14 110,00",Deviation (Emergency),2020/07/24,2014/035097/07
-129,"Deeds
+Deeds Registry 25 July 2020","R 14 110,00",14110.00,1,14110.00,Deviation (Emergency),24/07/2020,2020-07-24,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",129,"Deeds
 Registration
 Trading Account","South End Enviromental
 Services (Pty) Ltd","Decontamination/ Disinfecting Service - Cape Town
-Deeds Registry, 90 Plein Street on 29/30 July 2020","R 7 429,00",1,"R                            7 429,00",Deviation (Emergency),2020/07/29,2012/131438/07
-130,"Deeds
+Deeds Registry, 90 Plein Street on 29/30 July 2020","R 7 429,00",7429.00,1,7429.00,Deviation (Emergency),29/07/2020,2020-07-29,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",130,"Deeds
 Registration
 Trading Account","Kamatshika Services T/A
 Kamatsikaa Trading
 Enterprises CC","Decontamination/ Disinfecting Service - Mpumalanga
-Deeds Registry on 29 July 2020","R 27 846,00",1,"R                          27 846,00",Deviation (Emergency),2020/07/29,2006/114060/23
-131,"Deeds
+Deeds Registry on 29 July 2020","R 27 846,00",27846.00,1,27846.00,Deviation (Emergency),29/07/2020,2020-07-29,2006/114060/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",131,"Deeds
 Registration
 Trading Account",Orizoe Services CC,"Decontamination/ Disinfecting Service - Vryburg Deeds
-Registry on 30 July 2021","R 6 210,00",1,"R                            6 210,00",Deviation (Emergency),2020/07/29,2007/214932/23
-132,"Deeds
+Registry on 30 July 2021","R 6 210,00",6210.00,1,6210.00,Deviation (Emergency),29/07/2020,2020-07-29,2007/214932/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",132,"Deeds
 Registration
 Trading Account","Walking Tall Trading and
 Projects 186","Decontamination/ Disinfecting Service - Johannesburg
-Deeds Registry on 29 July 2022","R 17 750,00",1,"R                          17 750,00",Deviation (Emergency),2020/07/29,2011/033650/23
-133,"Deeds
+Deeds Registry on 29 July 2022","R 17 750,00",17750.00,1,17750.00,Deviation (Emergency),29/07/2020,2020-07-29,2011/033650/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",133,"Deeds
 Registration
 Trading Account","Vukheta Risk Services (Pty)
 Ltd","Decontamination/ Disinfecting Service - Bloemfontein
-Registry on 01 August 2020","R 16 200,00","R 1,00","R                          16 200,00",Deviation (Emergency),2020/07/31,2014/167526/07
-134,"Deeds
+Registry on 01 August 2020","R 16 200,00",16200.00,"R 1,00",16200.00,Deviation (Emergency),31/07/2020,2020-07-31,2014/167526/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",134,"Deeds
 Registration
 Trading Account",Orizoe Services CC,"Decontamination/ Disinfecting Service - Office of the
-Chief Registrar of Deeds on 01 August 2020","R 22 770,00","R 1,00","R                          22 770,00",Deviation (Emergency),2020/07/31,2007/214932/23
-135,"Deeds
+Chief Registrar of Deeds on 01 August 2020","R 22 770,00",22770.00,"R 1,00",22770.00,Deviation (Emergency),31/07/2020,2020-07-31,2007/214932/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",135,"Deeds
 Registration
 Trading Account","South End Enviromental
 Services (Pty) Ltd","Decontamination/ Disinfecting Service - Cape Town
-Deeds Registry, Mowbray SIte on 31 July 2020","R 1 311,00","R 1,00","R                            1 311,00",Deviation (Emergency),2020/07/31,2012/131438/07
-136,Northern Cape,"M-Jnr Olwethu Consulting
-(PTY) LTD",Mounted sanitisers,"R                          189,00",15,"R                          53 865,00","Scope variation on the running
-cleaning contract",06-Aug-20,2014/035097/07
-137,Northern Cape,"M-Jnr Olwethu Consulting
+Deeds Registry, Mowbray SIte on 31 July 2020","R 1 311,00",1311.00,"R 1,00",1311.00,Deviation (Emergency),31/07/2020,2020-07-31,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",136,Northern Cape,"M-Jnr Olwethu Consulting
+(PTY) LTD",Mounted sanitisers,"R                          189,00",189.00,15,53865.00,"Scope variation on the running
+cleaning contract",06-Aug-20,2020-08-06,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",137,Northern Cape,"M-Jnr Olwethu Consulting
 (PTY) LTD",Once-off office decontamination (former DAFF offices),"12810.00
 5120.00
-2320.00",3,"R                          20 250,00","Scope variation on the running
-cleaning contract",08-Jul-20,2014/035097/07
-138,Northern Cape,"M-Jnr Olwethu Consulting
-(PTY) LTD",Waste bins,"R                          880,00",19,"R                          16 720,00","Scope variation on the running
-cleaning contract",06-Aug-20,2014/035097/07
-139,Northern Cape,"M-Jnr Olwethu Consulting
+2320.00",,3,20250.00,"Scope variation on the running
+cleaning contract",08-Jul-20,2020-07-08,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",138,Northern Cape,"M-Jnr Olwethu Consulting
+(PTY) LTD",Waste bins,"R                          880,00",880.00,19,16720.00,"Scope variation on the running
+cleaning contract",06-Aug-20,2020-08-06,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",139,Northern Cape,"M-Jnr Olwethu Consulting
 (PTY) LTD",Once-off office decontamination (former DRDLR offices),"5240.00
 6 910.00
 8740.00
 3190.00
 2010.00
 1650.00
-8740.00",7,"R                          36 480,00","Scope variation on the running
-cleaning contract",08-Jul-20,2014/035097/07
-140,Northern Cape,"M-Jnr Olwethu Consulting
+8740.00",,7,36480.00,"Scope variation on the running
+cleaning contract",08-Jul-20,2020-07-08,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",140,Northern Cape,"M-Jnr Olwethu Consulting
 (PTY) LTD",Once-off office decontamination (former DRDLR offices),"5 240,00
-8 740.00",2,"R                          13 980,00","Scope variation on the running
-cleaning contract",06-Aug-20,2014/035097/07
-141,Kwazulu Natal,DAZIE SERVICES,Sanitization / Decontamination of Newcastle offices,7100.00,1,"R                            7 100,00",Extension of scope /variation,06/08/2020 - KN 022 832,2015/210332/07
-142,Kwazulu Natal,ABAPHUMELELI TRADING 7,S2anitization / Decontamination of Portshepstone,4 050.00,1,"R                            4 050,00",Extension of scope /variation,06/08/2020 - KN 022 831,2008/211638/23
-143,Kwazulu Natal,"SABATA CREATIVE
-CONSULTING (PTY) LTD",Sanitization / Decontamination of 200 Church Street,4 480.00,1,"R                            4 480,00",Extension of scope /variation,06/08/2020 - KN 022 830,2018/517488/07
-144,Kwazulu Natal,ZINGA INVESTMENT,Sanitization / Decontamination  Vryheid,7 334.00,1,"R                            7 334,00",Extension of scope /variation,N/A,2008/211638/23
-No.,Province,Supplier Name,Description of Item,Unit Pice,Quantity,Total Price,"Indicate: Normal process or
-Deviation",Order date,Company registration
-145,Kwazulu Natal,ZINGA INVESTMENT,Sanitization / Decontamination of Splum,3 595.00,1,"R                            3 595,00",Extension of scope /variation,N/A,2008/211638/23
-146,Kwazulu Natal,M-JNR and Olwethu,Sanitization / Decontamination of Ladysmith Office,"R                     15 625,60",1,"R                          15 625,60",Normal  SCM process,N/A,2014/035097/07
-147,Kwazulu Natal,M-JNR and Olwethu,"Sanitization / Decontamination of Comercial city RLCC in
-Durban","R                       5 165,00",1,"R                            5 165,00",Extension of scope /variation,N/A,2014/035097/07
-148,Kwazulu Natal,M-JNR and Olwethu,Sanitization / Decontamination of SG Office,"R                     15 498,60",1,"R                          15 498,60",Extension of scope /variation,N/A,2014/035097/07
-149,Kwazulu Natal,M-JNR and Olwethu,"Sanitization / Decontamination of PSSC Office, 270 Jabu
-Ndlovu","R                       4 684,80",1,"R                            4 684,80",Extension of scope /variation,N/A,2014/035097/07
-150,Kwazulu Natal,ZINGA INVESTMENT,"Sanitization / Decontamination of PLRO Office, 188
-Hoosen Hafetjie","R                       9 890,00",1,"R                            9 890,00",Extension of scope /variation,N/A,2008/211638/23
-151,Kwazulu Natal,"Imvu Emnyama Trading
+8 740.00",,2,13980.00,"Scope variation on the running
+cleaning contract",06-Aug-20,2020-08-06,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",141,Kwazulu Natal,DAZIE SERVICES,Sanitization / Decontamination of Newcastle offices,7100,7100.00,1,7100.00,Extension of scope /variation,06/08/2020 - KN 022 832,2020-08-06,2015/210332/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",142,Kwazulu Natal,ABAPHUMELELI TRADING 7,S2anitization / Decontamination of Portshepstone,4 050.00,4050.00,1,4050.00,Extension of scope /variation,06/08/2020 - KN 022 831,2020-08-06,2008/211638/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",143,Kwazulu Natal,"SABATA CREATIVE
+CONSULTING (PTY) LTD",Sanitization / Decontamination of 200 Church Street,4 480.00,4480.00,1,4480.00,Extension of scope /variation,06/08/2020 - KN 022 830,2020-08-06,2018/517488/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",144,Kwazulu Natal,ZINGA INVESTMENT,Sanitization / Decontamination  Vryheid,7 334.00,7334.00,1,7334.00,Extension of scope /variation,N/A,,2008/211638/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",145,Kwazulu Natal,ZINGA INVESTMENT,Sanitization / Decontamination of Splum,3 595.00,3595.00,1,3595.00,Extension of scope /variation,N/A,,2008/211638/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",146,Kwazulu Natal,M-JNR and Olwethu,Sanitization / Decontamination of Ladysmith Office,"R                     15 625,60",15625.60,1,15625.60,Normal  SCM process,N/A,,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",147,Kwazulu Natal,M-JNR and Olwethu,"Sanitization / Decontamination of Comercial city RLCC in
+Durban","R                       5 165,00",5165.00,1,5165.00,Extension of scope /variation,N/A,,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",148,Kwazulu Natal,M-JNR and Olwethu,Sanitization / Decontamination of SG Office,"R                     15 498,60",15498.60,1,15498.60,Extension of scope /variation,N/A,,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",149,Kwazulu Natal,M-JNR and Olwethu,"Sanitization / Decontamination of PSSC Office, 270 Jabu
+Ndlovu","R                       4 684,80",4684.80,1,4684.80,Extension of scope /variation,N/A,,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",150,Kwazulu Natal,ZINGA INVESTMENT,"Sanitization / Decontamination of PLRO Office, 188
+Hoosen Hafetjie","R                       9 890,00",9890.00,1,9890.00,Extension of scope /variation,N/A,,2008/211638/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",151,Kwazulu Natal,"Imvu Emnyama Trading
 Enterprises","Supply, deliver, sanitization , despensers and masks,
-Pietermaritzburg District Office","R                     23 550,00",1,"R                          23 550,00",Extension of scope /variation,"Orders issud and order
+Pietermaritzburg District Office","R                     23 550,00",23550.00,1,23550.00,Extension of scope /variation,"Orders issud and order
 number to be submitted on
-07/08/2020",2007/188229/23
-152,Kwazulu Natal,"ABAPHUMELELI TRADING
+07/08/2020",,2007/188229/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",152,Kwazulu Natal,"ABAPHUMELELI TRADING
 702","Supply, deliver, sanitization , despensers and masks,
-RLCC Durban","R                     12 075,00",1,"R                          12 075,00",Extension of scope /variation,"Orders issud and order
+RLCC Durban","R                     12 075,00",12075.00,1,12075.00,Extension of scope /variation,"Orders issud and order
 number to be submitted on
-07/08/2020",2008/211638/23
-153,Kwazulu Natal,"ABAPHUMELELI TRADING
+07/08/2020",,2008/211638/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",153,Kwazulu Natal,"ABAPHUMELELI TRADING
 703","Supply, deliver, sanitization , despensers and masks,
-Port Shepstone office","R                       6 825,00",1,"R                            6 825,00",Extension of scope /variation,"Orders issud and order
+Port Shepstone office","R                       6 825,00",6825.00,1,6825.00,Extension of scope /variation,"Orders issud and order
 number to be submitted on
-07/08/2020",2008/211638/23
-154,Kwazulu Natal,ZINGA INVESTMENT,Sanitization / Decontamination of Vryheid Office,"R                       7 800,00",1,"R                            7 800,00",Extension of scope /variation,N/A,2008/211638/22
-155,Kwazulu Natal,ZINGA INVESTMENT,"Sanitization / Decontamination of PLRO Office, 188
-Hoosen Hafetjie","R                       5 650,00",1,"R                            5 650,00",Extension of scope /variation,N/A,2008/211638/23
-156,Kwazulu Natal,M-JNR and Olwethu,Sanitization / Decontamination of SG & Deeds Office,"R                       3 985,65",1,"R                            3 985,65",Extension of scope /variation,N/A,2014/035097/07
-157,Kwazulu Natal,Inspect-A-Pest,Sanitization / Decontamination of Laager Centre Office,"R                       4 500,00",1,"R                            4 500,00",Extension of scope /variation,N/A,2007/009937/23
-158,Kwazulu Natal,Inspect-A-Pest,Sanitization / Decontamination of Laager Centre Office,"R                       6 500,00",1,"R                            6 500,00",Extension of scope /variation,N/A,2007/009937/23
-159,Kwazulu Natal,"SABATA CREATIVE
+07/08/2020",,2008/211638/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",154,Kwazulu Natal,ZINGA INVESTMENT,Sanitization / Decontamination of Vryheid Office,"R                       7 800,00",7800.00,1,7800.00,Extension of scope /variation,N/A,,2008/211638/22
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",155,Kwazulu Natal,ZINGA INVESTMENT,"Sanitization / Decontamination of PLRO Office, 188
+Hoosen Hafetjie","R                       5 650,00",5650.00,1,5650.00,Extension of scope /variation,N/A,,2008/211638/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",156,Kwazulu Natal,M-JNR and Olwethu,Sanitization / Decontamination of SG & Deeds Office,"R                       3 985,65",3985.65,1,3985.65,Extension of scope /variation,N/A,,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",157,Kwazulu Natal,Inspect-A-Pest,Sanitization / Decontamination of Laager Centre Office,"R                       4 500,00",4500.00,1,4500.00,Extension of scope /variation,N/A,,2007/009937/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",158,Kwazulu Natal,Inspect-A-Pest,Sanitization / Decontamination of Laager Centre Office,"R                       6 500,00",6500.00,1,6500.00,Extension of scope /variation,N/A,,2007/009937/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",159,Kwazulu Natal,"SABATA CREATIVE
 CONSULTING (PTY) LTD","Supply  and Use transportation of healthcare waste for a
-period of 05 Months","R                     38 720,50",1,"R                          38 720,50",Extension of scope /variation,N/A,2016/065950/07
-160,Kwazulu Natal,"SABATA CREATIVE
-CONSULTING (PTY) LTD",Sanitization / Decontamination of 200 Church Street,"R                       7 187,50",1,"R                            7 187,50",Extension of scope /variation,N/A,2016/065950/08
-161,Eastern Cape,HINTSABA TRADING CC,5L Sanitiser,"R                          380,00",8,"R                            3 040,00",Deviation,24/03/2020(EC-013865),2000/074604/23
-162,Eastern Cape,HINTSABA TRADING CC,Spray Bottles,"R                          120,00",10,"R                            1 200,00",Deviation,24/03/2020(EC-013865),2000/074604/23
-163,Eastern Cape,"Kaysers Office Equip &
+period of 05 Months","R                     38 720,50",38720.50,1,38720.50,Extension of scope /variation,N/A,,2016/065950/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",160,Kwazulu Natal,"SABATA CREATIVE
+CONSULTING (PTY) LTD",Sanitization / Decontamination of 200 Church Street,"R                       7 187,50",7187.50,1,7187.50,Extension of scope /variation,N/A,,2016/065950/08
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",161,Eastern Cape,HINTSABA TRADING CC,5L Sanitiser,"R                          380,00",380.00,8,3040.00,Deviation,24/03/2020(EC-013865),2020-03-24,2000/074604/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",162,Eastern Cape,HINTSABA TRADING CC,Spray Bottles,"R                          120,00",120.00,10,1200.00,Deviation,24/03/2020(EC-013865),2020-03-24,2000/074604/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",163,Eastern Cape,"Kaysers Office Equip &
 Stationery","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES  FOR  THE
 DEPARTMENT OF AGRICULTURE,LAND REFORM &
 RURAL DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
-SERVICES ( BLOCK F BUILDING  1705,07sqm)","R                     17 570,01",1,"R                          17 570,01",Deviation,2010/090931/23,
-No.,Province,Supplier Name,Description of Item,Unit Pice,Quantity,Total Price,"Indicate: Normal process or
-Deviation",Order date,Company registration
-164,Eastern Cape,"Kaysers Office Equip &
+SERVICES ( BLOCK F BUILDING  1705,07sqm)","R                     17 570,01",17570.01,1,17570.01,Deviation,,,2010/090931/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",164,Eastern Cape,"Kaysers Office Equip &
 Stationery","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES  FOR  THE
 DEPARTMENT OF AGRICULTURE,LAND REFORM &
 RURAL DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
-SERVICES ( BLOCK H BUILDING  1392sqm)","R                     14 327,16",1,"R                          14 327,16",Variation ( Expansion of scope),13/07/2020 (EC-013875),2010/090931/23
-165,Eastern Cape,"Kaysers Office Equip &
+SERVICES ( BLOCK H BUILDING  1392sqm)","R                     14 327,16",14327.16,1,14327.16,Variation ( Expansion of scope),13/07/2020 (EC-013875),,2010/090931/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",165,Eastern Cape,"Kaysers Office Equip &
 Stationery","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES  FOR  THE
 DEPARTMENT OF AGRICULTURE,LAND REFORM &
 RURAL DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
 SERVICES ( 66 Prince Alfred Street, Queenstown
-1230sqm)","R                     12 659,78",1,"R                          12 659,78",Variation ( Expansion of scope),13/07/2020 (EC-013872),2010/090931/23
-166,Eastern Cape,"Kaysers Office Equip &
+1230sqm)","R                     12 659,78",12659.78,1,12659.78,Variation ( Expansion of scope),13/07/2020 (EC-013872),,2010/090931/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",166,Eastern Cape,"Kaysers Office Equip &
 Stationery","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES  FOR  THE
 DEPARTMENT OF AGRICULTURE,LAND REFORM &
 RURAL DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
 SERVICES ( 66 Ring Road Fairview Park, 2nd Floor,
-Greenacres Port Elizabeth, 1070sqm)","R                     11 012,98",1,"R                          11 012,98",Variation ( Expansion of scope),05/08/2020 ( EC013896),2010/090931/23
-167,Eastern Cape,"Kaysers Office Equip &
+Greenacres Port Elizabeth, 1070sqm)","R                     11 012,98",11012.98,1,11012.98,Variation ( Expansion of scope),05/08/2020 ( EC013896),,2010/090931/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",167,Eastern Cape,"Kaysers Office Equip &
 Stationery","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES  FOR  THE
 DEPARTMENT OF AGRICULTURE,LAND REFORM &
 RURAL DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
 SERVICES ( Philip Frame Road, Waverly Office Park,
-East London (1627, 28sqm)","R                     16 745,90",1,"R                          16 745,90",Variation ( Expansion of scope),17/06/2020 (EC-013871),2010/090931/23
-168,Eastern Cape,"Kaysers Office Equip &
+East London (1627, 28sqm)","R                     16 745,90",16745.90,1,16745.90,Variation ( Expansion of scope),17/06/2020 (EC-013871),,2010/090931/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",168,Eastern Cape,"Kaysers Office Equip &
 Stationery","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES  FOR  THE
 DEPARTMENT OF AGRICULTURE,LAND REFORM &
 RURAL DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
-SERVICES ( 40 Blakeway Street Mthatha (456.07sqm)","R                       4 694,10",1,"R                            4 694,10",Variation ( Expansion of scope),Order not yet created,2010/090931/23
-169,Eastern Cape,"Kaysers Office Equip &
+SERVICES ( 40 Blakeway Street Mthatha (456.07sqm)","R                       4 694,10",4694.10,1,4694.10,Variation ( Expansion of scope),Order not yet created,,2010/090931/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",169,Eastern Cape,"Kaysers Office Equip &
 Stationery","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES  FOR  THE
 DEPARTMENT OF AGRICULTURE,LAND REFORM &
 RURAL DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
 SERVICES ( Beacon Bay Crossing East London
-(2494.17sqm)","R                     25 671,24",1,"R                          25 671,24",Variation ( Expansion of scope),30/07/2020   (EC-013877),2010/090931/23
-170,Eastern Cape,"Kaysers Office Equip &
+(2494.17sqm)","R                     25 671,24",25671.24,1,25671.24,Variation ( Expansion of scope),30/07/2020   (EC-013877),,2010/090931/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",170,Eastern Cape,"Kaysers Office Equip &
 Stationery","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES  FOR  THE
 DEPARTMENT OF AGRICULTURE,LAND REFORM &
 RURAL DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
 SERVICES ( 42 Terminus Street, East London
-(701.69sqm)","R                       7 222,15",1,"R                            7 222,15",Variation ( Expansion of scope),"no order issued yet
+(701.69sqm)","R                       7 222,15",7222.15,1,7222.15,Variation ( Expansion of scope),"no order issued yet
 appointment made on the
-10/07/2020",2010/090931/23
-171,Eastern Cape,"M-JNR AND OLWETHU
+10/07/2020",,2010/090931/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",171,Eastern Cape,"M-JNR AND OLWETHU
 CONSULTING","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES& HIRE OF
 WASTE BIN  FOR  THE DEPARTMENT OF
 AGRICULTURE,LAND REFORM & RURAL
 DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
-SERVICES ( BLOCK F BUILDING  1705,07sqm)","R                     20 460,80",once off,"R                          20 460,80",Emergency,2014/035097/07,
-172,Eastern Cape,"M-JNR AND OLWETHU
+SERVICES ( BLOCK F BUILDING  1705,07sqm)","R                     20 460,80",20460.80,once off,20460.80,Emergency,,,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",172,Eastern Cape,"M-JNR AND OLWETHU
 CONSULTING","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES& HIRE OF
 WASTE BIN  FOR  THE DEPARTMENT OF
 AGRICULTURE,LAND REFORM & RURAL
 DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
-SERVICES ( BLOCK H BUILDING  1392sqm)","R                     16 860,00",once off,"R                          16 860,00",Emergency,"no order issued yet
+SERVICES ( BLOCK H BUILDING  1392sqm)","R                     16 860,00",16860.00,once off,16860.00,Emergency,"no order issued yet
 appointment made on the
-10/07/2020",2014/035097/07
-173,Eastern Cape,"M-JNR AND OLWETHU
+10/07/2020",,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",173,Eastern Cape,"M-JNR AND OLWETHU
 CONSULTING","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES& HIRE OF
 WASTE BIN  FOR  THE DEPARTMENT OF
 AGRICULTURE,LAND REFORM & RURAL
 DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
-SERVICES ( 66 Prince Alfred Street, Queenstown","R                     14 761,20",once off,"R                          14 761,20",Emergency,"no order issued yet
+SERVICES ( 66 Prince Alfred Street, Queenstown","R                     14 761,20",14761.20,once off,14761.20,Emergency,"no order issued yet
 appointment made on the
-10/07/2020",2014/035097/07
-174,Eastern Cape,"M-JNR AND OLWETHU
+10/07/2020",,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",174,Eastern Cape,"M-JNR AND OLWETHU
 CONSULTING","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES& HIRE OF
 WASTE BIN  FOR  THE DEPARTMENT OF
 AGRICULTURE,LAND REFORM & RURAL
 DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
-SERVICES ( Beacon Bay Crossing East London","R                     29 929,20",once off,"R                          29 929,20",Emergency,"no order issued yet
+SERVICES ( Beacon Bay Crossing East London","R                     29 929,20",29929.20,once off,29929.20,Emergency,"no order issued yet
 appointment made on the
-10/07/2020",2014/035097/07
-175,Eastern Cape,"M-JNR AND OLWETHU
+10/07/2020",,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",175,Eastern Cape,"M-JNR AND OLWETHU
 CONSULTING","APPOINTMENT TO RENDER
 FOGGING/DISINFECTION SERVICES & HIRE OF
 WASTE BIN  FOR  THE DEPARTMENT OF
 AGRICULTURE,LAND REFORM & RURAL
 DEVELOPMENT IN ALL OFFICES THAT ARE
 PRESENTLY PROVIDING CLEANING AND HYGEN
-SERVICES ( 40 Blakeway Street Mthatha (456.07sqm)","R                       5 472,84",once off,"R                            5 472,84",Emergency,"no order issued yet
+SERVICES ( 40 Blakeway Street Mthatha (456.07sqm)","R                       5 472,84",5472.84,once off,5472.84,Emergency,"no order issued yet
 appointment made on the
-10/07/2020",2014/035097/07
-176,Western Cape,"South End Environmental
-Services",Disinfection Services,"R                     9 423,585",09 Buildings,"R                          84 812,27",Normal qoutation  Process,Sundry payment,2012/131438/07
-177,Western Cape,FutureFocus Consulting,Saniters,127.50,750,"R                          93 656,26",Deviation,Sundry payment,2012/197972/07
-178,Western Cape,FutureFocus Consulting,Saniters,105.30,730,"R                          76 869,00",Deviation,Sundry payment,2012/197972/07
-179,Western Cape,"South End Environmental
+10/07/2020",,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",176,Western Cape,"South End Environmental
+Services",Disinfection Services,"R                     9 423,585",9423.59,09 Buildings,84812.27,Normal qoutation  Process,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",177,Western Cape,FutureFocus Consulting,Saniters,127.5,127.50,750,93656.26,Deviation,Sundry payment,,2012/197972/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",178,Western Cape,FutureFocus Consulting,Saniters,105.3,105.30,730,76869.00,Deviation,Sundry payment,,2012/197972/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",179,Western Cape,"South End Environmental
 Services","ReDecontamination, Disinfecting and Deep Cleaning
-Services - PSSC WC offices in Cape Town 09 June 2020","R                     26 587,08",1,"R                          26 587,08",Deviation,Sundry payment,2012/131438/07
-180,Western Cape,"South End Environmental
+Services - PSSC WC offices in Cape Town 09 June 2020","R                     26 587,08",26587.08,1,26587.08,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",180,Western Cape,"South End Environmental
 Services","Re-Decontamination, Disinfecting and Deep Cleaning
 Services - Cape Town Deeds Registry and SG on 28
-June 2020","R                     53 930,17",1,"R                          53 930,17",Deviation,Sundry payment,2012/131438/07
-181,Western Cape,"South End Environmental
+June 2020","R                     53 930,17",53930.17,1,53930.17,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",181,Western Cape,"South End Environmental
 Services","Re-Decontamination, Disinfecting and Deep Cleaning
-Services - Stellenbosch district office on 23 June 2020","R                          839,04",1,"R                               839,04",Deviation,Sundry payment,2012/131438/07
-182,Western Cape,"South End Environmental
+Services - Stellenbosch district office on 23 June 2020","R                          839,04",839.04,1,839.04,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",182,Western Cape,"South End Environmental
 Services","Re-Decontamination,  and Deep Cleaning Services -
-PSSC office offices in Cape Town 01 July 2020","R                     26 587,08",1,"R                          26 587,08",Deviation,Sundry payment,2012/131438/07
-183,Western Cape,"South End Environmental
+PSSC office offices in Cape Town 01 July 2020","R                     26 587,08",26587.08,1,26587.08,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",183,Western Cape,"South End Environmental
 Services","Re-Decontamination of Former Daff  stellenbosch offices
-Western Cape 17 June 2020","R                     90 417,76",1,"R                          90 417,76",Deviation,Sundry payment,2012/131438/07
-184,Western Cape,"South End Environmental
+Western Cape 17 June 2020","R                     90 417,76",90417.76,1,90417.76,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",184,Western Cape,"South End Environmental
 Services","Re-Decontamination of DEEDS and SGO offices
-Western Cape 11 June 2020","R                     53 930,17",1,"R                          53 930,17",Deviation,Sundry payment,2012/131438/07
-185,Western Cape,"South End Environmental
+Western Cape 11 June 2020","R                     53 930,17",53930.17,1,53930.17,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",185,Western Cape,"South End Environmental
 Services","Re-Decontamination of DEEDS and SGO offices
-Western Cape 15 July 2020","R                     53 930,17",1,"R                          53 930,17",Deviation,Sundry payment,2012/131438/07
-186,Western Cape,"South End Environmental
-Services",Shamrock Place George 23 July,"R                       3 719,30",1,"R                            3 719,30",Normal qoutation  Process,21/07/2020,2012/131438/07
-187,Western Cape,"South End Environmental
-Services",Re Decontamination 100 Meade Street,"R                       6 085,30",1,"R                            6 085,30",Normal qoutation  Process,28/07/2020,2012/131438/07
-188,Western Cape,"South End Environmental
+Western Cape 15 July 2020","R                     53 930,17",53930.17,1,53930.17,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",186,Western Cape,"South End Environmental
+Services",Shamrock Place George 23 July,"R                       3 719,30",3719.30,1,3719.30,Normal qoutation  Process,21/07/2020,2020-07-21,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",187,Western Cape,"South End Environmental
+Services",Re Decontamination 100 Meade Street,"R                       6 085,30",6085.30,1,6085.30,Normal qoutation  Process,28/07/2020,2020-07-28,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",188,Western Cape,"South End Environmental
 Services","Re-Decontamination of DEEDS and SGO offices
-Western Cape 25 July 2020","R                     30 817,24",1,"R                          30 817,24",Deviation,Sundry payment,2012/131438/07
-189,Western Cape,"South End Environmental
+Western Cape 25 July 2020","R                     30 817,24",30817.24,1,30817.24,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",189,Western Cape,"South End Environmental
 Services","Re-Decontamination of DEEDS and SGO offices
-Western Cape 30 July  2020","R                       7 429,00",1,"R                            7 429,00",Deviation,Sundry payment,2012/131438/07
-190,Western Cape,"South End Environmental
+Western Cape 30 July  2020","R                       7 429,00",7429.00,1,7429.00,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",190,Western Cape,"South End Environmental
 Services","Re-Decontontamination of Claimwilliam District office 03
-August 2020","R                       3 809,26",1,"R                            3 809,26",Normal qoutation  Process,Sundry payment,2012/131438/07
-191,Western Cape,"South End Environmental
+August 2020","R                       3 809,26",3809.26,1,3809.26,Normal qoutation  Process,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",191,Western Cape,"South End Environmental
 Services","DEEDS AND SG OFFICES RHODES AVENUE C block
-including security Area 01 August","R                       1 311,00",1,"R                            1 311,00",Deviation,Sundry payment,2012/131438/07
-192,Western Cape,Compass Waste Medical,"50L Medical Waste Boxes( supply;delivery and Collection
-for 3 months in all DRDRL offices)","R                     22 595,16",1,"R                          22 595,16",Normal qoutation  Process,Sundry payment,2003/002007/07
-193,Limpopo,Bravosat,"Procurement of Sanitisers, Dispensers and wipes for
+including security Area 01 August","R                       1 311,00",1311.00,1,1311.00,Deviation,Sundry payment,,2012/131438/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",192,Western Cape,Compass Waste Medical,"50L Medical Waste Boxes( supply;delivery and Collection
+for 3 months in all DRDRL offices)","R                     22 595,16",22595.16,1,22595.16,Normal qoutation  Process,Sundry payment,,2003/002007/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",193,Limpopo,Bravosat,"Procurement of Sanitisers, Dispensers and wipes for
 Waterberg District","R2 500 p/dispense
 R3 200 p/bucket wipe
-R550 p/1 lite sanitise refill","3 Dispensers
+R550 p/1 lite sanitise refill",,"3 Dispensers
 12 wipes backet
-21 (1liters) sanitiser refill","R                          57 450,00",Variation ( Expansion of scope),20/03/2020,2011/078053/23
-194,Limpopo,Suprahealth care,"Procurement of Gloves and Mask for Limpopo PSSC and
+21 (1liters) sanitiser refill",57450.00,Variation ( Expansion of scope),20/03/2020,2020-03-20,2011/078053/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",194,Limpopo,Suprahealth care,"Procurement of Gloves and Mask for Limpopo PSSC and
 Districts offices","R862.50 ( B/50 mask)
 R170.14 (B/100 small
 gloves)
 R170.14 (B/100 medium
 gloves
 R166.31 (B/100 large
-gloves)","5000 Masks
+gloves)",,"5000 Masks
 1000 small glove
 2500 medium
 gloves
-1500 large gloves","R                          94 699,00",Normal ( transversal contract),16/04/2020,2007/027848/07
-195,Limpopo,Kgoalaza,"Procurement of Sanitisers for Limpopo PSSC and
-Sekhukhune District",6 250 p/25 lites,40 X 25litres,"R                        250 000,00",Normal,26/03/2020,2014/140549/07
-196,Limpopo,"Lekhumo M Group and
-Company",Procurement of empty adjustable spray bottles,61.98 p/bottle,350 empty bottles,"R                          21 693,00",Normal,13/05/2020,2019/094978/07
-197,Limpopo,Fabs Projects,"Procurement of Disinfection Service for all Polokwane
-offices","R                   126 000,00",1,"R                        126 000,00",Variation ( Expansion of scope),13/05/2020,2013/139880/07
-198,Limpopo,Bravosat 327,"Procurement of Disinfection Service for Waterberg
-District office","64 488,00",1,"R                          52 140,00",Variation ( Expansion of scope),13/05/2020,2011/078053/23
-199,Limpopo,Fabs Projects,"Procurement of Disinfection Service for Sekhukhune
-district office","R                     46 000,00",1,"R                          46 000,00",Normal,22/05/2020,2013/139880/07
-200,Limpopo,Fabs Projects,"Procurement of Disinfection Service to former DAFF
-offices at 68 Hans Van Rensburg, Polokwane","R                     43 000,00",1,"R                          43 000,00",Variation ( Expansion of scope),22/05/2020,2013/139880/07
-201,Limpopo,Fabs Projects,"Procurement of Disposal boxes for period of three
+1500 large gloves",94699.00,Normal ( transversal contract),16/04/2020,2020-04-16,2007/027848/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",195,Limpopo,Kgoalaza,"Procurement of Sanitisers for Limpopo PSSC and
+Sekhukhune District",6 250 p/25 lites,6250.00,40 X 25litres,250000.00,Normal,26/03/2020,2020-03-26,2014/140549/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",196,Limpopo,"Lekhumo M Group and
+Company",Procurement of empty adjustable spray bottles,61.98 p/bottle,61.98,350 empty bottles,21693.00,Normal,13/05/2020,2020-05-13,2019/094978/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",197,Limpopo,Fabs Projects,"Procurement of Disinfection Service for all Polokwane
+offices","R                   126 000,00",126000.00,1,126000.00,Variation ( Expansion of scope),13/05/2020,2020-05-13,2013/139880/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",198,Limpopo,Bravosat 327,"Procurement of Disinfection Service for Waterberg
+District office","64 488,00",64488.00,1,52140.00,Variation ( Expansion of scope),13/05/2020,2020-05-13,2011/078053/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",199,Limpopo,Fabs Projects,"Procurement of Disinfection Service for Sekhukhune
+district office","R                     46 000,00",46000.00,1,46000.00,Normal,22/05/2020,2020-05-22,2013/139880/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",200,Limpopo,Fabs Projects,"Procurement of Disinfection Service to former DAFF
+offices at 68 Hans Van Rensburg, Polokwane","R                     43 000,00",43000.00,1,43000.00,Variation ( Expansion of scope),22/05/2020,2020-05-22,2013/139880/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",201,Limpopo,Fabs Projects,"Procurement of Disposal boxes for period of three
 months for all Polokwane office","R14 950 (weekly
-collection)",3,"R                          44 850,00",Variation ( Expansion of scope),15/06/2020,2013/139880/07
-202,Limpopo,Bravosat 327,"Procurement of Disposal boxes for period of three
+collection)",14950.00,3,44850.00,Variation ( Expansion of scope),15/06/2020,2020-06-15,2013/139880/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",202,Limpopo,Bravosat 327,"Procurement of Disposal boxes for period of three
 months for Waterberg district office","R4400.00  ( weekly
-collection)",3,"R                          13 200,00",Variation ( Expansion of scope),2020/08/06,2011/078053/23
-203,Limpopo,Bravosat 327,"Procurement of Disposal boxes for period of three
+collection)",4400.00,3,13200.00,Variation ( Expansion of scope),06/08/2020,2020-08-06,2011/078053/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",203,Limpopo,Bravosat 327,"Procurement of Disposal boxes for period of three
 months for Sekhukhune district office","6700.00 (weekly
-collections)",3,"R                          20 100,00",Normal,17/06/2020,2011/078053/23
-204,Limpopo,Bravosat 327,"Procurement of Disinfection Service for former DAFF
+collections)",6700.00,3,20100.00,Normal,17/06/2020,2020-06-17,2011/078053/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",204,Limpopo,Bravosat 327,"Procurement of Disinfection Service for former DAFF
 NATIONAL AGRI LAND AND ENVIROMENT
 BOREDEPORT (NATIONAL AGRICULTURE
-MODIMOLLE COMPLEX","R 59 325,00",1,"R                          59 325,00",Normal,18/06/2020,2011/078053/23
-205,Limpopo,Fabs Projects,"Procurement of Disinfection Service for former DAFF
-Limpopo Borderposts (Beitbridge and Groblersbridge)","R 35 500,00",1,"R                          35 500,00",Normal,17/06/2020,2013/139880/07
-206,Limpopo,Fabs Projects,"Procurement of Disinfection Service Polokwane offices (
+MODIMOLLE COMPLEX","R 59 325,00",59325.00,1,59325.00,Normal,18/06/2020,2020-06-18,2011/078053/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",205,Limpopo,Fabs Projects,"Procurement of Disinfection Service for former DAFF
+Limpopo Borderposts (Beitbridge and Groblersbridge)","R 35 500,00",35500.00,1,35500.00,Normal,17/06/2020,2020-06-17,2013/139880/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",206,Limpopo,Fabs Projects,"Procurement of Disinfection Service Polokwane offices (
 ABSA Forum, and Koos Smit)- following COVID 19
-reported case","R 97 000,00",1,"R                          97 000,00",Variation ( Expansion of scope),16/07/2020,2013/139880/07
-207,Limpopo,Fabs Projects,"Procurement of Disinfection Service for Koos Smit and
-Deeds office- following COVID 19 reported case","R 63 000,00",1,"R                          63 000,00",Variation ( Expansion of scope),06/08/2020,2013/139880/07
-208,Limpopo,Fabs Projects,"Procurement of Disinfection Service for Sekhukhune
-District- following COVID 19 reported case","R 33 000,00",1,"R                          33 000,00",Normal,28/07/2020,2013/139880/07
-209,Limpopo,Bravosat 327,"Procurement of Disinfection Service former Daff office
-Old Mutual Building- following COVID 19 reported case","R 35 999,00",1,"R                          35 999,00",Normal,05/08/2020,2011/078053/23
-210,Mpumalanga,"M-Jnr and Olwethu Consulting
-Pty Ltd",Decontamination MPSCC,"R                     42 150,30",1,"R                          42 150,30","Deviation extension of scope of
-contract",30/04/2020,2014/035097/07
-211,Mpumalanga,Delvex 743,Decontamination Nkangala District Office,"R                     13 915,00",1,"R                          13 915,00",Variation ( Expansion of scope),30/04/2020,2006/156989/23
-212,Mpumalanga,Delvex 743,Decontamination Ehlanzeni District Office,"R                     20 223,80",1,"R                          20 223,80",Variation ( Expansion of scope),30/04/2020,2006/156989/23
-213,Mpumalanga,Rentokil,Decontamination Gert Sibande District Office,"R                       6 302,00",1,"R                            6 302,00",Normal process,05/05/2020,1967/013286/07
-214,Mpumalanga,"Shintomane General
-Suppliers",Decontamination Restitution and Lodgement Office,"R                     43 000,00",1,"R                          43 000,00",Variation ( Expansion of scope),30/04/2020,2013/120646/07
-215,Mpumalanga,OKS Investment 2009,Decontamination Surveyor General Office,"R                     27 600,00",1,"R                          27 600,00",Variation ( Expansion of scope),05/05/2020,2009/221179/23
-216,Mpumalanga,"M-Jnr and Olwethu Consulting
+reported case","R 97 000,00",97000.00,1,97000.00,Variation ( Expansion of scope),16/07/2020,2020-07-16,2013/139880/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",207,Limpopo,Fabs Projects,"Procurement of Disinfection Service for Koos Smit and
+Deeds office- following COVID 19 reported case","R 63 000,00",63000.00,1,63000.00,Variation ( Expansion of scope),06/08/2020,2020-08-06,2013/139880/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",208,Limpopo,Fabs Projects,"Procurement of Disinfection Service for Sekhukhune
+District- following COVID 19 reported case","R 33 000,00",33000.00,1,33000.00,Normal,28/07/2020,2020-07-28,2013/139880/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",209,Limpopo,Bravosat 327,"Procurement of Disinfection Service former Daff office
+Old Mutual Building- following COVID 19 reported case","R 35 999,00",35999.00,1,35999.00,Normal,05/08/2020,2020-08-05,2011/078053/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",210,Mpumalanga,"M-Jnr and Olwethu Consulting
+Pty Ltd",Decontamination MPSCC,"R                     42 150,30",42150.30,1,42150.30,"Deviation extension of scope of
+contract",30/04/2020,2020-04-30,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",211,Mpumalanga,Delvex 743,Decontamination Nkangala District Office,"R                     13 915,00",13915.00,1,13915.00,Variation ( Expansion of scope),30/04/2020,2020-04-30,2006/156989/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",212,Mpumalanga,Delvex 743,Decontamination Ehlanzeni District Office,"R                     20 223,80",20223.80,1,20223.80,Variation ( Expansion of scope),30/04/2020,2020-04-30,2006/156989/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",213,Mpumalanga,Rentokil,Decontamination Gert Sibande District Office,"R                       6 302,00",6302.00,1,6302.00,Normal process,05/05/2020,2020-05-05,1967/013286/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",214,Mpumalanga,"Shintomane General
+Suppliers",Decontamination Restitution and Lodgement Office,"R                     43 000,00",43000.00,1,43000.00,Variation ( Expansion of scope),30/04/2020,2020-04-30,2013/120646/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",215,Mpumalanga,OKS Investment 2009,Decontamination Surveyor General Office,"R                     27 600,00",27600.00,1,27600.00,Variation ( Expansion of scope),05/05/2020,2020-05-05,2009/221179/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",216,Mpumalanga,"M-Jnr and Olwethu Consulting
 Pty Ltd","Health care Risk Boxes Restitution and Lodgement
-Office","R                       1 220,00",12,"R                          14 640,00",Variation ( Expansion of scope),12/05/2020,2014/035097/07
-217,Mpumalanga,"M-Jnr and Olwethu Consulting
-Pty Ltd",Health care Risk Boxes MPSCC and district offices,"R                          366,00",12,"R                            4 392,00",Variation ( Expansion of scope),12/05/2020,2014/035097/07
-218,Mpumalanga,"M-Jnr and Olwethu Consulting
-Pty Ltd",Health care Risk Boxes Surveyor General Office,"R                       3 782,00",12,"R                          45 384,00",Variation ( Expansion of scope),10/05/2020,2014/035097/07
-219,Mpumalanga,OKS Investment 2009,Decontamination Surveyor General Office,"$                     25 300,00",1,"R                          25 300,00",Variation ( Expansion of scope),02/07/2020,2009/221179/23
-220,Mpumalanga,Bravosat 237,Decontamination MPSCC,"$                     56 874,45",1,"R                          56 874,45",Normal process,10/07/2020,2011/078053/23
-221,Mpumalanga,Kamatshika Services,Decontamination Nkangala District Office,"$                     26 232,50",1,"R                          26 232,50",Normal process,14/07/2020,2006/114060/23
-222,Mpumalanga,Nozihle Cleaning Services,Decontamination MPSCC,"$                     36 790,80",1,"R                          36 790,80",Normal process,30/07/2020,2002/041023/23
-223,Mpumalanga,Kamatshika Services,Decontamination Gert Sibande District Office- Ermelo,"$                       6 385,80",1,"R                            6 385,80",Normal process,31/07/2020,2006/114060/23
-224,"Agriculture,
+Office","R                       1 220,00",1220.00,12,14640.00,Variation ( Expansion of scope),12/05/2020,2020-05-12,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",217,Mpumalanga,"M-Jnr and Olwethu Consulting
+Pty Ltd",Health care Risk Boxes MPSCC and district offices,"R                          366,00",366.00,12,4392.00,Variation ( Expansion of scope),12/05/2020,2020-05-12,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",218,Mpumalanga,"M-Jnr and Olwethu Consulting
+Pty Ltd",Health care Risk Boxes Surveyor General Office,"R                       3 782,00",3782.00,12,45384.00,Variation ( Expansion of scope),10/05/2020,2020-05-10,2014/035097/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",219,Mpumalanga,OKS Investment 2009,Decontamination Surveyor General Office,"$                     25 300,00",25300.00,1,25300.00,Variation ( Expansion of scope),02/07/2020,2020-07-02,2009/221179/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",220,Mpumalanga,Bravosat 237,Decontamination MPSCC,"$                     56 874,45",56874.45,1,56874.45,Normal process,10/07/2020,2020-07-10,2011/078053/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",221,Mpumalanga,Kamatshika Services,Decontamination Nkangala District Office,"$                     26 232,50",26232.50,1,26232.50,Normal process,14/07/2020,2020-07-14,2006/114060/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",222,Mpumalanga,Nozihle Cleaning Services,Decontamination MPSCC,"$                     36 790,80",36790.80,1,36790.80,Normal process,30/07/2020,2020-07-30,2002/041023/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",223,Mpumalanga,Kamatshika Services,Decontamination Gert Sibande District Office- Ermelo,"$                       6 385,80",6385.80,1,6385.80,Normal process,31/07/2020,2020-07-31,2006/114060/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",224,"Agriculture,
 Gauteng","H & T Hydraulics and Mining
-Supplies",Mask - Surgical,"R                            17,25",200 boxes of 50,"R                        172 500,00",Deviation,,2017/516593/07
-225,"Agriculture,
-Gauteng",Biological Pharmaceuticals,Mask - Surgical,"R                            26,65",666 boxes of 50,"R                        887 544,90",Deviation,,2013/067392/07
-226,"Agriculture,
-Gauteng",Century Project Management,Mask - Surgical,"R                            28,52",20000,"R                        579 025,00",Deviation,,2016/245221/07
-227,"Agriculture,
-Gauteng",Century Project Management,Mask - Surgical,"R                            28,52",20000,"R                        579 025,00",Deviation,,2016/245221/07
-228,"Agriculture,
+Supplies",Mask - Surgical,"R                            17,25",17.25,200 boxes of 50,172500.00,Deviation,,,2017/516593/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",225,"Agriculture,
+Gauteng",Biological Pharmaceuticals,Mask - Surgical,"R                            26,65",26.65,666 boxes of 50,887544.90,Deviation,,,2013/067392/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",226,"Agriculture,
+Gauteng",Century Project Management,Mask - Surgical,"R                            28,52",28.52,20000,579025.00,Deviation,,,2016/245221/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",227,"Agriculture,
+Gauteng",Century Project Management,Mask - Surgical,"R                            28,52",28.52,20000,579025.00,Deviation,,,2016/245221/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",228,"Agriculture,
 Gauteng","H & T Hydraulics and Mining
-Supplies",Gloves - Surgical & Examination - Natural Rubber Latex,"R                            94,30",150 boxes of 100,"R                          14 145,00",Deviation,,2017/516593/07
-229,"Agriculture,
+Supplies",Gloves - Surgical & Examination - Natural Rubber Latex,"R                            94,30",94.30,150 boxes of 100,14145.00,Deviation,,,2017/516593/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",229,"Agriculture,
 Gauteng","H & T Hydraulics and Mining
-Supplies",Goggles / Face-Shield / Visor,"R                            10,99",150,"R                            1 639,50",Deviation,,2017/516593/07
-230,"Agriculture,
-Gauteng",ARC Technology,Goggles / Face-Shield / Visor,"R                            28,00",500,"R                          14 000,00",Deviation,,2017/162066/07
-231,"Agriculture,
-Gauteng",Triple Power Supplies,Sanitisers,"R                          520,00",200,"R                        103 999,00",Deviation,,2014/113663/07
-232,"Agriculture,
+Supplies",Goggles / Face-Shield / Visor,"R                            10,99",10.99,150,1639.50,Deviation,,,2017/516593/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",230,"Agriculture,
+Gauteng",ARC Technology,Goggles / Face-Shield / Visor,"R                            28,00",28.00,500,14000.00,Deviation,,,2017/162066/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",231,"Agriculture,
+Gauteng",Triple Power Supplies,Sanitisers,"R                          520,00",520.00,200,103999.00,Deviation,,,2014/113663/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",232,"Agriculture,
 Gauteng","H & T Hydraulics and Mining
-Supplies",Wiper Roll,"R                          322,00",200,"R                          64 400,00",Deviation,,2017/516593/07
-233,"Agriculture,
+Supplies",Wiper Roll,"R                          322,00",322.00,200,64400.00,Deviation,,,2017/516593/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",233,"Agriculture,
 Gauteng","H & T Hydraulics and Mining
-Supplies",Soap Dispenser Lockable,"R                          402,50",50,"R                          20 125,00",Deviation,,2017/516593/07
-234,"Agriculture,
+Supplies",Soap Dispenser Lockable,"R                          402,50",402.50,50,20125.00,Deviation,,,2017/516593/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",234,"Agriculture,
 Gauteng","H & T Hydraulics and Mining
-Supplies",Hand Soap 5 litres,"R                            97,75",150,"R                          14 662,50",Deviation,,2017/516593/07
-235,"Agriculture,
-Gauteng",ARC Technology,Protective Cover Bodysuits,"R                          175,00",50,"R                            8 750,00",RT 296,,2017/162066/07
-236,"Agriculture,
-Gauteng",ARC Technology,Leusable Tychem CAT 3 for medical use,"R                          612,00",35,"R                          21 420,00",RT 296,,2017/162066/07
-237,"Agriculture,
-Gauteng",Komane Office Projects,Infrared thermometers A66,"R                       2 800,00",20,"R                          56 000,00",Deviation,,2006/078822/23
-238,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Sefala Building (11/05/2020),"R                              8,05",12141,"R                        112 395,31",Deviation,,2009/145769/23
-239,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Sefala Building (04/07/2020),"R                              8,05",1493,"R                          13 821,45",Deviation,,2009/145769/23
-240,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Harvest House (10/05/2020),"R                              8,05",13602,"R                        125 920,52",Deviation,,2009/145769/23
-241,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Harvest House (2905/2020),"R                              8,05",5267,"R                          48 754,63",Deviation,,2009/145769/23
-242,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Hamilton 140 (1105/2020),"R                              8,05",1858,"R                          17 200,44",Deviation,,2009/145769/23
-243,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Delpen (1205/2020),"R                              8,05",5550,"R                          51 379,13",Deviation,,2009/145769/23
-244,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Agriculture Place (08/05/2020),"R                              8,05",35000,"R                        324 012,50",,2009/145769/23,
-245,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Agriculture Place (30/05/2020),"R                              8,05",3674,"R                          34 007,43",Deviation,,2009/145769/23
-246,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Agriculture Place (13/07/2020),"R                              8,05",5 207.04,"R                          48 204,17",Deviation,,2009/145769/23
-247,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Sefala Building (24/07/2020),"R                              8,05",1064,"R                            9 852,29",Deviation,,2009/145769/23
-248,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Roodeplaat(13/05/2020),"R                              8,05",3712,"R                          34 363,84",Deviation,,2009/145769/23
-249,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Roodeplaat (07/07/2020),"R                              8,05",3712,"R                          34 363,84",Deviation,,2009/145769/23
-250,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Silverton (18/07/2020),"R                              8,05",834,"R                            7 719,60",Deviation,,2009/145769/23
-251,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Silverton (13/05/2020),"R                              8,05",504,"R                            4 665,78",Deviation,,2009/145769/23
-252,"Agriculture,
+Supplies",Hand Soap 5 litres,"R                            97,75",97.75,150,14662.50,Deviation,,,2017/516593/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",235,"Agriculture,
+Gauteng",ARC Technology,Protective Cover Bodysuits,"R                          175,00",175.00,50,8750.00,RT 296,,,2017/162066/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",236,"Agriculture,
+Gauteng",ARC Technology,Leusable Tychem CAT 3 for medical use,"R                          612,00",612.00,35,21420.00,RT 296,,,2017/162066/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",237,"Agriculture,
+Gauteng",Komane Office Projects,Infrared thermometers A66,"R                       2 800,00",2800.00,20,56000.00,Deviation,,,2006/078822/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",238,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Sefala Building (11/05/2020),"R                              8,05",8.05,12141,112395.31,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",239,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Sefala Building (04/07/2020),"R                              8,05",8.05,1493,13821.45,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",240,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Harvest House (10/05/2020),"R                              8,05",8.05,13602,125920.52,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",241,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Harvest House (2905/2020),"R                              8,05",8.05,5267,48754.63,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",242,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Hamilton 140 (1105/2020),"R                              8,05",8.05,1858,17200.44,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",243,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Delpen (1205/2020),"R                              8,05",8.05,5550,51379.13,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",244,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Agriculture Place (08/05/2020),"R                              8,05",8.05,35000,324012.50,,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",245,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Agriculture Place (30/05/2020),"R                              8,05",8.05,3674,34007.43,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",246,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Agriculture Place (13/07/2020),"R                              8,05",8.05,5 207.04,48204.17,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",247,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Sefala Building (24/07/2020),"R                              8,05",8.05,1064,9852.29,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",248,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Roodeplaat(13/05/2020),"R                              8,05",8.05,3712,34363.84,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",249,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Roodeplaat (07/07/2020),"R                              8,05",8.05,3712,34363.84,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",250,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Silverton (18/07/2020),"R                              8,05",8.05,834,7719.60,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",251,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Silverton (13/05/2020),"R                              8,05",8.05,504,4665.78,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",252,"Agriculture,
 Gauteng",Mamulo Trading and Project,"Decontamination of Kemptonpark Quarantine
-(14/05/2020 and 27/07/2020 )","R                              8,05",1785,"R                          16 524,64",Deviation,,2009/145769/23
-253,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of Sedupe K9 Dog Unit (14/05/2020),"R                              8,05",2619,"R                          24 245,39",Deviation,,2009/145769/23
-254,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamnation of Trustbank (14/05/2020),"R                              8,05",504,"R                            4 665,78",Deviation,,2009/145769/23
-255,"Agriculture,
-Gauteng",Mamulo Trading and Project,Decontamination of ORTI Cargo(11/07/2020),"R                              8,05",888,"R                            8 220,66",Deviation,,2009/145769/23
-256,"Agriculture,
-Gauteng",Halsted and CO,500ml spray bottel,"R                            45,94",400,"R                          18 377,00",Normal quotation process followed,2020/05/29,1952/001225/07
-257,"Agriculture,
+(14/05/2020 and 27/07/2020 )","R                              8,05",8.05,1785,16524.64,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",253,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of Sedupe K9 Dog Unit (14/05/2020),"R                              8,05",8.05,2619,24245.39,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",254,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamnation of Trustbank (14/05/2020),"R                              8,05",8.05,504,4665.78,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",255,"Agriculture,
+Gauteng",Mamulo Trading and Project,Decontamination of ORTI Cargo(11/07/2020),"R                              8,05",8.05,888,8220.66,Deviation,,,2009/145769/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",256,"Agriculture,
+Gauteng",Halsted and CO,500ml spray bottel,"R                            45,94",45.94,400,18377.00,Normal quotation process followed,29/05/2020,2020-05-29,1952/001225/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",257,"Agriculture,
 Gauteng","Imonti Chemicals and
-Hygiene Sys",5 liter hand santitizer,"R                          339,25",50,"R                          16 962,50",Normal quotation process followed,2020/06/05,1994/033668/23
-258,"Agriculture,
+Hygiene Sys",5 liter hand santitizer,"R                          339,25",339.25,50,16962.50,Normal quotation process followed,05/06/2020,2020-06-05,1994/033668/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",258,"Agriculture,
 Gauteng","Imonti Chemicals and
-Hygiene Sys",Top up dispencers  5 litres,"R                          493,35",50,"R                          24 667,50",Normal quotation process followed,2020/06/05,1994/033668/23
-259,"Agriculture,
-Gauteng",BKB,F10 disinfection  1 litres,"R                          276,00",2,"R                               552,00",Normal quotation process followed,2020/05/26,1998/012435/06
-260,"Agriculture,
-Gauteng",OVK,F10 disinfection  5 litres,"R                       1 179,99",1,"R                            1 179,99",Normal quotation process followed,2020/03/17,1999/004069/06
-261,"Agriculture,
-Gauteng",MJA Brothers Trading,Material face mask,"R                            42,25",710,"R                          29 997,50",Normal quotation process followed,2020/06/05,2018/235988/07
-262,"Agriculture,
-Gauteng",Ons Handelsuis,Face shields,"R                            30,00",50,"R                            1 500,00",Normal quotation process followed,2020/05/29,2017/181217/07
-263,"Agriculture,
-Gauteng",The Specialists Franchise,Deep cleaning and disinfection,"R                   113 653,00",1,"R                        113 653,00",Normal quotation process followed,2020/06/04,2015/194656/07
-264,ALHA,Black Dot,Surgical face mask,"R                            28,75",400000,"R                   11 500 000,00",Tender,16-Apr-20,2012/048073/07
-265,ALHA,Healthcare Waste services,DISINFECTANT BAR SOAP,"11,6495",400000,"R                     4 659 800,00",Tender,16-Apr-20,2017/386828/07
-266,ALHA,"Imvukuzane Trading PTY
-LTD",Cloth mask,"R                            18,50",200000,"R                     3 700 000,00",Tender,16-Apr-20,2015/136323/07
-267,ALHA,Governemnet Printing,Vouchers Covid-19 Farmer Relief Fund,"R                              5,45",25000,"R                        136 250,00",Normal Process,,
-268,"RESTITUTION
+Hygiene Sys",Top up dispencers  5 litres,"R                          493,35",493.35,50,24667.50,Normal quotation process followed,05/06/2020,2020-06-05,1994/033668/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",259,"Agriculture,
+Gauteng",BKB,F10 disinfection  1 litres,"R                          276,00",276.00,2,552.00,Normal quotation process followed,26/05/2020,2020-05-26,1998/012435/06
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",260,"Agriculture,
+Gauteng",OVK,F10 disinfection  5 litres,"R                       1 179,99",1179.99,1,1179.99,Normal quotation process followed,17/03/2020,2020-03-17,1999/004069/06
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",261,"Agriculture,
+Gauteng",MJA Brothers Trading,Material face mask,"R                            42,25",42.25,710,29997.50,Normal quotation process followed,05/06/2020,2020-06-05,2018/235988/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",262,"Agriculture,
+Gauteng",Ons Handelsuis,Face shields,"R                            30,00",30.00,50,1500.00,Normal quotation process followed,29/05/2020,2020-05-29,2017/181217/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",263,"Agriculture,
+Gauteng",The Specialists Franchise,Deep cleaning and disinfection,"R                   113 653,00",113653.00,1,113653.00,Normal quotation process followed,04/06/2020,2020-06-04,2015/194656/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",264,ALHA,Black Dot,Surgical face mask,"R                            28,75",28.75,400000,11500000.00,Tender,16-Apr-20,2020-04-16,2012/048073/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",265,ALHA,Healthcare Waste services,DISINFECTANT BAR SOAP,"116,495",116495.00,400000,4659800.00,Tender,16-Apr-20,2020-04-16,2017/386828/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",266,ALHA,"Imvukuzane Trading PTY
+LTD",Cloth mask,"R                            18,50",18.50,200000,3700000.00,Tender,16-Apr-20,2020-04-16,2015/136323/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",267,ALHA,Governemnet Printing,Vouchers Covid-19 Farmer Relief Fund,"R                              5,45",5.45,25000,136250.00,Normal Process,,,
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",268,"RESTITUTION
 NATIONAL
-OFFICE",Yabela Consulting & Trading,SURGICAL GLOVES,2.52,5 boxes (100),"R                            1 260,00",Quotation,24/03/2020,2007/027750/23
-269,"RESTITUTION
+OFFICE",Yabela Consulting & Trading,SURGICAL GLOVES,2.52,2.52,5 boxes (100),1260.00,Quotation,24/03/2020,2020-03-24,2007/027750/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",269,"RESTITUTION
 NATIONAL
-OFFICE",Yabela Consulting & Trading,Wet Wipes,"R                        422,500",20 tubs,"R                            8 450,00",Quotation,24/03/2020,2007/027750/23
-270,"RESTITUTION
+OFFICE",Yabela Consulting & Trading,Wet Wipes,"R                        422,500",422.50,20 tubs,8450.00,Quotation,24/03/2020,2020-03-24,2007/027750/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",270,"RESTITUTION
 NATIONAL
-OFFICE",Yabela Consulting & Trading,Surgical Masks,"R                            23,00",5 boxes (100),"R                          11 500,00",Quotation,24/03/2020,2007/027750/23
-271,"RESTITUTION
+OFFICE",Yabela Consulting & Trading,Surgical Masks,"R                            23,00",23.00,5 boxes (100),11500.00,Quotation,24/03/2020,2020-03-24,2007/027750/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",271,"RESTITUTION
 NATIONAL
-OFFICE",Yabela Consulting & Trading,Hand Sanitezer,"R                            77,00",500 bottles x 500ml,"R                          38 500,00",Quotation,24/03/2020,2007/027750/23
-272,"RESTITUTION
+OFFICE",Yabela Consulting & Trading,Hand Sanitezer,"R                            77,00",77.00,500 bottles x 500ml,38500.00,Quotation,24/03/2020,2020-03-24,2007/027750/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",272,"RESTITUTION
 NATIONAL
-OFFICE",Yabela Consulting & Trading,Delivery Cost; PPE's,"R                     1 000,000",1,"R                            1 000,00",Quotation,24/03/2020,2007/027750/23
-273,"RESTITUTION
+OFFICE",Yabela Consulting & Trading,Delivery Cost; PPE's,"R                     1 000,000",1000.00,1,1000.00,Quotation,24/03/2020,2020-03-24,2007/027750/23
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",273,"RESTITUTION
 NATIONAL
-OFFICE",Zidrocom (Pty) Ltd,Examination Gloves,"R                        175,600",100,"R                          17 560,00",Quotation,20/05/2020,2019/564376/07
-274,"RESTITUTION
+OFFICE",Zidrocom (Pty) Ltd,Examination Gloves,"R                        175,600",175.60,100,17560.00,Quotation,20/05/2020,2020-05-20,2019/564376/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",274,"RESTITUTION
 NATIONAL
-OFFICE",Zidrocom (Pty) Ltd,Fabric Masks,"R                          33,300",2000,"R                          66 600,00",Quotation,20/05/2020,2019/564376/07
-275,"RESTITUTION
+OFFICE",Zidrocom (Pty) Ltd,Fabric Masks,"R                          33,300",33.30,2000,66600.00,Quotation,20/05/2020,2020-05-20,2019/564376/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",275,"RESTITUTION
 NATIONAL
-OFFICE",Zidrocom (Pty) Ltd,Hand Sanitizer,"R                          73,500",2000,"R                        147 000,00",Quotation,20/05/2020,2019/564376/07
-276,"RESTITUTION
+OFFICE",Zidrocom (Pty) Ltd,Hand Sanitizer,"R                          73,500",73.50,2000,147000.00,Quotation,20/05/2020,2020-05-20,2019/564376/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",276,"RESTITUTION
 NATIONAL
-OFFICE",Zidrocom (Pty) Ltd,Digital Body Theremometer,"R                     1 960,000",40,"R                          78 400,00",Quotation,20/05/2020,2019/564376/07
-277,"RESTITUTION
+OFFICE",Zidrocom (Pty) Ltd,Digital Body Theremometer,"R                     1 960,000",1960.00,40,78400.00,Quotation,20/05/2020,2020-05-20,2019/564376/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",277,"RESTITUTION
 NATIONAL
-OFFICE",Zidrocom (Pty) Ltd,Branding of Masks,"R                          12,730",2000,"R                          25 460,00",Quotation,20/05/2020,2019/564376/07
-278,"RESTITUTION
+OFFICE",Zidrocom (Pty) Ltd,Branding of Masks,"R                          12,730",12.73,2000,25460.00,Quotation,20/05/2020,2020-05-20,2019/564376/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",278,"RESTITUTION
 NATIONAL
-OFFICE",Zidrocom (Pty) Ltd,Branding od Digiatl Thermometer,"R                          10,000",40,"R                               400,00",Quotation,20/05/2020,2019/564376/07
-279,"RESTITUTION
+OFFICE",Zidrocom (Pty) Ltd,Branding od Digiatl Thermometer,"R                          10,000",10.00,40,400.00,Quotation,20/05/2020,2020-05-20,2019/564376/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",279,"RESTITUTION
 NATIONAL
-OFFICE",Lifhasi group (Pty) Ltd,Sanitizer Wipes  Buckets,"R                        100,000",480,"R                          48 000,00",Quotation,10/07/2020,2013/187509/07
-280,"RESTITUTION
+OFFICE",Lifhasi group (Pty) Ltd,Sanitizer Wipes  Buckets,"R                        100,000",100.00,480,48000.00,Quotation,10/07/2020,2020-07-10,2013/187509/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",280,"RESTITUTION
 NATIONAL
-OFFICE",I create  Technologies,Washable Masks,"R                          29,000",3000,"R                          87 000,00",Quotation,22/07/2020,2013/043172/07
-281,"RESTITUTION
+OFFICE",I create  Technologies,Washable Masks,"R                          29,000",29.00,3000,87000.00,Quotation,22/07/2020,2020-07-22,2013/043172/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",281,"RESTITUTION
 NATIONAL
-OFFICE",I create  Technologies,Hands Free Sanitizer Stand,"R                        900,000",26,"R                          23 400,00",Quotation,22/07/2020,2013/043172/07
-282,"RESTITUTION
+OFFICE",I create  Technologies,Hands Free Sanitizer Stand,"R                        900,000",900.00,26,23400.00,Quotation,22/07/2020,2020-07-22,2013/043172/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",282,"RESTITUTION
 NATIONAL
-OFFICE",I create  Technologies,Sanitizing  Alcohol wipes,"R                          49,000",2000,"R                          98 000,00",Quotation,22/07/2020,2013/043172/07
-283,"RESTITUTION
+OFFICE",I create  Technologies,Sanitizing  Alcohol wipes,"R                          49,000",49.00,2000,98000.00,Quotation,22/07/2020,2020-07-22,2013/043172/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",283,"RESTITUTION
 NATIONAL
-OFFICE",I create  Technologies,Theremometer Batteries,"R                          89,000",200,"R                            1 780,00",Quotation,22/07/2020,2013/043172/07
-284,"RESTITUTION
+OFFICE",I create  Technologies,Theremometer Batteries,"R                          89,000",89.00,200,1780.00,Quotation,22/07/2020,2020-07-22,2013/043172/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",284,"RESTITUTION
 NATIONAL
-OFFICE",I create  Technologies,Pedal Push Waste Bin  Black 20L,"R                        850,000",50,"R                          42 500,00",Quotation,22/07/2020,2013/043172/07
-285,"RESTITUTION
+OFFICE",I create  Technologies,Pedal Push Waste Bin  Black 20L,"R                        850,000",850.00,50,42500.00,Quotation,22/07/2020,2020-07-22,2013/043172/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",285,"RESTITUTION
 NATIONAL
-OFFICE",I create  Technologies,20L black disposable bag liners,"R                          90,000",100,"R                          42 500,00",Quotation,22/07/2020,2013/043172/07
-286,"RESTITUTION
+OFFICE",I create  Technologies,20L black disposable bag liners,"R                          90,000",90.00,100,42500.00,Quotation,22/07/2020,2020-07-22,2013/043172/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",286,"RESTITUTION
 NATIONAL
-OFFICE",I create  Technologies,First Aid Kit,"R                        350,000",30,"R                          10 500,00",Quotation,22/07/2020,2013/043172/07
-287,"RESTITUTION
+OFFICE",I create  Technologies,First Aid Kit,"R                        350,000",350.00,30,10500.00,Quotation,22/07/2020,2020-07-22,2013/043172/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",287,"RESTITUTION
 NATIONAL
 OFFICE",BAAA Eneterprise,"Surgical gloves
 Mobile units surgical masks
@@ -847,57 +843,44 @@ touch free wall dispenser
 sanitizer refill 1L
 Baket wipes
 Digital Body Theremometer
-AAA Batteries","R                              2,00
-R                              5,00
-R                       1 300,00
-R                            79,00
-R                              0,11
-R                       1 200,00
-R                              26,00","5000
+AAA Batteries","2,00
+5,00
+1300,00
+79,00
+0,11
+1200,00
+26,00",,"5000
 5000
 6
 60
 1200
 6
-18","R                          73 328,00",Quotation,27/07/2020,2014/259898/07
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-288,"RESTITUTION
+18",73328.00,Quotation,27/07/2020,2020-07-27,2014/259898/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",288,"RESTITUTION
 NATIONAL
 OFFICE",Zidrocom (Pty)Ltd),"Branded Cloth Musk
 hand sanitizer
 gloves
-sanitizer wipes","R                            66,52
-R                              7,25
-R                              1,78
-R                              1,46","900
+sanitizer wipes","66,52
+7,25
+1,78
+1,46",,"900
 900
 2000
-45000","R                        192 230,20",Quotation,27/07/2020,2014/259898/07
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-289,"RESTITUTION
+45000",192230.20,Quotation,27/07/2020,2020-07-27,2014/259898/07
+"Department of Agriculture, Land Reform and Rural Development (DALRRD)",289,"RESTITUTION
 NATIONAL
 OFFICE","Nyeleti General Supply
 Company","Branded Cloth Musk
 hand sanitizer
 alcohol wipes
 hand cream
-bag back branded","R                            45,00
-R                            60,00
-R                       1 400,00
-R                            60,00
-R                            45,00","2000
+bag back branded","45,00
+60,00
+1400,00
+60,00
+45,00",,"2000
 1000
 50000
 1000
-1000","R                        325 750,00",Quotation,06/08/2020,2018/270166/07
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+1000",325750.00,Quotation,06/08/2020,2020-08-06,2018/270166/07
