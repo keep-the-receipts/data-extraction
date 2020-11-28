@@ -1,14 +1,14 @@
-Nr.,Supplier Name,Items Procured,Amount(Excl. VAT)
-1,AbangobiIndustry Partners,"Hand sanitisers, masks and gloves","R 82,025"
-2,Cameron Chemical Consultants,Alcohol swabs,"R 19,560"
-3,Ecogift Cc,Masks,"R 61,600"
-4,Isibhakabhaka General Supplies,Hand sanitisers,"R 165,495"
-5,Ithalomso (Pty) Ltd,Foot pump dispensers,"R 20,640"
-6,Labex Pty Ltd,Thermometers,"R 32,100"
-7,Mason Stationers,Handwipes,R 85
-8,Oxin Construction,Hygiene barrier screens,"R 1,650"
-9,PM Marketing Solutions (Pty) Ltd,Surgical masks,"R 441,750"
-10,Safetymate,"Hand sanitisers, masks and gloves","62,116"
-11,Sons Of Hygiene,Hand sanitisers and gloves,"228,686"
-12,Tusk Event Management ,Cloth masks and care packs,"57,362"
-13,Vikayen Group,"Hand sanitisers, masks and device wipes","579,310"
+buyer_name,Nr.,supplier_name,items_description,order_amount_zar
+Perishable Products Export Control Board (PPECB),1,AbangobiIndustry Partners,"Hand sanitisers, masks and gloves",82025.00
+Perishable Products Export Control Board (PPECB),2,Cameron Chemical Consultants,Alcohol swabs,19560.00
+Perishable Products Export Control Board (PPECB),3,Ecogift Cc,Masks,61600.00
+Perishable Products Export Control Board (PPECB),4,Isibhakabhaka General Supplies,Hand sanitisers,165495.00
+Perishable Products Export Control Board (PPECB),5,Ithalomso (Pty) Ltd,Foot pump dispensers,20640.00
+Perishable Products Export Control Board (PPECB),6,Labex Pty Ltd,Thermometers,32100.00
+Perishable Products Export Control Board (PPECB),7,Mason Stationers,Handwipes,85.00
+Perishable Products Export Control Board (PPECB),8,Oxin Construction,Hygiene barrier screens,1650.00
+Perishable Products Export Control Board (PPECB),9,PM Marketing Solutions (Pty) Ltd,Surgical masks,441750.00
+Perishable Products Export Control Board (PPECB),10,Safetymate,"Hand sanitisers, masks and gloves",62116.00
+Perishable Products Export Control Board (PPECB),11,Sons Of Hygiene,Hand sanitisers and gloves,228686.00
+Perishable Products Export Control Board (PPECB),12,Tusk Event Management ,Cloth masks and care packs,57362.00
+Perishable Products Export Control Board (PPECB),13,Vikayen Group,"Hand sanitisers, masks and device wipes",579310.00
