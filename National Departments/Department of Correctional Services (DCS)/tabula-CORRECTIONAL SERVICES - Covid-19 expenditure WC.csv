@@ -1,341 +1,338 @@
-MANAGEMENT AREA,ITEM DESCRIPTION,NAME OF SUPPLIER,COMPANY REGISTRATION NUMBER,"PROCUREMENT PROCESS FOLLOWED
-('TRANSVERSAL CONTRACT NO/SUPPLIER
-IDENTIFIED BY TREASURY/DEVIATION
-PROCUREMENT METHOD)",ORDER NUMBER,ORDER DATE,UNIT OF MEASURE,ORDER QUANTITY,UNIT PRICE,ORDER VALUE
-Allandale,Alcohol based hand sanitiser,Tripple N Medical Distibutors,2011/129850/07,Annexure A Table 2,AD-006399,16/04/2020,25 Lr,10000,R98.37 per litre,"R                      983,772.00"
-Allandale,Alcohol based hand sanitiser,Unitrade 1032 CC,1998/002665/23,Annexure A Table 2,OQ 004720,03/04/2020,25 Lr,475,R60.03 Each,"R                         28,514.25"
-Allandale,Alcohol based hand sanitiser,UNITRADE 1032CC,1998/002665/23,Annexure A Table 2,AD-006389,03/04/2020,25 Lr,475,R60.03 per litre,"R                         28,514.25"
-Allandale,Alcohol based hand sanitiser,UNITRADE 1032CC,1998/002665/23,Annexure A Table 2,HA-002287,03.04.2020,25 Lr,475,R60.03 per litre,"R                         28,514.25"
-Brandvlei,Alcohol based hand sanitiser,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-2017-51284804-00001,BN-018296,7/20/2020,each,2000,R                       15.92,"R                         31,840.00"
-Brandvlei,Alcohol based hand sanitiser,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-201701,BN-018277,7/20/2020,each,1000,R                       15.79,"R                         15,790.00"
-Brandvlei,Alcohol based hand sanitiser,Boikamo Group,2020/138403/07,price quotation,BN-018287,7/15/2020,each,120,R                     235.50,"R                         28,260.00"
-Brandvlei,Alcohol based hand sanitiser,Maanies General,2010/061020/23,price quotation,BN-018295,7/20/2020,each,300,R                       26.00,"R                           7,800.00"
-Brandvlei,Alcohol based hand sanitiser,Winelands retail and trade,2019/537984/07,price quotation,BN-018152,6/22/2020,each,400,R                       74.00,"R                         29,600.00"
-Breede River,Alcohol based hand sanitiser,BARRS Pharmaceuticals,2012/056577/07,RT300,BR-008192,3/22/2020,lt,3000,R                       14.44,"R                         43,320.00"
-Breede River,Alcohol based hand sanitiser,Delimaya,2016/449454/07,Quotation,BR-008247,4/20/2020,lt,1600,R                       71.96,"R                      115,136.00"
-Breede River,Alcohol based hand sanitiser,Destiny Chemicals,2015/054104/07,Quotation,BR-008210,3/26/2020,lt,475,R                       60.00,"R                         28,500.00"
-Breede River,Alcohol based hand sanitiser,Destiny Chemicals,2015/054104/07,Quotation,BR-008221,3/31/2020,lt,475,R                       60.00,"R                         28,500.00"
-Breede River,Alcohol based hand sanitiser,Unitrade 1032,1998/002665/23,Covid 19,BR-008389,7/8/2020,lt,1875,R                       60.03,"R                      112,556.25"
-Drakenstein,Alcohol based hand sanitiser,BARRS,2012/056577/07,RT300,DN-013124,4/9/2020,BT,740000,R                       15.92,"R                         23,561.60"
-Drakenstein,Alcohol based hand sanitiser,BARRS,2012/056577/07,RT300,DN-013289,5/14/2020,BT,8000,R                       18.33,"R                      146,640.00"
-Goodwood,Alcohol based hand sanitiser,BARRS PHARM,2012/056577/07,RT300,GW-011650,18/03/2020,EA (500ML),3000,R                       14.44,"R                         43,320.00"
-Goodwood,Alcohol based hand sanitiser,DESTINY,2015/054104/07,QUOTATION,A-236600/240,03/04/2020,EA (500ML),950,R                       30.00,"R                         28,500.00"
-Goodwood,Alcohol based hand sanitiser,TRIPPLE N MED,2011/129850/07,RTCOVID19-008,GW-011671,24/03/2020,EA (500ML),1000,R                       84.33,"R                         84,330.00"
-Overberg,Alcohol based hand sanitiser,BARRS PHAMCEUTICAL,2012/056577/07,RT300,CA-005518            & CA-005519,3/24/2020,ml,1000,R                          8.65,"R                           8,645.00"
-Overberg,Alcohol based hand sanitiser,BARRS PHAMCEUTICAL,2012/056577/07,RT300,HS-010752,3/20/2020,ml,500,R                          9.35,"R                         37,380.00"
-Overberg,Alcohol based hand sanitiser,BARRS PHAMCEUTICAL,2012/056577/07,RT300,HS-010985,7/16/2020,ml,1000000,R                          0.03,"R                         32,820.00"
-Overberg,Alcohol based hand sanitiser,BARRS PHARMACEUTICAL IND,2012/056577/07,RT300,BJ-005135,3/26/2020,ml,2000,R                       15.62,"R                           7,811.00"
-Overberg,Alcohol based hand sanitiser,Singa Establishment,2018/493323/07,Quotation,HS-011002,7/24/2020,ml,800000,R                          0.04,"R                         29,398.40"
-Pollsmoor,Alcohol based hand sanitiser,Barrs Pharmaceuticals Industries,2012/056577/07,RT300/2017,PS-010244,17.03.2020,EA,100 x 500ml,R                       16.41,"R                           1,641.00"
-Pollsmoor,Alcohol based hand sanitiser,Destiny Chemicals,2015/054104/07,CSD,PS-010212,25.03.2020,EA,200 X 25L,"R                 1,400.00","R                      280,000.00"
-Southern Cape,Alcohol based hand sanitiser,Lechoba Medical Technologies,2005/044442/07,RT-76,SC-008390,15/06/2020,litre,2500,R                     175.66,"R                      439,156.25"
-Voorberg,Alcohol based hand sanitiser,Barrs,1998/002665/23,RT300,VB-0010305,2020.05.22,500ML,500,R                          4.36,"R                         22,180.06"
-Voorberg,Alcohol based hand sanitiser,Unitrade,2012/056577/07,COVID046,VB-010427,2020.06.19,500ml,2500,R                       62.50,"R                      155,250.00"
-Brandvlei,"Alcohol based hand sanitiser,  Refil Detergent",Boikamo Group,2020/138403/07,price quotation,BN-018287,7/15/2020,L,120,R                     235.50,"R                         28,260.00"
-Southern Cape,Backpack pressure sprays,TENORAH,2018/266857/07,Price Quotation,SC-008271,20/03/2020,each,15,R                     599.00,"R                           8,985.00"
-Southern Cape,beard caps,Anqingsa,2017/343405/07,Price Quotation,SC-008319,17/04/2020,each,10000,R                          0.99,"R                           9,898.00"
-Brandvlei,Biocide D / Bleach,FK424 Chelsea Commodities,2011/081163/23,Price Quotation,BN-017982,4/20/2020,L,2000,R                          9.00,"R                         18,000.00"
-Brandvlei,Biocide D / Bleach,World focus 1722,2007/208349/23,BRQ30/2020 TENDER,BN-018280,7/15/2020,L,500,R                          6.81,"R                           3,407.00"
-Breede River,Biocide D / Bleach,BARRS Pharmaceuticals,2012/056577/07,RT300,BR-008193,4/21/2020,500 ml,3000,R                       16.41,"R                         49,230.00"
-Breede River,Biocide D / Bleach,Destiny Chemicals,2015/054104/07,Quotation,BR-008206,4/21/2020,500 ml,120,R                     200.00,"R                         24,000.00"
-Drakenstein,Biocide D / Bleach,SOLUCARE,2015/113356/07,ALD1/2018,DST072,3/19/2020,LT,12000,R                       16.54,"R                         99,268.80"
-Overberg,Biocide D / Bleach,SIMSIM SALES & MARKETING,2018/195625/07,PRICE QUOTATION,HS7/2020,4/1/2020,ml,10,R                     350.00,"R                           3,500.00"
-Overberg,Boot covers,Medical Internal orthaopaedic,2007/023366/23,RT32-2019,HS-010969,7/8/2020,Pair,1000,R                       19.23,"R                         19,230.00"
-Overberg,BP Cuffs,Uthembeni Project Management,2003/094510/23,Price quotation,HS-010845,5/12/2020,Each,7,R                       92.00,R                              644.00
-Overberg,BP Cuffs,Uthembeni Project Management,2003/094510/23,Price quotation,HS-010847,5/11/2020,Each,7,R                     138.00,R                              966.00
-Goodwood,BP Monitoring Machine,NGAPHAYA Y2K10,2008/241856/23,QUOTATION,GW-011728,15/04/2020,EA,10,R                     500.00,"R                           5,000.00"
-Pollsmoor,BP Monitoring Machine,Class Three Medical Solutions,2017/535986/07,CSD Supplier,PS-010239,17.04.2020,EA,20,R                     430.00,"R                           8,600.00"
-Breede River,Cooler Box 2liters,Xhanti Consolidation,2017/520106/07,Quotation,BR-008260,4/21/2020,each,6,"R                 3,500.00","R                         21,000.00"
-Drakenstein,Cooler Box 2liters,TRIPPLE A SOLUTIONS,2017/271551/07,PRICE QUOATION,DN-013142,3/30/2020,EA,16,R                     250.00,"R                           4,000.00"
-Overberg,Cooler Box 2liters,SIMSIM SALES & MARKETING,2018/195625/07,PRICE QUOTATION,HS7/2020,4/1/2020,Each,5,R                     250.00,"R                           1,250.00"
-Overberg,Decontamination: Maintenance,Traffic Cleaning Services,2020/093594/07,Price Quotation,HS23/2020,7/2/2020,m2,1480,R                          5.37,"R                           7,947.60"
-Overberg,Decontamination: Med & Max,Traffic Cleaning Services,2020/093594/07,Price Quotation,HS24/2020,2020.07.02,m2,1857.1087,R                          5.37,"R                           9,966.72"
-Allandale,D-Germ,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,AD-006487,25.06.2020,ml,2000,R                       16.41,"R                         32,820.00"
-Allandale,D-Germ,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,HA-002272,23.03.2020,ml,160,R                       16.41,"R                           2,625.60"
-Allandale,D-Germ,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,OQ-004817,28.07.2020,ml,160,R                       16.41,"R                           2,625.60"
-Voorberg,Disenfectant hand cleaning,Barrs,2012/056577/07,RT300,VN-002763,2020.05.28,500ML,1000,R                       13.79,"R                         13,790.00"
-Pollsmoor,Disposable  aprons,Compass Medical Waste Services,2003/002007/07,CSD,PS-010396,20.07.2020,EA,10000,R                          0.63,"R                           6,300.00"
-Allandale,Disposable aprons,KAAP   AGRI,1995/000336/06,DEVIATION  PROCUREMENT METHOD,PC-001608,09.04.2020,Each,68,R                       16.15,"R                           1,097.90"
-Brandvlei,Disposable aprons,Central Medical,1995/003785/07,RT32-2019ITEMNO-42131601-00003,BN-018384,7/27/2020,EACH,4000,R                          0.38,"R                           1,280.00"
-Breede River,Disposable aprons,Central Medical,1995/003785/07,RT32,BR-008184,4/21/2020,each,3000,R                          0.32,R                              960.00
-Breede River,Disposable aprons,Central Medical,1995/003785/07,RT32,BR-008350,4/21/2020,each,3000,R                          0.32,R                              960.00
-Drakenstein,Disposable aprons,UMKHONDO HOLDING,2016/026316/07,PRICE QUOTATIONS,E534956/014,4/8/2020,EA,2000,R                          1.77,"R                           3,540.00"
-Goodwood,Disposable aprons,CENTRAL MED,1995/003785/07,RT32,GW-011820,14/05/2020,EA,5000,R                          0.32,"R                           1,600.00"
-Goodwood,Disposable aprons,CENTRAL MED,1995/003785/07,RT32,GW-011862,23/06/2020,EA,5000,R                          0.32,"R                           1,600.00"
-Goodwood,Disposable aprons,CENTRAL MEDICAL,1995/003785/07,RT32,GW-011648,18/03/2020,ea,5000,R                          0.32,"R                           1,600.00"
-Overberg,Disposable aprons,Bolt and Enigineering,2010/015724/07,PRICE QUOTATION,HS-010856,5/14/2020,Each,500,R                          0.95,R                              475.00
-Overberg,Disposable aprons,CENTRAL MEDICAL,1995/003785/07,RT32-2019,CA-005514,3/24/2020,Each,3000,R                          0.32,R                              960.00
-Pollsmoor,Disposable aprons,Central Medical,1995/003785/07,RT32/2019,PS-010145,17.03.2020,Box,3000,R                          0.32,R                              960.00
-Voorberg,Disposable aprons,Arch Tech,2017/162066/07,COVID019,VN-002772,2020.06.20,Each,100,R                     175.00,"R                         17,500.00"
-Allandale,Disposable coverall suits,Lungishapo Projects,2014/081664/07,Price Quotation,OQ-004803,17.07.200,Each,150,R128.00 per each,"R                         19,200.00"
-Allandale,Disposable coverall suits,MALESETJA INVESTMENTS,2011/147510/07,Quotation,AD-006497,06.07.2020,Each,300,R                       92.40,"R                         27,720.00"
-Breede River,Disposable coverall suits,ARC Technology,2017/162066/07,RTCOVID19-016,BR-008355,4/21/2020,each,500,R                     460.00,"R                      230,000.00"
-Breede River,Disposable coverall suits,ARC Technology,2017/162066/07,RTCOVID19-016,BR-008400,4/21/2020,each,2000,R                     300.00,"R                      600,000.00"
-Drakenstein,Disposable coverall suits,PRIMESH,2012/045965/07,PRICE QUOTATION,DN-013339,5/29/2020,EA,200,R                     460.00,"R                         92,000.00"
-Goodwood,Disposable coverall suits,ASORKA TRADE,2002/005574/23,QUOTATION,GW-011865,6/19/2020,EA,400,R                       95.00,"R                         38,000.00"
-Goodwood,Disposable coverall suits,QUINTAX,2011/054080/23,QUOTATION,A-236600,15/04/2020,EA,70,R                     224.25,"R                         15,697.50"
-Overberg,Disposable coverall suits,ARC TECHNOLOGY,2017/162066/07,NON CONTRACT,BJ-005129,3/24/2020,Each,100,R                     175.00,"R                         17,500.00"
-Pollsmoor,Disposable coverall suits,Big Chest,2014/016004/07,CSD Supplier,PS-010284,21.05.2020,EA,3000,R                     160.00,"R                      480,000.00"
-Voorberg,Disposable coverall suits,Promed,1998/002665/23,RT32,VN-002711,2020.05.18,Each,100,R                       23.83,"R                           2,383.00"
-Voorberg,Disposable coverall suits,Unitrade,2014/162486/07,COVID40,VB-010428,2020.06.19,Each,300,R                     883.27,"R                      264,981.00"
-Allandale,Disposable Gown,PROMED TECHOLOGIES,2014/162486/07,RT32,AD-006349,23.03.2020,Each,300,R                       21.64,"R                           6,492.00"
-Allandale,Disposable Gown,PROMED TECHOLOGIES,2014/162486/07,RT32,OQ-004702,23.03.2020,Each,300,R                       21.64,"R                           6,492.00"
-Brandvlei,Disposable Gown,Logan Medical & Surgical,1995/003785/07,RT3242131702-000003,BN-018389,7/27/2020,each,2000,R                       20.00,"R                         40,000.00"
-Brandvlei,Disposable Gown,Logan Medical & Surgical,2012/056508/07,RT3242131702-000003,BN-017975,4/17/2020,each,100,R                       20.00,"R                           2,000.00"
-Brandvlei,Disposable Gown,Logan Medical & Surgical,2012/056508/07,RT32-201942131504-00000,BN-018297,7/16/2020,each,20000,R                          4.60,"R                         92,000.00"
-Breede River,Disposable Gown,Logan Medical & surgical,2014/162486/07,RT covid19,BR-008366,4/21/2020,each,2000,R                       20.00,"R                         40,000.00"
-Breede River,Disposable Gown,Promed Technologies,2014/162486/07,RT32,BR-008348,4/21/2020,each,5000,R                       23.14,"R                      115,000.00"
-Breede River,Disposable Gown,Promed Technology,2012/056508/07,RT32,BR-008185,4/21/2020,each,24,R                       23.50,R                              564.00
-Drakenstein,Disposable Gown,LOGAN MEDICAL,2012/056508/07,PRICE QUOTATION,DN-013293,5/15/2020,EA,100,R                       38.52,"R                           3,852.00"
-Goodwood,Disposable Gown,PROMED,2014/162486/07,RT32,GW-011657,18/03/2020,ea,1000,R                       23.83,"R                         23,830.00"
-Goodwood,Disposable Gown,PROMED,2014/162486/07,RT32,GW-011819,14/05/2020,EA,2000,R                       23.83,"R                         47,660.00"
-Goodwood,Disposable Gown,PROMED,2014/162486/07,RT32,GW-011861,23/06/2020,EA,1000,R                       23.83,"R                         23,830.00"
-Overberg,Disposable Gown,Eyethu Distributors,2019/150260/07,PRICE QUOTATION,HS-010861,5/14/2020,Each,1000,R                       26.00,"R                         26,000.00"
-Overberg,Disposable Gown,Logan Medical & Surgical,2012/056508/07,RT32,HS-010879,5/21/2020,Each,3500,R                       34.50,
-Overberg,Disposable Gown,PROMED TECHNOLOGIES,2014/162486/07,RT32-2019,HS-010767,3/27/2020,Each,300,R                       23.49,
-Overberg,Disposable Linen,PROMED TECHNOLOGIES,2014/162486/07,RT32,HS-010767,3/27/2020,Each,500,R                          2.18,
-Overberg,Disposable Linen,PROMED TECHNOLOGIES,2014/162486/07,RT32,CA-005530,3/31/2020,Each,200,R                          2.18,
-Breede River,Disposable scrub suit,Promed Technologies,2014/162486/07,RT32,BR-008348,4/21/2020,each,3000,R                       13.57,
-Overberg,Disposable scrub suit,PROMED TECHNOLOGIES,2014/162486/07,RT32-2019,CA-005523,3/25/2020,Each,50,R                       14.17,
-Overberg,Disposable scrub suit,PROMED TECHNOLOGIES,2014/162486/07,RT32-2019,HS-010767,3/27/2020,Each,1500,R                       14.31,
-Pollsmoor,Disposable scrub suit,Anqingsa,2017/343405/07,POL15/2020,PS-010287,21.05.2020,EA,1000,EA,"R                      189,980.00"
-Pollsmoor,Disposable scrub suit,Gibela Trade & Invest,2004/117191/23,RT32/2019,PS-010248,25.03.2020,EA,100,EA,"R                           1,719.00"
-Pollsmoor,Disposable scrub suit,Logan Medical &Surgical,2012/056508/07,RT32/2019,PS-010242,25.03.2020,EA,100,EA,"R                           1,733.00"
-Pollsmoor,Disposable scrub suit,Promed Technologies,2014/162486/07,RT32/2019,PS-010261,25.03.20.20,EA,100,EA,"R                           1,357.00"
-Goodwood,DISPOSABLE TEMPRETURE SCANNER,TEMP,2013/120599/07,RT32,GW-011817,14/05/2020,EA,2000,R                          3.22,"R                           6,440.00"
-Overberg,ENT Set,Ecomed Medical,2016/084766/07,Price quotation,HS-010859,5/14/2020,Each,5,"R                 1,727.30",
-Overberg,ENT Set WALL MOUNTED,Ecomed Medical,2016/084766/07,Price quotation,HS-010859,5/14/2020,Each,1,"R                 6,498.65","R                           6,498.65"
-Drakenstein,Flu Vaccine,KAHMA BIOTECH,1997/014365/07,RT285,DN-013131,3/25/2020,EA,1000,R                       39.93,
-Pollsmoor,Flu Vaccine,Kahma Biotech,1997/014365/07,RT285-2019,PS-010084,2020.03.06,each,400,R                       39.93,"R                         15,972.00"
-Pollsmoor,Flu Vaccine,Kahma Biotech,1997/014365/07,RT285-2019,PS-010177,2020.04.21,each,40,R                       39.93,
-Breede River,Full face shield,ARC Technology,2017/162066/07,NT Note 5,BR-008279,4/21/2020,each,1000,R                       69.00,"R                         69,000.00"
-Breede River,Full face shield,ARC Technology,2017/162066/07,RTCOVID19-016,BR-008360,4/21/2020,each,300,R                       75.00,"R                         22,500.00"
-Drakenstein,Full face shield,PRIMESH,2012/045965/07,PRICE QUOTATION,DN-013339,5/29/2020,EA,400,R                       69.00,"R                         27,600.00"
-Goodwood,Full face shield,CGI,2003/023998/07,PETTYCASH,PETTY CASH,15/04/2020,EA,35,R                       55.00,
-Goodwood,Full face shield,ENDINALO HOLDINGS,2020/214037/07,QUOTATION,GW-011863,6/19/2020,EA,1000,R                       30.36,
-Overberg,Full face shield,Sisifiso Holdings,2015/334585/07,Price quotation,HS-010868,5/15/2020,Each,400,R                       72.25,
-Overberg,Full face shield,TARA TECHNOLOGIES,2019/237077/07,RTCOVID19-007,HS-010778,4/9/2020,Each,10000,R                       47.00,
-Pollsmoor,Full face shield,JDA Sourcing and Consulting,2017/216228/07,CSD,PS-010360,2020.06.24,EA,350,R                       65.55,"R                         22,942.50"
-Allandale,Full face shield (Protective goggles ),KAAP   AGRI,1995/000336/06,Quotation,PC-001615,06.07.2020,Each,28,R                       70.00,"R                           1,960.01"
-Allandale,Full face shield (Protective goggles ),KAAP   AGRI,1995/000336/06,DEVIATION  PROCUREMENT METHOD,PC-001127,09.04.2020,Each,11,R                     110.08,
-Breede River,Full face shield (Protective goggles ),Triple A Solutions,2017/271551/07,Quotation,BR-008257,4/21/2020,each,200,R                       24.00,"R                           4,800.00"
-Drakenstein,Full face shield (Protective goggles ),TRIPLE A SOLUTIONS,2017/271551/07,PRICE QUOTATIONS,DN-013142,3/30/2020,EA,234,R                       24.00,
-Goodwood,Full face shield (Protective goggles ),QUINTAX,2011/054080/23,QUOTATION,A-236600,15/04/2020,EA,170,R                       25.30,
-Overberg,Full face shield (Protective goggles ),ARC TECHNOLOGY,2017/162066/07,RTCOVID19-016,BJ-005129,3/24/2020,Each,250,R                       28.00,
-Overberg,Full face shield (Protective goggles ),LECHOBA MEDICAL TECHNOLOGIES,2005/044442/07,RTCOVID19-016,HS-010772,3/31/2020,Each,2000,R                       65.90,
-Overberg,Full face shield (Protective goggles ),UNITRADE,1998/002665/23,COVID19,CA-005532,3/31/2020,Each,100,R                       25.00,
-Overberg,Full face shield (Protective goggles ),Yologa,2015/095446/07,Price quotation,HS-010865,5/14/2020,each,2500,R                       11.99,
-Pollsmoor,Full face shield (Protective goggles ),LENIPOINT,2017/281326/07,CSD,PS-010267,17.04.2020,EA,1500,R                       19.50,
-Voorberg,Full face shield (Protective goggles ),Arch Tech,1998/002665/23,COVID019,VN-002770,2020.06.19,Each,20,R                       25.00,"R                           5,000.00"
-Voorberg,Full face shield (Protective goggles ),Unitrade,1998/002665/23,COVID035,VB-010427,2020.06.19,Each,300,R                       25.00,"R                           7,500.00"
-Allandale,Gloves latex disposable large,EVERGREEN LATEX CC,2002/057771/23,RT 76,AD-006339,18.03.2020,pair,53000,R49.86 per box,"R                         26,425.80"
-Allandale,Gloves latex disposable large,EVERGREEN LATEX CC,2002/057771/23,RT 76,HA-002265,20.03.2020,pair,45000,R49.86 per box,"R                         22,437.00"
-Allandale,Gloves latex disposable large,EVERGREEN LATEX CC,2002/057771/23,RT 76,OQ-004705,23.03.2020,pair,23000,R49.86 per box,"R                         11,467.80"
-Brandvlei,Gloves latex disposable large,Evergreen latex,2002/057771/23,RT76-202042132203-00034,BN-018294,7/16/2020,each,100,R                       95.72,"R                           9,572.00"
-Brandvlei,Gloves latex disposable large,Evergreen latex,2002/057771/23,RT76-202042132203-00033,BN-018330,7/20/2020,each,300,R                       95.72,"R                         28,716.00"
-Brandvlei,Gloves latex disposable large,Evergreen latex,2002/057771/23,RT76-202042132203-00035,BN-018330,7/20/2020,each,200,R                       95.70,"R                         19,140.00"
-Brandvlei,Gloves latex disposable large,Promed Technologies,2014/162486/07,RT76-2020,BN-017901,3/17/2020,each,500,R                          0.46,"R                         23,300.00"
-Brandvlei,Gloves latex disposable large,Promed Technologies,2014/162486/07,RT76-2020-42132203-010023/24/25,BN-017999,4/23/2020,each,150000,R                          0.46,"R                         69,900.00"
-Breede River,Gloves latex disposable large,Evergreen Latex,2002/057771/23,RT32,BR-008189,4/21/2020,each,30,R                       49.86,"R                           1,495.80"
-Breede River,Gloves latex disposable large,Supra Health,2006/020950/07,RT76-20,BR-008412,4/21/2020,each,500,R                     149.50,"R                         74,750.00"
-Breede River,Gloves latex disposable large,Supra Healthcare Johannesburg,2006/020950/07,RT76-20,BR-008374,4/21/2020,each,100000,R                       99.88,"R                         99,880.00"
-Drakenstein,Gloves latex disposable large,EVERGREEN,2002/057771/23,RT76,DN-013134,3/25/2020,EA,69000,R                          0.78,"R                         53,820.00"
-Overberg,Gloves latex disposable large,I H S,1993/003465/07,NT 3,HS20/2020,4/15/2020,Each,150000,R                          2.76,"R                      414,000.00"
-Pollsmoor,Gloves latex disposable large,Medi-Core Technologies,2013/198711/07,RT76/2019,PS-010243,25.03.2020,Box,850000,R                       47.86,"R                      406,810.00"
-Voorberg,Gloves latex disposable large,Evergreen Latex,2002/057771/23,RT76,VN-00022,3/19/2020,BOX 50,2000,R                       49.86,"R                         99,720.00"
-Southern Cape,"Gloves non Sterile Gloves and latex
-disposable",Evergreen LATEX,2002/057771/23,RT76,SC-008279,23/03/2020,Box of 100,3900,R                       49.86,"R                      410,990.00"
-Allandale,Gloves surgical sterile,"SUPRA HEALTHCARE JOHANNESBURG
-(PTY) LTD",2007/027848/07,RT76,AD-006448,26.05.2020,pair,180,"R                 1,096.27","R                      197,328.60"
-Goodwood,"GLOVES,SURGEONS EXAMINATION NON-
-STERILE TYPE2 COVID022-025",I H S,1993/003465/07,NT 3,GW-011830,21/04/2020,BX,10,R                     278.00,"R                           2,780.00"
-Drakenstein,Gluco Meter,ROCHE DIABETES,2015/303320/07,PRICE QUOTATION,DN-013283,5/14/2020,EA,40,R                       57.49,"R                           2,299.54"
-Overberg,Gluco Meter,Uthembeni Project Management,2003/094510/23,Price quotation,HS-010847,5/11/2020,Each,7,R                     201.25,"R                           1,408.75"
-Southern Cape,Gumboots,BBF Safety Group,2014/095914/07,RT59,SC-008289,26/03/2020,pair,96,R                     164.35,"R                         15,777.60"
-Overberg,Hand Sprayer 20l,Metric Idustrial,1992/012330/23,Price Quotation,HS-010853,5/14/2020,EA,8,R                     625.00,"R                           5,000.00"
-Overberg,HB Meter,First class consultants,2017/199502/07,Price quotation,HS-010846,5/11/2020,Each,7,R                     895.00,"R                           6,265.00"
-Allandale,Heavy duty gloves,KAAP   AGRI,1995/000336/06,"6/1/P, C81, dd 20180828",AD-006412,28.04.2020,pair,2400,R                       12.19,"R                         29,256.00"
-Breede River,Heavy duty gloves,Evergreen Latex,2002/057771/23,RT32,"BR-008198
-BR-008213",4/21/2020,each,"40
-150",R                       78.00,"R                           3,120.00"
-Breede River,Heavy duty gloves,Kaap Agri,1995/000336/06,Quotation,PC-002562,4/21/2020,each,32,R                       36.22,"R                           1,159.04"
-Breede River,Heavy duty gloves,Kaap Agri,1995/000336/06,Quotation,PC-003193,4/21/2020,each,8,R                       36.22,R                              289.76
-Overberg,Heavy duty gloves,Petit-exstreme trading enterprise,2007/152343/23,Price quotation,HS-010919,6/10/2020,Each,300,R                       35.00,"R                         10,500.00"
-Breede River,Heavy duty rubber cleaning glove,Evergreen Latex,2002/057771/23,RT32,"BR-008198
-BR-008213",4/21/2020,each,"40
-150",R                       78.00,"R                           3,120.00"
-Breede River,Heavy duty rubber cleaning glove,Kaap Agri,1995/000336/06,Quotation,PC-002562,4/21/2020,each,8,R                       36.22,R                              289.80
-Breede River,Heavy duty rubber cleaning glove,Kaap Agri,1995/000336/06,Quotation,PC002563,4/21/2020,each,32,R                       37.84,"R                           1,211.08"
-Goodwood,Heavy duty rubber cleaning glove,EVERGREEN LATEX,2002/057771/23,RT76,GW-011672,24/03/2020,PR,100000,R                          1.56,"R                      156,000.00"
-Drakenstein,Heavy duty rubber cleaning glove (Large),TRIPLE A SOLUTIONS,2017/271551/07,PRICE QUOTATION,DN-013142,3/30/2020,EA,200,R                       52.00,"R                         10,400.00"
-Voorberg,Helmet Visor Disposable,Unitrade,1998/002665/23,COVID196,VB-010427,2020.06.19,Each,300,R                       18.00,"R                           5,400.00"
-Breede River,High Pressure Sprayer,TZP Trading,2019/074434/07,Quotation,BR-008224,4/21/2020,each,6,"R                 2,700.00","R                         16,200.00"
-Breede River,Isolation Gown,Login Medical & Surgical,2012/056508/07,RT32,BR-008191,4/21/2020,each,1000,R                       40.25,"R                         40,250.00"
-Breede River,Isolation Gown,Login Medical & Surgical,2012/056508/07,NT Note 5,BR-008280,4/21/2020,each,1000,R                       40.25,"R                         40,250.00"
-Allandale,Isollation Gown,LOGAN MEDICAL & SURGICAL,2012/056508/07,Annexure A Table 2,AD-006388,01.04.2020,each,2500,R                       37.70,"R                         93,437.50"
-Allandale,Isollation Gown Large,PROMED TECHOLOGIES,2014/162486/07,RT 33,AD-006447,26.04.2020,each,100000,R                       23.83,"R                   2,383,000.00"
-Allandale,Isollation Gown medium,PROMED TECHOLOGIES,2014/162486/07,RT 32,AD-006449,26.04.2020,each,100000,R                       23.14,"R                   2,314,000.00"
-Breede River,Knapsack,Leovsa,2018/475887/07,Quotation,BR-008273,4/21/2020,each,20,"R                 1,350.00","R                         27,000.00"
-Brandvlei,latex powder free gloves (non-sterile),Promed Technologies,2014/162486/07,RT76-2020-42132203-010023/24/25,BN-017911,3/23/2020,pair,6500,R                       46.60,"R                      302,900.00"
-Breede River,latex powder free gloves (non-sterile),Tripple A Solutions,2017/271551/07,Quotation,BR-008230,4/21/2020,each,8000,R                     125.00,"R                         10,000.00"
-Goodwood,latex powder free gloves (non-sterile),MEDI CORE,2015/312638/07,RT76,GW-011655,18/03/2020,BX 100,400,R                       48.86,"R                         19,544.00"
-Goodwood,latex powder free gloves (non-sterile),MEDI CORE,2015/312638/07,RT76,GW-011655,18/03/2020,BX 100,300,R                       47.86,"R                         14,358.00"
-Goodwood,latex powder free gloves (non-sterile),MEDI CORE,2015/312638/07,RT76,GW-011655,18/03/2020,BX 100,400,R                       47.86,"R                         19,144.00"
-Overberg,latex powder free gloves (non-sterile),EVERGREEN LATEX,2002/057771/23,RT76,HS-010766,3/27/2020,Each,10500,R                          0.49,"R                           5,235.30"
-Allandale,Linen Savers,LOGAN MEDICAL & SURGICAL,2012/056508/07,RT32,AD-006351,23.03.2020,each,8500,0.78 each,"R                           6,630.00"
-Allandale,Linen Savers,LOGAN MEDICAL & SURGICAL,2012/056508/07,RT32,HA-002267,23.03.2020,each,4000,0.78 each,"R                           3,120.00"
-Allandale,Linen Savers,LOGAN MEDICAL & SURGICAL,2012/056508/07,RT32,OQ-004703,23.03.2020,each,4000,0.78 each,"R                           3,120.00"
-Breede River,Linen Savers,"Meddreg Technology
+buyer_name,implementation_location_province,implementation_location_other,items_description,supplier_name,company_registration_number,procurement_method,order_number,invoice_date,UNIT OF MEASURE,items_quantity,UNIT PRICE,cost_per_unit_zar,order_amount_zar
+Department of Correctional Services (DCS),Western Cape,Allandale,Alcohol based hand sanitiser,Tripple N Medical Distibutors,2011/129850/07,Annexure A Table 2,AD-006399,2020-04-16,25 Lr,10000,R98.37 per litre,98.37,983772
+Department of Correctional Services (DCS),Western Cape,Allandale,Alcohol based hand sanitiser,Unitrade 1032 CC,1998/002665/23,Annexure A Table 2,OQ 004720,2020-04-03,25 Lr,475,R60.03 Each,60.03,28514.25
+Department of Correctional Services (DCS),Western Cape,Allandale,Alcohol based hand sanitiser,UNITRADE 1032CC,1998/002665/23,Annexure A Table 2,AD-006389,2020-04-03,25 Lr,475,R60.03 per litre,60.03,28514.25
+Department of Correctional Services (DCS),Western Cape,Allandale,Alcohol based hand sanitiser,UNITRADE 1032CC,1998/002665/23,Annexure A Table 2,HA-002287,2020-04-03,25 Lr,475,R60.03 per litre,60.03,28514.25
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Alcohol based hand sanitiser,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-2017-51284804-00001,BN-018296,2020-07-20,each,2000,R                       15.92,15.92,31840
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Alcohol based hand sanitiser,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-201701,BN-018277,2020-07-20,each,1000,R                       15.79,15.79,15790
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Alcohol based hand sanitiser,Boikamo Group,2020/138403/07,price quotation,BN-018287,2020-07-15,each,120,R                     235.50,235.5,28260
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Alcohol based hand sanitiser,Maanies General,2010/061020/23,price quotation,BN-018295,2020-07-20,each,300,R                       26.00,26,7800
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Alcohol based hand sanitiser,Winelands retail and trade,2019/537984/07,price quotation,BN-018152,2020-06-22,each,400,R                       74.00,74,29600
+Department of Correctional Services (DCS),Western Cape,Breede River,Alcohol based hand sanitiser,BARRS Pharmaceuticals,2012/056577/07,RT300,BR-008192,2020-03-22,lt,3000,R                       14.44,14.44,43320
+Department of Correctional Services (DCS),Western Cape,Breede River,Alcohol based hand sanitiser,Delimaya,2016/449454/07,Quotation,BR-008247,2020-04-20,lt,1600,R                       71.96,71.96,115136
+Department of Correctional Services (DCS),Western Cape,Breede River,Alcohol based hand sanitiser,Destiny Chemicals,2015/054104/07,Quotation,BR-008210,2020-03-26,lt,475,R                       60.00,60,28500
+Department of Correctional Services (DCS),Western Cape,Breede River,Alcohol based hand sanitiser,Destiny Chemicals,2015/054104/07,Quotation,BR-008221,2020-03-31,lt,475,R                       60.00,60,28500
+Department of Correctional Services (DCS),Western Cape,Breede River,Alcohol based hand sanitiser,Unitrade 1032,1998/002665/23,Covid 19,BR-008389,2020-08-07,lt,1875,R                       60.03,60.03,112556.25
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Alcohol based hand sanitiser,BARRS,2012/056577/07,RT300,DN-013124,2020-09-04,BT,740000,R                       15.92,15.92,23561.6
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Alcohol based hand sanitiser,BARRS,2012/056577/07,RT300,DN-013289,2020-05-14,BT,8000,R                       18.33,18.33,146640
+Department of Correctional Services (DCS),Western Cape,Goodwood,Alcohol based hand sanitiser,BARRS PHARM,2012/056577/07,RT300,GW-011650,2020-03-18,EA (500ML),3000,R                       14.44,14.44,43320
+Department of Correctional Services (DCS),Western Cape,Goodwood,Alcohol based hand sanitiser,DESTINY,2015/054104/07,QUOTATION,A-236600/240,2020-04-03,EA (500ML),950,R                       30.00,30,28500
+Department of Correctional Services (DCS),Western Cape,Goodwood,Alcohol based hand sanitiser,TRIPPLE N MED,2011/129850/07,RTCOVID19-008,GW-011671,2020-03-24,EA (500ML),1000,R                       84.33,84.33,84330
+Department of Correctional Services (DCS),Western Cape,Overberg,Alcohol based hand sanitiser,BARRS PHAMCEUTICAL,2012/056577/07,RT300,CA-005518            & CA-005519,2020-03-24,ml,1000,R                          8.65,8.65,8645
+Department of Correctional Services (DCS),Western Cape,Overberg,Alcohol based hand sanitiser,BARRS PHAMCEUTICAL,2012/056577/07,RT300,HS-010752,2020-03-20,ml,500,R                          9.35,9.35,37380
+Department of Correctional Services (DCS),Western Cape,Overberg,Alcohol based hand sanitiser,BARRS PHAMCEUTICAL,2012/056577/07,RT300,HS-010985,2020-07-16,ml,1000000,R                          0.03,0.03,32820
+Department of Correctional Services (DCS),Western Cape,Overberg,Alcohol based hand sanitiser,BARRS PHARMACEUTICAL IND,2012/056577/07,RT300,BJ-005135,2020-03-26,ml,2000,R                       15.62,15.62,7811
+Department of Correctional Services (DCS),Western Cape,Overberg,Alcohol based hand sanitiser,Singa Establishment,2018/493323/07,Quotation,HS-011002,2020-07-24,ml,800000,R                          0.04,0.04,29398.4
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Alcohol based hand sanitiser,Barrs Pharmaceuticals Industries,2012/056577/07,RT300/2017,PS-010244,2020-03-17,EA,100 x 500ml,R                       16.41,16.41,1641
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Alcohol based hand sanitiser,Destiny Chemicals,2015/054104/07,CSD,PS-010212,2020-03-25,EA,200 X 25L,"R                 1,400.00",1400,280000
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Alcohol based hand sanitiser,Lechoba Medical Technologies,2005/044442/07,RT-76,SC-008390,2020-06-15,litre,2500,R                     175.66,175.66,439156.25
+Department of Correctional Services (DCS),Western Cape,Voorberg,Alcohol based hand sanitiser,Barrs,1998/002665/23,RT300,VB-0010305,2020-05-22,500ML,500,R                          4.36,4.36,22180.06
+Department of Correctional Services (DCS),Western Cape,Voorberg,Alcohol based hand sanitiser,Unitrade,2012/056577/07,COVID046,VB-010427,2020-06-19,500ml,2500,R                       62.50,62.5,155250
+Department of Correctional Services (DCS),Western Cape,Brandvlei,"Alcohol based hand sanitiser,  Refil Detergent",Boikamo Group,2020/138403/07,price quotation,BN-018287,2020-05-17,L,120,R                     235.50,235.5,28260
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Backpack pressure sprays,TENORAH,2018/266857/07,Price Quotation,SC-008271,2020-03-20,each,15,R                     599.00,599,8985
+Department of Correctional Services (DCS),Western Cape,Southern Cape,beard caps,Anqingsa,2017/343405/07,Price Quotation,SC-008319,2020-04-17,each,10000,R                          0.99,0.99,9898
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Biocide D / Bleach,FK424 Chelsea Commodities,2011/081163/23,Price Quotation,BN-017982,2020-04-20,L,2000,R                          9.00,9,18000
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Biocide D / Bleach,World focus 1722,2007/208349/23,BRQ30/2020 TENDER,BN-018280,2020-07-15,L,500,R                          6.81,6.81,3407
+Department of Correctional Services (DCS),Western Cape,Breede River,Biocide D / Bleach,BARRS Pharmaceuticals,2012/056577/07,RT300,BR-008193,2020-04-21,500 ml,3000,R                       16.41,16.41,49230
+Department of Correctional Services (DCS),Western Cape,Breede River,Biocide D / Bleach,Destiny Chemicals,2015/054104/07,Quotation,BR-008206,2020-04-21,500 ml,120,R                     200.00,200,24000
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Biocide D / Bleach,SOLUCARE,2015/113356/07,ALD1/2018,DST072,2020-03-19,LT,12000,R                       16.54,16.54,99268.8
+Department of Correctional Services (DCS),Western Cape,Overberg,Biocide D / Bleach,SIMSIM SALES & MARKETING,2018/195625/07,PRICE QUOTATION,HS7/2020,2020-01-04,ml,10,R                     350.00,350,3500
+Department of Correctional Services (DCS),Western Cape,Overberg,Boot covers,Medical Internal orthaopaedic,2007/023366/23,RT32-2019,HS-010969,2020-08-07,Pair,1000,R                       19.23,19.23,19230
+Department of Correctional Services (DCS),Western Cape,Overberg,BP Cuffs,Uthembeni Project Management,2003/094510/23,Price quotation,HS-010845,2020-12-05,Each,7,R                       92.00,92,644
+Department of Correctional Services (DCS),Western Cape,Overberg,BP Cuffs,Uthembeni Project Management,2003/094510/23,Price quotation,HS-010847,2020-11-05,Each,7,R                     138.00,138,966
+Department of Correctional Services (DCS),Western Cape,Goodwood,BP Monitoring Machine,NGAPHAYA Y2K10,2008/241856/23,QUOTATION,GW-011728,2020-04-15,EA,10,R                     500.00,500,5000
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,BP Monitoring Machine,Class Three Medical Solutions,2017/535986/07,CSD Supplier,PS-010239,2020-04-17,EA,20,R                     430.00,430,8600
+Department of Correctional Services (DCS),Western Cape,Breede River,Cooler Box 2liters,Xhanti Consolidation,2017/520106/07,Quotation,BR-008260,2020-04-21,each,6,"R                 3,500.00",3500,21000
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Cooler Box 2liters,TRIPPLE A SOLUTIONS,2017/271551/07,PRICE QUOATION,DN-013142,2020-03-30,EA,16,R                     250.00,250,4000
+Department of Correctional Services (DCS),Western Cape,Overberg,Cooler Box 2liters,SIMSIM SALES & MARKETING,2018/195625/07,PRICE QUOTATION,HS7/2020,2020-01-04,Each,5,R                     250.00,250,1250
+Department of Correctional Services (DCS),Western Cape,Overberg,Decontamination: Maintenance,Traffic Cleaning Services,2020/093594/07,Price Quotation,HS23/2020,2020-02-07,m2,1480,R                          5.37,5.37,7947.6
+Department of Correctional Services (DCS),Western Cape,Overberg,Decontamination: Med & Max,Traffic Cleaning Services,2020/093594/07,Price Quotation,HS24/2020,2020-06-25,m2,1857.1087,R                          5.37,5.37,9966.72
+Department of Correctional Services (DCS),Western Cape,Allandale,D-Germ,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,AD-006487,2020-06-25,ml,2000,R                       16.41,16.41,32820
+Department of Correctional Services (DCS),Western Cape,Allandale,D-Germ,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,HA-002272,2020-03-23,ml,160,R                       16.41,16.41,2625.6
+Department of Correctional Services (DCS),Western Cape,Allandale,D-Germ,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,OQ-004817,2020-07-28,ml,160,R                       16.41,16.41,2625.6
+Department of Correctional Services (DCS),Western Cape,Voorberg,Disenfectant hand cleaning,Barrs,2012/056577/07,RT300,VN-002763,2020-05-28,500ML,1000,R                       13.79,13.79,13790
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Disposable  aprons,Compass Medical Waste Services,2003/002007/07,CSD,PS-010396,2020-07-20,EA,10000,R                          0.63,0.63,6300
+Department of Correctional Services (DCS),Western Cape,Allandale,Disposable aprons,KAAP   AGRI,1995/000336/06,DEVIATION  PROCUREMENT METHOD,PC-001608,2020-09-04,Each,68,R                       16.15,16.15,1097.9
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Disposable aprons,Central Medical,1995/003785/07,RT32-2019ITEMNO-42131601-00003,BN-018384,2020-07-27,EACH,4000,R                          0.38,0.38,1280
+Department of Correctional Services (DCS),Western Cape,Breede River,Disposable aprons,Central Medical,1995/003785/07,RT32,BR-008184,2020-04-21,each,3000,R                          0.32,0.32,960
+Department of Correctional Services (DCS),Western Cape,Breede River,Disposable aprons,Central Medical,1995/003785/07,RT32,BR-008350,2020-04-21,each,3000,R                          0.32,0.32,960
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Disposable aprons,UMKHONDO HOLDING,2016/026316/07,PRICE QUOTATIONS,E534956/014,2020-08-04,EA,2000,R                          1.77,1.77,3540
+Department of Correctional Services (DCS),Western Cape,Goodwood,Disposable aprons,CENTRAL MED,1995/003785/07,RT32,GW-011820,2020-05-14,EA,5000,R                          0.32,0.32,1600
+Department of Correctional Services (DCS),Western Cape,Goodwood,Disposable aprons,CENTRAL MED,1995/003785/07,RT32,GW-011862,2020-06-23,EA,5000,R                          0.32,0.32,1600
+Department of Correctional Services (DCS),Western Cape,Goodwood,Disposable aprons,CENTRAL MEDICAL,1995/003785/07,RT32,GW-011648,2020-03-18,ea,5000,R                          0.32,0.32,1600
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable aprons,Bolt and Enigineering,2010/015724/07,PRICE QUOTATION,HS-010856,2020-05-14,Each,500,R                          0.95,0.95,475
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable aprons,CENTRAL MEDICAL,1995/003785/07,RT32-2019,CA-005514,2020-03-24,Each,3000,R                          0.32,0.32,960
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Disposable aprons,Central Medical,1995/003785/07,RT32/2019,PS-010145,2020-03-17,Box,3000,R                          0.32,0.32,960
+Department of Correctional Services (DCS),Western Cape,Voorberg,Disposable aprons,Arch Tech,2017/162066/07,COVID019,VN-002772,2020-06-20,Each,100,R                     175.00,175,17500
+Department of Correctional Services (DCS),Western Cape,Allandale,Disposable coverall suits,Lungishapo Projects,2014/081664/07,Price Quotation,OQ-004803,2020-07-17,Each,150,R128.00 per each,128,19200
+Department of Correctional Services (DCS),Western Cape,Allandale,Disposable coverall suits,MALESETJA INVESTMENTS,2011/147510/07,Quotation,AD-006497,2020-07-06,Each,300,R                       92.40,92.4,27720
+Department of Correctional Services (DCS),Western Cape,Breede River,Disposable coverall suits,ARC Technology,2017/162066/07,RTCOVID19-016,BR-008355,2020-04-21,each,500,R                     460.00,460,230000
+Department of Correctional Services (DCS),Western Cape,Breede River,Disposable coverall suits,ARC Technology,2017/162066/07,RTCOVID19-016,BR-008400,2020-04-21,each,2000,R                     300.00,300,600000
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Disposable coverall suits,PRIMESH,2012/045965/07,PRICE QUOTATION,DN-013339,2020-05-29,EA,200,R                     460.00,460,92000
+Department of Correctional Services (DCS),Western Cape,Goodwood,Disposable coverall suits,ASORKA TRADE,2002/005574/23,QUOTATION,GW-011865,2020-06-19,EA,400,R                       95.00,95,38000
+Department of Correctional Services (DCS),Western Cape,Goodwood,Disposable coverall suits,QUINTAX,2011/054080/23,QUOTATION,A-236600,2020-04-15,EA,70,R                     224.25,224.25,15697.5
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable coverall suits,ARC TECHNOLOGY,2017/162066/07,NON CONTRACT,BJ-005129,2020-03-24,Each,100,R                     175.00,175,17500
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Disposable coverall suits,Big Chest,2014/016004/07,CSD Supplier,PS-010284,2020/0/21,EA,3000,R                     160.00,160,480000
+Department of Correctional Services (DCS),Western Cape,Voorberg,Disposable coverall suits,Promed,1998/002665/23,RT32,VN-002711,2020-05-18,Each,100,R                       23.83,23.83,2383
+Department of Correctional Services (DCS),Western Cape,Voorberg,Disposable coverall suits,Unitrade,2014/162486/07,COVID40,VB-010428,2020-06-19,Each,300,R                     883.27,883.27,264981
+Department of Correctional Services (DCS),Western Cape,Allandale,Disposable Gown,PROMED TECHOLOGIES,2014/162486/07,RT32,AD-006349,2020-03-23,Each,300,R                       21.64,21.64,6492
+Department of Correctional Services (DCS),Western Cape,Allandale,Disposable Gown,PROMED TECHOLOGIES,2014/162486/07,RT32,OQ-004702,2020-03-23,Each,300,R                       21.64,21.64,6492
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Disposable Gown,Logan Medical & Surgical,1995/003785/07,RT3242131702-000003,BN-018389,2020-07-27,each,2000,R                       20.00,20,40000
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Disposable Gown,Logan Medical & Surgical,2012/056508/07,RT3242131702-000003,BN-017975,2020-04-17,each,100,R                       20.00,20,2000
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Disposable Gown,Logan Medical & Surgical,2012/056508/07,RT32-201942131504-00000,BN-018297,2020-07-16,each,20000,R                          4.60,4.6,92000
+Department of Correctional Services (DCS),Western Cape,Breede River,Disposable Gown,Logan Medical & surgical,2014/162486/07,RT covid19,BR-008366,2020-04-21,each,2000,R                       20.00,20,40000
+Department of Correctional Services (DCS),Western Cape,Breede River,Disposable Gown,Promed Technologies,2014/162486/07,RT32,BR-008348,2020-04-21,each,5000,R                       23.14,23.14,115000
+Department of Correctional Services (DCS),Western Cape,Breede River,Disposable Gown,Promed Technology,2012/056508/07,RT32,BR-008185,2020-04-21,each,24,R                       23.50,23.5,564
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Disposable Gown,LOGAN MEDICAL,2012/056508/07,PRICE QUOTATION,DN-013293,2020-05-15,EA,100,R                       38.52,38.52,3852
+Department of Correctional Services (DCS),Western Cape,Goodwood,Disposable Gown,PROMED,2014/162486/07,RT32,GW-011657,2020-03-18,ea,1000,R                       23.83,23.83,23830
+Department of Correctional Services (DCS),Western Cape,Goodwood,Disposable Gown,PROMED,2014/162486/07,RT32,GW-011819,2020-05-14,EA,2000,R                       23.83,23.83,47660
+Department of Correctional Services (DCS),Western Cape,Goodwood,Disposable Gown,PROMED,2014/162486/07,RT32,GW-011861,2020-06-23,EA,1000,R                       23.83,23.83,23830
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable Gown,Eyethu Distributors,2019/150260/07,PRICE QUOTATION,HS-010861,2020-05-14,Each,1000,R                       26.00,26,26000
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable Gown,Logan Medical & Surgical,2012/056508/07,RT32,HS-010879,2020-05-21,Each,3500,R                       34.50,34.5,
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable Gown,PROMED TECHNOLOGIES,2014/162486/07,RT32-2019,HS-010767,2020-03-27,Each,300,R                       23.49,23.49,
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable Linen,PROMED TECHNOLOGIES,2014/162486/07,RT32,HS-010767,2020-03-27,Each,500,R                          2.18,2.18,
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable Linen,PROMED TECHNOLOGIES,2014/162486/07,RT32,CA-005530,2020-03-31,Each,200,R                          2.18,2.18,
+Department of Correctional Services (DCS),Western Cape,Breede River,Disposable scrub suit,Promed Technologies,2014/162486/07,RT32,BR-008348,2020-04-21,each,3000,R                       13.57,13.57,
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable scrub suit,PROMED TECHNOLOGIES,2014/162486/07,RT32-2019,CA-005523,2020-03-25,Each,50,R                       14.17,14.17,
+Department of Correctional Services (DCS),Western Cape,Overberg,Disposable scrub suit,PROMED TECHNOLOGIES,2014/162486/07,RT32-2019,HS-010767,2020-03-27,Each,1500,R                       14.31,14.31,
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Disposable scrub suit,Anqingsa,2017/343405/07,POL15/2020,PS-010287,2020-05-21,EA,1000,EA,,189980
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Disposable scrub suit,Gibela Trade & Invest,2004/117191/23,RT32/2019,PS-010248,2020-03-25,EA,100,EA,,1719
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Disposable scrub suit,Logan Medical &Surgical,2012/056508/07,RT32/2019,PS-010242,2020-03-25,EA,100,EA,,1733
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Disposable scrub suit,Promed Technologies,2014/162486/07,RT32/2019,PS-010261,2020-03-23,EA,100,EA,,1357
+Department of Correctional Services (DCS),Western Cape,Goodwood,DISPOSABLE TEMPRETURE SCANNER,TEMP,2013/120599/07,RT32,GW-011817,2020-05-14,EA,2000,R                          3.22,3.22,6440
+Department of Correctional Services (DCS),Western Cape,Overberg,ENT Set,Ecomed Medical,2016/084766/07,Price quotation,HS-010859,2020-05-14,Each,5,"R                 1,727.30",1727.3,
+Department of Correctional Services (DCS),Western Cape,Overberg,ENT Set WALL MOUNTED,Ecomed Medical,2016/084766/07,Price quotation,HS-010859,2020-05-14,Each,1,"R                 6,498.65",6498.65,6498.65
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Flu Vaccine,KAHMA BIOTECH,1997/014365/07,RT285,DN-013131,2020-03-25,EA,1000,R                       39.93,39.93,
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Flu Vaccine,Kahma Biotech,1997/014365/07,RT285-2019,PS-010084,2020-03-06,each,400,R                       39.93,39.93,15972
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Flu Vaccine,Kahma Biotech,1997/014365/07,RT285-2019,PS-010177,2020-04-21,each,40,R                       39.93,39.93,
+Department of Correctional Services (DCS),Western Cape,Breede River,Full face shield,ARC Technology,2017/162066/07,NT Note 5,BR-008279,2020-04-21,each,1000,R                       69.00,69,69000
+Department of Correctional Services (DCS),Western Cape,Breede River,Full face shield,ARC Technology,2017/162066/07,RTCOVID19-016,BR-008360,2020-04-21,each,300,R                       75.00,75,22500
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Full face shield,PRIMESH,2012/045965/07,PRICE QUOTATION,DN-013339,2020-05-29,EA,400,R                       69.00,69,27600
+Department of Correctional Services (DCS),Western Cape,Goodwood,Full face shield,CGI,2003/023998/07,PETTYCASH,PETTY CASH,2020-04-15,EA,35,R                       55.00,55,
+Department of Correctional Services (DCS),Western Cape,Goodwood,Full face shield,ENDINALO HOLDINGS,2020/214037/07,QUOTATION,GW-011863,2020-06-19,EA,1000,R                       30.36,30.36,
+Department of Correctional Services (DCS),Western Cape,Overberg,Full face shield,Sisifiso Holdings,2015/334585/07,Price quotation,HS-010868,2020-05-15,Each,400,R                       72.25,72.25,
+Department of Correctional Services (DCS),Western Cape,Overberg,Full face shield,TARA TECHNOLOGIES,2019/237077/07,RTCOVID19-007,HS-010778,2020-09-04,Each,10000,R                       47.00,47,
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Full face shield,JDA Sourcing and Consulting,2017/216228/07,CSD,PS-010360,2020-06-24,EA,350,R                       65.55,65.55,22942.5
+Department of Correctional Services (DCS),Western Cape,Allandale,Full face shield (Protective goggles ),KAAP   AGRI,1995/000336/06,Quotation,PC-001615,2020-06-07,Each,28,R                       70.00,70,1960.01
+Department of Correctional Services (DCS),Western Cape,Allandale,Full face shield (Protective goggles ),KAAP   AGRI,1995/000336/06,DEVIATION  PROCUREMENT METHOD,PC-001127,2020-04-09,Each,11,R                     110.08,110.08,
+Department of Correctional Services (DCS),Western Cape,Breede River,Full face shield (Protective goggles ),Triple A Solutions,2017/271551/07,Quotation,BR-008257,2020-04-21,each,200,R                       24.00,24,4800
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Full face shield (Protective goggles ),TRIPLE A SOLUTIONS,2017/271551/07,PRICE QUOTATIONS,DN-013142,2020-03-30,EA,234,R                       24.00,24,
+Department of Correctional Services (DCS),Western Cape,Goodwood,Full face shield (Protective goggles ),QUINTAX,2011/054080/23,QUOTATION,A-236600,2020-04-15,EA,170,R                       25.30,25.3,
+Department of Correctional Services (DCS),Western Cape,Overberg,Full face shield (Protective goggles ),ARC TECHNOLOGY,2017/162066/07,RTCOVID19-016,BJ-005129,2020-03-24,Each,250,R                       28.00,28,
+Department of Correctional Services (DCS),Western Cape,Overberg,Full face shield (Protective goggles ),LECHOBA MEDICAL TECHNOLOGIES,2005/044442/07,RTCOVID19-016,HS-010772,2020-03-31,Each,2000,R                       65.90,65.9,
+Department of Correctional Services (DCS),Western Cape,Overberg,Full face shield (Protective goggles ),UNITRADE,1998/002665/23,COVID19,CA-005532,2020-03-31,Each,100,R                       25.00,25,
+Department of Correctional Services (DCS),Western Cape,Overberg,Full face shield (Protective goggles ),Yologa,2015/095446/07,Price quotation,HS-010865,2020-05-14,each,2500,R                       11.99,11.99,
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Full face shield (Protective goggles ),LENIPOINT,2017/281326/07,CSD,PS-010267,2020-04-17,EA,1500,R                       19.50,19.5,
+Department of Correctional Services (DCS),Western Cape,Voorberg,Full face shield (Protective goggles ),Arch Tech,1998/002665/23,COVID019,VN-002770,2020-06-19,Each,20,R                       25.00,25,5000
+Department of Correctional Services (DCS),Western Cape,Voorberg,Full face shield (Protective goggles ),Unitrade,1998/002665/23,COVID035,VB-010427,2020-06-19,Each,300,R                       25.00,25,7500
+Department of Correctional Services (DCS),Western Cape,Allandale,Gloves latex disposable large,EVERGREEN LATEX CC,2002/057771/23,RT 76,AD-006339,2020-03-18,pair,53000,R49.86 per box,49.86,26425.8
+Department of Correctional Services (DCS),Western Cape,Allandale,Gloves latex disposable large,EVERGREEN LATEX CC,2002/057771/23,RT 76,HA-002265,2020-03-20,pair,45000,R49.86 per box,49.86,22437
+Department of Correctional Services (DCS),Western Cape,Allandale,Gloves latex disposable large,EVERGREEN LATEX CC,2002/057771/23,RT 76,OQ-004705,2020-03-23,pair,23000,R49.86 per box,49.86,11467.8
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Gloves latex disposable large,Evergreen latex,2002/057771/23,RT76-202042132203-00034,BN-018294,2020-07-16,each,100,R                       95.72,95.72,9572
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Gloves latex disposable large,Evergreen latex,2002/057771/23,RT76-202042132203-00033,BN-018330,2020-07-20,each,300,R                       95.72,95.72,28716
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Gloves latex disposable large,Evergreen latex,2002/057771/23,RT76-202042132203-00035,BN-018330,2020-07-20,each,200,R                       95.70,95.7,19140
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Gloves latex disposable large,Promed Technologies,2014/162486/07,RT76-2020,BN-017901,2020-03-17,each,500,R                          0.46,0.46,23300
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Gloves latex disposable large,Promed Technologies,2014/162486/07,RT76-2020-42132203-010023/24/25,BN-017999,2020-04-21,each,150000,R                          0.46,0.46,69900
+Department of Correctional Services (DCS),Western Cape,Breede River,Gloves latex disposable large,Evergreen Latex,2002/057771/23,RT32,BR-008189,2020-04-21,each,30,R                       49.86,49.86,1495.8
+Department of Correctional Services (DCS),Western Cape,Breede River,Gloves latex disposable large,Supra Health,2006/020950/07,RT76-20,BR-008412,2020-04-21,each,500,R                     149.50,149.5,74750
+Department of Correctional Services (DCS),Western Cape,Breede River,Gloves latex disposable large,Supra Healthcare Johannesburg,2006/020950/07,RT76-20,BR-008374,2020-04-21,each,100000,R                       99.88,99.88,99880
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Gloves latex disposable large,EVERGREEN,2002/057771/23,RT76,DN-013134,2020-03-25,EA,69000,R                          0.78,0.78,53820
+Department of Correctional Services (DCS),Western Cape,Overberg,Gloves latex disposable large,I H S,1993/003465/07,NT 3,HS20/2020,2020-04-15,Each,150000,R                          2.76,2.76,414000
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Gloves latex disposable large,Medi-Core Technologies,2013/198711/07,RT76/2019,PS-010243,2020-03-25,Box,850000,R                       47.86,47.86,406810
+Department of Correctional Services (DCS),Western Cape,Voorberg,Gloves latex disposable large,Evergreen Latex,2002/057771/23,RT76,VN-00022,2020-03-19,BOX 50,2000,R                       49.86,49.86,99720
+Department of Correctional Services (DCS),Western Cape,Southern Cape,"Gloves non Sterile Gloves and latex
+disposable",Evergreen LATEX,2002/057771/23,RT76,SC-008279,2020-03-23,Box of 100,3900,R                       49.86,49.86,410990
+Department of Correctional Services (DCS),Western Cape,Allandale,Gloves surgical sterile,"SUPRA HEALTHCARE JOHANNESBURG
+(PTY) LTD",2007/027848/07,RT76,AD-006448,2020-05-26,pair,180,"R                 1,096.27",1096.27,197328.6
+Department of Correctional Services (DCS),Western Cape,Goodwood,"GLOVES,SURGEONS EXAMINATION NON-
+STERILE TYPE2 COVID022-025",I H S,1993/003465/07,NT 3,GW-011830,2020-04-21,BX,10,R                     278.00,278,2780
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Gluco Meter,ROCHE DIABETES,2015/303320/07,PRICE QUOTATION,DN-013283,2020-05-14,EA,40,R                       57.49,57.49,2299.54
+Department of Correctional Services (DCS),Western Cape,Overberg,Gluco Meter,Uthembeni Project Management,2003/094510/23,Price quotation,HS-010847,2020-11-05,Each,7,R                     201.25,201.25,1408.75
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Gumboots,BBF Safety Group,2014/095914/07,RT59,SC-008289,2020-03-26,pair,96,R                     164.35,164.35,15777.6
+Department of Correctional Services (DCS),Western Cape,Overberg,Hand Sprayer 20l,Metric Idustrial,1992/012330/23,Price Quotation,HS-010853,2020-05-14,EA,8,R                     625.00,625,5000
+Department of Correctional Services (DCS),Western Cape,Overberg,HB Meter,First class consultants,2017/199502/07,Price quotation,HS-010846,2020-11-05,Each,7,R                     895.00,895,6265
+Department of Correctional Services (DCS),Western Cape,Allandale,Heavy duty gloves,KAAP   AGRI,1995/000336/06,"6/1/P, C81, dd 20180828",AD-006412,2020-04-28,pair,2400,R                       12.19,12.19,29256
+Department of Correctional Services (DCS),Western Cape,Breede River,Heavy duty gloves,Evergreen Latex,2002/057771/23,RT32,"BR-008198
+BR-008213",2020-04-21,each,"40
+150",R                       78.00,78,3120
+Department of Correctional Services (DCS),Western Cape,Breede River,Heavy duty gloves,Kaap Agri,1995/000336/06,Quotation,PC-002562,2020-04-21,each,32,R                       36.22,36.22,1159.04
+Department of Correctional Services (DCS),Western Cape,Breede River,Heavy duty gloves,Kaap Agri,1995/000336/06,Quotation,PC-003193,2020-04-21,each,8,R                       36.22,36.22,289.76
+Department of Correctional Services (DCS),Western Cape,Overberg,Heavy duty gloves,Petit-exstreme trading enterprise,2007/152343/23,Price quotation,HS-010919,2020-10-06,Each,300,R                       35.00,35,10500
+Department of Correctional Services (DCS),Western Cape,Breede River,Heavy duty rubber cleaning glove,Evergreen Latex,2002/057771/23,RT32,"BR-008198
+BR-008213",2020-04-21,each,"40
+150",R                       78.00,78,3120
+Department of Correctional Services (DCS),Western Cape,Breede River,Heavy duty rubber cleaning glove,Kaap Agri,1995/000336/06,Quotation,PC-002562,2020-04-21,each,8,R                       36.22,36.22,289.8
+Department of Correctional Services (DCS),Western Cape,Breede River,Heavy duty rubber cleaning glove,Kaap Agri,1995/000336/06,Quotation,PC002563,2020-04-21,each,32,R                       37.84,37.84,1211.08
+Department of Correctional Services (DCS),Western Cape,Goodwood,Heavy duty rubber cleaning glove,EVERGREEN LATEX,2002/057771/23,RT76,GW-011672,2020-03-24,PR,100000,R                          1.56,1.56,156000
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Heavy duty rubber cleaning glove (Large),TRIPLE A SOLUTIONS,2017/271551/07,PRICE QUOTATION,DN-013142,2020-03-30,EA,200,R                       52.00,52,10400
+Department of Correctional Services (DCS),Western Cape,Voorberg,Helmet Visor Disposable,Unitrade,1998/002665/23,COVID196,VB-010427,2020-06-19,Each,300,R                       18.00,18,5400
+Department of Correctional Services (DCS),Western Cape,Breede River,High Pressure Sprayer,TZP Trading,2019/074434/07,Quotation,BR-008224,2020-04-21,each,6,"R                 2,700.00",2700,16200
+Department of Correctional Services (DCS),Western Cape,Breede River,Isolation Gown,Login Medical & Surgical,2012/056508/07,RT32,BR-008191,2020-04-21,each,1000,R                       40.25,40.25,40250
+Department of Correctional Services (DCS),Western Cape,Breede River,Isolation Gown,Login Medical & Surgical,2012/056508/07,NT Note 5,BR-008280,2020-04-21,each,1000,R                       40.25,40.25,40250
+Department of Correctional Services (DCS),Western Cape,Allandale,Isollation Gown,LOGAN MEDICAL & SURGICAL,2012/056508/07,Annexure A Table 2,AD-006388,2020-04-01,each,2500,R                       37.70,37.7,93437.5
+Department of Correctional Services (DCS),Western Cape,Allandale,Isollation Gown Large,PROMED TECHOLOGIES,2014/162486/07,RT 33,AD-006447,2020-04-26,each,100000,R                       23.83,23.83,2383000
+Department of Correctional Services (DCS),Western Cape,Allandale,Isollation Gown medium,PROMED TECHOLOGIES,2014/162486/07,RT 32,AD-006449,2020-04-26,each,100000,R                       23.14,23.14,2314000
+Department of Correctional Services (DCS),Western Cape,Breede River,Knapsack,Leovsa,2018/475887/07,Quotation,BR-008273,2020-04-21,each,20,"R                 1,350.00",1350,27000
+Department of Correctional Services (DCS),Western Cape,Brandvlei,latex powder free gloves (non-sterile),Promed Technologies,2014/162486/07,RT76-2020-42132203-010023/24/25,BN-017911,2020-03-23,pair,6500,R                       46.60,46.6,302900
+Department of Correctional Services (DCS),Western Cape,Breede River,latex powder free gloves (non-sterile),Tripple A Solutions,2017/271551/07,Quotation,BR-008230,2020-04-21,each,8000,R                     125.00,125,10000
+Department of Correctional Services (DCS),Western Cape,Goodwood,latex powder free gloves (non-sterile),MEDI CORE,2015/312638/07,RT76,GW-011655,2020-03-18,BX 100,400,R                       48.86,48.86,19544
+Department of Correctional Services (DCS),Western Cape,Goodwood,latex powder free gloves (non-sterile),MEDI CORE,2015/312638/07,RT76,GW-011655,2020-03-18,BX 100,300,R                       47.86,47.86,14358
+Department of Correctional Services (DCS),Western Cape,Goodwood,latex powder free gloves (non-sterile),MEDI CORE,2015/312638/07,RT76,GW-011655,2020-03-18,BX 100,400,R                       47.86,47.86,19144
+Department of Correctional Services (DCS),Western Cape,Overberg,latex powder free gloves (non-sterile),EVERGREEN LATEX,2002/057771/23,RT76,HS-010766,2020-03-27,Each,10500,R                          0.49,0.49,5235.3
+Department of Correctional Services (DCS),Western Cape,Allandale,Linen Savers,LOGAN MEDICAL & SURGICAL,2012/056508/07,RT32,AD-006351,2020-03-23,each,8500,0.78 each,0.78,6630
+Department of Correctional Services (DCS),Western Cape,Allandale,Linen Savers,LOGAN MEDICAL & SURGICAL,2012/056508/07,RT32,HA-002267,2020-03-23,each,4000,0.78 each,0.78,3120
+Department of Correctional Services (DCS),Western Cape,Allandale,Linen Savers,LOGAN MEDICAL & SURGICAL,2012/056508/07,RT32,OQ-004703,2020-03-23,each,4000,0.78 each,0.78,3120
+Department of Correctional Services (DCS),Western Cape,Breede River,Linen Savers,"Meddreg Technology
 Meddreg Technology",2003/014869/23,RT32,"BR-008182
-BR-008196",4/21/2020,each,2000,R                          1.04,"R                           2,080.00"
-Drakenstein,Linen Savers,MEDDREG TECH,2003/014869/23,RT32,DN-012945,2/6/2020,EA,2000,R                          1.04,"R                           2,080.00"
-Goodwood,Linen Savers,PROMED,2014/162486/07,RT,GW-011717,24/04/20202,EA,1000,R                          2.18,"R                           2,180.00"
-Overberg,Linen Savers,MEDDREG,2003/014869/23,RT32,HS11/2020,4/1/2020,Each,5000,R                          1.04,"R                           5,200.00"
-Pollsmoor,Linen Savers,Meddreg Tech,2003/014869/23,RT32/2019,A-236265/289,31.03.2020,box,2000,R                          0.93,"R                           1,860.00"
-Breede River,Liquid hand soap,Barrs Pharmaceutical,2012/056577/07,RT300,BR-008200,4/21/2020,500 ml,5000,R                       14.44,"R                         72,200.00"
-Goodwood,"MASK,MEDICAL SINGLE USE FLUID RESISTANT
-WITH   ELASTIC EAR LOOPS 3PLY COVID031",I H S,1993/003465/07,NT 3,GW-011766,21/04/2020,BX,800,R                     624.00,"R                      499,200.00"
-Goodwood,"MASK,MEDICAL SINGLE USE FLUID RESISTANT
-WITH   ELASTIC EAR LOOPS 3PLY COVID031",I H S,1993/003465/07,NT 3,GW-011814,13/05/2020,BX,5200,R                     624.00,"R                   3,244,800.00"
-Breede River,Masks FFP1,Stambo Solutions,2015/453050/07,Quotation,BR-008234,4/21/2020,each,600,R                       46.00,"R                         27,600.00"
-Allandale,Matress Cover for hospitals,ARJO HUNTLEIGH SA,2001/016670/07,Annexure A Table 2,AD-006363,31.03.2020,each,100,R474.81 each,"R                         47,481.00"
-Overberg,Matress Cover for hospitals,ARJO HUTLEIGH SA,2001/016670/07,RT24,CA-005533,3/31/2020,Each,20,R                     474.81,"R                           9,496.20"
-Overberg,Matress Cover for hospitals,ARJO HUTLEIGH SA,2001/016670/07,RT24,HS10/2020,4/1/2020,Each,50,R                     433.28,"R                         21,664.00"
-Overberg,Matress Cover for hospitals,ARJO HUTLEIGH SA,2001/016670/07,RT24,HS-010875,5/20/2020,Each,500,R                     470.47,"R                      235,235.00"
-Overberg,Matress Cover for hospitals,Hospital equipment,2000/000651/07,RT24,HS-010918,6/11/2020,Each,26,R                     563.12,"R                         14,641.12"
-Allandale,"Medical and surgical bag,red",PROMED TECHOLOGIES,2014/162486/07,Annexure A Table 2,AD-006381,31.04.2020,Each,"30,000",R                          1.30,"R                         39,000.00"
-Southern Cape,Mop caps,Anqingsa,2017/343405/07,Price Quotation,SC-008319,17/04/2020,each,10000,R                          0.99,"R                           9,898.00"
-Brandvlei,N95 masks,Lechoba Medical Technologies,2005/044442/07,RTCOVID19-002,BN-017970,4/15/2020,EACH,6000,R                       18.75,"R                      112,500.00"
-Breede River,N95 masks,Biologica Pharmaceuticals,2013/067392/07,RT296,BR-008220,4/21/2020,each,1800,R                     120.00,"R                      216,000.00"
-Goodwood,N95 masks,LIORA,2011/013434/23,RT32,GW-011816,14/05/2020,ea,10500,R                          5.35,"R                         56,175.00"
-Overberg,N95 masks,LIORA MEDICAL SUPP,2011/013434/23,Rt32,CA-005527,3/26/2020,Each,2940,R                          5.35,"R                         15,729.00"
-Overberg,N95 Masks,Quality Medical Supplies,2015/019742/07,Treasury,HS-010934,6/15/2020,Each,2000,R                       37.09,"R                         74,175.50"
-Pollsmoor,N95 masks,Specmed Medical Services,2018/317397/07,CSD,PS-010388,2020.07.15,EA,18000,R                       26.30,"R                      473,409.00"
-Voorberg,N95 masks,Liora Medical,2011/013434/23,RT32-2019,VN-00020,3/19/2020,Each,1260,R                          5.35,"R                           6,741.00"
-Allandale,Nebulizer,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,AD-006365,31.03.2020,each,10,R5184.20 per each,"R                         51,842.00"
-Overberg,Nebulizer,CLASS THREE MEDICAL SOLUTIONS,2017/535986/07,RT2,HS9/2020 (HS-010821),4/1/2020,Each,4,"R                 5,184.20","R                         20,736.80"
-Overberg,Nebulizer,ECOMED,2016/084766/07,RT2,CA-005570,4/16/2020,Each,1,"R                 8,115.66","R                           8,115.66"
-Allandale,Non Sterile Gloves,PROMED TECHOLOGIES,2014/162486/07,R 76,AD-006446,26.05.2020,pair,180,R46.00 per box,"R                           8,280.00"
-Brandvlei,Non Sterile Gloves,Evergreen Latex,2002/057771/23,RT76-2020ITEMNO-42132205-00033,BN-018385,7/27/2020,EACH,200 S,R                     122.00,"R                         24,400.00"
-Brandvlei,Non Sterile Gloves,Evergreen Latex,2002/057771/23,RT76-2020ITEMNO-42132205-00034,BN-018385,7/27/2020,EACH,400 S,R                     122.00,"R                           2,440.00"
-Brandvlei,Non Sterile Gloves,supra healthcare johannesburg,2007/027848/07,RT76-2020ITEMNO-42132205-00033,BN-018386,7/27/2020,EACH,200 S,R                     307.71,"R                         61,542.00"
-Brandvlei,Non Sterile Gloves,supra healthcare johannesburg,2007/027848/07,RT76-2020ITEMNO-42132205-00034,BN-018386,7/27/2020,EACH,100 M,R                     307.71,"R                         30,771.00"
-Brandvlei,Non Sterile Gloves,supra healthcare johannesburg,2007/027848/07,RT76-2020ITEMNO-42132205-00035,BN-018386,7/27/2020,EACH,100 L,R                     307.71,"R                         30,771.00"
-Breede River,Non Sterile Golves,Evergreen,2002/057771/23,RT76,BR-008322,4/21/2020,each,1000,R                       49.86,"R                         49,860.00"
-Breede River,Non Sterile Golves,Supra Health Care,2006/020950/07,RT76,BR-008397,4/21/2020,each,20000,R                          1.50,"R                         29,900.00"
-Overberg,Non Sterile Golves,"EVERGREEN LATEX       & PROMED
-TECHNOLOGIES",2002/057771/23,RT76-2020,HS-010997,7/23/2020,Each,200000,R                          0.64,"R                      127,100.00"
-Overberg,Non Sterile Golves,MEDICAL-CORE,2013/198711/07,RT76-2020,CA-005528,3/26/2020,Each,3000,R                          0.48,"R                           1,435.80"
-Overberg,Non Sterile Golves,MEDI-CORE TECHNOLOGIES,2013/198711/07,RT76-2020,HS16/2020,4/3/2020,Each,20000,R                          0.48,"R                         24,030.00"
-Overberg,Non Sterile Golves,Promed Technology,2014/162486/07,RT76-2020,HS-010996,7/23/2020,Each,100000,R                          0.58,"R                         57,680.00"
-Southern Cape,Non Sterile Golves,Evergreen LATEX,2002/057771/23,RT76,SC-008279,23/03/2020,Box of 50,900,R                       78.00,"R                         70,200.00"
-Drakenstein,Non Sterile Golves MEDIUM,MEDI-CORE,2013/198711/07,RT76,E534956/004,4/2/2020,EA,30000,R                       47.86,"R                   1,435,800.00"
-Brandvlei,Over shoe non woven (single use),KKAP Medical supplies,2016/084247/07,RT32-2019-ITEMNO-42131609-00000,BN-018387,7/27/2020,EACH,2000,R                       21.00,"R                         42,000.00"
-Brandvlei,Over shoe non woven (single use),Pinnar brothers,2005/034625/07,price quotation,BN-017977,20200417,EACH,4000,R                          0.46,"R                           1,840.00"
-Breede River,Over shoe non woven (single use),Medical International Orthopeadic,2007/023366/23,RT32,BR-008212,4/21/2020,each,300,R                       19.23,"R                           5,769.00"
-Overberg,Over shoe non woven (single use),KKAP MEDICAL SUPPLIER,2016/084247/07,RT32,HS-010770,3/30/2020,Each,200,R                       21.00,"R                           4,200.00"
-Allandale,Paper towels,PROMED TECHOLOGIES,2014/162486/07,RT14,AD-006337,18.03.2020,2400 sheets per box,302400,R210.00 per box,"R                         26,460.00"
-Allandale,Paper towels,PROMED TECHOLOGIES,2014/162486/07,RT14,HA-002318,18.06.2020,2400 sheets per box,1567200,R0.08/Sheet,"R                      137,130.00"
-Allandale,Paper towels,PROMED TECHOLOGIES,2014/162486/07,RT14,OQ-004696,23.03.2020,2400 sheets per box,86400,R210.00 per box,"R                           7,560.00"
-Brandvlei,Paper towels,Promed Technologies,2014/162486/07,RT32-2019-14111703-00002,BN-018286,7/15/2020,each,2000,R                       35.26,"R                         70,520.00"
-Breede River,Paper towels,Promed Technology,2014/162486/07,RT14,BR-008201,4/21/2020,box,100,R                     210.00,"R                         21,000.00"
-Breede River,Paper towels,Promed Technology,2014/162486/07,RT14,BR-008390,4/21/2020,box,100,R                     210.00,"R                      210,000.00"
-Drakenstein,Paper towels,PROMED,2014/162486/07,RT14,DST075,3/4/2020,RL,1200,R                       31.75,"R                         38,100.00"
-Goodwood,Paper towels,PROMED,2014/162486/07,RT14,GW-011657,18/03/2020,EA,1000,R                       55.75,"R                         55,750.00"
-Overberg,Paper towels,PROMED TECHNOLOGIES,2014/162486/07,RT14-2019,BJ-005124,3/19/2020,Each,600,R                       10.50,"R                           6,300.00"
-Overberg,Paper towels,PROMED TECHNOLOGIES,2014/162486/07,RT14-2019,CA-005509,3/23/2020,Each,1400,R                       18.53,"R                         25,200.00"
-Overberg,Paper towels,PROMED TECHNOLOGIES,2014/162486/07,RT14-2019,HS-010743,3/20/2020,Each,100000,R                       10.50,"R                      105,000.00"
-Voorberg,Paper towels,Promed,2014/162486/07,RT32,VN-002711,2020.05.18,Each,1000,R                       10.50,"R                         10,500.00"
-Voorberg,Paper towels,Promed,2014/162486/07,RT14,VN-002721,2020.05.26,Each,100,R                     210.00,"R                         21,000.00"
-Allandale,Plastic Covered Matresses,ARJO HUNTLEIGH SA,2001/016670/07,Annexure A Table 2,AD-006363,31.03.2020,each,20,R1065.30 each,"R                         21,306.00"
-Pollsmoor,Plastic Covered Matresses,Arjo Hutleigh,2001/016670/07,RT24,PS-010265,03.04.2020,Each,50,"R                 1,065.30","R                         53,265.00"
-Pollsmoor,Plastic Covered Matresses,Arjo Hutleigh,2001/016670/07,RT24,PS-010274,20.04.2020,each,300,"R                 1,065.30","R                      319,590.00"
-Allandale,Rubber boots (Gumboots),BBF SAFETY GROUP,2014/095914/07,RT59,AD-006392,03.04.2020,pair,160,R164.35 pair,"R                         26,296.00"
-Allandale,Rubber boots (Gumboots),BBF SAFETY GROUP,2014/095914/07,RT59,HA-002286,15.04.2020,pair,80,R164.35 pair,"R                         13,148.00"
-Allandale,Rubber boots (Gumboots),BBF SAFETY GROUP,2014/095914/07,RT59,OQ-004719,09.04.2020,pair,80,R164.35 pair,"R                         13,148.00"
-Breede River,Rubber boots (Gumboots),BBF Safety Group,2014/095914/07,RT59,BR-008197,4/21/2020,each,220,R                     152.00,"R                         33,440.00"
-Breede River,Rubber boots (Gumboots),Club (Kaap Agri),1995/000336/06,Quotation,N/A,4/21/2020,each,118,R                       37.84,"R                           4,465.12"
-Overberg,Rubber boots (Gumboots),BBF SAFETY GROUP,2014/095914/07,RT59-2019,BJ-005127,3/19/2020,Pair,50,R                     152.00,"R                           7,600.00"
-Overberg,Rubber boots (Gumboots),Savage Wear Production,2017/028889/07,Price Quotation,HS-010871,5/19/2020,Pair,95,R                       93.99,"R                           8,929.05"
-Overberg,Rubber boots (Gumboots),Savage Wear Production,2017/028889/07,Price Quotation,HS-010872,5/19/2020,Pair,195,R                       93.99,"R                         18,328.05"
-Breede River,Sanitizer (mounted and handheld),PN Medical,2007/031947/07,Quotation,BR-008202,4/21/2020,each,50,R                     216.32,"R                         10,816.00"
-Allandale,Shoes overshoes disposable,KAAP   AGRI,1995/000336/06,DEVIATION  PROCUREMENT METHOD,PC-001607,09.04.2020,pair,"1,000",R                          0.50,R                              498.30
-Overberg,Sleeve protector (single use),MEDICAL-CORE,2013/198711/07,RT32,CA-005517,3/24/2020,Each,10,R                       22.00,R                              440.00
-Overberg,Sleeve protector (single use),MEDICAL-CORE,2013/198711/07,RT32,HS-010769,3/30/2020,Each,4000,R                          0.22,"R                           1,100.00"
-Overberg,Sleeve protector (single use),MEDICAL-CORE,2013/198711/07,RT32,HS-010877,5/20/2020,Each,10000,R                          0.22,"R                           2,200.00"
-Pollsmoor,Sleeve protector (single use),Medi-Core Technologies,2013/198711/07,RT32/2019,PS-010243,25.03.2020,pair,5000,R                          0.22,"R                           1,100.00"
-Southern Cape,Sleeve protector disposable,Medi- Core Technologies,2013/198711/07,RT32,SC-008333,4/5/2020,Each,50000,R                          0.22,"R                         11,000.00"
-Allandale,Soap hand toilet liquid,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,AD-006487,25.06.2020,ml,1000000,R                          0.04,"R                         43,840.00"
-Allandale,Soap hand toilet liquid,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,HA-002272,23.03.2020,ml,160,R                       21.92,"R                           3,507.20"
-Allandale,Soap hand toilet liquid,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,OQ-004817,28.07.2020,ml,80000,R                          0.04,"R                           3,507.20"
-Overberg,Spill kits biological,I H S,1993/003465/07,NT 3,HS7/2020,4/1/2020,Each,50,R                     115.00,"R                           5,750.00"
-Breede River,Spray Bottles (2 liters),Tripple A Solutions,2017/271551/07,Quotation,BR-008251,4/21/2020,250 ml,300,R                       29.00,"R                           8,700.00"
-Breede River,Spray Bottles (2 liters),Tripple A Solutions,2017/271551/07,Quotation,BR-008251,4/21/2020,500 ml,300,R                       42.00,"R                         12,600.00"
-Drakenstein,Spray Bottles (2 liters),TRIPPLE A SOLUTIONS,2017/271551/07,PRICE QUOATION,DN-013142,3/30/2020,EA,89,R                       60.00,"R                           5,340.00"
-Pollsmoor,Spray Bottles (2 liters),Estacom,2014/078579/07,RT298/2019,PS-010238,26.03.2020,EA,500,R                          8.28,"R                           4,141.00"
-Southern Cape,Sterile Golves,Evergreen Latex,2002/057771/23,RT76,SC-008279,23/03/2020,Box of 100,1000,R                       92.00,"R                         92,000.00"
-Overberg,Stethoscope,First class consultants,2017/199502/07,Price quotation,HS-010848,5/11/2020,Each,7,R                     450.00,"R                           3,150.00"
-Allandale,Surgical masks,BIOLOGICA PHARMACETICALS,2013/067392/07,RT296-08-271,AD-006391,24.03.2020,Box of 50,10000,R26.65 per each,"R                      266,500.00"
-Allandale,Surgical masks,BIOLOGICA PHARMACETICALS,2013/067392/07,RT296-08-271,HA-002288,23.03.2020,Box of 50,1000,R26.65 per each,"R                         26,650.00"
-Allandale,Surgical masks,Quality Medical Supplies,2015/019742/07,Annexure A Table 2,AD-006395,16.04.2020,Box of 50,100000,R10.35 per each,"R                   1,035,000.00"
-Allandale,Surgical masks,TRIPPLE N MEDICAL DISTRIBUTORS,2011/129850/07,Annexure A Table 2,OQ-004707,23.03.2020,Box of 200,1000,R13.02 per pack,"R                         13,020.00"
-Brandvlei,Surgical masks,Chemical world,2019/253242/07,RT32-201942295407-00000,BN-018333,7/21/2020,each,20000,R                       14.95,"R                      299,000.00"
-Brandvlei,Surgical masks,National medical,2002/059075/23,RT32-2019:42295407-0,BN-017898,3/16/2020,each,15000,R                          0.80,"R                         12,000.00"
-Breede River,Surgical masks,Biologica,2013/067392/07,RT269,BR-008388,4/21/2020,each,30000,R                       15.50,"R                      465,000.00"
-Breede River,Surgical masks,Biologica,2013/067392/07,RT269,BR-008367,4/21/2020,each,18750,R                       26.65,"R                      499,687.50"
-Breede River,Surgical masks,"Biologica
-Pharmaceuticals",2013/067392/07,RT296,BR-008205,4/21/2020,each,400,R                       26.65,"R                         10,660.00"
-Breede River,Surgical masks,"Biologica
-Pharmaceuticals",2013/067392/07,RT296,BR-008327,4/21/2020,each,10000,R                       26.65,"R                      266,500.00"
-Breede River,Surgical masks,"Biologica
-Pharmaceuticals",2013/067392/07,296,BR-008219,4/21/2020,each,10500,R                       26.65,"R                      279,825.00"
-Breede River,Surgical masks,Dis-Chem,2009/007062/07,Petty Cash,"PC-003191 /
-PC-001097",4/21/2020,each,120,R                       49.95,"R                           5,994.00"
-Breede River,Surgical masks,Dis-Chem,2009/007062/07,Petty Cash,PC-001647,4/21/2020,each,40,R                       25.23,"R                           1,009.00"
-Breede River,Surgical masks,Multisurge,2014/170364/07,"Instruction note 8 2019/2020 Annexure Table
-A 2 -RTCOVID19-004",BR-008277,4/21/2020,each,200,R                     460.00,"R                         92,000.00"
-Drakenstein,Surgical masks,QUALITY MEDICAL,RTCOVID19-004,RTCOVID19-004,E534956/012,4/6/2020,EA,30000,R                       10.35,"R                      310,500.00"
-Overberg,Surgical masks,BIOLOGICA,2013/067392/07,RT296,CA-005515,3/24/2020,Each,1000,R                       79.95,"R                         79,950.00"
-Overberg,Surgical masks,BIOLOGICA,2013/067392/07,RT296,HS-010775,4/7/2020,Each,10000,R                       26.65,"R                      266,500.00"
-Overberg,Surgical masks,BIOLOGICA,2013/067392/07,RT296,HS-010795,4/23/2020,Each,8000,R                       26.65,"R                      213,200.00"
-Overberg,Surgical masks,I H S,1993/003465/07,NT 3,HS21/2020 (HS-010840),4/15/2020,Each,1324550,various,"R                   1,645,450.00"
-Overberg,Surgical masks,TARA TECHNOLOGIES,2019/237077/07,RTCOVID19-007,HS-010778,4/9/2020,Each,10000,R                       47.00,"R                      470,000.00"
-Pollsmoor,Surgical masks,LENIPOINT    EARLY MOON,2006/012471/23,CSD,PS-010240,2020.04.16,EA,20000,R 11.00,"R                      334,000.00"
-Pollsmoor,Surgical masks,LENIPOINT    EARLY MOON,2017/281326/07,CSD,PS-010302,2020.05.05,EA,400000,R 11.00,"R                      440,000.00"
-Southern Cape,Surgical masks,New Age Medident,2005/093988/23,RT296,SC-008449,29/07/2020,Pack,2000,R                       43.00,"R                         86,000.00"
-Voorberg,Surgical masks,Unitrade,1998/002665/23,COVID031,VB-010427,6/19/2020,Box 50,400,R                     514.24,"R                      206,496.00"
-Allandale,Surgical scrub 500ml,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,AD-006487,25.06.2020,500ml,2000,R14.44 per 500ml,"R                         28,880.00"
-Allandale,Surgical scrub 500ml,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,HA-002272,20.03.2020,500ml,320,R14.44 per 500ml,"R                           4,620.80"
-Allandale,Surgical scrub 500ml,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,OQ-004817,28.07.2020,500ml,40,R14.44 per 500ml,R                              577.60
-Brandvlei,Surgical scrub 500ml,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-2017-51284804-00001,BN-017920,25/03/2020,each,500,R                       13.89,"R                           6,945.00"
-Brandvlei,Surgical scrub 500ml,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-2017-51284804-00001,BN-017920,25/03/2020,each,500,R                       20.97,"R                         10,485.00"
-Brandvlei,Surgical scrub 500ml,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-2017-51472802-000000,BN-018388,7/27/2020,each,1500,R                       27.15,"R                         31,725.00"
-Breede River,Surgical scrub 500ml,BARRS Pharmaceuticals,2012/056577/07,RT300,BR-008193,4/21/2020,500 ml,3000,R                       21.92,"R                         65,760.00"
-Drakenstein,Surgical scrub 500ml,BARRS,RT32,RT32,DN-013124,3/25/2020,BT,480000,R                       21.15,"R                         20,304.00"
-Drakenstein,Surgical scrub 500ml,BARRS,RT300,RT300,DN-013289,5/14/2020,BT,2000,R                       24.70,"R                         49,400.00"
-Goodwood,Surgical scrub 500ml,BARRS,2012/056577/07,RT300,GW-011818,14/05/2020,EA,1000,R                     181.94,"R                      181,940.00"
-Goodwood,Surgical scrub 500ml,BARRS PHARM.,2012/056577/07,RT300.,GW-011650,28/03/2020,EA,2000,R                       21.92,"R                         43,840.00"
-Overberg,Surgical scrub 500ml,BARRS PHAMCEUTICAL,2012/056577/07,RT300,CA-005525,3/26/2020,ml,100,R                       31.99,"R                           3,198.60"
-Overberg,Surgical scrub 500ml,ITSTYM GENERAL TRADING,2009/128911/23,PRICE QUOTATION,HS8/2020,4/1/2020,ml,10,R                     199.99,"R                           1,999.90"
-Overberg,Surgical scrub 500ml,SIMSIM SALES & MARKETING,2018/195625/07,PRICE QUOTATION,PETTY CASH,4/2/2020,ml,10,R                     150.00,"R                           1,500.00"
-Allandale,Temperature Scanner,Big Chest,2014/016004/07,DEVIATION  PROCUREMENT METHOD,AD-006387,07.04.2020,each,15,"R                 1,950.00","R                         29,250.00"
-Allandale,Temperature Scanner,MULTISURGE,2014/170364/07,Annexure A Table 2,AD-006380,31.03.2020,each,16,R2300 per each,"R                         36,800.00"
-Breede River,Temperature Scanner,New Age Medident,2005/093988/23,Covid19,BR-008214,4/21/2020,each,12,"R                 2,064.25","R                         24,771.00"
-Breede River,Temperature Scanner,New Age Medident,2005/093988/23,Covid19,BR-008372,4/21/2020,each,26,"R                 1,092.50","R                         28,405.00"
-Breede River,Temperature Scanner,Tripharma,2013/179232/07,Quotation,BR-008244,4/21/2020,each,10,R                          3.22,"R                         64,400.00"
-Drakenstein,Temperature Scanner,MULTISURGE,RTCOVID19,RTCOVID19,E534956/013,4/6/2020,EA,46,"R                 2,300.00","R                      105,800.00"
-Drakenstein,Temperature Scanner,WURTH,PRICE QUOTATION,PRICE QUOTATION,E534956/,4/9/2020,EA,12,"R                 2,070.00","R                         24,840.00"
-Goodwood,Temperature Scanner,QUINTAX,2011/054080/23,QUOTATION,A-236600,15/04/2020,EA,10,"R                 2,137.85","R                         21,378.50"
-Overberg,Temperature Scanner,ESSENTIAL OFFICE SUPPLIES,1999/008462/23,PRICE QUOTATION,BJ-005130,3/26/2020,Each,2,"R                 1,748.00","R                           3,496.00"
-Overberg,Temperature Scanner,MRM Consulting,2014/023626/07,Price Quotation,HS-010977,7/8/2020,Each,70,R                     780.00,"R                         54,600.00"
-Overberg,Temperature Scanner,MULTISURGE,2014/170364/07,COVID19-018,CA-005529,3/31/2020,Each,2,"R                 2,300.00","R                           4,600.00"
-Overberg,Temperature Scanner,NEW AGE MEDIDENT,2005/093988/23,PRICE QUOTATION,HS-010762,3   / 2   4  /  2  0   2  0,Each,10,"R                 2,012.50","R                         20,125.00"
-Pollsmoor,Temperature Scanner,Cape instrument service,200/175880/23,CSD,2020.05.26,2020.05.26,EA,17,"R                 1,661.75","R                         28,250.00"
-Breede River,Tents for isolation (2 beds),Fizzpop,2016/255874/07,Quotation,BR-008291,4/21/2020,each,12,R                     729.00,"R                           8,748.00"
-Drakenstein,Tents for isolation (2 beds),MOTHO KE MOTHO KA BATHO,PRICE QUOTATION,PRICE QUOTATION,E534956/003,4/2/2020,EA,5,"R                 3,000.00","R                         15,000.00"
-Pollsmoor,Tents for isolation (2 beds),Elite Marquues,2013/064722/07,CSD,PS-010241,14.04.2020,EA,1,EA,"R                      396,060.00"
-Breede River,Tongue Depressor,Evergreen Latex,2002/057771/23,RT32,BR-008183,4/21/2020,each,100,R                          8.68,R                              868.00
-Drakenstein,Tongue Depressor,EVERGREEN LATEX,RT32,RT32,DN-012938,2/6/2020,EA,100,R                          8.68,R                              868.00
-Overberg,Tongue Depressor,EVERGREEN LATEX,2002/057771/23,RT32,HS-010766,3/27/2020,Each,5000,R                          0.09,R                              434.00
-Southern Cape,Utility gloves,Pienaar Brothers,2005/034625/07,Price Quotation,KY-003245,16/04/2020,pair,306,R                       97.95,"R                         29,911.50"
-Southern Cape,Utility gloves,Pienaar Brothers,2005/034625/07,Price Quotation,SC-008323,14/04/2020,pair,306,R                       97.95,"R                         29,911.50"
+BR-008196",2020-04-21,each,2000,R                          1.04,1.04,2080
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Linen Savers,MEDDREG TECH,2003/014869/23,RT32,DN-012945,2020-06-02,EA,2000,R                          1.04,1.04,2080
+Department of Correctional Services (DCS),Western Cape,Goodwood,Linen Savers,PROMED,2014/162486/07,RT,GW-011717,2020-04-24,EA,1000,R                          2.18,2.18,2180
+Department of Correctional Services (DCS),Western Cape,Overberg,Linen Savers,MEDDREG,2003/014869/23,RT32,HS11/2020,2020-01-04,Each,5000,R                          1.04,1.04,5200
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Linen Savers,Meddreg Tech,2003/014869/23,RT32/2019,A-236265/289,2020-03-31,box,2000,R                          0.93,0.93,1860
+Department of Correctional Services (DCS),Western Cape,Breede River,Liquid hand soap,Barrs Pharmaceutical,2012/056577/07,RT300,BR-008200,2020-04-21,500 ml,5000,R                       14.44,14.44,72200
+Department of Correctional Services (DCS),Western Cape,Goodwood,"MASK,MEDICAL SINGLE USE FLUID RESISTANT
+WITH   ELASTIC EAR LOOPS 3PLY COVID031",I H S,1993/003465/07,NT 3,GW-011766,2020-04-21,BX,800,R                     624.00,624,499200
+Department of Correctional Services (DCS),Western Cape,Goodwood,"MASK,MEDICAL SINGLE USE FLUID RESISTANT
+WITH   ELASTIC EAR LOOPS 3PLY COVID031",I H S,1993/003465/07,NT 3,GW-011814,2020-05-13,BX,5200,R                     624.00,624,3244800
+Department of Correctional Services (DCS),Western Cape,Breede River,Masks FFP1,Stambo Solutions,2015/453050/07,Quotation,BR-008234,2020-04-21,each,600,R                       46.00,46,27600
+Department of Correctional Services (DCS),Western Cape,Allandale,Matress Cover for hospitals,ARJO HUNTLEIGH SA,2001/016670/07,Annexure A Table 2,AD-006363,2020-03-31,each,100,R474.81 each,474.81,47481
+Department of Correctional Services (DCS),Western Cape,Overberg,Matress Cover for hospitals,ARJO HUTLEIGH SA,2001/016670/07,RT24,CA-005533,2020-03-31,Each,20,R                     474.81,474.81,9496.2
+Department of Correctional Services (DCS),Western Cape,Overberg,Matress Cover for hospitals,ARJO HUTLEIGH SA,2001/016670/07,RT24,HS10/2020,2020-01-04,Each,50,R                     433.28,433.28,21664
+Department of Correctional Services (DCS),Western Cape,Overberg,Matress Cover for hospitals,ARJO HUTLEIGH SA,2001/016670/07,RT24,HS-010875,2020-05-20,Each,500,R                     470.47,470.47,235235
+Department of Correctional Services (DCS),Western Cape,Overberg,Matress Cover for hospitals,Hospital equipment,2000/000651/07,RT24,HS-010918,2020-11-06,Each,26,R                     563.12,563.12,14641.12
+Department of Correctional Services (DCS),Western Cape,Allandale,"Medical and surgical bag,red",PROMED TECHOLOGIES,2014/162486/07,Annexure A Table 2,AD-006381,2020/04/31,Each,"30,000",R                          1.30,1.3,39000
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Mop caps,Anqingsa,2017/343405/07,Price Quotation,SC-008319,2020-04-17,each,10000,R                          0.99,0.99,9898
+Department of Correctional Services (DCS),Western Cape,Brandvlei,N95 masks,Lechoba Medical Technologies,2005/044442/07,RTCOVID19-002,BN-017970,2020-04-15,EACH,6000,R                       18.75,18.75,112500
+Department of Correctional Services (DCS),Western Cape,Breede River,N95 masks,Biologica Pharmaceuticals,2013/067392/07,RT296,BR-008220,2020-04-21,each,1800,R                     120.00,120,216000
+Department of Correctional Services (DCS),Western Cape,Goodwood,N95 masks,LIORA,2011/013434/23,RT32,GW-011816,2020-05-14,ea,10500,R                          5.35,5.35,56175
+Department of Correctional Services (DCS),Western Cape,Overberg,N95 masks,LIORA MEDICAL SUPP,2011/013434/23,Rt32,CA-005527,2020-03-26,Each,2940,R                          5.35,5.35,15729
+Department of Correctional Services (DCS),Western Cape,Overberg,N95 Masks,Quality Medical Supplies,2015/019742/07,Treasury,HS-010934,2020-06-15,Each,2000,R                       37.09,37.09,74175.5
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,N95 masks,Specmed Medical Services,2018/317397/07,CSD,PS-010388,2020-07-15,EA,18000,R                       26.30,26.3,473409
+Department of Correctional Services (DCS),Western Cape,Voorberg,N95 masks,Liora Medical,2011/013434/23,RT32-2019,VN-00020,2020-03-19,Each,1260,R                          5.35,5.35,6741
+Department of Correctional Services (DCS),Western Cape,Allandale,Nebulizer,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,AD-006365,2020-03-31,each,10,R5184.20 per each,5184.2,51842
+Department of Correctional Services (DCS),Western Cape,Overberg,Nebulizer,CLASS THREE MEDICAL SOLUTIONS,2017/535986/07,RT2,HS9/2020 (HS-010821),2020-01-04,Each,4,"R                 5,184.20",5184.2,20736.8
+Department of Correctional Services (DCS),Western Cape,Overberg,Nebulizer,ECOMED,2016/084766/07,RT2,CA-005570,2020-04-16,Each,1,"R                 8,115.66",8115.66,8115.66
+Department of Correctional Services (DCS),Western Cape,Allandale,Non Sterile Gloves,PROMED TECHOLOGIES,2014/162486/07,R 76,AD-006446,2020-05-26,pair,180,R46.00 per box,46,8280
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Non Sterile Gloves,Evergreen Latex,2002/057771/23,RT76-2020ITEMNO-42132205-00033,BN-018385,2020-07-27,EACH,200 S,R                     122.00,122,24400
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Non Sterile Gloves,Evergreen Latex,2002/057771/23,RT76-2020ITEMNO-42132205-00034,BN-018385,2020-07-27,EACH,400 S,R                     122.00,122,2440
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Non Sterile Gloves,supra healthcare johannesburg,2007/027848/07,RT76-2020ITEMNO-42132205-00033,BN-018386,2020-07-27,EACH,200 S,R                     307.71,307.71,61542
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Non Sterile Gloves,supra healthcare johannesburg,2007/027848/07,RT76-2020ITEMNO-42132205-00034,BN-018386,2020-07-27,EACH,100 M,R                     307.71,307.71,30771
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Non Sterile Gloves,supra healthcare johannesburg,2007/027848/07,RT76-2020ITEMNO-42132205-00035,BN-018386,2020-07-27,EACH,100 L,R                     307.71,307.71,30771
+Department of Correctional Services (DCS),Western Cape,Breede River,Non Sterile Golves,Evergreen,2002/057771/23,RT76,BR-008322,2020-04-21,each,1000,R                       49.86,49.86,49860
+Department of Correctional Services (DCS),Western Cape,Breede River,Non Sterile Golves,Supra Health Care,2006/020950/07,RT76,BR-008397,2020-04-21,each,20000,R                          1.50,1.5,29900
+Department of Correctional Services (DCS),Western Cape,Overberg,Non Sterile Golves,"EVERGREEN LATEX       & PROMED
+TECHNOLOGIES",2002/057771/23,RT76-2020,HS-010997,2020-07-23,Each,200000,R                          0.64,0.64,127100
+Department of Correctional Services (DCS),Western Cape,Overberg,Non Sterile Golves,MEDICAL-CORE,2013/198711/07,RT76-2020,CA-005528,2020-03-26,Each,3000,R                          0.48,0.48,1435.8
+Department of Correctional Services (DCS),Western Cape,Overberg,Non Sterile Golves,MEDI-CORE TECHNOLOGIES,2013/198711/07,RT76-2020,HS16/2020,2020-03-04,Each,20000,R                          0.48,0.48,24030
+Department of Correctional Services (DCS),Western Cape,Overberg,Non Sterile Golves,Promed Technology,2014/162486/07,RT76-2020,HS-010996,2020-07-23,Each,100000,R                          0.58,0.58,57680
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Non Sterile Golves,Evergreen LATEX,2002/057771/23,RT76,SC-008279,2020-03-23,Box of 50,900,R                       78.00,78,70200
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Non Sterile Golves MEDIUM,MEDI-CORE,2013/198711/07,RT76,E534956/004,2020-02-04,EA,30000,R                       47.86,47.86,1435800
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Over shoe non woven (single use),KKAP Medical supplies,2016/084247/07,RT32-2019-ITEMNO-42131609-00000,BN-018387,2020-07-27,EACH,2000,R                       21.00,21,42000
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Over shoe non woven (single use),Pinnar brothers,2005/034625/07,price quotation,BN-017977,2020-04-17,EACH,4000,R                          0.46,0.46,1840
+Department of Correctional Services (DCS),Western Cape,Breede River,Over shoe non woven (single use),Medical International Orthopeadic,2007/023366/23,RT32,BR-008212,2020-04-21,each,300,R                       19.23,19.23,5769
+Department of Correctional Services (DCS),Western Cape,Overberg,Over shoe non woven (single use),KKAP MEDICAL SUPPLIER,2016/084247/07,RT32,HS-010770,2020-03-30,Each,200,R                       21.00,21,4200
+Department of Correctional Services (DCS),Western Cape,Allandale,Paper towels,PROMED TECHOLOGIES,2014/162486/07,RT14,AD-006337,2020-03-18,2400 sheets per box,302400,R210.00 per box,210,26460
+Department of Correctional Services (DCS),Western Cape,Allandale,Paper towels,PROMED TECHOLOGIES,2014/162486/07,RT14,HA-002318,2020-06-18,2400 sheets per box,1567200,R0.08/Sheet,0.08,137130
+Department of Correctional Services (DCS),Western Cape,Allandale,Paper towels,PROMED TECHOLOGIES,2014/162486/07,RT14,OQ-004696,2020-03-23,2400 sheets per box,86400,R210.00 per box,210,7560
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Paper towels,Promed Technologies,2014/162486/07,RT32-2019-14111703-00002,BN-018286,2020-07-15,each,2000,R                       35.26,35.26,70520
+Department of Correctional Services (DCS),Western Cape,Breede River,Paper towels,Promed Technology,2014/162486/07,RT14,BR-008201,2020-04-21,box,100,R                     210.00,210,21000
+Department of Correctional Services (DCS),Western Cape,Breede River,Paper towels,Promed Technology,2014/162486/07,RT14,BR-008390,2020-04-21,box,100,R                     210.00,210,210000
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Paper towels,PROMED,2014/162486/07,RT14,DST075,2020-04-03,RL,1200,R                       31.75,31.75,38100
+Department of Correctional Services (DCS),Western Cape,Goodwood,Paper towels,PROMED,2014/162486/07,RT14,GW-011657,2020-03-18,EA,1000,R                       55.75,55.75,55750
+Department of Correctional Services (DCS),Western Cape,Overberg,Paper towels,PROMED TECHNOLOGIES,2014/162486/07,RT14-2019,BJ-005124,2020-03-19,Each,600,R                       10.50,10.5,6300
+Department of Correctional Services (DCS),Western Cape,Overberg,Paper towels,PROMED TECHNOLOGIES,2014/162486/07,RT14-2019,CA-005509,2020-03-23,Each,1400,R                       18.53,18.53,25200
+Department of Correctional Services (DCS),Western Cape,Overberg,Paper towels,PROMED TECHNOLOGIES,2014/162486/07,RT14-2019,HS-010743,2020-03-20,Each,100000,R                       10.50,10.5,105000
+Department of Correctional Services (DCS),Western Cape,Voorberg,Paper towels,Promed,2014/162486/07,RT32,VN-002711,2020-05-18,Each,1000,R                       10.50,10.5,10500
+Department of Correctional Services (DCS),Western Cape,Voorberg,Paper towels,Promed,2014/162486/07,RT14,VN-002721,2020-05-16,Each,100,R                     210.00,210,21000
+Department of Correctional Services (DCS),Western Cape,Allandale,Plastic Covered Matresses,ARJO HUNTLEIGH SA,2001/016670/07,Annexure A Table 2,AD-006363,2020-03-31,each,20,R1065.30 each,1065.3,21306
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Plastic Covered Matresses,Arjo Hutleigh,2001/016670/07,RT24,PS-010265,2020-04-03,Each,50,"R                 1,065.30",1065.3,53265
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Plastic Covered Matresses,Arjo Hutleigh,2001/016670/07,RT24,PS-010274,2020-04-20,each,300,"R                 1,065.30",1065.3,319590
+Department of Correctional Services (DCS),Western Cape,Allandale,Rubber boots (Gumboots),BBF SAFETY GROUP,2014/095914/07,RT59,AD-006392,2020-04-03,pair,160,R164.35 pair,164.35,26296
+Department of Correctional Services (DCS),Western Cape,Allandale,Rubber boots (Gumboots),BBF SAFETY GROUP,2014/095914/07,RT59,HA-002286,2020-04-15,pair,80,R164.35 pair,164.35,13148
+Department of Correctional Services (DCS),Western Cape,Allandale,Rubber boots (Gumboots),BBF SAFETY GROUP,2014/095914/07,RT59,OQ-004719,2020-04-09,pair,80,R164.35 pair,164.35,13148
+Department of Correctional Services (DCS),Western Cape,Breede River,Rubber boots (Gumboots),BBF Safety Group,2014/095914/07,RT59,BR-008197,2020-04-21,each,220,R                     152.00,152,33440
+Department of Correctional Services (DCS),Western Cape,Breede River,Rubber boots (Gumboots),Club (Kaap Agri),1995/000336/06,Quotation,N/A,2020-04-21,each,118,R                       37.84,37.84,4465.12
+Department of Correctional Services (DCS),Western Cape,Overberg,Rubber boots (Gumboots),BBF SAFETY GROUP,2014/095914/07,RT59-2019,BJ-005127,2020-03-19,Pair,50,R                     152.00,152,7600
+Department of Correctional Services (DCS),Western Cape,Overberg,Rubber boots (Gumboots),Savage Wear Production,2017/028889/07,Price Quotation,HS-010871,2020-05-19,Pair,95,R                       93.99,93.99,8929.05
+Department of Correctional Services (DCS),Western Cape,Overberg,Rubber boots (Gumboots),Savage Wear Production,2017/028889/07,Price Quotation,HS-010872,2020-05-19,Pair,195,R                       93.99,93.99,18328.05
+Department of Correctional Services (DCS),Western Cape,Breede River,Sanitizer (mounted and handheld),PN Medical,2007/031947/07,Quotation,BR-008202,2020-04-21,each,50,R                     216.32,216.32,10816
+Department of Correctional Services (DCS),Western Cape,Allandale,Shoes overshoes disposable,KAAP   AGRI,1995/000336/06,DEVIATION  PROCUREMENT METHOD,PC-001607,2020-04-09,pair,"1,000",R                          0.50,0.5,498.3
+Department of Correctional Services (DCS),Western Cape,Overberg,Sleeve protector (single use),MEDICAL-CORE,2013/198711/07,RT32,CA-005517,2020-03-24,Each,10,R                       22.00,22,440
+Department of Correctional Services (DCS),Western Cape,Overberg,Sleeve protector (single use),MEDICAL-CORE,2013/198711/07,RT32,HS-010769,2020-03-30,Each,4000,R                          0.22,0.22,1100
+Department of Correctional Services (DCS),Western Cape,Overberg,Sleeve protector (single use),MEDICAL-CORE,2013/198711/07,RT32,HS-010877,2020-05-20,Each,10000,R                          0.22,0.22,2200
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Sleeve protector (single use),Medi-Core Technologies,2013/198711/07,RT32/2019,PS-010243,2020-03-25,pair,5000,R                          0.22,0.22,1100
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Sleeve protector disposable,Medi- Core Technologies,2013/198711/07,RT32,SC-008333,2020-05-04,Each,50000,R                          0.22,0.22,11000
+Department of Correctional Services (DCS),Western Cape,Allandale,Soap hand toilet liquid,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,AD-006487,2020-06-25,ml,1000000,R                          0.04,0.04,43840
+Department of Correctional Services (DCS),Western Cape,Allandale,Soap hand toilet liquid,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,HA-002272,2020-03-23,ml,160,R                       21.92,21.92,3507.2
+Department of Correctional Services (DCS),Western Cape,Allandale,Soap hand toilet liquid,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,OQ-004817,2020-07-28,ml,80000,R                          0.04,0.04,3507.2
+Department of Correctional Services (DCS),Western Cape,Overberg,Spill kits biological,I H S,1993/003465/07,NT 3,HS7/2020,2020-01-04,Each,50,R                     115.00,115,5750
+Department of Correctional Services (DCS),Western Cape,Breede River,Spray Bottles (2 liters),Tripple A Solutions,2017/271551/07,Quotation,BR-008251,2020-04-21,250 ml,300,R                       29.00,29,8700
+Department of Correctional Services (DCS),Western Cape,Breede River,Spray Bottles (2 liters),Tripple A Solutions,2017/271551/07,Quotation,BR-008251,2020-04-21,500 ml,300,R                       42.00,42,12600
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Spray Bottles (2 liters),TRIPPLE A SOLUTIONS,2017/271551/07,PRICE QUOATION,DN-013142,2020-03-30,EA,89,R                       60.00,60,5340
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Spray Bottles (2 liters),Estacom,2014/078579/07,RT298/2019,PS-010238,2020-03-26,EA,500,R                          8.28,8.28,4141
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Sterile Golves,Evergreen Latex,2002/057771/23,RT76,SC-008279,2020-03-23,Box of 100,1000,R                       92.00,92,92000
+Department of Correctional Services (DCS),Western Cape,Overberg,Stethoscope,First class consultants,2017/199502/07,Price quotation,HS-010848,2020-11-05,Each,7,R                     450.00,450,3150
+Department of Correctional Services (DCS),Western Cape,Allandale,Surgical masks,BIOLOGICA PHARMACETICALS,2013/067392/07,RT296-08-271,AD-006391,2020-03-24,Box of 50,10000,R26.65 per each,26.65,266500
+Department of Correctional Services (DCS),Western Cape,Allandale,Surgical masks,BIOLOGICA PHARMACETICALS,2013/067392/07,RT296-08-271,HA-002288,2020-03-23,Box of 50,1000,R26.65 per each,26.65,26650
+Department of Correctional Services (DCS),Western Cape,Allandale,Surgical masks,Quality Medical Supplies,2015/019742/07,Annexure A Table 2,AD-006395,2020-04-16,Box of 50,100000,R10.35 per each,10.35,1035000
+Department of Correctional Services (DCS),Western Cape,Allandale,Surgical masks,TRIPPLE N MEDICAL DISTRIBUTORS,2011/129850/07,Annexure A Table 2,OQ-004707,2020-03-23,Box of 200,1000,R13.02 per pack,13.02,13020
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Surgical masks,Chemical world,2019/253242/07,RT32-201942295407-00000,BN-018333,2020-07-21,each,20000,R                       14.95,14.95,299000
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Surgical masks,National medical,2002/059075/23,RT32-2019:42295407-0,BN-017898,2020-03-26,each,15000,R                          0.80,0.8,12000
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical masks,Biologica,2013/067392/07,RT269,BR-008388,2020-04-21,each,30000,R                       15.50,15.5,465000
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical masks,Biologica,2013/067392/07,RT269,BR-008367,2020-04-21,each,18750,R                       26.65,26.65,499687.5
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical masks,"Biologica
+Pharmaceuticals",2013/067392/07,RT296,BR-008205,2020-04-21,each,400,R                       26.65,26.65,10660
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical masks,"Biologica
+Pharmaceuticals",2013/067392/07,RT296,BR-008327,2020-04-21,each,10000,R                       26.65,26.65,266500
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical masks,"Biologica
+Pharmaceuticals",2013/067392/07,296,BR-008219,2020-04-21,each,10500,R                       26.65,26.65,279825
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical masks,Dis-Chem,2009/007062/07,Petty Cash,"PC-003191 /
+PC-001097",2020-04-21,each,120,R                       49.95,49.95,5994
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical masks,Dis-Chem,2009/007062/07,Petty Cash,PC-001647,2020-04-21,each,40,R                       25.23,25.23,1009
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical masks,Multisurge,2014/170364/07,"Instruction note 8 2019/2020 Annexure Table
+A 2 -RTCOVID19-004",BR-008277,2020-04-21,each,200,R                     460.00,460,92000
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Surgical masks,QUALITY MEDICAL,RTCOVID19-004,RTCOVID19-004,E534956/012,2020-06-04,EA,30000,R                       10.35,10.35,310500
+Department of Correctional Services (DCS),Western Cape,Overberg,Surgical masks,BIOLOGICA,2013/067392/07,RT296,CA-005515,2020-04-21,Each,1000,R                       79.95,79.95,79950
+Department of Correctional Services (DCS),Western Cape,Overberg,Surgical masks,BIOLOGICA,2013/067392/07,RT296,HS-010775,2020-07-04,Each,10000,R                       26.65,26.65,266500
+Department of Correctional Services (DCS),Western Cape,Overberg,Surgical masks,BIOLOGICA,2013/067392/07,RT296,HS-010795,2020-04-21,Each,8000,R                       26.65,26.65,213200
+Department of Correctional Services (DCS),Western Cape,Overberg,Surgical masks,I H S,1993/003465/07,NT 3,HS21/2020 (HS-010840),2020-04-15,Each,1324550,various,,1645450
+Department of Correctional Services (DCS),Western Cape,Overberg,Surgical masks,TARA TECHNOLOGIES,2019/237077/07,RTCOVID19-007,HS-010778,2020-09-04,Each,10000,R                       47.00,47,470000
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Surgical masks,LENIPOINT    EARLY MOON,2006/012471/23,CSD,PS-010240,2020-04-16,EA,20000,R 11.00,11,334000
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Surgical masks,LENIPOINT    EARLY MOON,2017/281326/07,CSD,PS-010302,2020-05-05,EA,400000,R 11.00,11,440000
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Surgical masks,New Age Medident,2005/093988/23,RT296,SC-008449,2020-07-29,Pack,2000,R                       43.00,43,86000
+Department of Correctional Services (DCS),Western Cape,Voorberg,Surgical masks,Unitrade,1998/002665/23,COVID031,VB-010427,2020-06-19,Box 50,400,R                     514.24,514.24,206496
+Department of Correctional Services (DCS),Western Cape,Allandale,Surgical scrub 500ml,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,AD-006487,2002-06-25,500ml,2000,R14.44 per 500ml,14.44,28880
+Department of Correctional Services (DCS),Western Cape,Allandale,Surgical scrub 500ml,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,HA-002272,2020-03-20,500ml,320,R14.44 per 500ml,14.44,4620.8
+Department of Correctional Services (DCS),Western Cape,Allandale,Surgical scrub 500ml,BARRS PHAMACEUTICALS,2012/056577/07,RT 300,OQ-004817,2020-07-28,500ml,40,R14.44 per 500ml,14.44,577.6
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Surgical scrub 500ml,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-2017-51284804-00001,BN-017920,2020-03-25,each,500,R                       13.89,13.89,6945
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Surgical scrub 500ml,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-2017-51284804-00001,BN-017920,2020-03-25,each,500,R                       20.97,20.97,10485
+Department of Correctional Services (DCS),Western Cape,Brandvlei,Surgical scrub 500ml,BARRS PHAMACEUTICALS INDUSTRIES,2012/056577/07,RT300-2017-51472802-000000,BN-018388,2020-07-27,each,1500,R                       27.15,27.15,31725
+Department of Correctional Services (DCS),Western Cape,Breede River,Surgical scrub 500ml,BARRS Pharmaceuticals,2012/056577/07,RT300,BR-008193,2020-04-21,500 ml,3000,R                       21.92,21.92,65760
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Surgical scrub 500ml,BARRS,RT32,RT32,DN-013124,2020-03-25,BT,480000,R                       21.15,21.15,20304
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Surgical scrub 500ml,BARRS,RT300,RT300,DN-013289,2020-05-14,BT,2000,R                       24.70,24.7,49400
+Department of Correctional Services (DCS),Western Cape,Goodwood,Surgical scrub 500ml,BARRS,2012/056577/07,RT300,GW-011818,2020-05-14,EA,1000,R                     181.94,181.94,181940
+Department of Correctional Services (DCS),Western Cape,Goodwood,Surgical scrub 500ml,BARRS PHARM.,2012/056577/07,RT300.,GW-011650,2020-03-28,EA,2000,R                       21.92,21.92,43840
+Department of Correctional Services (DCS),Western Cape,Overberg,Surgical scrub 500ml,BARRS PHAMCEUTICAL,2012/056577/07,RT300,CA-005525,2020-03-26,ml,100,R                       31.99,31.99,3198.6
+Department of Correctional Services (DCS),Western Cape,Overberg,Surgical scrub 500ml,ITSTYM GENERAL TRADING,2009/128911/23,PRICE QUOTATION,HS8/2020,2020-01-04,ml,10,R                     199.99,199.99,1999.9
+Department of Correctional Services (DCS),Western Cape,Overberg,Surgical scrub 500ml,SIMSIM SALES & MARKETING,2018/195625/07,PRICE QUOTATION,PETTY CASH,2020-02-04,ml,10,R                     150.00,150,1500
+Department of Correctional Services (DCS),Western Cape,Allandale,Temperature Scanner,Big Chest,2014/016004/07,DEVIATION  PROCUREMENT METHOD,AD-006387,2020-04-07,each,15,"R                 1,950.00",1950,29250
+Department of Correctional Services (DCS),Western Cape,Allandale,Temperature Scanner,MULTISURGE,2014/170364/07,Annexure A Table 2,AD-006380,2020-03-31,each,16,R2300 per each,2300,36800
+Department of Correctional Services (DCS),Western Cape,Breede River,Temperature Scanner,New Age Medident,2005/093988/23,Covid19,BR-008214,2020-04-21,each,12,"R                 2,064.25",2064.25,24771
+Department of Correctional Services (DCS),Western Cape,Breede River,Temperature Scanner,New Age Medident,2005/093988/23,Covid19,BR-008372,2020-04-21,each,26,"R                 1,092.50",1092.5,28405
+Department of Correctional Services (DCS),Western Cape,Breede River,Temperature Scanner,Tripharma,2013/179232/07,Quotation,BR-008244,2020-04-21,each,10,R                          3.22,3.22,64400
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Temperature Scanner,MULTISURGE,RTCOVID19,RTCOVID19,E534956/013,2020-06-04,EA,46,"R                 2,300.00",2300,105800
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Temperature Scanner,WURTH,PRICE QUOTATION,PRICE QUOTATION,E534956/,2020-09-04,EA,12,"R                 2,070.00",2070,24840
+Department of Correctional Services (DCS),Western Cape,Goodwood,Temperature Scanner,QUINTAX,2011/054080/23,QUOTATION,A-236600,2020-04-15,EA,10,"R                 2,137.85",2137.85,21378.5
+Department of Correctional Services (DCS),Western Cape,Overberg,Temperature Scanner,ESSENTIAL OFFICE SUPPLIES,1999/008462/23,PRICE QUOTATION,BJ-005130,2020-03-26,Each,2,"R                 1,748.00",1748,3496
+Department of Correctional Services (DCS),Western Cape,Overberg,Temperature Scanner,MRM Consulting,2014/023626/07,Price Quotation,HS-010977,2020-08-07,Each,70,R                     780.00,780,54600
+Department of Correctional Services (DCS),Western Cape,Overberg,Temperature Scanner,MULTISURGE,2014/170364/07,COVID19-018,CA-005529,2020-03-31,Each,2,"R                 2,300.00",2300,4600
+Department of Correctional Services (DCS),Western Cape,Overberg,Temperature Scanner,NEW AGE MEDIDENT,2005/093988/23,PRICE QUOTATION,HS-010762,2020-03-24,Each,10,"R                 2,012.50",2012.5,20125
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Temperature Scanner,Cape instrument service,200/175880/23,CSD,2020.05.26,2020.05.26,EA,17,"R                 1,661.75",1661.75,28250
+Department of Correctional Services (DCS),Western Cape,Breede River,Tents for isolation (2 beds),Fizzpop,2016/255874/07,Quotation,BR-008291,2020-04-21,each,12,R                     729.00,729,8748
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Tents for isolation (2 beds),MOTHO KE MOTHO KA BATHO,PRICE QUOTATION,PRICE QUOTATION,E534956/003,2020-02-04,EA,5,"R                 3,000.00",3000,15000
+Department of Correctional Services (DCS),Western Cape,Pollsmoor,Tents for isolation (2 beds),Elite Marquues,2013/064722/07,CSD,PS-010241,2020-04-14,EA,1,,,396060
+Department of Correctional Services (DCS),Western Cape,Breede River,Tongue Depressor,Evergreen Latex,2002/057771/23,RT32,BR-008183,2020-04-21,each,100,R                          8.68,8.68,868
+Department of Correctional Services (DCS),Western Cape,Drakenstein,Tongue Depressor,EVERGREEN LATEX,RT32,RT32,DN-012938,2020-06-02,EA,100,R                          8.68,8.68,868
+Department of Correctional Services (DCS),Western Cape,Overberg,Tongue Depressor,EVERGREEN LATEX,2002/057771/23,RT32,HS-010766,2020-03-27,Each,5000,R                          0.09,0.09,434
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Utility gloves,Pienaar Brothers,2005/034625/07,Price Quotation,KY-003245,2020-04-16,pair,306,R                       97.95,97.95,29911.5
+Department of Correctional Services (DCS),Western Cape,Southern Cape,Utility gloves,Pienaar Brothers,2005/034625/07,Price Quotation,SC-008323,2020-04-14,pair,306,R                       97.95,97.95,29911.5
