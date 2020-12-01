@@ -1,0 +1,519 @@
+buyer_name,implementation_location_other,items_description,supplier_name,comapny_registration_number,procurement_method,UNIT OF MEASURE,order_number,invoice_date,items_quantity,cost_per_unit_zar,order_amount_zar
+Department of Correctional Services (DCS),Durban,Surgical masks,Quality Medical,2015/019742/07,RTCOVID19,each,"F-431726 (DB-
+014008)",3/20/2020,25000,10.35,258750.00
+Department of Correctional Services (DCS),Durban,Surgical masks,Flawless Enterprise,2015/431254/07,Quotation,each,"F-431406  (DB-
+014004)",3/28/2020,10000,27.00,270000.00
+Department of Correctional Services (DCS),Durban,Surgical masks,Flawless Enterprise,2015/431254/07,Quotation,each,"F-431428 (DB-
+014040)",04/09/2020,10000,27.00,270000.00
+Department of Correctional Services (DCS),Durban,Surgical masks,Multisurge,2014/170364/07,RTCOVID19,each,DB-014064,4/30/2020,20000,9.20,184000.00
+Department of Correctional Services (DCS),Durban,N95 masks,Lechoba Medical,2005/044442/07,RTCOVID19,each,"F-431748 (DB-
+014009)",3/26/2020,17500,18.75,328125.00
+Department of Correctional Services (DCS),Durban,N95 masks,Flawless Enterprise,2015/431254/07,Quotation,each,"F-431406  (DB-
+014004)",3/28/2020,175,135.00,23625.00
+Department of Correctional Services (DCS),Durban,Disposable Gown (isolation),Logan Medical & Surgical Sundries,2012/056508/07,RTCOVID19,each,DB-013968,3/20/2020,1000,40.25,40250.00
+Department of Correctional Services (DCS),Durban,Protective Cover Bodysuits Disposable,Alfrehutch Trading,2008/130764/23,RTCOVID19,each,"F-431741 (DB-
+014158)",3/22/2020,500,89.76,44880.00
+Department of Correctional Services (DCS),Durban,Full face shield (Protective goggles ),Lechoba Medical,2005/044442/07,RTCOVID19,each,"F-431749 (DB-
+014025)",3/26/2020,600,65.90,39540.00
+Department of Correctional Services (DCS),Durban,Disposable aprons,Central Medical,1995/003785/07,RT 32-2019,each,DB-013966,3/19/2020,40000,0.32,12800.00
+Department of Correctional Services (DCS),Durban,Disposable scrub suit,Gibela Trade & Invest 1001,2004/117191/23,RT 32-2019,each,DB-013969,3/21/2020,200,17.19,3438.00
+Department of Correctional Services (DCS),Durban,Non Sterile Gloves  (Med / Large),Evergreen Latex,2002/057771/23,RT 76-2020,pair,DB-013967,3/20/2020,1500 x 50's,49.86,74790.00
+Department of Correctional Services (DCS),Durban,Non Sterile Gloves (Latex)  (S / M / L),Flawless Enterprise,2015/431254/07,Quotation,pair,"F-431407 (DB-
+014003)",3/30/2020,"6000                   4500
+7500",1.50,18000.00
+Department of Correctional Services (DCS),Durban,Temperature Scanner,Class Three Medical Solutions,2017/535986/07,Quotation,each,"F-431409 (DB-
+014026)",3/31/2020,60,1743.50,104610.90
+Department of Correctional Services (DCS),Durban,Temperature Scanner,Flawless Enterprise,2015/431254/07,Quotation,each,"F-431431 (DB-
+014027)",4/15/2020,5,2520.00,12600.00
+Department of Correctional Services (DCS),Durban,Alcohol based hand sanitiser (500ml),Barrs Pharmaceuticals Industries,2012/056577/07,RT 300-2017,each,DB-013942,3/16/2020,10000,16.41,164100.00
+Department of Correctional Services (DCS),Durban,"Alcohol based hand sanitiser (500ml)  (EMERGENCY
+ORDER)",Flawless Enterprise,2015/431254/07,Quotation,each,"F-431404 (DB-
+014005)",3/28/2020,4000,100.00,400000.00
+Department of Correctional Services (DCS),Durban,Alcohol based hand sanitiser (500ml),Barrs Pharmaceuticals Industries,2012/056577/07,RT 300-2017,each,DB-13988,04/07/2020,12050,16.41,197740.50
+Department of Correctional Services (DCS),Durban,Surgical scrub 500ml,Barrs Pharmaceuticals Industries,2012/056577/07,RT 300-2017,each,"F-431737 (DB-
+013993)",3/21/2020,8000,21.92,175360.00
+Department of Correctional Services (DCS),Durban,Surgical scrub 500ml,Barrs Pharmaceuticals Industries,2012/056577/07,RT 300-2017,each,DB-013988,04/07/2020,8000,21.92,175360.00
+Department of Correctional Services (DCS),Durban,Biocide D / Bleach,SRT Sunshine,2019/403032/07,Quotation,liters,DB-013963,3/19/2020,3000,9.92,29760.00
+Department of Correctional Services (DCS),Durban,Paper towels,Promed Technologies,2014/162486/07,RT 14-2019,rolls,DB-013965,3/19/2020,6000,10.50,63000.00
+Department of Correctional Services (DCS),Durban,Paper towels,Promed Technologies,2014/162486/07,RT 14-2019,rolls,"F-431429 (DB-
+014002)",04/10/2020,12000,10.50,126000.00
+Department of Correctional Services (DCS),Durban,Matress Cover for hospitals,Hospital Equipment Manufacturers,2000/000651/07,RT 24-2016,each,"F-431735 (DB-
+014023)",3/21/2020,600,450.00,270000.00
+Department of Correctional Services (DCS),Durban,Tents for isolation (2 beds),Hospital Equipment Manufacturers,2000/000651/07,RT 24-2016,each,"F-431420 (DB-
+014007)",04/01/2020,10,2525.00,25250.00
+Department of Correctional Services (DCS),Durban,ENT Set   (Diagnostic set),Class Three Medical Solutions,2017/535986/07,Quotation,each,"F-431408 (DB-
+014037)",3/30/2020,20,2839.12,56782.40
+Department of Correctional Services (DCS),Durban,Vital Moniter (BP Monitoring Machine),Class Three Medical Solutions,2017/535986/07,RT 2-2016,each,"F-431403 (DB-
+014034)",3/27/2020,10,16315.54,163155.40
+Department of Correctional Services (DCS),Durban,BP Cuffs  (for vital monitor),Class Three Medical Solutions,2017/535986/07,RT 2-2016,each,"F-431403 (DB-
+014034)",3/27/2020,10,120.75,1207.50
+Department of Correctional Services (DCS),Durban,HB Meter,Class Three Medical Solutions,2017/535986/07,Quotation,each,"F-431408 (DB-
+014037)",3/30/2020,10,3103.10,31031.00
+Department of Correctional Services (DCS),Durban,Ambubag (oval plus silicone resuscicator adult),Class Three Medical Solutions,2017/535986/07,Quotation,each,"F-431408 (DB-
+014037)",3/30/2020,12,1138.50,13662.00
+Department of Correctional Services (DCS),Durban,Laryngeal Mask,Class Three Medical Solutions,2017/535986/07,Quotation,each,"F-431408 (DB-
+014037)",3/30/2020,10,188.35,1883.50
+Department of Correctional Services (DCS),Durban,"Endotracheal Tube (6, 61⁄2, 7, 71⁄2)",Class Three Medical Solutions,2017/535986/07,Quotation,each,"F-431408 (DB-
+014037)",3/30/2020,20,98.65,1973.00
+Department of Correctional Services (DCS),Durban,Flow Meter double flow with ball & tube,Class Three Medical Solutions,2017/535986/07,Quotation,each,"F-431408 (DB-
+014037)",3/30/2020,10,1079.80,10798.00
+Department of Correctional Services (DCS),Durban,Stethoscope,Selective Decisions,2001/066559/23,RT 4-2017,each,"F-431745 (DB-
+014011)",3/24/2020,50,27.07,1353.50
+Department of Correctional Services (DCS),Durban,Stethoscope,Class Three Medical Solutions,2017/535986/07,Quotation,each,"F-431408 (DB-
+014037)",3/30/2020,15,455.00,6825.00
+Department of Correctional Services (DCS),Durban,Nebulizer,Class Three Medical Solutions,2017/535986/07,RT 2-1-2016,each,"F-431750 (DB-
+014031)",3/27/2020,10,5184.20,51842.00
+Department of Correctional Services (DCS),Durban,Over shoe non woven (single use),Umusa Kami Supplies,2019/443164/07,Quotation,each,"F-431423 (DB-
+014013)",04/03/2020,900 x 100's,0.77,6935.00
+Department of Correctional Services (DCS),Durban,Head Covers (single use),Umusa Kami Supplies,2019/443164/07,Quotation,each,"F-431423 (DB-
+014013)",04/03/2020,900 x 100's,0.74,6659.00
+Department of Correctional Services (DCS),Durban,Laringoscope,Unicore Holdings,2011/000574/07,RT 4-2017,each,"F-431746 (DB-
+013983)",3/24/2020,10,1576.86,15768.60
+Department of Correctional Services (DCS),Durban,Flu Vaccine,Kahma Biotech,1997/014365/07,RT 285-2019,vial,"F-431733 (DB-
+014035)",3/21/2020,3450,39.93,137758.50
+Department of Correctional Services (DCS),Durban,Full face shield   (Visors),Flawless Enterprise,2015/431254/07,Quotation,each,"F-431426 (DB-
+014012)",04/08/2020,1000,95.00,95000.00
+Department of Correctional Services (DCS),Durban,Water boot (gumboots),BBF Safety Group,2014/095914/07,RT 59-2019,pair,"F-431734 (DB-
+014028 & DB-
+014029)",3/21/2020,646,152.00,98192.00
+Department of Correctional Services (DCS),Durban,"Bed, Hospital, Two Section",Hospi-Furn,2009/003345/07,RT 24-2016,each,"F-431738 (DB-
+014030)",3/22/2020,28,8165.79,228642.12
+Department of Correctional Services (DCS),Durban,Flow Meter Oxygen Single,East Coast Medical,2011/043248/23,RT 2-2016,each,DB-013980,3/22/2020,20,575.74,13514.80
+Department of Correctional Services (DCS),Durban,"Bottle, medicine, with pump, 500ml",Medi-Core Technologies,2013/198711/07,RT 298-2018,each,"F-431747 (DB-
+014024)",3/25/2020,1000,7.52,7520.00
+Department of Correctional Services (DCS),Durban,Service : Sanitize all areas in Durban,Total Pest Management Services,2004/027335/23,Quotation,service,"F-431730 (DB-
+013970)",3/20/2020,"1 service for 5
+consecutive days",290000.00,290000.00
+Department of Correctional Services (DCS),Durban,"Hand Soap, Dettol, 200ml",Siyabonga Marketing Solutions,2016/456730/07,Quotation,each,"F-431419 (DB-
+014010)",04/01/2020,530,55.00,29150.00
+Department of Correctional Services (DCS),Durban,"Sprayer, 16L Plastic Knapsack (to spray vehicles, cells,
+etc.)",Total Pest Management Services,2004/027335/23,Quotation,each,"F-431430 (DB-
+014036)",4/13/2020,10,1200.00,12000.00
+Department of Correctional Services (DCS),Durban,Biocide D (sachets for the sprayer's),Total Pest Management Services,2004/027335/23,Quotation,sachets,"F-431430 (DB-
+014036)",4/13/2020,3000,5.50,16500.00
+Department of Correctional Services (DCS),Durban,M/S Pest Control (decontimination),Total Pest Management Services,2004/027335/23,Quotation,service,DB-014162,06/08/2020,1,24000.00,24000.00
+Department of Correctional Services (DCS),,Full face shield   (Visors),Unitrade 1032,1998/002665/23,Quotation,each,DB-014355,7/27/2020,1000,18.00,18000.00
+Department of Correctional Services (DCS),,Gown Isollation COVID037,Terata Supplies,2017/469259/07,Quotation,each,DB-014394,7/29/2020,750,57.00,42750.00
+Department of Correctional Services (DCS),,Coverall Protective Bodysuit Disposable XX-Large,Promed Technologies,2014/162486/07,RT 32-2019,each,DB-014349,7/20/2020,500,17.35,8675.00
+Department of Correctional Services (DCS),,"Draw Sheets, Disposable, white regtangular",Promed Technologies,2014/162486/07,RT 32-2019,each,DB-014349,7/20/2020,1000,2.62,2620.00
+Department of Correctional Services (DCS),,"Sleeve, Protector, single use, arm sleeve cover",Medi-Core Technologies,2013/198711/07,RT 32-2019,each,DB-014346,7/20/2020,2000,0.25,500.00
+Department of Correctional Services (DCS),,Mask Surgical Type 1,Chemical World,2019/253242/07,RT 32-2019,each,DB-014357,7/29/2020,200,19.26,3852.00
+Department of Correctional Services (DCS),Empangeni,Surgical masks,BPK LEGACY PTY LTD,2019/471742/07,NON CONTRACT,EACH,AC-404592,06/04/2020,10000,23.00,230000.00
+Department of Correctional Services (DCS),Empangeni,Surgical masks,CHEMICAL WORLD,2019/253242/07,RT32-2019,BOX,AC-404567,19/03/2020,200,14.95,2290.00
+Department of Correctional Services (DCS),Glencoe,N95 masks,THREE MED SOLUTTION,2017/535986/07,NON CONTRACT,BOX,AC-404589,02/04/2020,66,2233.88,147436.00
+Department of Correctional Services (DCS),Glencoe,N95 masks,LIORA MEDICAL SUPPLIES,2011/013434/23,TR32-2019,BOX,AC-404566,19/03/2020,700,160.50,112350.00
+Department of Correctional Services (DCS),Glencoe,Disposable Gown,BPK LEGACY PTY LTD,2019/471742/09,NON CONTRACT,EACH,AC-404594,07/04/2020,200,250.00,50000.00
+Department of Correctional Services (DCS),Glencoe,Full face shield (Protective goggles ),BPK LEGACY PTY LTD,2019/471742/09,NON CONTRACT,EACH,AC-404594,07/04/2020,100,250.00,25000.00
+Department of Correctional Services (DCS),Glencoe,Gloves,Flawless Enterprise,2015/143125/07,NON CONTRACT,each,AC-404588,04/02/2020,65250,1.54,100875.00
+Department of Correctional Services (DCS),Glencoe,Non Sterile Golves,PROMED TECHNOLOGIES,2014/16248/07,RT76-2020,BOX,AC-404562,3/19/2020,250,46.00,15650.00
+Department of Correctional Services (DCS),Glencoe,Gloves latex disposable large,EVERGREEN LATEX CC,2002/057771/23,RT76-2020,BOX,AC-404563,3/19/2020,400,78.00,48700.00
+Department of Correctional Services (DCS),Glencoe,Temperature Scanner,Drop Dot PTY,2013/001934/07,NON CONTRACT,Each,AC-404595,4/15/2020,30,2300.00,69000.00
+Department of Correctional Services (DCS),Glencoe,Alcohol based hand sanitiser 5lt,MASETHEMBE TRADING,2012/173413/07,NON CONTRACT MAAA0140020,5LT,AC-404575,3/24/2020,400,550.00,220000.00
+Department of Correctional Services (DCS),Glencoe,Alcohol based hand sanitiser 500ml,MASETHEMBE TRADING,2012/173413/07,NON CONTRACT MAAA0140020,500ML,AC-404575,3/24/2020,150,150.00,23850.00
+Department of Correctional Services (DCS),Glencoe,Alcohol based hand sanitiser 500ml,BAARS PHARMACEUTICALS,2012/056577/07,RT300-2017,500ML,AC-404561,3/19/2020,15000,14.01,210150.00
+Department of Correctional Services (DCS),Glencoe,Sanitation Service to Maphumulo correctional centre,ZULULAND PEST CONTROL,1988/010133/23,NON CONTRACT,ONCE OFF SERVICE,AC-404590,01/04/2020,ONCE OFF SERVICE,12995.00,12995.00
+Department of Correctional Services (DCS),Glencoe,Sanitation Service to Management area,ZULULAND PEST CONTROL,1988/010133/23,,ONCE OFF SERVICE,AC-404579,24/03/2020,ONCE OFF SERVICE,89585.00,89585.00
+Department of Correctional Services (DCS),Glencoe,Surgical scrub 500ml,BAARS PHARMACEUTICALS,2012/056577/07,RT300-2017,500ML,AC-404561,19/03/2020,15000,21.15,317250.00
+Department of Correctional Services (DCS),Glencoe,Paper towels,PROMED TECHNOLOGIES,2014/16248/07,RT14-2019,PKT,AC-404564,3/19/2020,5000,10.50,52500.00
+Department of Correctional Services (DCS),Glencoe,Spray Bottles/Pressure sprayer (5 liters),ZULULAND PEST CONTROL,1988/010133/23,NON CONTRACT,EACH,AC-404596,16/04/2020,30,280.00,8400.00
+Department of Correctional Services (DCS),Glencoe,Surgical masks,HYCHEM PTY LTD,2012/045088/07,NON CONTRACT,EACH,AC-404598,17/04/2020,15000,16.10,241500.00
+Department of Correctional Services (DCS),Glencoe,Surgical masks,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,20000,12.48,249600.00
+Department of Correctional Services (DCS),Glencoe,Apron plastics,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,5000,1.70,8500.00
+Department of Correctional Services (DCS),Kokstad,Eye protection,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,300,149.00,44700.00
+Department of Correctional Services (DCS),Kokstad,Visor,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,300,75.00,22500.00
+Department of Correctional Services (DCS),Kokstad,Gowns isolation/Surgical gowns,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,3000,87.83,263500.00
+Department of Correctional Services (DCS),Kokstad,Boot covers,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,1000,1.30,1300.00
+Department of Correctional Services (DCS),Kokstad,Sanitizer and disinfected 25l,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,100,1635.00,163545.00
+Department of Correctional Services (DCS),Kokstad,Bionazard bags and body bags,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,1530,7.10,10860.00
+Department of Correctional Services (DCS),Kokstad,Spray bottles 500ml,IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,20,24.30,486.00
+Department of Correctional Services (DCS),Kokstad,"Surgical gloves size 7.5,8,8.5,9",IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,6000,2.76,16560.00
+Department of Correctional Services (DCS),Kokstad,"Examation gloves M,L,XL",IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,15000,2.78,41700.00
+Department of Correctional Services (DCS),Kokstad,"Overalls size M,L,XL and XXL",IMPERIAL LOGISTICS SA,1993/003465/07,T.R INSTRUCTION NO.3 OF 2020,EACH,AC-404597,22/04/2020,800,300.11,240088.00
+Department of Correctional Services (DCS),,Secured hands free dispenser sanitiser,CHERMA SALES AND MARK,2007/242717/23,NON CONTRACT,EACH,AC-404753,15/05/2020,65,2000.00,130000.00
+Department of Correctional Services (DCS),,Secured hands free dipenser hand wash soap,CHERMA SALES AND MARK,2007/242717/23,NON CONTRACT,EACH,AC-404753,15/05/2020,42,2000.00,84000.00
+Department of Correctional Services (DCS),,Batteries,CHERMA SALES AND MARK,2007/242717/23,NON CONTRACT,EACH,AC-404753,15/05/2020,300,15.00,4500.00
+Department of Correctional Services (DCS),Empangeni,Sanitiser hands refill,CHERMA SALES AND MARK,2007/242717/23,NON CONTRACT,EACH,AC-404753,15/05/2020,400,60.00,24000.00
+Department of Correctional Services (DCS),Empangeni,Hand soap refill,CHERMA SALES AND MARK,2007/242717/23,NON CONTRACT,EACH,AC-404753,15/05/2020,300,20.00,6000.00
+Department of Correctional Services (DCS),Empangeni,First Aid Kit,MR FIRST AID,1990/007637/07,RT24-13-001,EACH,AC-404755,21/05/2020,19,471.55,8959.45
+Department of Correctional Services (DCS),Empangeni,Transfer Board,DELTA SURGICAL PTY LTD,2008/023602/07,RT24-09-001,EACH,AC-404759,22/05/2020,18,5460.65,98291.70
+Department of Correctional Services (DCS),Empangeni,Pressure Relief Matresses,"ARJO HUNTLEIGH SOUTH AFRICA
+PTY LTD",2001/016670/07,RT24-02-23,EACH,AC-404758,22/05/2020,5,6353.17,31765.85
+Department of Correctional Services (DCS),Empangeni,Stadio Meter,DELTA SURGICAL SA,2008/023602/07,RT24-08-009,EACH,AC-404757,21/05/2020,19,1279.23,24305.37
+Department of Correctional Services (DCS),Empangeni,Matress Cover Bed,"HOSPITAL EQUIPMENT
+MANUFACTURERS PTY LTD",2000/000651/07,RT24-02-15,EACH,AC-404756,21/05/2020,103,563.12,58001.36
+Department of Correctional Services (DCS),Empangeni,Emergency Trolley,SIYAKHANDA MEDICAL SERVICES,2001/001606/07,RT24-12-001,EACH,AC-404765,22/05/2020,9,20431.22,183880.98
+Department of Correctional Services (DCS),Empangeni,Over bed table,HOSPI-FURN PTY LTD,2009/003345/07,RT24-07-004,EACH,AC-404764,22/05/2020,103,2205.17,227132.51
+Department of Correctional Services (DCS),Empangeni,Hospital bed,HOSPI-FURN PTY LTD,2009/003345/07,RT24-02-005,EACH,AC-404764,22/05/2020,103,14346.49,1477688.47
+Department of Correctional Services (DCS),Empangeni,Dresing trolley,NEW HORIZON METALS CC,2000/007991/23,RT24-12-009,EACH,AC-404763,22/05/2020,14,1183.57,16569.98
+Department of Correctional Services (DCS),Empangeni,Screen mobile 4 fold,"HOSPITAL EQUIP MANUFACTURES
+PTY LTD",2000/000651/07,RT24-11-009,EACH,AC-404762,22/05/2020,20,2772.24,55444.80
+Department of Correctional Services (DCS),Empangeni,Decontamination services Qalakabusha,ZULULAND PEST CONTROL,1988/010133/23,NON CONTRACT,ONCE OFF SERVICE,AC-404780,12/06/2020,ONCE OFF SERVICE,39905.00,39905.00
+Department of Correctional Services (DCS),Empangeni,"Decontamination services Adm &Qalakabusha holding
+cells",BIDVEST STEINER,2000/011155/07,NON-CONTRACT,ONCE OFF SERVICE,AC-404787,23/06/2020,ONCE OFF SERVICE,22356.00,22356.00
+Department of Correctional Services (DCS),Empangeni,Decontamination services at 16A unit Qalakabusha,BIDVEST STEINER,2000/011155/07,NO-CONTRACT,ONCE OFF SERVICE,AC-404801,02/07/2020,ONCE OFF SERVICE,22356.00,22356.00
+Department of Correctional Services (DCS),Empangeni,Biocide D surface sanitizer,CHERMA SALES AND MARK,2007/242717/23,NON-CONTRACT,LR,AC-404802,02/07/2020,200,320.00,64000.00
+Department of Correctional Services (DCS),Empangeni,Hand sanitizing liquid,CHERMA SALES AND MARK,2007/242717/23,NON-CONTRACT,LR,AC-404802,02/07/2020,63,950.00,59850.00
+Department of Correctional Services (DCS),Empangeni,Decontamination services Qalakabusha & Meduim,BIDVEST STEINER,2000/011155/07,NON CONTRACT,ONCE OFF SERVICE,AC-404791,24/06/2020,ONCE OFF SERVICE,18274.50,18274.50
+Department of Correctional Services (DCS),Empangeni,Goggles,ZAKHAYA FITNESS,2019/090382/07,NON-CONTRACT,EACH,AC-404808,07/07/2020,1000,45.00,45000.00
+Department of Correctional Services (DCS),Empangeni,Face shield,ZAKHAYA FITNESS,2019/090382/07,NON-CONTRACT,EACH,AC-404808,07/07/2020,1300,25.00,32500.00
+Department of Correctional Services (DCS),Empangeni,"Decontamination services Empangeni Community
+Corrections",ZULULAND PEST CONTROL,1988/010133/23,NON-CONTRACT,ONCE OFF SERVICE,AC-404804,04/07/2020,ONCE OFF SERVICE,1092.50,1092.50
+Department of Correctional Services (DCS),Empangeni,N95 masks,PHUNGULA 16 TRADING,2016/321200/07,NON-CONTRACT,EACH,AC-404810,08/07/2020,3000,17.48,52440.00
+Department of Correctional Services (DCS),Empangeni,Disposable gown,ZAKHAYA FITNESS,2019/090382/07,NON-CONTRACT,EACH,AC-404809,08/07/2020,2200,56.00,123200.00
+Department of Correctional Services (DCS),Empangeni,Coveralls large and X-large,ZAKHAYA FITNESS,2019/090382/07,NON-CONTRACT,EACH,AC-404814,08/07/2020,2000,60.00,120000.00
+Department of Correctional Services (DCS),Empangeni,Surgical mask,NYALA PARK INN CC,2009/015426/23,NON-CONTRACT,EACH,AC-404811,08/07/2020,13000,8.90,115700.00
+Department of Correctional Services (DCS),Empangeni,Body bags,CHERMA SALES AND MARK,2007/242717/23,NON-CONTRACT,EACH,AC-404813,08/07/2020,2000,150.00,150000.00
+Department of Correctional Services (DCS),Empangeni,Strait Aprons with bib,CHERMA SALES AND MARK,2007/242717/23,NON-CONTRACT,EACH,AC-404813,08/07/2020,20000,1.00,20000.00
+Department of Correctional Services (DCS),Empangeni,Heavy duty gloves,BPK LEGACY PTY LTD,2019/471742/07,NON-CONTRACT,EACH,AC-404815,08/07/2020,3000,2.00,6000.00
+Department of Correctional Services (DCS),Empangeni,Face cloth mask 3 layers,OB SKWARED,2016/315042/07,NON CONTRACT,EACH,AC-404766,22/05/2020,1500,19.00,28500.00
+Department of Correctional Services (DCS),Glencoe,Surgical masks,Chemical World CC,2019/253242/07,Transversal Contract,BOXES,G-557822,2020:03:20,100,14.95,1495.00
+Department of Correctional Services (DCS),Glencoe,Surgical masks,Medi-Core Technologies,2013/198711/07,Transversal Contract,BOXES,G-557 831,2020:03:23,80,345.00,27600.00
+Department of Correctional Services (DCS),Glencoe,Surgical masks,MIP ISMAILS TRADING,2014/195150/07,Deviation,EACH,G-709248,2020:04:20,1400,15.00,21000.00
+Department of Correctional Services (DCS),Glencoe,Surgical masks,Kwathuthuko Trading Enterprise,2015/219579/07,Deviation,EACH,G-557 848,2020:04:21,10000,15.00,150000.00
+Department of Correctional Services (DCS),Glencoe,Disposable aprons,Central Medical,1995/003785/07,Transversal Contract,EACH,G-557 821,2020:03:20,6000,0.32,1920.00
+Department of Correctional Services (DCS),Glencoe,Disposable aprons,Medi-Core Technologies,2013/198711/07,Transversal Contract,Packet,G-557 831,2020:03:23,50,45.00,2250.00
+Department of Correctional Services (DCS),Glencoe,Gloves latex disposable large,MZR Trading,2017/526848/07,Deviation,EACH,G-557 827,2020:03:20,4000,350,28000.00
+Department of Correctional Services (DCS),Glencoe,Alcohol based hand sanitiser,FB BEE ENTERPRISE,2018/444951/07,Deviation,LITRE,G-557 828,2020:03:20,300,2400,28800.00
+Department of Correctional Services (DCS),Glencoe,Alcohol based hand sanitiser,JH Chemicals,2015/310741/07,Deviation,LITRE,G-557 833,2020:03:26,700,1035,28980.00
+Department of Correctional Services (DCS),Glencoe,Alcohol based hand sanitiser,JH Chemicals,2015/310741/07,Deviation,LITRE,G-0709 242,2020:04:06,500,1495,29900.00
+Department of Correctional Services (DCS),Glencoe,Rubber boots (Gumboots),BBF Safety Group,2014/095914/07,Transversal Contract,PAIR,G-557826,2020:03:20,182,164.35,29911.70
+Department of Correctional Services (DCS),Glencoe,Gloves examination Type 1 - Large,Promed Technologies,2014/162486/07,Transversal Contract,BOX,G557 823,2020:03:20,400,46.00,18400.00
+Department of Correctional Services (DCS),Glencoe,Mask Face -Aseptic Dust/Mist Respirator,Safarmex,CANCELLED,Transversal Contract,BOX,G-557 819,2020:03:20,500,119.73,59865.00
+Department of Correctional Services (DCS),Glencoe,GLOVES Sterile Type 2 - Large,Evergreen Latex,CANCELLED,Transversal Contract,BOX,G-557 824,2020:03:20,50,92.00,4600.00
+Department of Correctional Services (DCS),Glencoe,DETTOL,MZR Trading,2017/526848/07,Deviation,LITRE,G-557 829,2020:03:20,500,85,21250.00
+Department of Correctional Services (DCS),Glencoe,Protex anti bacterial,MZR Trading,2017/526848/07,Deviation,each,G-557 830,2021:03:20,200,12.50,2500.00
+Department of Correctional Services (DCS),Glencoe,"Disinfecting Correctional Centre's and Community
+Corrections office's",Professional Pest Control,2007/181557/23,Deviation,each,G-557 830,2020:03:23,1,29900.00,29900.00
+Department of Correctional Services (DCS),Glencoe,Wall Mounted Soap dispensers,Bidvest Steiner Newcastle,,Deviation,each,G-709241,2020:04:02,30,559.13,16773.90
+Department of Correctional Services (DCS),Glencoe,PVC Face visor,Hychem (Pty) Ltd,2012/045088/07,Deviation,Each,G-709245,2020.04.15,2000,12.93,25875.00
+Department of Correctional Services (DCS),Glencoe,PVC Face visor Black Head Band,Hychem (Pty) Ltd,2012/045088/07,Deviation,Each,GN-013311,2020.07.06,500,60.00,29997.75
+Department of Correctional Services (DCS),Glencoe,Cap Cover,Imperial Body Works,2002/004067/23,Deviation,EACH,GN-013385,2020.07.09,100,110.00,11000.00
+Department of Correctional Services (DCS),Glencoe,Sleeve Protections,Imperial Body Works,2002/004067/23,Deviation,EACH,GN-013385,2020.07.09,100,110.00,11000.00
+Department of Correctional Services (DCS),Glencoe,Coverall Bodysuits,Imperial Body Works,2002/004067/23,Deviation,EACH,GN-013385,2020.07.09,1000,100.00,100000.00
+Department of Correctional Services (DCS),Glencoe,Face Shield Premium Tough Visor,MIP ISMAILS TRADING,2014/195150/07,Deviation,EACH,GN-013386,2020.07.09,100,200.00,20000.00
+Department of Correctional Services (DCS),Glencoe,Gown Surgical,MIP ISMAILS TRADING,2014/195150/07,Deviation,EACH,GN-013386,2020.07.09,1000,90.00,90000.00
+Department of Correctional Services (DCS),Glencoe,Shoe Covers,Kenli Trading and Projects,2014/106775/07,Deviation,EACH,GN-013387,2020.07.09,100,145.00,14500.00
+Department of Correctional Services (DCS),Glencoe,Biocide-Detergent,inspect-a-Pest,2007/009937/23,Deviation,LITRE,GN-013305,2020.06.08,500,39.10,19550.00
+Department of Correctional Services (DCS),Glencoe,,Hychem (Pty) Ltd,2012/045088/07,Deviation,LITRE,AC-085666,2020.07.09,2500,17.25,43125.00
+Department of Correctional Services (DCS),Glencoe,Receiver Large/Medium,Tigijimi Trading and Projects,2017/232679/07,Deviation,EACH,AC-085651,2020.05.22,16,348.82,5581.12
+Department of Correctional Services (DCS),Glencoe,Needles Holder Long,Tigijimi Trading and Projects,2017/232679/07,Deviation,EACH,AC-085651,2020.05.22,16,163.00,2608.00
+Department of Correctional Services (DCS),Glencoe,Discecting Forceps,Tigijimi Trading and Projects,2017/232679/07,Deviation,EACH,AC-085651,2020.05.22,16,250.35,4005.60
+Department of Correctional Services (DCS),Glencoe,Suction Machine,Tigijimi Trading and Projects,2017/232679/07,Deviation,EACH,AC-085652,2020.05.22,2,4961.30,9922.60
+Department of Correctional Services (DCS),Glencoe,Strechers,Tigijimi Trading and Projects,2017/232679/07,Deviation,EACH,AC-085652,2020.05.22,8,1404.50,11236.00
+Department of Correctional Services (DCS),Glencoe,Hand Sanitizer,BARRS PHARMACEUTICALS INDUSTR,E2S012/056577/07,Transversal Contract,eACH,GN-013244,2020.03.19,2000,15.79,31580.00
+Department of Correctional Services (DCS),Glencoe,Sanitizer Detergent Bio-Cide,Hychem (Pty) Ltd,2012/045088/07,Deviation,LITRE,GN-013425,2020.07.17,2500,17.25,43125.00
+Department of Correctional Services (DCS),Glencoe,Decontamination of Estcourt room 28,Professional Pest Control,2007/181557/23,Deviation,EACH,GN-013441,2020.07.28,1,1500.00,1500.00
+Department of Correctional Services (DCS),Glencoe,Decontamination of NKR Reception Office,Professional Pest Control,2007/181557/23,Deviation,EACH,GN-013441,2020.07.28,1,1500.00,1500.00
+Department of Correctional Services (DCS),Glencoe,Decontamination of NKR Reception Office,Professional Pest Control,2007/181557/23,Deviation,EACH,GN-013441,2020.07.28,1,1500.00,1500.00
+Department of Correctional Services (DCS),Glencoe,"Decontamination of Glencoe School/Reception/Dundee
+Office",Professional Pest Control,2007/181557/23,Deviation,EACH,GN-013441,2020.07.28,1,7150.00,7150.00
+Department of Correctional Services (DCS),Glencoe,Acu-Check Glucometer kit,Sanibonani Holdings,2004/000822/07,Deviation,EACH,AC-085653,2020.05.22,16,390.00,6240.00
+Department of Correctional Services (DCS),Glencoe,Cuff and Bladder Adult,Sanibonani Holdings,2004/000822/07,Deviation,EACH,AC-085653,2020.05.22,16,43.45,695.20
+Department of Correctional Services (DCS),Kokstad,Surgical masks disposable,CLASS THREE MEDICAL SOLUTION,2017/535986/07,QUOTATIONS,PK,AI-663624,04/01/2020,6650,63.83,182666.00
+Department of Correctional Services (DCS),Kokstad,Scrub Suits,"Logan Medical and Surgical (PTY)
+LTD",2012/056508/07,RT2,EACH,AH-100921,3/19/2020,200,17.33,3466.00
+Department of Correctional Services (DCS),Kokstad,Surgical Gown,PROMED TECHNOLOGIES (PTY)LTD,2014/162486/07,RT32,EACH,AH-100857,3/19/2020,200,23.83,4766.00
+Department of Correctional Services (DCS),Kokstad,Vital Sign Monitor CMS5100,"CLASS THREE MEDICAL SOLUTIONS
+(PTY)LTD",2017/535986/07,RT2,EACH,AI-663607,3/25/2020,2,9209.20,18418.40
+Department of Correctional Services (DCS),Kokstad,Vital Sign Monitor CMS5100,"CLASS THREE MEDICAL SOLUTIONS
+(PTY)LTD",2017/535986/07,RT2,EACH,AI-663603,3/25/2020,4,9272.75,37091.00
+Department of Correctional Services (DCS),Kokstad,Vital Sign Monitor CMS5100,"CLASS THREE MEDICAL SOLUTIONS
+(PTY)LTD",2017/535986/07,RT2,EACH,AI-663607,3/25/2020,6,9209.20,55255.20
+Department of Correctional Services (DCS),Kokstad,Paper towels,PROMED TECHNOLOGIES,2014/162486/07,RT32,ROLL,AI-663602,3/18/2020,400,55.75,22300.00
+Department of Correctional Services (DCS),Kokstad,Sleeve Protectors,Medi-Core Technologies,,RT32,EACH,AH-100867,3/19/2020,4000,0.22,880.00
+Department of Correctional Services (DCS),Kokstad,Bleach,QUAL CHEM,2006/049237/23,QUOTATIONS,LITRE,AI-663620,3/30/2020,2500,220.00,22000.00
+Department of Correctional Services (DCS),Kokstad,Disposable Gown,PROMED TECHNOLOGIES,2014/162486/07,RT32,EACH,AH-100857,3/19/2020,4000,23.83,93250.00
+Department of Correctional Services (DCS),Kokstad,Full face shield (Protective goggles ),COVENANT TRADING,2016/521035/07,QUOTATIONS,EACH,AI-663609,3/25/2020,100,32.00,3200.00
+Department of Correctional Services (DCS),Kokstad,Disposable aprons,CENTRAL MEDICAL (PTY)LTD,1995/003785/07,RT32,EACH,AH-101110,3/19/2020,3000,0.32,960.00
+Department of Correctional Services (DCS),Kokstad,Disposable scrub suit,PROMED TECHNOLOGIES,2014/162486/07,RT32,EACH,AH-100901,3/19/2020,100,13.57,1357.00
+Department of Correctional Services (DCS),Kokstad,Temperature Scanner,CLICKS RETAIL,,QUOTATIONS,EACH,Petty Cash,3/19/2020,10,2588.34,25882.40
+Department of Correctional Services (DCS),Kokstad,Alcohol based hand sanitiser,BARRS PHARMACEUTICALS,2012/056577/07,RT300,EACH,AC-404151,3/19/2020,2000,15.92,32820.08
+Department of Correctional Services (DCS),Kokstad,Biocide D / Bleach,QUAL CHEM,2006/049237/23,QUOTATIONS,LITRE,AI-663602,3/20/2020,1500,220.00,13200.00
+Department of Correctional Services (DCS),Kokstad,Paper towels,COVENANT TRADING,2016/521035/07,QUOTATIONS,ROLL,AI-663615,3/25/2020,200,28.75,5750.00
+Department of Correctional Services (DCS),Kokstad,Hand Sanitiser (500 ml),Flawless Enterprise,2015/431254/07,QUOTATIONS,500ml,AI-663619,3/29/2020,Box of 15,2000.00,30000.00
+Department of Correctional Services (DCS),Kokstad,Blea 25 lt,QUAL CHEM,2006/049237/23,QUOTATIONS,LITRE,AI-663602,3/20/2020,1500,191.30,13200.00
+Department of Correctional Services (DCS),Kokstad,High Reisk Gloves,Medi-Core Technologies,2013/198711/07,QUOTATIONS,EACH,AI-663612,3/24/2020,10000,142.00,28400.00
+Department of Correctional Services (DCS),Kokstad,Surgical Gown Medium,PROMED TECHNOLOGIES (PTY)LTD,2014/162486/07,RT32,EACH,AH-100857,3/19/2020,100,23.14,2314.00
+Department of Correctional Services (DCS),Kokstad,Spill kits biological,CLASS THREE MEDICAL SOLUTION,2017/535986/07,QUOTATIONS,EACH,AI-663631,04/02/2020,20,1424.00,28480.00
+Department of Correctional Services (DCS),Kokstad,Brush Surgical Sterile (single use),"Logan Medical and Surgical (PTY)
+LTD",2012/056508/07,RT2,EACH,AC-450145,3/19/2020,700,3.01,2107.00
+Department of Correctional Services (DCS),Kokstad,Over shoe protector,ZENASA SERVICES (PTY) LTD,2014/199329/07,QUOTATIONS,PAIR,AI-663626,04/01/2020,450,65.00,29250.00
+Department of Correctional Services (DCS),Kokstad,Suri20p-Surgical masks Disposable,CLASS THREE MEDICAL SOLUTIONS,2017/535986/07,,,AI-663624,,2000,27.51,55016.00
+Department of Correctional Services (DCS),Kokstad,Hand sanitizer 500ml (Box of 20),Flawless Enterprise,2015/431254/07,QUOTATIONS,EACH,AI-663619,3/29/2020,15,2000.00,30000.00
+Department of Correctional Services (DCS),Kokstad,Biocide D / Bleach,QUAL CHEM,2006/049237/23,QUOTATIONS,LITRE,AI-663620,3/30/2020,2500,220.00,22000.00
+Department of Correctional Services (DCS),Kokstad,Cleaning Gloves,New Heights Foods,2019/467590/07,QUOTATIONS,PAIR,AI-663635,04/01/2020,2000,13.50,27000.00
+Department of Correctional Services (DCS),Kokstad,Tmp120p- Lepu non-contact Thermometer,CLASS THREE MEDICAL SOLUTION,2017/535986/07,QUOTATIONS,EACH,AI-663632,04/02/2020,15,1516.10,22741.50
+Department of Correctional Services (DCS),Kokstad,GLVS784-Surgical Gloves Non Sterile,CLASS THREE MEDICAL SOLUTION,2017/535986/07,QUOTATIONS,PAIR,AI-663638,04/02/2020,200,299.81,59962.00
+Department of Correctional Services (DCS),Kokstad,GLVS784-Surgical Gloves Non Sterile Nitrile Powder Free,CLASS THREE MEDICAL SOLUTION,2017/535986/07,QUOTATIONS,PAIR,AI-663638,04/02/2020,200,318.78,63756.00
+Department of Correctional Services (DCS),Kokstad,JFE SECURITY GROUP,JEF SECURITY GROUP,,,,AI-663642,04/03/2020,1,243377.77,243377.77
+Department of Correctional Services (DCS),Kokstad,Disposable drawsheets,Promed Technologies,2014/162486/07,RT32,each,AH-101091,3/19/2020,300,2.18,654.03
+Department of Correctional Services (DCS),Kokstad,Betable BP Machine,Danvan Medical Services,1996/027593/23,Order received,EACH,AI-663644,04/03/2020,20,724.50,14490.00
+Department of Correctional Services (DCS),Kokstad,Blood Glucose Acc-check machine,Danvan Medical Services,1996/027593/23,Order received,EACH,AI-663644,04/03/2020,20,454.25,9085.00
+Department of Correctional Services (DCS),Kokstad,Hemoglobin Machine,Danvan Medical Services,1996/027593/23,Order received,EACH,AI-663644,04/03/2020,5,1265.00,6325.00
+Department of Correctional Services (DCS),Kokstad,Hand Sanitiser with 70% alcohol (500ml),Flawless Enterprise,2015/431254/07,QUOTATIONS,EACH,AI-663645,04/03/2020,1000,100.00,100000.00
+Department of Correctional Services (DCS),Ncome,Gumboots (Wayne gumboot),Dual Dynamics Solutions (Pty) Ltd,2019/005337/07,QUOTATIONS,PAIR,AI-663647,04/03/2020,50,199.99,9999.50
+Department of Correctional Services (DCS),Ncome,Fumigation/Decontamination,"Rentokill and Total pest service
+management and Pestkil, Health
+and vegetation control",2004/027225/23,QUOTATIONS,,AC-404656,04/07/2020,1,35000.00,35000.00
+Department of Correctional Services (DCS),Ncome,Micro Biocide (100x6gr),Hychem (Pty) Ltd,2012/045088/07,QUOTATIONS,EACH,AC-404652,04/09/2020,200,118.00,27140.00
+Department of Correctional Services (DCS),Ncome,Hand Sanitiser with 70% alcohol (1 litre),Hychem (Pty) Ltd,2012/045088/07,QUOTATIONS,EACH,AC-404653,04/09/2020,13,1552.50,20182.50
+Department of Correctional Services (DCS),Ncome,Bleach,Eddas Trading,2015/204423/07,QUOTATIONS,LITRE,AC-404651,04/09/2020,2500,6.00,15000.00
+Department of Correctional Services (DCS),Ncome,"Apron,plastic,full body,single use,no-noise smooth
+plastic material",Medi-Core Technologies,2013/198711/07,Contract,EACH,AC-404655,4/14/2020,50000,0.32,16000.00
+Department of Correctional Services (DCS),Ncome,"Sleeve,protector,single use",Medi-Core Technologies,2013/198711/07,Contract,EACH,AC-404654,4/14/2020,50000,0.22,11000.00
+Department of Correctional Services (DCS),Ncome,Antibacterial Liquid Soap,NDZORA TRADING CC,2007/143827/23,QUOTATIONS,each,AC-404661,4/15/2020,2500,480.00,48000.00
+Department of Correctional Services (DCS),Ncome,PVC Facial Visors,Hychem (Pty) Ltd,2012/045088/07,QUOTATIONS,each,AC-404660,4/15/2020,2500,11.00,32352.94
+Department of Correctional Services (DCS),Ncome,Yellow Gloves (Cleaning gloves),Ayenzo Construction,2016/180974/07,QUOTATIONS,pair,AC-404659,4/15/2020,500,33.79,16895.00
+Department of Correctional Services (DCS),Ncome,"Apron,plastic,full body,single use,no-noise smooth
+plastic material",Medi-Core Technologies,2013/198711/07,QUOTATIONS,each,AC-404658,4/15/2020,50000,0.54,27150.00
+Department of Correctional Services (DCS),Ncome,Sani-hands hands free dispencer,PN Medical,2007/031947/07,QUOTATIONS,each,AC-404664,4/15/2020,26,914.25,23770.50
+Department of Correctional Services (DCS),Ncome,Sani-hands hands refill-isopropanol 1 litre,PN Medical,2007/031947/07,QUOTATIONS,each,AC-404664,4/15/2020,130,212.75,27657.50
+Department of Correctional Services (DCS),Ncome,Batteries- C Cell Alkaline,PN Medical,2007/031947/07,QUOTATIONS,each,AC-404664,4/15/2020,1000,27.60,27600.00
+Department of Correctional Services (DCS),,Courier / transport costs,PN Medical,2007/031947/07,QUOTATIONS,each,AC-404664,4/15/2020,1,3507.50,3507.50
+Department of Correctional Services (DCS),Ncome,Goggles general for dust,Covenant Trading,2016/521035/07,QUOTATIONS,each,AI-663609,3/24/2020,100,32.00,3200.00
+Department of Correctional Services (DCS),Ncome,Gumboots (Wayne gumboot),Dual Dynamics Solutions (Pty) Ltd,2019/005337/07,QUOTATIONS,pair,AI-3647,04/03/2020,50,199.99,9999.50
+Department of Correctional Services (DCS),Nome,"Apron,plastic,full body,single use,no-noise smooth
+plastic material (yellow)",Medi-Core Technologies,2013/198711/07,Invited quotations,each,AC-404672,4/24/2020,10000,0.54,5430.00
+Department of Correctional Services (DCS),KOKSTAD,Paper Towel 235mmx360mm (1 ply),Promed Technologies,2014/162486/07,RT32,roll,AI-663602,04/03/2020,400,55.75,22300.00
+Department of Correctional Services (DCS),Ncome,HB Meter Digital,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404667,4/17/2020,5,3250.00,16250.00
+Department of Correctional Services (DCS),KOKSTAD,Pulse Oximeter on desktop,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AI-663604,3/20/2020,5,5561.40,27807.00
+Department of Correctional Services (DCS),Ncome,Stethoscope Classic Dual Head,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404665,4/17/2020,20,114.98,2298.80
+Department of Correctional Services (DCS),Ncome,BP Cuffs Adult (25-35),CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404665,4/17/2020,10,125.10,1251.00
+Department of Correctional Services (DCS),Ncome,Double Flow Meter with Ball Tube,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404665,4/17/2020,10,1079.80,10798.00
+Department of Correctional Services (DCS),Ncome,Ambi Oval Plus Silicone Resuscitater,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404665,4/17/2020,5,1138.50,5692.50
+Department of Correctional Services (DCS),Ncome,CPR DOLL,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,EACH,AC-404665,4/17/2020,1,6918.58,6918.58
+Department of Correctional Services (DCS),Ncome,Laryngeal mask,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,EACH,AC-404665,4/17/2020,10,188.35,1883.50
+Department of Correctional Services (DCS),Ncome,Laryngoscope set adult,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404666,4/17/2020,5,4150.55,20752.75
+Department of Correctional Services (DCS),Ncome,Endotracheal tube 6.6,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404666,4/17/2020,15,98.65,1479.75
+Department of Correctional Services (DCS),Ncome,Endotracheal tube 5.7,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404666,4/17/2020,15,98.65,1479.75
+Department of Correctional Services (DCS),Ncome,Endotracheal tube 7.5,CLASS THREE MEDICAL SOLUTION,2017/535986/07,RT2,each,AC-404666,4/17/2020,15,98.65,1479.75
+Department of Correctional Services (DCS),Ncome,Cloth Masks,Shongololo Prints,2015/061732/07,Deviation,each,AC-085301,17/04/2020,3200,23.36,74749.00
+Department of Correctional Services (DCS),Ncome,Surgical masks,Masithabe Trading,2009/196595/23,Deviation,each,G-557750,17/04/2020,10000,22.50,225000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Alcohol based hand sanitiser,,,,,,,,,
+Department of Correctional Services (DCS),Pietermaritzburg,Anti bacteria Hand soap,Hychem (Pty)Ltd,2012/045088/07,Deviation,Litre,G-557749,16/04/2020,250,36.80,9200.00
+Department of Correctional Services (DCS),Pietermaritzburg,Bleach,Hychem (Pty)Ltd,2012/045088/07,Deviation,Litre,G-557749,16/04/2020,375,17.48,6555.00
+Department of Correctional Services (DCS),Pietermaritzburg,Biocide D,Hychem (Pty)Ltd,2012/045088/07,Deviation,gram,G-557749,16/04/2020,600,1.01,603.75
+Department of Correctional Services (DCS),Pietermaritzburg,Paper towels,Hychem (Pty)Ltd,2012/045088/07,Deviation,box (12 packs),G-557749,16/04/2020,6,641.70,3850.20
+Department of Correctional Services (DCS),Pietermaritzburg,Biocide D,inspect-a-Pest,2007/009937/23,Deviation,Litre,AC-085346,23/07/2020,4800,41.40,198720.00
+Department of Correctional Services (DCS),Pietermaritzburg,Heavy duty rubber cleaning glove,Buzzi Circle Enterprise,2017/103765/07,Deviation,Pair,G-557748,08/04/2020,1929,15.00,28935.00
+Department of Correctional Services (DCS),Pietermaritzburg,Plastic Covered Matresses,Arjohuntegh South Africa,2001/016670/07,RT24,each,G-557739,27/03/2020,300,1065.30,319590.00
+Department of Correctional Services (DCS),Pietermaritzburg,Matress Cover for hospitals,Arjohuntegh South Africa,2001/016670/07,RT24,each,G-557739,27/03/2020,300,474.81,142443.00
+Department of Correctional Services (DCS),Pietermaritzburg,N95 Masks,Rainbow Moon Services,2015/026580/07,Deviation,each,G-557730,23/03/2020,700,60.00,42000.00
+Department of Correctional Services (DCS),Pietermaritzburg,latex powder free gloves (non-sterile),Rainbow Moon Services,2015/026580/07,Deviation,Pair,G-557730,23/03/2020,3000,1.65,4950.00
+Department of Correctional Services (DCS),Pietermaritzburg,Water boot (gumboots),BBF Safety Group,2014/095914/07,RT59/2019,Pair,G-557721,19/03/2020,300,164.35,49305.00
+Department of Correctional Services (DCS),Pietermaritzburg,Spill kits biological,Hychem (Pty)Ltd,2012/045088/07,Deviation,box (6),G-557749,16/04/2020,48,1552.50,74520.00
+Department of Correctional Services (DCS),Pietermaritzburg,Boot covers,Hychem (Pty) Ltd,2012/045088/07,Deviation,pack,G-557749,1604/2020,3,143.75,431.25
+Department of Correctional Services (DCS),Pietermaritzburg,"Sanitizer (handheld)                             Anti Bacteria Hand
+soap",HMS,1997/008746/23,Deviation /Petty Cash,Litre,Petty Cash,24/03/2020,"15
+15",52.84,1585.20
+Department of Correctional Services (DCS),Pietermaritzburg,Sanitizer (handheld),Barrs Pharmaceuticals,2012/056577/07,RT300/2017,each (50ml),G-557722,19/03/2020,3500,2.77,9695.00
+Department of Correctional Services (DCS),Pietermaritzburg,Sanitizer (handheld),Barrs Pharmaceuticals,2012/056577/07,RT300/2017,each (500ml),G-557722,19/03/2020,3500,15.92,55720.00
+Department of Correctional Services (DCS),Pietermaritzburg,Sanitizer ( handheld ),Rainbow Moon Services,2015/026580/07,Deviation,Litre,G-557731,23/03/2020,500,120.00,48000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Disposable protective clothing for medical use,Mwelase Family (PTY)Ltd,2016/336320/07,Deviation,each,G-557746,03/04/2020,100,39.60,39600.00
+Department of Correctional Services (DCS),Ncome,Disposable coverall suits,Hychem (Pty)Ltd,2012/045088/07,Deviation,each,AC-085327,02/07/2020,500,120.00,69000.00
+Department of Correctional Services (DCS),Ncome,Full face shield,Hychem (Pty)Ltd,2012/045088/07,Deviation,each,AC-085327,02/07/2020,850,40.25,34212.50
+Department of Correctional Services (DCS),Ncome,Disposable Gown,Hychem (Pty)Ltd,2012/045088/07,Deviation,each,AC-085327,02/072020,1000,86.25,86250.00
+Department of Correctional Services (DCS),Ncome,Infrared electric thermometer,Hychem (Pty) Ltd,2012/045088/07,Deviation,each,AC-085327,02/07/2020,25,1200.00,34500.00
+Department of Correctional Services (DCS),Pietermaritzburg,Surgical masks,COVENANT TRADING,2016/521035/07,QUOTATION,BOX,AC-404615,3/24/2020,40,725.00,29000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Surgical masks,LLTD AFFECTION PTY,2018/287742/07,QUOTATION,EA,AC-404641,3/26/2020,428,69.95,29938.60
+Department of Correctional Services (DCS),Pietermaritzburg,Surgical masks,GCEKWANE TRADING,2014/141605/07,QUOTATION,EA,AC-404637,3/27/2020,420,70.00,29400.00
+Department of Correctional Services (DCS),Pietermaritzburg,Surgical masks,DALAWANE TRADING,2007/087171/23,QUOTATION,EA,AC-404628,3/25/2020,250,120.00,30000.00
+Department of Correctional Services (DCS),Pietermaritzburg,BIOCIDE D,CLASS THREE MEDICAL,2017/535986/07,QUOTATION,BOX,AC-404606,3/23/2020,30,268.16,8043.46
+Department of Correctional Services (DCS),Pietermaritzburg,Bleach 25lt,CLASS THREE MEDICAL,2017/535986/07,QUOTATION,EACH,QUOTATION,3/23/2020,320,333.34,106683.20
+Department of Correctional Services (DCS),Pietermaritzburg,Dynamaps,CLASS THREE MEDICAL,2017/535986/07,RT2-1-2016,EA,RT2-1-2016,3/23/2020,10,18762.87,163155.40
+Department of Correctional Services (DCS),Pietermaritzburg,Spill Kits Biological,CLASS THREE MEDICAL,2017/535986/07,QUOTATION,EA,QUOTATION,3/23/2020,255,1637.60,357000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Temperature Scanner,CLASS THREE MEDICAL,2017/535986/07,QUOTATION,EA,AC-404642,3/26/2020,78,1516.10,118255.80
+Department of Correctional Services (DCS),Pietermaritzburg,Batteries for scanners,STARDUST MARKERTING,2019/622167/07,QUOTATION,EA,AC-404451,04/02/2020,60,25.00,1500.00
+Department of Correctional Services (DCS),Pietermaritzburg,LINEN SAVER,ACCESS MEDICAL PTY,2012/013099/07,QUOTATION,PK,AC-404625,3/25/2020,4000,1.20,4800.00
+Department of Correctional Services (DCS),Pietermaritzburg,SURGICAL MASK,LOGAN MEDICAL,2012/056508/07,QUOTATION,BOX,AC-450352,3/20/2020,120,862.50,103500.00
+Department of Correctional Services (DCS),Pietermaritzburg,TONGUE DEPRESSOR,LOGAN MEDICAL,2012/056508/07,QUOTATION,BOX,AC-450352,3/20/2020,1,20.00,20.00
+Department of Correctional Services (DCS),Pietermaritzburg,LINEN SAVER,LOGAN MEDICAL,2012/056508/07,QUOTATION,BOX,AC-450352,3/20/2020,5,575.00,2875.00
+Department of Correctional Services (DCS),Pietermaritzburg,N95 Mask,LOGAN MEDICAL,2012/056508/07,QUOTATION,BOX,AC-450352,3/20/2020,25,1380.00,34500.00
+Department of Correctional Services (DCS),Pietermaritzburg,DISPOSABLE APRONS,LOGAN MEDICAL,2012/056508/07,QUOTATION,EACH,AC-450352,3/20/2020,200,50.00,10000.00
+Department of Correctional Services (DCS),Pietermaritzburg,SURGICAL MASK,UMUSA KAMI SUPPLIES,2019/443164/07,QUOTATION,BOX,AC-085602,4/16/2020,1600,18.50,29600.00
+Department of Correctional Services (DCS),Pietermaritzburg,Sreens 3panel,SIYAKHULIS TRADING CC,2004/099727/23,QUOTATION,EA,AC-404649,04/02/2020,10,2800.00,28000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Sreens 3panel,SIYAKHULIS TRADING CC,2004/099727/23,QUOTATION,EA,AC-404456,04/06/2020,2,2800.00,5600.00
+Department of Correctional Services (DCS),Pietermaritzburg,DISPOSABLE APRONS,CENTRAL MEDICAL,1995/003785/07,RT32,pkt,AC-404645,3/31/2020,200,32.00,6400.00
+Department of Correctional Services (DCS),Pietermaritzburg,DISPOSABLE APRONS - YELLOW,CENTRAL MEDICAL,1995/003785/07,RT32,PKT,AC-085460,7/21/2020,5000,0.40,2000.00
+Department of Correctional Services (DCS),Pietermaritzburg,DISPOSABLE APRONS,CENTRAL MEDICAL,1995/003785/07,TR32,PKT/100,AC-404436,3/19/2020,200,32.00,6400.00
+Department of Correctional Services (DCS),Pietermaritzburg,Non Sterile Gloves,SUPRA HEALTH CARE,2007/027848/07,QUOTATION,BOX OF 100,AC-404648,04/02/2020,170,84.47,14359.90
+Department of Correctional Services (DCS),Pietermaritzburg,VITAL SIGN MONITOR,CLASS THREE MEDICAL,2017/535986/07,RT2,EACH,AC-404434,3/19/2020,11,16315.54,179470.94
+Department of Correctional Services (DCS),Pietermaritzburg,BP CUFF,CLASS THREE MEDICAL,2017/535986/07,RT2,EACH,AC-404434,3/19/2020,11,120.75,1328.25
+Department of Correctional Services (DCS),Pietermaritzburg,NEBULISER,CLASS THREE MEDICAL,2017/535986/07,RT2,EACH,AC-404434,3/19/2020,10,5184.20,51842.00
+Department of Correctional Services (DCS),Pietermaritzburg,Surgical Mask box of 50,LOGAN MEDICAL,2012/056508/07,QUOTATION,BOX,AC-404601,3/23/2020,100,862.50,86250.00
+Department of Correctional Services (DCS),Pietermaritzburg,Disinfactant 5litre,LOGAN MEDICAL,2012/056508/07,QUOTATION,litre,AC-404601,3/23/2020,50,690.00,34500.00
+Department of Correctional Services (DCS),Pietermaritzburg,SANITIZERS (HAND) 25 LITRE,LOGAN MEDICAL,2012/056508/07,QUOTATION,LITRE,AC-404601,3/23/2020,20,3450.00,69000.00
+Department of Correctional Services (DCS),Pietermaritzburg,N95,LOGAN MEDICAL,2012/056508/07,QUOTATION,BOX,AC-404601,3/23/2020,175,1380.00,241500.00
+Department of Correctional Services (DCS),Pietermaritzburg,SANITIZERS (HAND) 25 LITRE,HYCHEM (PTY) LTD,2012/045088/07,QUOTATION,LITRE,AC-085604,4/16/2020,49,2500.00,140875.00
+Department of Correctional Services (DCS),Pietermaritzburg,Sanitizer,BARRS PHARMACEUTICALS,2012/056577/07,RT300,LT,AC-404442,3/20/2020,6100,14.44,88084.00
+Department of Correctional Services (DCS),Pietermaritzburg,SANITIZER,BARRS PHARMACEUTICALS,2012/056577/07,RT300,500ML,AC-085456,7/16/2020,5000,16.21,81050.00
+Department of Correctional Services (DCS),Pietermaritzburg,Bleach 25lt,KLEENLINE,2002/017805/23,QUOTATION,LT,AC-404650,04/02/2020,320,209.30,66976.00
+Department of Correctional Services (DCS),Pietermaritzburg,Mattress cover for hospital,NEW HORIZON METAL,2000/007991/23,RT24,EA,AC-404447,3/19/2020,600,677.35,406410.00
+Department of Correctional Services (DCS),Pietermaritzburg,Adjustable hospital beds with mattress,NEW HORIZON METAL,2000/007991/23,RT24,EA,AC-404447,3/19/2020,90,9973.95,897655.50
+Department of Correctional Services (DCS),Pietermaritzburg,Sanitizer and Soap Dispenser,NEW HORIZON METAL,2000/007991/23,RT24,EA,AC-404484,04/08/2020,330,147.75,48757.50
+Department of Correctional Services (DCS),Pietermaritzburg,Dispenser for paper towel,MWELASE FAMILY PTY,2016/336320/07,QUOTATION,EA,AC-450366,4/14/2020,165,880.00,145200.00
+Department of Correctional Services (DCS),Pietermaritzburg,OVER SHOE NON WOOVEN,UMUSA KAMI SUPPLIES,2019/443164/07,QUOTATION,EA,AC-450365,04/08/2020,200,77.19,15437.00
+Department of Correctional Services (DCS),Pietermaritzburg,Surgical scrub,DALAWANE TRADING,2007/087171/23,QUOTATION,EA,AC-404498,04/09/2020,890,280.00,249200.00
+Department of Correctional Services (DCS),Pietermaritzburg,Surgical scrub,BARRS,2012/056577/07,RT32,LT,AC-404443,3/21/2020,6100,159.93,975573.00
+Department of Correctional Services (DCS),Pietermaritzburg,Boiocide D,CLASS THREE MEDICAL,2017/535986/07,QUOTATION,PKT,AC-404608,3/23/2020,100,4021.73,402173.00
+Department of Correctional Services (DCS),Pietermaritzburg,Paper towels,SHOSHO INDUSTRIAL,2003/009940/23,RT14-2019,BOX,AC-404433,3/19/2020,7000,12.94,90562.50
+Department of Correctional Services (DCS),Pietermaritzburg,Heavy duty rubber cleaning glove,SIYAKHULIS TRADING,2004/099727/23,QUOTATION,EA,AC-404431,3/19/2020,500,18.00,9000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Full face shield (proctective ggogles),SUPRA HEALTH CARE,2007/027848/07,QUOTATION,EA,AC-404429,3/19/2020,350,229.94,80479.00
+Department of Correctional Services (DCS),Pietermaritzburg,DISPOSABLE GOWNS,LOGAN MEDICAL,2012/056508/07,QUOTATION,EACH,AC-404609,2020.03.23,350,40.25,14087.50
+Department of Correctional Services (DCS),Pietermaritzburg,TOUNGE DEPPRESSOR,LOGAN MEDICAL,2012/056508/07,QUOTATION,BOX,AC-404609,2020.03.23,20,20.00,400.00
+Department of Correctional Services (DCS),Pietermaritzburg,OVER SHOE NON WOOVEN,LOGAN MEDICAL,2012/056508/07,QUOTATION,PKT OF 100,AC-404609,2020.03.23,550,110.00,60500.00
+Department of Correctional Services (DCS),Pietermaritzburg,LINEN SAVERS,LOGAN MEDICAL,2012/056508/07,QUOTATION,BOX,AC-404609,2020.03.23,15,575.00,8625.00
+Department of Correctional Services (DCS),Pietermaritzburg,SLEEVE PROTECTOR SINGLE USE,LOGAN MEDICAL,2012/056508/07,QUOTATION,PKT OF 100,AC-404609,2020.03.23,20,100.00,2000.00
+Department of Correctional Services (DCS),Pietermaritzburg,DISPOSABLE GOWNS Medium,PROMED TECHNOLOGIES,2014/162486/07,RT32,EA,AC-404626,3/25/2020,200,23.14,4628.00
+Department of Correctional Services (DCS),Pietermaritzburg,DISPOSABLE GOWNS Large,PROMED TECHNOLOGIES,2014/162486/07,RT32,EA,AC-404627,3/26/2020,150,23.83,3574.50
+Department of Correctional Services (DCS),Pietermaritzburg,Cooler Box 2liters,DIMK PTY LTD,2016/391176/07,QUOTATION,LT,AC-404430,3/19/2020,10,515.90,5159.00
+Department of Correctional Services (DCS),Pietermaritzburg,Disposable Gown,DIMK PTY LTD,2016/391176/07,QUOTATION,EACH,AC-404430,3/19/2020,500,19.85,9925.00
+Department of Correctional Services (DCS),Pietermaritzburg,Spray Bottles (2 liters),STARDUST MARKERTING,2019/622167/07,QUOTATION,EA,AC-404611,3/23/2020,300,25.00,7500.00
+Department of Correctional Services (DCS),Pietermaritzburg,GLOCO METER,STARDUST MARKERTING,2019/622167/07,QUOTATION,EACH,AC-404611,3/23/2020,12,9311.11,111733.32
+Department of Correctional Services (DCS),Pietermaritzburg,ENT SET,STARDUST MARKERTING,2019/622167/07,QUOTATION,EACH,AC-404611,3/23/2020,20,3623.10,72462.00
+Department of Correctional Services (DCS),Pietermaritzburg,HB METER,STARDUST MARKERTING,2019/622167/07,QUOTATION,EACH,AC-404611,3/23/2020,12,3737.50,44850.00
+Department of Correctional Services (DCS),Pietermaritzburg,STETHOSCOPE,STARDUST MARKERTING,2019/622167/07,QUOTATION,EACH,AC-404611,3/23/2020,15,455.00,6824.96
+Department of Correctional Services (DCS),Pietermaritzburg,LARYNGOSCOPE,STARDUST MARKERTING,2019/622167/07,QUOTATION,EACH,AC-404611,3/23/2020,5,4773.13,23865.65
+Department of Correctional Services (DCS),Pietermaritzburg,Cartridges Samsung(printing medical reports),RISING FAST TRADING,2016//431333/07,QUOTATION,EACH,AC-404638,3/26/2020,10,2500.00,25000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Cartridges (printing medical reports),SIYAKHULIS TRADING,2004/099727/23,QUOTATION,EA,AC-404431,3/19/2020,10,1900.00,19000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Heavy duty gloves,SIYAKHULIS TRADING,2004/099727/23,QUOTATION,EACH,AC-404431,3/19/2020,500,18.00,9000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Batteries,SIYAKHULIS TRADING,2004/099727/23,QUOTATION,EA,AC-404431,3/19/2020,310,49.00,15190.00
+Department of Correctional Services (DCS),Pietermaritzburg,NON STERILE GLOVES MEDIUM,EVERGREEN LATEX CC,2002/057771/23,RT76,BOX,AC-085644,07/03/2020,100,51.27,5127.00
+Department of Correctional Services (DCS),Pietermaritzburg,NON STERILE GLOVES LARGE,EVERGREEN LATEX CC,2002/057771/23,RT76,BOX,AC-085644,07/03/2020,100,51.27,5127.00
+Department of Correctional Services (DCS),Pietermaritzburg,NON STERILE GLOVES,SUPRA HEALTH CARE,2007/027848/07,QUOTATION,BOX,AC-404428,3/19/2020,"1,100",42.24,46458.50
+Department of Correctional Services (DCS),Pietermaritzburg,LATEX GLOVES,SUPRA HEALTH CARE,2007/027848/07,QUOTATION,BOX,AC-404428,3/19/2020,100,458.85,45885.00
+Department of Correctional Services (DCS),Pietermaritzburg,Sleeve protector (single use),UMUSA KAMI SUPPLIES,2019//443164/07,QUOTATION,BOX,AC-450365,04/08/2020,20,176.75,3535.00
+Department of Correctional Services (DCS),Pietermaritzburg,Flu Vaccine,KARMA BIOTECH,,RT285,EA,AC-404636,3/26/2020,2450,39.93,97828.50
+Department of Correctional Services (DCS),Pietermaritzburg,PROTECTIVE GOOGLES,UMUSA KAMI SUPPLIES,2019/443164/07,QUOTATION,EA,AC-085601,4/14/2020,350,60.00,21000.00
+Department of Correctional Services (DCS),Pietermaritzburg,Full face shield,HYCHEM (PTY) LTD,2012/045088/07,QUOTATION,EA,AC-085604,4/16/2020,9900,9.50,108158.00
+Department of Correctional Services (DCS),Pietermaritzburg,Water boot (gumboots),BBF SAFETY,2014/095914/07,RT59,PAIR,AC-404444,3/19/2020,154,152.00,23408.00
+Department of Correctional Services (DCS),Pietermaritzburg,Colour coded mops& buckets,KWANDOKUHLE TRADING,2018/255751/07,QUOTATION,EA,AC-404446,3/19/2020,70,330.00,23100.00
+Department of Correctional Services (DCS),Pietermaritzburg,Colour coded buckets,KWANDOKUHLE TRADING,2018/255751/07,QUOTATION,EA,AC-404446,3/19/2020,70,290.00,20300.00
+Department of Correctional Services (DCS),Pietermaritzburg,Pedals,KWANDOKUHLE TRADING,2018/255751/07,QUOTATION,EA,AC-404446,3/19/2020,80,230.00,18400.00
+Department of Correctional Services (DCS),Pietermaritzburg,PULSE OXIMETER,CLASS THREE MEDICAL,2017/535986/07,RT2,EA,AC-404448,3/19/2020,5,5561.40,27807.00
+Department of Correctional Services (DCS),Waterval,Surgical masks,"BIOLOGICAL PHARMACEUTICAL
+(PTY) LTD",2013/067392/07,RT296-08-271,EA,AC-085394,3/20/2020,10 000,26.65,266500.00
+Department of Correctional Services (DCS),Waterval,Surgical masks,I.H.S.,,COVID 030,BX,AC-085435,4/21/2020,200 X 50,511.00,102200.00
+Department of Correctional Services (DCS),Waterval,Surgical masks,"BIOLOGICAL PHARMACEUTICAL
+(PTY)LTD",2013/067392/07,RT296-2020,EA,WV-010858,2020.05.07,"30,000",26.65,799500.00
+Department of Correctional Services (DCS),Waterval,Surgical masks,"BIOLOGICAL PHARMACEUTICAL
+(PTY)LTD",2013/067392/07,RT296-2020,EA,AC-085728,2020.07.17,"30,000",26.65,799500.00
+Department of Correctional Services (DCS),Waterval,N95 masks,LIORA MEDICAL SUPPLIES,2011/013434/23,RT32,EA,AC-085422,4/16/2020,10 000,5.35,53500.00
+Department of Correctional Services (DCS),Waterval,N95 masks,I.H.S.,2011/013434/23,COVID 033,BX,AC-085435,4/21/2020,100 X 10,413.60,41360.00
+Department of Correctional Services (DCS),Waterval,N95 masks,LIORA MEDICAL SUPPLIES,2011/013434/23,RT32,EA,AC-085710,2020.06.10,500,5.35,2675.00
+Department of Correctional Services (DCS),Waterval,Disposable Gown,PROMED TECHNOLOGIES,2014/162486/07,RT76-2021,EA,AC-085414,04/08/2020,1000,23.83,23830.00
+Department of Correctional Services (DCS),Waterval,Disposable Gown,I.H.S.,,COVID 037,EA,AC-085435,4/21/2020,500,64.25,32125.00
+Department of Correctional Services (DCS),Waterval,Disposable Gown,PROMED TECHNOLOGIES,2014/162486/07,RT76-2021,EA,WV-010983,6/17/2020,"10,000",23.83,238300.00
+Department of Correctional Services (DCS),Waterval,Full face shield (VISOR),I.H.S.,,COVID 036,EA,AC-085435,4/21/2020,1000,75.00,75000.00
+Department of Correctional Services (DCS),Waterval,Full face shield (VISOR),HYCHEM PTY LTD,2012/045088/07,QUOTATION,EA,AC-085707,06/10/2020,600,13.80,8280.00
+Department of Correctional Services (DCS),Waterval,Protective goggles ONLY,RETROLEX,2010/015353/23,QUOTATION,EA,WV-010764,3/19/2020,150,45.00,6750.00
+Department of Correctional Services (DCS),Waterval,Protective goggles ONLY,I.H.S.,2010/015353/23,COVID 035,EA,AC-085435,4/21/2020,300,149.00,44700.00
+Department of Correctional Services (DCS),Waterval,Disposable aprons,CENTRAL MEDICAL (PTY) LTD,1995/003785/07,RT76-2016,EA,AC-085388,3/18/2020,100 000,0.32,32000.00
+Department of Correctional Services (DCS),Waterval,Disposable scrub suit,PROMED TECHNOLOGIES,2014/162486/07,RT76-2021,EA,AC-085414,04/08/2020,200,13.57,2714.00
+Department of Correctional Services (DCS),Waterval,Disposable scrub suit,PROMED TECHNOLOGIES,2014/162486/07,RT32-2019,EA,WV-010983,6/17/2020,2000,17.19,34380.00
+Department of Correctional Services (DCS),Waterval,Spill Kits Biological,CLASS THREE MEDCICAL,2017/535986/07,quotations,EA,AC-085716,2020.06.11,17,1731.90,29442.30
+Department of Correctional Services (DCS),Waterval,Non Sterile Golves,EVERGREEN LATEX CC,2002/057771/23,RT76-2020,EA,AC-085391,3/19/2020,10 000,0.92,9200.00
+Department of Correctional Services (DCS),Waterval,Non Sterile Golves,PROMED TECHNOLOGIES,2014/162486/07,RT76-2020,EA,AC-085418,04/08/2020,20 000,0.46,9200.00
+Department of Correctional Services (DCS),Waterval,Non Sterile Golves,I.H.S.,,COVID 025,BOX,AC-085435,4/21/2020,200 x 100,278.00,55600.00
+Department of Correctional Services (DCS),Waterval,Gloves latex disposable large,PROMED TECHNOLOGIES,2014/162486/07,RT76-2021,EA,AC-85418,04/08/2020,20 000,1.29,25800.00
+Department of Correctional Services (DCS),Waterval,Gloves latex disposable large,I.H.S.,,COVID 003,BX,AC-085435,4/21/2020,100 X 100,138.00,13800.00
+Department of Correctional Services (DCS),Waterval,Gloves latex disposable large,I.H.S.,,COVID 006,BX,AC-085435,4/21/2020,100 X 100,138.00,13800.00
+Department of Correctional Services (DCS),Waterval,Gloves latex disposable large,EVERGREEN LATEX CC,2002/057771/23,RT76-2021,EA,AC-085708,2020.06.10,300,49.86,14958.00
+Department of Correctional Services (DCS),Waterval,Temperature Scanner,DR TEMP,2013/120599/07,RT32,EA,AC-085423,4/16/2020,1000,7.73,7730.00
+Department of Correctional Services (DCS),Waterval,Temperature Scanner,I.H.S.,,COVID 045,EA,AC-085435,4/21/2020,10,1888.50,18885.00
+Department of Correctional Services (DCS),Waterval,Temperature Scanner,VPLUS TRADING,2015/338099/07,QUOTATION,EA,WV-010956,6/17/2020,20,1447.50,28950.00
+Department of Correctional Services (DCS),Waterval,Alcohol based hand sanitiser,"LOGAN MEDICAL AND SURGICAL
+SUPPLIES CC",2012/056508/07,QUOTATION,EA,AC-085393,3/20/2020,1030,189.80,195500.00
+Department of Correctional Services (DCS),Waterval,,Terata Supplies,2017/469259/07,QUOTATION,EA,AC-085401,3/27/2020,245,122.00,29890.00
+Department of Correctional Services (DCS),Waterval,,UKNP TRADING,2001/005154/23,QUOTATION,EA,AC-085397,3/19/2020,60,495.00,29700.00
+Department of Correctional Services (DCS),Waterval,,"BARRS PHARMACEUTICALS (PTY)
+LTD",2012/056577/07,RT-300,BT,AC-085413,04/08/2020,10 000,13.89,138900.00
+Department of Correctional Services (DCS),Waterval,,I.H.S.,,COVID 046,BT,AC-085435,4/21/2020,250 X 500ML,46.37,11592.50
+Department of Correctional Services (DCS),Waterval,,I.H.S.,,COVID 049,BT,AC-085435,4/21/2020,40 X 25 LT,1635.45,65418.00
+Department of Correctional Services (DCS),Waterval,,"BARRS PHARMACEUTICALS (PTY)
+LTD",2012/056577/07,RT-300,BT,AC-085386,4/21/2020,1000X500ML,21.92,21920.00
+Department of Correctional Services (DCS),Waterval,,"JH CHEMICALS TRADING AS JAVU
+HOLDINGS",2015/310741/07,QUOTATION,BT,AC-085445,4/28/2020,300X500ML,63.25,18975.00
+Department of Correctional Services (DCS),Waterval,,"BARRS PHARMACEUTICALS (PTY)
+LTD",2012/056577/07,RT 300,LT,AC -085717,6/22/2020,500MLX4000,14.01,56040.00
+Department of Correctional Services (DCS),Waterval,,"HONEY BEE TRADE AND INVEST PTY
+LTD",2015/376173/07,QUOTATION,LT,AC-085718,6/26/2020,260X5 (1300),340.00,88400.00
+Department of Correctional Services (DCS),Waterval,Surgical scrub 500ml,"HOSPITAL EQUIPMENT
+MANUFACTRURER PTY LTD",2000/000651/07,QUOTATION,BT,AC-085431,4/16/2020,400X500ML,58.80,23520.00
+Department of Correctional Services (DCS),Waterval,Surgical scrub 5LT,"BARRS PHARMACEUTICALS (PTY)
+LTD",2012/056577/07,RT 300,LT,AC-085717,6/22/2020,400X5LT,155.18,62072.00
+Department of Correctional Services (DCS),Waterval,Biocide D / Bleach,SNOTHILE BESUTHU,2016/357629/07,QUOTATION,LT,AC-085432,4/17/2020,10X25LT,12.80,3200.00
+Department of Correctional Services (DCS),Waterval,,INSPEC -A PEST,2007/009937/23,"EMAILDD 2020.04.14 BD 25 FROM RC MR
+MATHENJWA WB ?",LT,WV-010990,2020.06.15,570,207.00,117990.00
+Department of Correctional Services (DCS),Waterval,,TIMTAKEOVAL PTY LTD,2017/234792/07,QUOTATION,LT,AC-085729,2020.07.20,1500LT,383.33,23000.00
+Department of Correctional Services (DCS),Waterval,Bleach,HYCHEM PTY LTD,2012/045088/07,QUOTATION,LT,AC-085706,2020.06.09,1500LT,17.48,26220.00
+Department of Correctional Services (DCS),Waterval,Paper towels,PROMED TECHNOLOGIES,2014/162486/07,RT 14111703-00008,RA,AC-085392,3/19/2020,1000,55.75,55750.00
+Department of Correctional Services (DCS),Waterval,,PROMED TECHNOLOGIES,2014/162486/07,RT 14111703-00008,RA,AC-085419,4/14/2020,2000,55.76,111500.00
+Department of Correctional Services (DCS),Waterval,,PROMED TECHNOLOGIES,2014/162486/07,RT232-2019,RA,WV-010983,06/07/2020,5000,18.84,94200.00
+Department of Correctional Services (DCS),Waterval,Heavy duty rubber cleaning glove,TCC CHEMICALS,2002/029401/23,QUOTATION,PR,WV-010765,3/19/2020,600,30.00,18000.00
+Department of Correctional Services (DCS),Waterval,Heavy duty rubber cleaning glove,KHULAMBULAZI,2019/181820/07,QUOTATION,PR,AC-085428,4/16/2020,500,34.00,17000.00
+Department of Correctional Services (DCS),Waterval,Cooler Box 2liters,"BOTHALE PROJECTS AND
+CONSTRUCTIONS",2017/377599/07,QUOTATION,EA,AC-085430,4/16/2020,10,196.57,1965.70
+Department of Correctional Services (DCS),Waterval,Spray Bottles (2 liters),"BOTHLALE PROJECTS AND
+CONSTRUCTION PTY LTD",2017/377599/07,QUOTATION,EA,AC-085420,4/14/2020,500X2LT,12.42,6210.00
+Department of Correctional Services (DCS),Waterval,Spray Bottles,I.H.S.,,COVID 054,EA,AC-085435,4/21/2020,300X500ML,24.30,7290.00
+Department of Correctional Services (DCS),Waterval,,INSPEC -A PEST,2007/009937/23,"EMAILDD 2020.04.14 BD 25 FROM RC MR
+MATHENJWA WB (ITS CORRECT?",EA,WV-010927,06/04/2020,2,402.50,805.00
+Department of Correctional Services (DCS),Waterval,Plastic Covered Matresses,SA INDUSTRIAL SUPPLIES,2017/000098/07,QUOTATION,EA,AC-085429,4/16/2020,200,109.87,21974.00
+Department of Correctional Services (DCS),Waterval,Disposable Linen,PROMED TECHNOLOGIES,2014/162486/07,RT32,EA,AC-085424,4/16/2020,5000,2.18,10900.00
+Department of Correctional Services (DCS),Waterval,,PROMED TECHNOLOGIES,2014/162486/07,RT32-2019,EA,WV-010983,6/17/2020,5000,2.18,10900.00
+Department of Correctional Services (DCS),Waterval,Disposable coverall suits,ALFREHUTCH TRADING CC,2008/130764/23,RTCOVID19-014,EA,AC-085395,3/20/2020,1000,89.76,89760.00
+Department of Correctional Services (DCS),Waterval,Disposable coverall suits,I.H.S.,,COVID 041,EA,AC-085435,4/21/2020,200,300.11,60022.00
+Department of Correctional Services (DCS),Waterval,Disposable coverall suits,I.H.S.,,COVID 042,EA,AC-085435,4/21/2020,200,300.11,60022.00
+Department of Correctional Services (DCS),Waterval,Tongue Depressor,EVERGREEN LATEX CC,2002/057771/23,RT76-2020,BOX,AC-085415,04/08/2020,300,8.68,2604.00
+Department of Correctional Services (DCS),Waterval,,EVERGREEN LATEX CC,2002/057771/23,RT32-2019,BX,AC-085712,2020.06.10,50,8.68,434.00
+Department of Correctional Services (DCS),Waterval,Matress Cover for hospitals,"HOSPITAL EQUIPMENT
+MANUFACTRURER PTY LTD",2000/000651/07,RT24,EA,AC-085433,4/21/2020,120,563.12,67574.40
+Department of Correctional Services (DCS),Waterval,Batteries / Thermoscan probes,"MZUZOVAMA HLULUWE CRESSECT
+NO 26 NLCANDU PARK NEWCASTLE",2017/470194/07,QUOTATION,EA,AC-085402,3/25/2020,30,35.76,2146.00
+Department of Correctional Services (DCS),Waterval,Batteries / Thermoscan probes,"MZUZOVAMA HLULUWE CRESSECT
+NO 26 NLCANDU PARK NEWCASTLE",2017/470194/07,QUOTATION( NOT FOUND),EA,WV-010401,3/25/2020,100,179.20,17920.00
+Department of Correctional Services (DCS),Waterval,Linen Savers,"LOGAN MEDICAL AND SURGICAL
+SUPPLIES CC",2012/056508/07,RT32,EA,AC-085416,04/08/2020,5000,0.78,3900.00
+Department of Correctional Services (DCS),Waterval,Brush Surgical Sterile (single use),"LOGAN MEDICAL AND SURGICAL
+SUPPLIES CC",2012/056508/07,RT32,EA,AC-085425,4/16/2020,1000,3.01,3010.00
+Department of Correctional Services (DCS),Waterval,Over shoe non woven (single use),I.H.S.,2012/056508/07,COVID 044,BX,AC-085435,4/21/2020,5 X 100,130.00,650.00
+Department of Correctional Services (DCS),,,KKAP MDICAL SUPPLIES,2012/056508/07,RT32,BOX,AC-085426,4/16/2020,1000,21.00,21000.00
+Department of Correctional Services (DCS),Waterval,Sleeve protector (single use),MEDI-CORE TECHNOLOGIES,2013/198711/07,RT32,EA,AC-085427,4/16/2020,10 000,0.22,2200.00
+Department of Correctional Services (DCS),Waterval,Drip stand mobile,NEW HORIZON METALS CC,2000/007991/23,RT24,EA,AC-085434,4/21/2020,4,560.64,2242.56
+Department of Correctional Services (DCS),Waterval,Petal bins stainless steel,SNOTHILE BESUTHU,2016/357629/07,QUOTATION,EA,AC-085438,20200420,50,300.00,15000.00
+Department of Correctional Services (DCS),Waterval,Red plastic bags (biohazerdous bags),I.H.S.,,COVID 050,EA,AC-085435,4/21/2020,300,1.80,540.00
+Department of Correctional Services (DCS),Waterval,Anti-Bacterial liquid soap,SAMAZULU,2018/560743/07,QUOTATION,25LT,AC-085200,4/14/2020,200 LT,1875.00,15000.00
+Department of Correctional Services (DCS),Waterval,Sanitizer (mounted),SNOTHILE BESUTHU,2016/357629/07,QUOTATION,EA,AC-085437,4/22/2020,29,1000.00,29000.00
+Department of Correctional Services (DCS),Waterval,Soap dispenser (mounted),"BOTHLALE PROJECTS AND
+CONSTRUCTION PTY LTD",2017/377599/07,QUOTATION,EA,AC-085436,4/22/2020,22,887.28,19520.00
+Department of Correctional Services (DCS),Waterval,Soap dispenser (mounted),PHUME ENHLE PTY LTD,2015/252383/07,QUOTATION,EA,AC-085439,4/22/2020,70,426.00,29820.00
+Department of Correctional Services (DCS),Waterval,Soap dispenser (mounted),PN MEDICAL,2007/031947/07,QUOTATION,EA,WV-010871,2020.05.14,124,932.33,115609.50
+Department of Correctional Services (DCS),Waterval,Service waste removal,CENTRAL MEDICAL (PTY) LTD,1995/003785/07,QUOTATION,EA,WV-010796,4/22/2020,1,12588.35,12588.35
+Department of Correctional Services (DCS),Waterval,Face Coth Masks for Officials,SHONGOLOLO PRINTERS,2015/061732/07,QUOTATION,EA,AC-085447,05/05/2020,1250,24.00,30000.00
+Department of Correctional Services (DCS),Waterval,HB Meter,TRIPHARMA,2013/179232/07,QUOTATION,EA,WV-010865,05/12/2020,12,1386.47,16637.64
+Department of Correctional Services (DCS),Waterval,Stand Wash Hand Steel ( Sani Stand),COSMOS,2001/005154/23,QUOTATION,EA,WV-010877,5/14/2020,29,890.00,25810.00
+Department of Correctional Services (DCS),Waterval,Spray Bottle Knapsak Spuite,BKB UTRECHT,,QUOTATION,EA,WV-010867,5/13/2020,15,333.01,4995.15
+Department of Correctional Services (DCS),Waterval,"DECONTEMINATION OF Hospital, Club and SCM
+WATERVAL",DNA FUMIGATION SERIVES,7.3E+12,QUOTATION,SQUARE METER,AC-085398,2020.03.23,Service,15000.00,15000.00
+Department of Correctional Services (DCS),Waterval,"DECONTEMINATION OF ADMIN BLOCK  AC Office
+WATERVAL",DNA FUMIGATION SERIVES,7.3E+12,QUOTATION,SQUARE METER,AC-085721,07/09/2020,Service,2499.99,2499.99
+Department of Correctional Services (DCS),Waterval,"DECONTEMINATION OF ADMIN BLOCK NEWCASTLE
+PRISON",DNA FUMIGATION SERIVES,7.3E+12,QUOTATION,SQUARE METER,AC-085722,07/10/2020,Service,3.91,1437.50
+Department of Correctional Services (DCS),Waterval,"DECONTEMINATION OF CORRECTIONAL CENTRE MED B
+WATERVAL",KHULAMBULAZI PROJECTS,2019/181820/07,QUOTATION,"SQUARE METER:
+Hospital, Unit A, Unit
+B and Kitchen",AC-085726,2020.07.16,Service,6500.00,6500.00
+Department of Correctional Services (DCS),Waterval,"DECONTEMINATION OF CORRECTIONAL CENTRE MED A
+WATERVAL",KHULAMBULAZI  PROJECTS,2019/181820/07,QUOTATION,"SQUARE METER:
+975m2, 23 Offices
+incl Toilets",AC-085727,2020.07.17,Service,6000.00,6000.00
+Department of Correctional Services (DCS),Waterval,"DECONTEMINATION OF CORRECTIONAL CENTRE CLUB
+BUILDING, TRAINING CENTRE AND OFFICES WATERVAL",UNI TRADE SPECIALSTS,1998/030161/23,QUOTATION,"SQUARE METER:
+2890 M2",AC-085730,2020.07.27,Service,7360.00,7360.00
+Department of Correctional Services (DCS),Waterval,DECONTEMINATION OF CORRECTIONAL CENTRE UTRECHT WATERVAL,DNA FUMIGATION SERIVES,7.3E+12,QUOTATION,"SQUARE METER:
+1023M2 : 15 Offices,
+cells, Kitchen, Toilets,
+Ablutions and
+Hospital Section",AC-085734,2020.07.31,Service,2415.00,2415.00
+Department of Correctional Services (DCS),Waterval,DECONTEMINATION OF SCM OFFICES  WATERVAL,UNI TRADE SPECIALSTS,1998/030161/23,QUOTATION,SQUARE METER;2890M,AC-085735,2020.07.31,Service,2300.00,2300.00
