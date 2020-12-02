@@ -1,0 +1,386 @@
+buyer_name,implementation_location_province,implementation_locatin_other,items_description,supplier_name,company_registration_number,procurement_method,order_number,ORDER DATE,invoice_date,UNIT OF MEASURE,items_quantity,cost_per_unit_zar,order_amount_zar
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Gloves surgical  (each),Evergreen Latex,2002/057771/23,RT 76-2019,GDM 445,18/03/2020,2020-03-18,Each Pair,"4,000",1.56,6240.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Hand sanitizer,Barrs Pharmace,2012/056577/07,RT300,GDM434,19/03/2020,2020-03-19,each,"2,000",16.41,32820.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Temperature Scanner,East View Trading,2007/116803/23,Quotation,GDM442,3/20/2020,2020-03-20,Each,5,1890.00,9450.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Mask N95 (each),Lechoba Medical Technology,2005/044442/07,RT 32-2019,GDM433,3/20/2020,2020-03-20,Each,"5,000",18.75,93750.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Sanitizer  Hand (Per litre),Tripple N Medical Distributions,2011/129850/07,RT 300,GDM435,3/20/2020,2020-03-20,Litre,"2,000",84.33,168660.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Disposable Gown,ARG Technologies,2017/162066/07,RT 32-2019,GDM436,3/20/2020,2020-03-20,Each,"2,000",75.00,150000.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Full face shield (Protective goggles ),ARG Technologies,2017/162066/07,RT 32-2020,GDM444,3/21/2020,2020-03-21,Each,850,28.00,23800.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Over shoe non woven (single use),Medical International,2007/023366/23,RT 32-2019,GDM447,3/25/2020,2020-03-25,Each,100,19.23,1923.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Non Sterile Golves,Evergreen Latex,2002/057771/23,RT 76-2019,GDM445,3/18/2020,2020-03-18,Each,"4,000",1.56,6240.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Sleeve protector (single use),Medi-Core Technologies,2013/198711/07,RT 32-2019,GDM448,3/25/2020,2020-03-25,Each,"10,000",0.22,2200.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,boot covers,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM1009,4/21/2020,2020-04-21,bov,50,1.30,6500.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,digital thermometers,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM1009,4/21/2020,2020-04-21,each,10,1888.50,18885.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,biohazard bags,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM1009,4/21/2020,2020-04-21,each,"20,000",1.80,36000.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,shoe string bags,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM1009,4/21/2020,2020-04-21,each,"1,000",25.50,25500.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,COVERALLS L,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1008,4/21/2020,2020-04-21,each,250,300.11,75027.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,COVERALLS XL,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1008,4/21/2020,2020-04-21,each,250,300.11,75027.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,COVERALLS XXL,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1008,4/21/2020,2020-04-21,each,250,300.11,75027.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,COVERALLS XXXL,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1008,4/21/2020,2020-04-21,each,250,300.11,75027.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,APRON PLASTIC FULL BODY SINGLE USE,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1007,4/21/2020,2020-04-21,each,100,170.00,17000.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,EYE PROTECTION GOGLES,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1007,4/21/2020,2020-04-21,each,600,89400.00,89400.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,VISOR DISPOSABLE,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1007,4/21/2020,2020-04-21,each,500,37500.00,37500.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,GOWNS ISOLATION,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1007,4/21/2020,2020-04-21,each,"2,000",128500.00,128500.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,SURGICAL MASKS,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1006,4/21/2020,2020-04-21,box,100,511.00,511100.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,N95 MASKS,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1006,4/21/2020,2020-04-21,box,100,2986.50,298650.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,KN95 MASK,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1006,4/21/2020,2020-04-21,box,500,413.00,206800.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,EXAMINATION GLOVES023,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1005,4/21/2020,2020-04-21,box,50,278.00,139900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,EXAMINATION GLOVES024,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1005,4/21/2020,2020-04-21,box,50,278.00,139900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,EXAMINATION GLOVES025,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1005,4/21/2020,2020-04-21,box,50,278.00,139900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Gloves surgical  (each),IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1003,4/21/2020,2020-04-21,box,50,138.00,6900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Gloves surgical  (each),IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1003,4/21/2020,2020-04-21,box,50,138.00,6900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,SURGICAL GLOVES,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1002,4/21/2020,2020-04-21,box,50,138.00,6900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,SURGICAL GLOVES,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1002,4/21/2020,2020-04-21,box,50,138.00,6900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,SURGICAL GLOVES,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1002,4/21/2020,2020-04-21,box,50,138.00,6900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,SURGICAL GLOVES,IMPERIAL HEALTH SCIENCE,1993/003465/07,COVID19,GDM 1002,4/21/2020,2020-04-21,box,50,138.00,6900.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,BP CUFF,STAT TAKEN MEDICAL,,RT4-2017,GDM472,05/04/2020,2020-04-05,each,6,902.85,5417.10
+Department of Correctional Services (DCS),Free State,GOEDEMOED,SUNCTION UNIT MOBILE,ECOMED MEDICAL,2016/084766/07,RT 2-2016,GDM474,05/04/2020,2020-04-05,each,2,5266.48,10532.96
+Department of Correctional Services (DCS),Free State,GOEDEMOED,PULSE OXIMETER,ECOMED MEDICAL,2016/084766/07,RT2-2016,GDM1012,05/07/2020,2020-07-05,each,4,10112.18,40448.72
+Department of Correctional Services (DCS),Free State,GOEDEMOED,AMBUBAG,ECOMED MEDICAL,2016/084766/07,RT4-2017,GDM1015,05/07/2020,2020-07-05,EACH,2,321.80,643.60
+Department of Correctional Services (DCS),Free State,GOEDEMOED,LARYNGOSCOPE,UNICORE HOLDINGS,2011/000574/07,RT4-2017,GDM1013,2020.05.07,2020-05-07,EACH,2,1682.87,3365.74
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Mask Dust,Lechoba Medical Technology,2005/044442/07,COVID19,GDM014505,2020.06.29,2020-06-29,Box,"5,000",18.75,93750.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Coverall Small,ARC Technologies,2017/162066/07,COVID19,GDM014506,2020.06.29,2020-06-29,EACH,194,575.00,111550.00
+Department of Correctional Services (DCS),Free State,GOEDEMOED,Coverall,ALFREHUTCH TRADING,2008/130764/23,COVID19,GDM440,2020.03.20,2020-03-20,each,"2,000",89.76,179520.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,MASK SURGICAL,C &S SUPPLIERS,2013/046169/07,RT 296-2020,DA-005037,"2020,03.21",2020-03-21,EACH,"1,500",26.65,39975.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SANITIZER DISINFECTED,C &S SUPPLIERS,2013/046169/07,RT 296-2020,DA-005038,2020.03.21,2020-03-21,250ML,500L,40.37,20185.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SURFACE SANITIZER,C &S SUPPLIERS,2013/046169/07,RT 296-2020,DA-005038,2020.03.21,2020-03-21,20 L,200L,1069.10,21382.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,HAND SANITIZER,C &S SUPPLIERS,2013/046169/07,DEVIATION,CL-006372,2020.03.16,2020-03-16,250ML,390L,39.90,15561.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,DISPOSABLE OVERALL,C &S SUPPLIERS,2013/046169/07,DEVIATION,CL-006372,2020.03.16,2020-03-16,EACH,50,218.50,10925.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SAFETY GOGGLES,SJ 75 MOHALE CONTR,2019/522428/07,DEVIATION,CL-006372,2020.03.16,2020-03-16,EACH,10,39.00,390.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,N95 MASK,SJ 75 MOHALE CONTR,2019/522428/07,DEVIATION,CL-006372,2020.03.16,2020-03-16,EACH,100,15.00,1500.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,GLOVES YELLOW,OVISH OVISH,2016/046562/07,DEVIATION,CL-006372,2020.03.16,2020-03-16,PAIRS,50,10.00,500.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,BLEACH,IMPERIAL HEALTH SCIENCES,1993/003465/07,DEVIATION,CL-006372,2020.03.16,2020-03-16,25 L,125,200.00,1000.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,HAND SANITIZER,IMPERIAL HEALTH SCIENCES,1993/003465/07,DEVIATION,CL-006373,2020.03.17,2020-03-17,5L,50,700.00,7000.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,DISPOSABLE OVERALL,IMPERIAL HEALTH SCIENCES,1993/003465/07,DEVIATION,CL-006373,2020.03.17,2020-03-17,EACH,50,220.00,11000.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,HAND SANITIZER,IMPERIAL HEALTH SCIENCES,1993/003465/07,DEVIATION,CL-006374,2020.03.25,2020-03-25,5L,200,700.00,28000.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SURGICAL GLOVES,IMPERIAL HEALTH SCIENCES,1993/003465/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,PAIRS,500,138.00,1380.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SURGICAL GLOVES,IMPERIAL HEALTH SCIENCES,1993/003465/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,PAIRS,500,138.00,1380.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SURGICAL GLOVES,IMPERIAL HEALTH SCIENCES,1993/003465/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,PAIRS,350,250.00,1750.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SURGICAL GLOVES,IMPERIAL HEALTH SCIENCES,1993/003465/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,PAIRS,350,250.00,1750.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,EXAMINATION GLOVES,IMPERIAL HEALTH SCIENCES,1993/003465/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,PAIRS,300,278.00,1668.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,BIOHAZARD BAGS,"IMPERIAL LOGISTICS SOUTH AFRICA
+GROUP",1993/003465/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,EACH,300,1.80,540.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,N95 MASK RESPIRATOR,BIOLOGICAL PHARMACERTICAL,2013/067392/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,EACH,50,2986.50,14932.50
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,DIGITAL THERMOMETER,BIOLOGICAL PHARMACERTICAL,2013/067392/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,EACH,8,1888.50,15108.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SANITISERS AND DISINFECTANTS,BIOLOGICAL PHARMACERTICAL,2013/067392/07,RT CONTRACT,CL-006375,2020.04.20,2020-04-20,25L,175,1635.45,11448.15
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,Examination Gloves - type 2 L,BIOLOGICAL PHARMACERTICAL,2013/067392/07,YES,AC-765154,2020.04.21,2020-04-21,Box of 100,20,278.00,5560.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,MASK SURGICAL,BIOLOGICAL PHARMACERTICAL,2013/067392/07,RT 296-2020,CL-006493,"2020,07.17",2020-07-17,EACH,"5,000",26.65,133250.00
+Department of Correctional Services (DCS),Northern Cape,COLESBERG,SURGICAL GLOVES,BIOLOGICAL PHARMACERTICAL,2013/067392/07,RT 296-2020,CL-006493,"2020,07.17",2020-07-17,PAIRS,"2,500",4.40,11000.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Surgical Mask,Alfrehutch Trading,2008/130764/23,RT32-2019,VR-006445,3/27/2020,2020-03-27,Box of 50,8,294.54,2356.32
+Department of Correctional Services (DCS),Free State,GROENPUNT,Surgical Mask,Multi Surge (Pty)Ltd,N/A,RT76-2020,GR-0005062,3/27/2020,2020-03-27,Box of 50,100,460.00,46000.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Surgical Mask,Safarmex,2007/033535/07,RT32-2019,GR-012938,06/12/2020,2020-12-06,Box of 50,200,119.73,23946.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,N95 Mask,Chemical World,2019/253242/07,RT32-2019,SA-005630,3/20/2020,2020-03-20,Box of 50,400,14.95,5980.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,N95 Mask,Chemical World,2019/253242/07,RT32-2019,GR-012696,3/20/2020,2020-03-20,Box of 30,200,14.95,2990.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,N95 Mask,Central Medical (Pty)Ltd,1995/003785/07,RT32-2019,GR-012703,3/20/2020,2020-03-20,Box of 30,100,14.95,1495.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,N95 Mask,"BIOLOGICO PHARMACEUTICALS (PTY)
+LTD",N/A,RT296-2020,GR-0005088,3/31/2020,2020-03-31,Box of 30,200,26.65,5330.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Alcohol based hand sanitiser,Barrs Pharmaceutical Industries,N/A,RT300-2017,GR-012697,3/20/2020,2020-03-20,500ml,480,15.79,7579.20
+Department of Correctional Services (DCS),Free State,GROENPUNT,Alcohol based hand sanitiser,Unitrade 1032 CC,N/A,RTCovid-19,GR-0005063,04/01/2020,2020-01-04,500ml,"1,000",62.10,62100.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Alcohol based hand sanitiser,Barrs Pharmaceutical Industries,N/A,RT300-2017,GR-012708,3/20/2020,2020-03-20,500ml,100,15.92,1592.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Alcohol based hand sanitiser,Unitrade 1032 CC,1998/002665/23,RT300-2017,SA-005622,3/19/2020,2020-03-19,500ml,"2,000",16.41,32820.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Alcohol based hand sanitiser,Barrs Pharmaceutical Industries,N/A,RT300-2017,VR-006423,3/19/2020,2020-03-19,500ml,750,15.79,11842.50
+Department of Correctional Services (DCS),Free State,GROENPUNT,Alcohol based hand sanitiser,"Stix Transport Services & General
+Dealer",2014/213000/07,Deviation,N697015,04/01/2020,2020-01-04,bottle,200,135.00,27000.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Biocide D/Bleach,Three40 Trading,2018/389965/07,Normal Price quotation,N697017,04/06/2020,2020-06-04,Litre,"1,000",17.50,17500.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Gloves,Evergreen Latex,2002/057771/23,RT76-2020,SA-005615,3/18/2020,2020-03-18,Box of 100,"7,500",0.50,3739.50
+Department of Correctional Services (DCS),Free State,GROENPUNT,Gloves,Evergreen Latex,2002/057771/23,RT300-2017,VR-006436,3/19/2020,2020-03-19,Box of 100,730,92.00,67160.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Gloves,MediCart,2016/534688/07,Deviation,GR-0005079,07/02/2020,2020-02-07,Box of 100,"2,000",2.65,5290.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Gloves,Promed Technologies,2014/162488/07,RT76-2020,GR-0005085,3/31/2020,2020-03-31,Box of 100,200,46.60,9320.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Gloves,Evergreen Latex,2002/057771/23,RT76-2020,GR-012700,3/20/2020,2020-03-20,Box of 100,100,50.82,5082.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Gloves,Evergreen Latex,2002/057771/23,RT76-2020,GR-0012695,3/20/2020,2020-03-20,Box of 100,100,49.86,4986.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Spray bottle,Barrs Pharmaceutical Industries,N/A,RT300-2017,GR-012704,3/20/2020,2020-03-20,500ml,100,21.15,2115.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Infrared Tempature Scanner,Multi Surge (Pty)Ltd,N/A,RT76-2020,GR-0005062,3/27/2020,2020-03-27,ea,10,2300.00,23000.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Surface sanitiser,Barrs Pharmaceutical Industries,N/A,RT300-2017,GR-012702,3/20/2020,2020-03-20,5L,100,14.01,1401.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Disposable Aprons,Central Medical (Pty)Ltd,1995/003785/07,RT32-2019,GR-0005087,3/31/2020,2020-03-31,ea,"2,000",0.32,640.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Disposable Gowns,"Lechoba Medical Technologies
+(Pty)Ltd",2005/04444/07,RT76-2020,GR-0005086,3/31/2020,2020-03-31,ea,200,59.95,11990.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Disposable Gowns,Logan Medical and Surgical,2012/056508/07,RT300-2017,GR-012933,06/12/2020,2020-12-06,ea,"3,000",6.90,20700.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Disposable Gowns (Isolation),MediCart,2016/534688/07,Deviation,GR-0005079,07/02/2020,2020-02-07,ea,200,75.67,15134.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Coveralls,MediCart,2016/534688/07,Deviation,GR-0005079,07/02/2020,2020-02-07,ea,500,121.90,60950.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Boot covers,Medical International Orthopaedic,2007/023366/23,RT300-2017,GR-012937,06/12/2020,2020-12-06,Box of 100,100,19.23,1923.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Flu Vaccine,Kahma Biotech (pty)Ltd,1997/014365/07,RT76-2020,GR-0005089,3/30/2020,2020-03-30,ea,"1,000",39.93,39930.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Paper towel,Promed Technologies,,RT14,SA-005621,3/19/2020,2020-03-19,ea,340,55.75,18955.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Faceshield,MediCart,2016/534688/07,Deviation,GR-0005079,07/02/2020,2020-02-07,ea,100,69.23,6923.00
+Department of Correctional Services (DCS),Free State,GROENPUNT,Mop Caps,MediCart,2016/534688/07,Deviation,GR-0005079,07/02/2020,2020-02-07,ea,"1,000",0.75,750.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL GLOVES, STERILE, TYPE 1 SIZE 6
+(RUBBER LATEX)",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,50 PAIRS,20,138.00,2760.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL GLOVES, STERILE, TYPE 1 SIZE
+6.5",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,50 PAIRS,30,138.00,4140.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL GLOVES, STERILE, TYPE 1 SIZE 7",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,50 PAIRS,30,138.00,4140.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL GLOVES, STERILE, TYPE 1 SIZE
+7.5",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,50 PAIRS,30,138.00,4140.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL GLOVES, STERILE, TYPE 1 SIZE 8",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,50 PAIRS,30,138.00,4140.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL GLOVES, STERILE, TYPE 1 SIZE
+8.5",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,50 PAIRS,20,138.00,2760.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL GLOVES, STERILE, TYPE 1 SIZE 9",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,50 PAIRS,10,138.00,1380.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EXAMINATION GLOVES, TYPE 1 SIZE
+SMALL",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,20,278.00,5560.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EXAMINATION GLOVES, TYPE 1 SIZE
+MEDIUM",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,40,278.00,11120.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EXAMINATION GLOVES, TYPE 1 SIZE LARGE",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,40,278.00,11120.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EXAMINATION GLOVES, TYPE 1 SIZE X-
+LARGE",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,20,278.00,5560.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EXAMINATION GLOVES, TYPE 2 SIZE
+SMALL",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,20,278.00,5560.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EXAMINATION GLOVES, TYPE 2 SIZE MEDIUM",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,40,278.00,11120.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EXAMINATION GLOVES, TYPE 2 SIZE LARGE",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,40,278.00,11120.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EXAMINATION GLOVES, TYPE 2 SIZE X-LARGE",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,20,278.00,5560.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL FACE MASK, ASEPTIC, BLUE",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 50,40,511.00,20440.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL MASK, SINGLE USE WITH ELASTIC EAR",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 50,20,624.00,12480.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,N95 MASK - RESPIRATOR,Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 50,10,2986.50,29865.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,KN95 MASK - RESPIRATORDUST MASK,Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 10,10,413.60,4136.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"APRON PLASTIC FULL BODY, SINGLE USE",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,60,170.00,10200.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"EYE PROTECTION, GOGGLES",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,EACH,80,149.00,11920.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"VISOR, DISPOSABLE",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,EACH,160,75.00,12000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"ISOLLATION, GOWNS",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,EACH,600,64.25,38550.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SANITIZER, 25 LITRE",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV-004048,Not Known Yet,,25 LITRE,40,1635.45,65418.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"GOWN, SURGICAL, NON-WOVEN",Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,EACH,200,135.00,27000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,BOOT COVERS,Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,BOX OF 100,40,130.00,5200.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,SPRAY BOTTLES,Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV-004048,Not Known Yet,,500ML,300,24.50,7350.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,DIGITAL THERMOMETER (INFRARED),Imperial Logistics South Africa,1993/003465/07,National Treasury Instruction No 03 of 2020/2021 Par 4,GV - 004045,Not Known Yet,,EACH,20,1888.50,37770.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Hand sanitizer,Biological Pharma,2013/067392/07,RT 296-2020 item 08-271,GV-004001,04/08/2020,2020-08-04,Pack,1000,26.65,26650.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Mask Surgical,Allenco medical,2001/068091/23,covid19 - 004,GV-004021,04/09/2020,2020-09-04,Each,3000,9.00,27000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Masks N95,Liora Medical,2011/013434/23,RT 32 item 42295407-0003,GV-020125,3/20/2020,2020-03-20,Box of 30,197,5.35,1053.95
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Goggles,Lechoba Medical Technologies,2005/044442/07,Covid19-016,GV-020098,04/09/2020,2020-09-04,Each,80,65.90,5272.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"ISOLLATION, GOWNS",workhorse Workwear,2015/295425/07,price quotation,GV-020285,05/05/2020,2020-05-05,EACH,60,100.03,6003.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Gloves examination sterile,Evergreen latex,2002/057771/23,RT76 item 42132203-000039,GV-020128,3/20/2020,2020-03-20,Boxes of 100,99,92.00,9108.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Gloves Surgical Sterile Type 2,Medtex (Pty) Ltd,1992/003572/07,"RT76 item 42132205-00021,22,23,24,25",GV-004032,4/15/2020,2020-04-15,Box of 100,80,495.08,39606.40
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Gloves Surgical Sterile Type 1,Supra Healthcare Jhb,2007/027848/07,"RT76 item 42132205-0029,30,31,32,33,34,35",GV-004033,4/15/2020,2020-04-15,Box of 100,100,245.38,24538.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Gloves clear plastic surgical, Type 1",Supra Healthcare Jhb,2007/027848/07,Covid19 - 001,GV-020217,4/15/2020,2020-04-15,Box of 100,600,99.88,59928.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Overalls,Tumey Consulting,2008/222244/23,price quotation,GV-020298,05/04/2020,2020-04-05,each,45,247.83,11152.35
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Hand sanitizer,Barrs Pharmaceuticals,2012/056577/07,RT300  item 51284804-00002,GV-020126,3/20/2020,2020-03-20,500ml,3100,16.41,50871.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Surgical Scrubs,Barrs Pharmaceuticals,2012/056577/07,RT 300 item 51472802-0000,GV-004026,4/14/2020,2020-04-14,500ml,300,21.15,6345.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Towel paper,Promed Technologies,2014/162486/07,RT14 item 14111703-000003,GV-020144,05/05/2020,2020-05-05,,500,31.75,15875.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Towel paper,Promed Technologies,2014/162486/07,RT14 item 14111703-000003,GV-020144,3/25/2020,2020-03-25,Each,500,38.00,18550.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Gowns Hospital, short sleeve",Logan medical and Surgical,2012/056508/07,RT 32item 42131504-0011,GV-020297,04/09/2020,2020-09-04,medium,1000,5.98,5980.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Gowns Hospital, short sleeve",Logan medical and Surgical,2012/056508/07,RT 32 item 42131504-0012,GV-020297,04/09/2020,2020-09-04,large,1000,6.90,6900.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Gowns Hospital, short sleeve",Logan medical and Surgical,2012/056508/07,RT 32 item 42131504-0013,GV-020297,04/09/2020,2020-09-04,X-Large,1000,8.05,8050.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Isollation gowns Large (long sleeves),Logan medical and Surgical,2012/056508/07,Covid19-005,GV-020333,04/09/2020,2020-09-04,Each,600,40.25,24150.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Apron straight (single use),Domoney Bros,2018/093083/07,price quotation,GV-020289,05/06/2020,2020-06-05,box of 10,30,264.50,7935.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Apron Plastic (light green),Central medical,1995/003785/07,RT 32 item 42131601-00006,GV-020016,2/26/2020,2020-02-26,Each,3000,0.32,960.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Disposable scrub suits - Medium,Logan medical and Surgical,2012/056508/07,RT 32 item 42131608-00002,GV-004006,04/09/2020,2020-09-04,Set,500,17.33,8665.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Sleeve protector (single use),Medi-Core Technologies,2013/198711/07,RT 32 item 42131610-00000,GV-020329,04/09/2020,2020-09-04,Each,5000,0.22,1100.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Disposable caps white,workhorse Workwear,2015/295425/07,price quotation,GV-020256,4/28/2020,2020-04-28,PACK OF 100,30,30.00,900.10
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Gumboots white,Tswellang Trading,2002/020849/07,price quotation,GV-020188,28/04/2020,2020-04-28,pair,40,156.00,6210.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Gumboots white,BBF Safety Group,2014/095914/07,RT 59 item 53111501-00023,GV-020255,04/09/2020,2020-09-04,Pair,40,164.35,6574.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Over shoe non-waven (single use),Domoney Bros,2018/093083/07,price quotation,GV-004055,05/06/2020,2020-06-05,box,5,65.00,325.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Disposable Linen -Disposable draw sheets,Promed Technologies,2014/162486/07,RT 32 item 42132105-00000,GV-020332,05/05/2020,2020-05-05,EACH,6000,2.18,13080.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Disposable Linen -Disposable draw sheets,Promed Technologies,2014/162486/07,RT 32 item 42132105-00000,GV-004003,04/08/2020,2020-08-04,each,6000,2.18,13080.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Linen savers,Meddreg Technology,2003/014869/23,RT 32 item 42132101-00000,GV-020088,,,Each,5000,1.04,5200.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Plastic mattress covers - Must be disinfectant,Eddas Trading,2015/204423/07,price quotation,GV-020283,28/04/2020,2020-04-28,Each,2000,25.00,5000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Spatula, tongue, single use",Evergreen Latex,2002/057771/23,RT 32 item 42181501-00000,GV-004005,04/09/2020,2020-09-04,boxes,100,8.68,868.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Brush surgical sterile (single use),Logan medical and Surgical,2012/056508/07,RT 32 item 42295408-000001,GV-004004,04/08/2020,2020-08-04,Each,1000,3.01,3010.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Spill Kits Biological,Transpharm Pretoria,1994/006582/07,price quotation,GV-020270,05/04/2020,2020-04-05,each,122,39.49,5540.45
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Thermometer,DR Temp,2013/120599/07,RT 32 item 42182210-00000,GV-020153,3/31/2020,2020-03-31,Each,5000,3.22,16100.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Digital Body Thermometer (infrared),Multisurge (Pty) Ltd,2014/170364/07,Covid 19 - 018,GV-020213,04/09/2020,2020-09-04,Each,50,2300.00,115000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Digital Body Thermometer,Tara-Healthcare (Pty) Ltd,2019/237077/07,Covid19 - 018,GV-004017,04/09/2020,2020-09-04,Each,200,125.00,12500.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,ENT Set,Supra Latex,2007/027848/07,RT 252 page 30,GV-020250,4/14/2020,2020-04-14,Each,3,5043.86,14132.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Pulse Oximeter on desktop,Class Tree Medical,2017/535986/07,RT 2 item 42181801-000001,GV-020277,4/14/2020,2020-04-14,Each,2,5561.40,11123.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Pulse Oximeter,Class Tree Medical,2017/535986/07,price quotation,GV-020276,4/21/2020,2020-04-21,Each,3,687.24,2061.72
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Nebulizer,Class Tree Medical,2017/535986/07,RT2-1 item 42281508-00002,GV-020275,4/14/2020,2020-04-14,Each,3,517.53,1552.60
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Nebulizer,Ecomed Medical,2016/084766/07,price quotation,GV-020288,4/21/2020,2020-04-21,EACH,3,722.00,2166.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,HB Meter,Novagen Marketing,1996/052888/23,price quotation,GV-020247,4/21/2020,2020-04-21,EACH,3,1350.00,12854.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,HB Meter,Class Tree Medical,2017/535986/07,RT2 item 42181701-00004,GV-020277,4/14/2020,2020-04-14,Each,2,6291.83,12584.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Laryngoscope,Ecomed Medical,2016/084766/07,price quotation,GV-020249,05/05/2020,2020-05-05,each,3,1361.00,4083.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Stetoscope,Ecomed Medical,2016/084766/07,price quotation,GV-020288,4/21/2020,2020-04-21,Each,3,263.00,789.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,BP Monitoring Machine,Class Tree Medical,2017/535986/07,RT 2 item 42181701-00004,GV-020278,14/04/2020,2020-04-14,Each,1,12776.95,12776.95
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Heavy Duty Rubber Cleaning Gloves,Tswellang Trading,2002/020849/07,price quotation,GV-004048,4/28/2020,2020-04-28,Pair,600,8.35,5761.50
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Glucometer,Ecomed Medical,2016/084766/07,price quotation,GV-020290,05/05/2020,2020-05-05,each,4,107.00,428.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Glucometer test strips,Ecomed Medical,2016/084766/07,price quotation,GV-020291,05/05/2020,2020-05-05,box of 100,4,193.00,772.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Ambubag for adults,Endomed Medical & Surgical,2016/084766/07,price quotation,GV-020274,05/05/2020,2020-05-05,each,4,540.00,2160.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Visor/Faceshield,Stix Transport,2014/213000/07,price quotation,GV-020254,05/05/20220,2020-05-05,each,80,74.70,5976.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,BP Monitoring Machine,Ecomed Medical,2016/084766/07,price quotation,GV-020288,4/21/2020,2020-04-21,each,3,397.00,1191.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,surgical gloves,Flexi cab,2019/319743/07,urgent case,GV-020202,5/20/2020,2020-05-20,each,600,5.00,30000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL MASK, SINGLE USE WITH
+ELASTIC EAR",Flexi cab,2019/319743/07,urgent case,GV-020202,202-05-20,2020-05-20,each,12200,18.00,219600.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,surgical gloves,Flexi cab,2019/319743/07,urgent case,GV-020201,5/20/2020,2020-05-20,each,600,5.00,30000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL MASK, SINGLE USE WITH
+ELASTIC EAR",Flexi cab,2019/319743/07,urgent case,GV-020201,202-05-20,2020-05-20,each,12200,18.00,219600.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,surgical gloves,Flexi cab,2019/319743/07,urgent case,GV-020200,5/20/2020,2020-05-20,each,600,5.00,30000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL MASK, SINGLE USE WITH
+ELASTIC EAR",Flexi cab,2019/319743/07,urgent case,GV-020200,202-05-20,2020-05-20,each,12200,18.00,219600.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,surgical gloves,Flexi cab,2019/319743/07,urgent case,GV-020199,5/20/2020,2020-05-20,each,600,5.00,30000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL MASK, SINGLE USE WITH
+ELASTIC EAR",Flexi cab,2019/319743/07,urgent case,GV-0200199,202-05-20,2020-05-20,each,12200,18.00,219600.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,surgical gloves,Flexi cab,2019/319743/07,urgent case,GV-020198,5/20/2020,2020-05-20,each,600,5.00,30000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"SURGICAL MASK, SINGLE USE WITH
+ELASTIC EAR",Flexi cab,2019/319743/07,urgent case,GV-020198,202-05-20,2020-05-20,each,12200,18.00,219600.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Hand sanitizer,mageza Trading,2012/190294/07,price quotation,GV-020160,2020-04-002,2020-04-02,500 ml,300,95.00,28500.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Hand sanitizer,Lynx Chemicals,1988/018201/23,price quotation,GV-020163,3/17/2020,2020-03-17,500 ml,100,99.00,9900.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Hand sanitizer,Quick Splash,2019/089358/07,price quotation,GV-020162,3/28/2020,2020-03-28,500 ml,290,100.00,29000.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,Hand sanitizer,Stix Transport,2014/213000/07,price quotation,GV-020161,4/20/2020,2020-04-20,1 litre,230,130.00,29900.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Decontamination at Grootvlei
+Management Area",A'Africa Pest Prevention,2004/090874/23,price quotation,GV-004074,03/07/2020,2020-07-03,Square Meter,687,3.93,2702.50
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Decontamination at Grootvlei
+Management Area",Pestdem,2009/126452/23,price quotation,GV-004075,05/07/2020,2020-07-05,Square Meter,2915,3.40,9911.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Decontamination at Grootvlei
+Management Area",A'Africa Pest Prevention,2004/090874/23,price quotation,GV-004081,17/07/2020,2020-07-17,Square Meter,2915,2.70,7877.00
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Decontamination at Grootvlei
+Management Area",A'Africa Pest Prevention,2004/090874/23,price quotation,GV-004082,18/07/2020,2020-07-18,Square Meter,1500,5.81,8717.12
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Decontamination at Grootvlei
+Management Area",A'Africa Pest Prevention,2004/090874/23,price quotation,GV-004096,29/07/2020,2020-07-29,Square Meter,3302,2.76,9129.34
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Decontamination at Grootvlei
+Management Area",Southern Cross Industries,2016/187483/07,price quotation,GV-004098,30/07/2020,2020-07-30,Square Meter,1125,3.45,3881.25
+Department of Correctional Services (DCS),Free State,GROOTVLEI,"Decontamination at Grootvlei
+Management Area","Exclkusive Events and Services cc t/a
+Pest Corp Solutions",2002/026947/23,formal price quotation,GV-004101,01/08/2020,2020-08-01,Cubic Metre,2500,1.45,3625.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Gloves surgical  (each),Evergreen Latex,2002/057771/23,RT76-2020,DG-3635,3/20/2020,2020-03-20,Box of100,1000,5.60,5600.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Spatula Tongue Harwood(single use,Evergreen Latex,2002/057771/24,,AH-615 525,3/23/2020,2020-03-23,Each,2200,8.68,19096.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Surgical Gown Non-woven,Promed Technologies,2014/162486/07,RT32-2019,AH-615526,3/24/2020,2020-03-24,Each,1000,23.83,23830.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,"Thermometer  Infra-Red Digital Body
+Thermometers(each)",Multisurge,2014/170364/07,Quotation,AH-615529,3/25/2020,2020-03-25,Each,1,2300.00,2300.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Bleach for cleaning surfaces,Engymak Distributors,2011/009359/23,Quotation,AH-615 531,3/27/2020,2020-03-27,Liter,5000,5.50,27500.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,FumigationServices:Supply Chain,Mats Brother Transport and Bulk Carri,2rs018/284631/07,Quotation,AH--615532,3/30/2020,2020-03-30,Each,1,18354.00,18354.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Surgical Gloves,Evergreen Latex,2002/057771/23,RT76-2020,AH-615535,3/31/2020,2020-03-31,Box of 50,151,49.86,7528.86
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Surgical face Mask,Multisurge,2014/170364/07,Rt coVID19-004,AH-615533,3/30/2020,2020-03-30,Box of 50,344,460.00,158240.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,SH-T200 infrared Thermometer,Sanbonani,2004/000822/07,Quotation,AH-615564,04/01/2020,2020-01-04,Each,14,1610.00,22540.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Mask N95 (each),LIORA MEDICAL SUPPLIES,2011/013434/23,RT32-2019,'KM-011859,3/20/2020,2020-03-20,Box,138,187.25,25840.56
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Mask-N95 each,LIORA MEDICAL SUPPLIES,2011/013434/24,RT300-2019,DG-003636,3/20/2020,2020-03-20,Box,60,160.56,9636.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,"Surgical Masks ORDER
+CANCELLED","Biological
+pharmacetical",2013/067392/07,RT-COVID-19-002,AH-615530,3/20/2020,2020-03-20,Box,242,26.65,6449.30
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Masks -Surgical,Quality supplies,2015/019742/07,RC-COVID-19,AH-615567,04/03/2020,2020-03-04,Box of 50,17200,10.35,178020.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Masks -Surgical 20box50,"Biological
+pharmacetical",2013/067392/07,RC-COVID-19,DG-003637,3/20/2020,2020-03-20,Pack,1000,26.65,26650.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Sanitizer  Hand (Per litre),Baars,2012/056577/07,RT300-2019,"km-011826
+833,845,849,857
+,DG-003636",3/20/2020,2020-03-20,500ML,2993,14.95,44835.05
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Disposable thermometers,Dr Temp,2013/120599/07,RT300-2019,AH-615524,3/23/2020,2020-03-23,Each,4500,3.22,14490.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Scrubs(per 500ml),Baars,2012/056577/07,RT300-2019,"km-011826
+833,845,849,857
+,DG-003636",3/20/2020,2020-03-20,500ML,323,21.15,6831.45
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Overshoe plastic single use,Medical International Orthopeadic,2007/023366/23,RT32-2019,AH-615555,04/08/2020,2020-08-04,Each,2000,0.19,384.60
+Department of Correctional Services (DCS),Free State,KIMBERLEY,"Visors Disposable, Antifrog",Unitrade,1998/002665/23,RTCOVID-19-002,AH-615554,04/08/2020,2020-08-04,each,1000,18.00,18000.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,"Goggles, Good seal",Unitrade,1998/002665/24,RTCOVID-19-002,AH-615554,04/08/2020,2020-08-04,Each,1000,25.00,25000.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Sleeve Protectors,Medi-Core International,2013/198711/07,RT32-2019,AH-615552,04/08/2020,2020-08-04,Each,1500,22.00,330.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Suite Scrub,Promed Technologies,2014/162486/08,RT32-2019,AH-615553,04/08/2020,2020-08-04,each,500,13.57,6787.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Disposable Draw sheets,Promed Technologies,2014/162486/09,RT32-2019,AH-615553,04/08/2020,2020-08-04,Each,500,2.18,1090.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,"Linnen Saver Medical
+Underpad",MEDDREG TECHNOLOGY,2003/014869/24,RT32-2019,AH-615551,04/08/2020,2020-08-04,Each,2000,1.04,2080.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Flu Vaccine,Kahma Biotech,1997/014365/07,RT285,AH-615522,3/20/2020,2020-03-20,Each,1088,39.64,43124.36
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Nebulizer,"Class three
+medical solution",2017/535986/07,RT2-2016,AH-615561,4/14/2020,2020-04-14,Each,9,5184.20,46657.80
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Paper towel,Promed Technologies,2014/162486/08,RT14-2019,AH-615541,04/01/2020,2020-01-04,Each,2000,10.50,21000.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Pulse Oximeter,"Class three
+medical solution",2017/535986/07,RT2-2016,AH-615561,4/14/2020,2020-04-14,Each,4,5516.40,22065.60
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Sleeve Protectors(single use),Medi-Core International,2013/198711/07,RT32-2019,AH-615552,04/07/2020,2020-07-04,Each,1500,0.22,330.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Stethoscope,Ukuchuma Trading,2014/013188/07,RT252-2015,AH-615563,4/14/2020,2020-04-14,Each,17,26.13,444.21
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Scrubs(per 500ml),Baars Pharmaceuticals,2012/056577/07,RT300-2019,AH-615556,04/08/2020,2020-08-04,Each,20000,21.15,846.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,BP  Cuffs -Small,"Class three
+medical solution",2017/535986/07,RT2-2016,AH-6155561,4/14/2020,2020-04-14,Each,4,99.11,396.44
+Department of Correctional Services (DCS),Free State,KIMBERLEY,BP  Cuffs - Medium,"Class three
+medical solution",2017/535986/07,RT2-2016,AH-615561,4/14/2020,2020-04-14,Each,6,120.75,724.50
+Department of Correctional Services (DCS),Free State,KIMBERLEY,BP Cuffs-Large,"Class three
+medical solution",2017/535986/07,RT2-2016,AH-615561,4/14/2020,2020-04-14,Each,4,161.00,644.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,BP Monitoring Machine,"Class three
+medical solution",2017/535986/07,RT2-2016,AH-615561,4/14/2020,2020-04-14,Each,8,12776.95,102215.60
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Disposable aprons,CentraL MedicaL,1995/003785/07,RT32-2019,AH-6155523,2020/14/23,,Each,3000,0.32,960.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Disposable  Linen,Promed Technologies,2014/162486/08,RT32-2019,AH-615553,04/08/2020,2020-08-04,Each,500,2.18,1090.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,ENT set,Supra Latex,2006/020950/07,RT252-2015,AH-615562,4/15/2020,2020-04-15,Each,8,5043.86,40350.88
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Aprons,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,"AH-615569,AC-
+000577",4/20/2020,2020-04-20,Box,33,1.70,5610.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Temperature thermometers,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,"AH-615569,AC-
+000577",4/20/2020,2020-04-20,Each,26,1888.50,49101.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Surgical Masks,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,"AH-615569,AC-
+000577",4/20/2020,2020-04-20,Box,220,10.22,112420.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Surgical  Gloves,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,AC-000577,4/20/2020,2020-04-20,Box,20,2.76,2760.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Googles,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,AC-000577,4/20/2020,2020-04-20,Each,20,149.00,2980.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Visors,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,AC-000577,4/20/2020,2020-04-20,Each,20,75.00,1500.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Coverall,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,AC-000577,4/20/2020,2020-04-20,Each,10,300.11,3001.10
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Boat cover,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,AC-000577,4/20/2020,2020-04-20,Box,1,1.30,130.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Surgical N95 -Masks,National Treasury Instruction 3,RTCOVID-19,RTCOVID-19,AH-615570,4/21/2020,2020-04-21,Box,20,59.73,59730.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Fumigation TCC,EML TRADING AND PROJECTS,2018/507118/07,Quotation,KM-011892,4/22/2020,2020-04-22,Squares,1,29750.00,29750.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Fumigation KCC,Thusha Karabo Supplies&Projects,2016/274136/07,Quotation,AH-615558,,,Square,1200,,27000.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Disposable coveralls,Isibane trading,2016/481835/07,Quotation,AH-615573,5/15/2020,2020-05-15,Each,150,175.83,26375.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Surgical Gloves,Evergreen Latex,2002/057771/24,RT76-2020,AH-615574,5/22/2020,2020-05-22,Box,30000,49.86,149580.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Fumigation Sprayer with 16 Liter Bottle(Kn,pTshaakp Ceolom Gpzlke tTer)ading,2018/411571/07,Quotation,AH-615584,06/04/2020,2020-04-06,Each,10,1035.00,10350.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Disposable Aprons,Isibane trading,2016/481835/07,Quotation,AH-615588,06/08/2020,2020-08-06,Each,3000,0.79,2370.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Boot covers,"Class three
+medical solution",2017/535986/07,Quotation,AH-615589,06/08/2020,2020-08-06,Each,3000,1.30,3900.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Disposable Mop caps,Sanbonani Holdings,2004/000822/07,Quotation,AH-615593,6/24/2020,2020-06-24,Each,2000,0.50,1000.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Body Bags,"Class three
+medical solution",2017/535986/07,Quotation,AH-615594,6/24/2020,2020-06-24,Each,10,145.50,1455.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Decontimination for TCC &KCC,Pest and Weed Away,2005/096198/23,Quotation,AH-615601,7/14/2020,2020-07-14,Squares,1,11428.84,11428.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Decontimination for Barkly,Sanitize Solutions,2020/224659/07,Quotation,AH-615602,7/20/2020,2020-07-20,Squares,1,1670.00,1670.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Heavy duty gloves(Black),Printzz,2016/263852/07,Quotation,AH-615603,7/20/2020,2020-07-20,PR,300,24.50,7350.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Heavy duty gloves(yellow),Giattree Distributors,2013/224767/07,Quotation,AH-615604,7/20/2020,2020-07-20,PR,500,14.00,7000.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Decontimination for Area Office,Pest and Weed Away,2005/096198/23,Quotation,AH-615605,7/20/2020,2020-07-20,Squares,1,3163.58,3163.58
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Decontimination for KCC reception,Pest and Weed Away,2005/096198/23,Quotation,AH-615608,7/24/2020,2020-07-24,Squares,1,2100.82,2100.82
+Department of Correctional Services (DCS),Free State,KIMBERLEY,Decontimination for TCC  reception,Sanitize Solutions,2020/224659/07,Quotation,AH-615609,7/29/2020,2020-07-29,Squares,1,4855.00,4855.00
+Department of Correctional Services (DCS),Free State,KIMBERLEY,"Decontimination for TCC  -K1,K2 &K8 Unit",Pest and Weed Away,2005/096198/23,Quotation,AH-615614,7/31/2020,2020-07-31,Squares,1,22441.20,22441.20
+Department of Correctional Services (DCS),Free State,UPINGTON,Alcohol based sanitiser,TARA,2019/237077/07,NT SUPPLIER,AH-603273,3/23/2020,2020-03-23,5L,100,125.00,12500.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Biocide/Bleach/Surface Sanitizer,TARA,2019/237077/07,NT SUPPLIER,AH-603273,3/23/2020,2020-03-23,5L,200,125.00,25000.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Brush surgical sterile,LOGAN MEDICAL SUPPLIERS,2012/056508/07,RT32,AH-603282,2020.04.07,2020-04-07,each,"1,000",3.01,3010.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Disposable aprons,CENTRAL MED,1995/003785/07,RT32,"AH603271/ Up-
+6840",3/23/2020,2020-03-23,each,"3,000",0.32,960.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Disposable Gown,Promed Technologies,"2014/162486/07
+2012/056508/07",RT 32,AH-6032582,3/25/2020,2020-03-25,each,100,59.95,5995.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Disposable Gown,"LOGAN MEDICAL SUPPLIERS &
+PROMED TECHNOLOGIES",,RT32,AH-6032582,2020.04.07,2020-04-07,Boxes of 10,200,20.00,
+Department of Correctional Services (DCS),Free State,UPINGTON,Disposable Draw Sheet,Promed Technologies,2014/162486/07,RTCOVID-19,"AH-603283/ Up-
+6880",04/09/2020,2020-09-04,each,"1,200",2.18,2616.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Disposable Linen,MEDDREG TECHNOLOGY,"2003/014869/23
+2014/162486/07",RT32,AH-603283,2020.04.08,2020-04-08,Boxes of 10,"1,000",1.04,1040.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Disposble Scrub Sets,Promed Technologies,"2014/162486/07
+2012/056508/07",RTCOVID-19,AH-603282,2020.04.07,2020-04-07,50,R                15.05,752.50,
+Department of Correctional Services (DCS),Free State,UPINGTON,Full face shield,UNITRADE 1032 CC,1998/002665/23,RTCOVID-19,"AH-603282/UP-
+6871",2020.03.26,2020-03-26,Boxes of 10,100,18.00,1800.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Linen Savers,MEDDREG TECHNOLOGY,2003/014869/23,RT32,"AH-603283/
+UP6856",2020.04.07,2020-04-07,each,"2,000",1.04,2080.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Sleeve Protector,MEDICORE TECHNOLOGIES,2015/312638/07,NT SUPPLIER,AH-603281,2020.04.03,2020-04-03,pack of 10,10,22.00,220.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Matress Cover for hospitals,ARJO HUNTLEIGH AFRICA,2001/016670/07,RT24,"AH-60327/ UP-
+6849",3/25/2020,2020-03-25,each,100,474.81,47481.00
+Department of Correctional Services (DCS),Free State,UPINGTON,N95 masks,LOIRA MEDICAL SUPPLIERS,2011/013434/23,RT32,"AH-603278/01/
+UP-6841",3/26/2020,2020-03-26,Boxes of 30,120,187.25,22470.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Over shoe woven,MEDICAL INTERNATIONAL,2007/023366/23,RT32,AH-603284,2020.04.08,2020-04-08,Boxes of 100,"1,000",19.23,19230.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Paper towels,Promed Technologies,2014/162486/07,RT14,"AH-603274/ UP-
+6848",3/24/2020,2020-03-24,each,50,55.75,2787.50
+Department of Correctional Services (DCS),Free State,UPINGTON,Sanitizer Detergent,VITALIFE MEDICAL,2015/448013/07,RT296/2020,AH-603272,2020.03.23,2020-03-23,Litre,"1,000",40.37,40370.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Surgical masks,MULTISURGE,2014/170364/07,RT COVID19-001 TO 003 RT32,"AH-603279/UP-
+6844",2020.03.26,2020-03-26,Boxes of 30,120,460.00,16100.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Sterisol (hand sanitizer),BARRS PHARMACEUTICAL,2012/056577/07,RT 300,"AH-603276/01/
+UP-6847",2020.03.25,2020-03-25,500ml,400,14.44,5776.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Surgical scrub 500ml,BARRS PHARMACEUTICAL,2012/056577/07,RT 300,"AH-603280/ UP-
+6847",3/26/2020,2020-03-26,500ml,150,21.92,3288.00
+Department of Correctional Services (DCS),Free State,UPINGTON,SteriPrep,BARRS PHARMACEUTICAL,2012/056577/07,RT300,AH-603276/01,2020.03.25,2020-03-25,500ml,400,16.41,6564.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Steri Scrub 5L,BARRS PHARMACEUTICAL,2012/056577/07,RT300,AH-603276/01,3/26/2020,2020-03-26,5L,400,125.00,15993.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Sleeve Protector,MEDI-CORE,2013/198711/07,NT SUPPLIER,AH-603281,2020.03.26,2020-03-26,Each,10,22.00,220.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Temperature Scanner,MULTISURGE,2014/170364/07,RT32,"AH-603280/ UP-
+6845",3/26/2020,2020-03-26,Each,6,2300.00,13800.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Tongue Depressor,EVERGREEN LATEX CC,2002/057771/23,RT76,"AH-603280/ UP-
+6853",3/26/2020,2020-03-26,Box  OF 100,5,8.68,43.40
+Department of Correctional Services (DCS),Free State,UPINGTON,Non Sterile Gloves meduim,EVERGREEN LATEX CC,2002/057771/23,RT76,"AH-603280/ UP-
+6853",2020.03.26,2020-03-26,PACK OF 100,400,49.86,19944.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Sterile Gloves,EVERGREEN LATEX CC,2002/057771/23,RT76,"AH-603280/ UP-
+6853",2020.03.26,2020-03-26,Box OF 100,1,92.00,92.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Sterile Gloves,EVERGREEN LATEX CC,2002/057771/23,RT76,"AH-603280/ UP-
+6853",2020.03.26,2020-03-26,Box  OF 100,1,92.00,92.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Alcohol based sanitiser,CRYSTAL LAGOON,2016/068125/07,EMERGENCY PROCUREMENT,AH-615469,3/23/2020,2020-03-23,500ml/Litre,15,125.00,1875.00
+Department of Correctional Services (DCS),Free State,UPINGTON,10 x Dromex Heavy Duty Gloves,CRYSTAL LAGOON,2016/068125/07,EMERGENCY PROCUREMENT,AH-615470,3/24/2020,2020-03-24,PACK OF 10,10,15.00,150.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Gloves latex disposable large,EVERGREEN,2002/057771/23,RT76,AH-615464,3/20/2020,2020-03-20,Boxes of 100,"1,000",0.49,997.20
+Department of Correctional Services (DCS),Free State,UPINGTON,latex powder free gloves (non-sterile)M,EVERGREEN,2002/057771/23,RT76,AH-615466,3/20/2020,2020-03-20,Boxes of 100,1000,43.35,433.50
+Department of Correctional Services (DCS),Free State,UPINGTON,Non Sterile Gloves,EVERGREEN,2002/057771/23,RT76,AH-615464,3/20/2020,2020-03-20,Box of 100,"1,000",0.49,498.60
+Department of Correctional Services (DCS),Free State,UPINGTON,N95 masks,SAFARMEX,"2007/033535/07
+2014/162486/07",RT32,AH-615463,3/20/2020,2020-03-20,each,"1,000",5.98,5986.50
+Department of Correctional Services (DCS),Free State,UPINGTON,Paper towels,Promed Technologies,,RT14,AH-615471,3/24/2020,2020-03-24,each,30,55.75,1672.50
+Department of Correctional Services (DCS),Free State,UPINGTON,Surgical masks,BIOLOGICA PHARMACEUTICAL,,RT32,AH-615467,3/23/2020,2020-03-23,Boxes of 10,1000,26.65,13325.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Surgical scrub 500ml,CRYSTAL LAGOON,2016/068125/07,PRICE QUATATION,AH-615470,3/24/2020,2020-03-24,500ml,10,145.00,1450.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Alcohol based sanitiser,CRYSTAL LAGOON,2016/068125/07,EMERCENCY PROCUREMENT,SP-N628002,3/20/2020,2020-03-20,1L,30,125.00,3750.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Heavy duty gloves,CRYSTAL LAGOON,2016/068125/07,EMERCENCY PROCUREMENT,SP-N628020,3/20/2020,2020-03-20,Boxes of 100,204,31.45,6415.80
+Department of Correctional Services (DCS),Free State,UPINGTON,Non Sterile Golves,CRYSTAL LAGOON,2016/068125/07,RT76 / EMERCENCY PROCUREMENT,"SP-N628006 /SP-
+N628019",3/20/2020,2020-03-20,Box of 100,7000+200,0.78,5670.00
+Department of Correctional Services (DCS),Free State,UPINGTON,Disposable Gown Isolation,LECHOBA MEDICAL,2005/044442/07,RTCOVID-19,UP-006929,3/25/2020,2020-03-25,each,200,59.95,11990.00
+Department of Correctional Services (DCS),Free State,UPINGTON,DECONTAMINATION OF PAROL BOARD UPI,BGIDTOVENS TC ESNTETIRNEER,2000/011155/07,PRICE QUATATION,AH-603292,2020.07.17,2020-07-17,,1,4.07,7886.53
+Department of Correctional Services (DCS),Free State,BIZZAH MAKHATE,Decontamination Servies,Pest Mnagement Solutions,2013/060038/07,"N0/ EMERGENCY PROCUREMET NORMAL PRICE
+QUOTATION",KN-012962,07/12/2020,2020-12-07,,1,1875.00,1875.00
+Department of Correctional Services (DCS),Free State,BIZZAH MAKHATE,Decontamination Servies,Go Squared,2019/554405/07,"N0/ EMERGENCY PROCUREMET NORMAL PRICE
+QUOTATION",AC-765169,7/20/2020,2020-07-20,,1,10126.14,10126.14
+Department of Correctional Services (DCS),Free State,BIZZAH MAKHATE,Decontamination Servies,"Gin Production and Events
+Mnagement",2013/060038/07,"N0/ EMERGENCY PROCUREMET NORMAL PRICE
+QUOTATION",KN-012961,2020/07/1/,,,1,3639.77,3639.77
+Department of Correctional Services (DCS),Free State,BIZZAH MAKHATE,Decontamination Servies,Pest Mnagement Solutions,2013/060038/07,"N0/ EMERGENCY PROCUREMET NORMAL PRICE
+QUOTATION",HR-002915,30/07/2020,2020-07-30,,1,9702.53,9702.53
+Department of Correctional Services (DCS),Free State,BIZZAH MAKHATE,Decontamination Servies,Pest Mnagement Solutions,2013/060038/07,"N0/ EMERGENCY PROCUREMET NORMAL PRICE
+QUOTATION",AC-765170,7/24/2020,2020-07-24,,1,2067.00,2067.00
+Department of Correctional Services (DCS),Free State,BIZZAH MAKHATE,Decontamination Servies,Pest Mnagement Solutions,2013/060038/07,"N0/ EMERGENCY PROCUREMET NORMAL PRICE
+QUOTATION",AC-765171,7/27/2020,2020-07-27,,1,4337.00,4337.00
