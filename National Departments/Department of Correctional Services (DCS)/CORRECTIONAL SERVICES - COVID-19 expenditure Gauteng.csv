@@ -1,0 +1,180 @@
+buyer_name,implementation_location_province,implementation_location_other,itmes_description,supplier_name,company_registration_number,procurement_method,order_number,invoice_date,items_quantity,cost_per_unit_zar,order_amount_zar
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Gloves Cleaning Heavy duty (each),Kgosi botshelo,2013/168791/07,Quotation,AH-565519,2020-05-04,1400,19.80,27720.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Infra-Red Electronic Thermometers.,Multisurge PTY LTD,2014/170364/07,RT76,AH-565501,2020-04-08,20,2300.00,46000.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,sleeve protector,Medicore Technologies,2013/198711/07,RT32,AH-565479,2020-03-26,1000,0.22,220.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Mask N95,Liora Medical Suppliers,2011/013434/23,RT32,AH-565490,2020-03-20,15390,5.35,82336.50
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Medical hand sanitizer,Lechoba medical,2005/044442/07,RT COVID 19-008,AH-565511,2020-04-16,1000,60.75,60750.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Goggles,Lechoba medical,2005/044442/07,RT COVID 19-016,AH-565511,2020-01-16,30,65.90,1977.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Digital body thermometer,Lechoba medical,2005/044442/07,RT COVID 19-018,AH-565511,2020-01-16,20,1348.99,26979.80
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Mask surgical standard,Lechoba medical,2005/044442/07,RT COVID 19-004,AH-565512,2020-04-17,250,10.99,2747.50
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Protective cover bodysuit,Lechoba medical,2005/044442/07,RTCOVID 19-014,AH-565512,2020-04-17,50,358.99,17949.50
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Suit scrap,Logan Medical and Surgical,2012/056508/07,RT32,AH-565482,2020-03-18,30,17.33,519.90
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Decontamination,NEOWAN,2014/033967/07,BVP108/2020,AH-565525,2020-07-02,45000m2,4.03,181125.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,sanitizer hand 500 ml,BARS Pharmoceuticals industries pty lt,2012/056577/07,RT300,AH-565486,2020-03-19,10000,15.92,159200.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,sanitizer hand 500 ml,BARS Pharmoceuticals industries pty lt,2012/056577/07,RT300,"AH-565488
+BV-008129",2020-03-20,10000,16.41,164100.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Tents,Nkhumise roux supplies & services,2018/443261/07,Price Quotation,BV-008177,2020-06-19,4,22940.77,91763.10
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Mask surgical,Alibratech Investment Trading,2012/019426/07,"FROM PPE COVID 19
+SUPPLIER LIST",AH-565526,2020-07-29,29000,10.22,296380.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Visor/face shield,Alibratech Investment Trading,2012/019426/07,"FROM PPE COVID 19
+SUPPLIER LIST",AH-565526,2020-07-29,2700,108.00,291600.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Coveralls,Alibratech Investment Trading,2012/019426/07,"FROM PPE COVID 19
+SUPPLIER LIST",AH-565526,2020-07-29,1040,286.20,297648.00
+Department of Correctional Services (DCS),Gauteng,Bivaanspoort,Wall mounted sanitizer machine,Leglow Trading enterprise,2018/088576/07,Quotation,AH-565518,2020-05-04,10,1700.00,17000.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Masks Surgical (each),IMPERIAL HEALTH SUPPLIER,1993/003465/07,COVID-19,A-476815,2020-04-22,80,624.00,49920.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Sanitizer  Hand (Per litre),BARRS PHARMACEUITICAL,2012/056577/07,RT32,G-106380,2020-03-20,2000,15.79,31580.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Full face shield (Protective goggles ),LECHOBA MEDICAL,2005/044442/07,RTCOVID-19-016,G-106399,2020-03-24,200,38.81,7762.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Non Sterile Golves,DKT3 CONSULTING,2017/510363/07,"Quotations below R30
+000.00",A-476806,2020-04-03,200,149.50,29900.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Temperature Scanner,LECHOBA MEDICAL,2005/044442/07,RTCOVID-19-018,G-109399,2020-03-24,220,1539.75,338745.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Linen Savers,MEDDREG TECHNOLOGY,2003/014869/23,RT32,G-109850,2020-03-20,2000,1.04,2080.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Disposable Gown,PROMED TECHNOLOGY,2014/162486/07,RT32,G-109845,2020-03-20,200,23.83,4766.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Sanitizer,PAINO TRADING,2012/178955/07,"Quotations below R30
+000.00",A-476803,2020-03-27,240,120.00,28800.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Coveralls meduim,LECHOBA MEDICAL,2005/044442/07,NDOH/NT,A-476813,2020-04-14,50,358.99,17949.50
+Department of Correctional Services (DCS),Gauteng,Boksburg,Coveralls 2xlarge,LECHOBA MEDICAL,2005/044442/07,NDOH/NT,A-476813,2020-04-14,50,358.99,17949.50
+Department of Correctional Services (DCS),Gauteng,Boksburg,Sanitizer 400ml,LECHOBA MEDICAL,2005/044442/07,NDOH/NT,A-476813,2020-04-14,2000,60.75,121500.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Decontamination,MAANDA NES INVESTMENTS,2014/098098/07,Price Quotation,A-476828,2020-06-25,1,8547.00,8547.00
+Department of Correctional Services (DCS),Gauteng,Boksburg,Decontamination,CLIFFMIXWELL TRADING,2017/324146/07,Formal Price Quotation,A-476829,2020-07-01,"76,000",2.50,190000.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Sanitizer covid 19,Kiarah Chemicals,2002/015423/23,QA-003492; QJHB38/2020,JB-013299,2020-05-08,3750,81.41,305287.50
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Mask Medical,Blue Magnolia Trading,2004/040087/23,Covid-19,JB-013311,2020-05-08,"1,600",14.95,23920.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,sprayer pesticide,mothomong trading,2007/138176/23,QA-003504,JB-013384,2020-05-25,20,1200.00,24000.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Gloves Disp.,Blue Magnolia Trading,2004/040087/23,QA-003494,JB-013306,2020-05-08,12,119.50,1434.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,thermometer,Blue Magnolia Trading,2004/040087/23,QA-003494,JB-013306,2020-05-08,2,2900.00,5800.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,disinfectant sanitiser,Blue Magnolia Trading,2004/040087/23,QA-003494,JB-013306,2020-05-08,20,49.00,980.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,decontamination,Cliffmixwell,2017/324146/07,QA-003539,JB-013601,2020-06-23,1,913.10,913.10
+Department of Correctional Services (DCS),Gauteng,Johannesburg,decontamination,Cliffmixwell,2017/324146/07,QA-003538,JB-013595,2020-06-23,1,2024.00,2024.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Sanitizer covid 19,Isaico General Dealers,2013/104462/07,QA-003488,JB-013289,2020-05-06,150,140.00,21000.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,disinfectant,Alrtmary Projects and Trading,2014/279715/07,QA-003469; QJHB31/2020,JB-013260,2020-04-17,18000,27.29,491220.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Mask Medical,Mercury Projects,2014/025452/07,QA-003482,JB-013285,2020-04-30,1000,28.00,28000.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Thermometer,mothomong trading,2007/138176/23,QA-003486,JB-013290,2020-05-06,11,1982.62,21792.82
+Department of Correctional Services (DCS),Gauteng,Johannesburg,mask medical,cognitive medical supplies,2018/633427/07,QA-003499; QJHB42/2020,JB-013321,2020-05-13,40000,8.51,340560.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Gloves Disp.,Elegant Line Trading,2006/203644/23,QA-003489,JB-013297,2020-05-08,90,190.00,17100.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Gloves Disp.,Elegant Line Trading,2006/203644/23,QA-003489,JB-013297,2020-05-08,30,190.00,5700.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Gloves Disp.,Elegant Line Trading,2006/203644/23,QA-003489,Jb-013297,2020-05-08,30,190.00,5700.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Mask Medical,Imvelo Yabantu,2019/615370/07,QA-003480; QJHB37/2020,Jb-013282,2020-04-30,10000,28.50,285000.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Mask Medical,Mercury Projects,2014/025452/07,QA-003484,jb-013287,2020-04-30,1000,28.00,28000.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Bleach Laundry,sathekxe Projects,2016/196073/07,QA-003479; QJHB25/2020,jb-013283,2020-04-30,6000,23.89,143340.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,biocide,sathekxe Projects,2016/196073/07,QA-003479; QJHB25/2020,jb-013283,2020-04-30,5000,3.40,17000.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Sanitizer covid 19,sathekxe Projects,2016/196073/07,QA-003479; QJHB25/2020,jb-013283,2020-04-03,6000,24.80,148800.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Gloves Disp.,promed technologies,2014/162486/07,RT76; 47132203-00020,jb-013388,2020-05-25,200,46.00,9200.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Gloves Disp.,promed technologies,2014/162486/07,RT76; 42132203-00021,jb-013388,2020-05-25,200,46.00,9200.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Gloves Disp.,promed technologies,2014/162486/07,RT76; 42132203-00019,jb-013388,2020-05-25,200,46.00,9200.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Gloves Disp.,mudzi holdings,2017/503960/07,QA-003481; QJHB39/2020,jb-013284,2020-04-30,1400,184.00,257600.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,disinfectant sanitiser,lilarei projects,2015/117818/07,QA-003483; QJHB30/2020,jb-013286,2020-04-30,1500,330.00,495000.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,mask,MUKHONA ENTERPRISE,2016/116341/07,QA-003485,jb-013288,2020-04-30,2500,11.99,29975.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,decontamination,MAANDA-NES INVESTMENTS,2014/098098/07,QA-003510,jb-013461,2020-06-08,1,139460.00,139460.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Paper towel,PROMED TECHNOLOGIES,2014/162486/07,RT14; 14111703-00003,jb-013412,2020-06-09,250,10.50,2625.00
+Department of Correctional Services (DCS),Gauteng,Johannesburg,decontamination,CLIFFMIXWELL,2017/324146/07,QA-003542,jb-013607,2020-07-29,1,4889.80,4889.80
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Solution Chlorhexidine,Bars Pharmaceuticals industries,2012/056577/07,RT300; 51284804-00002,jb-013385,2020-05-25,1000,8.66,8663.99
+Department of Correctional Services (DCS),Gauteng,Johannesburg,Thermometer,Shaded Tree,2013/016610/07,QA-003487,jb-013291,2020-06-03,10,2875.00,28750.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Gloves Cleaning Heavy duty (each),EVERGREEN LATEX,2002/057771/23,RT76,PP-008627,2020-03-16,1160,78.00,90480.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Gloves surgical  (each),PROMED,2014/162486/07,RT76,PP-008656,2020-03-19,80000,0.78,62400.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Gloves surgical  (each),EVERGREEN LATEX,2002/057771/23,RT76,"PP-005658
+PP-008659
+PP-008660",2020-03-19,80000,0.50,39888.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Surgical Masks,Biologica Pharmaceuticals,2013/067392/07,RTCOVID19,V-887303,2020-04-14,910,1332.50,1212575.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Surgical Masks,Biologica Pharmaceuticals,2013/067392/07,RTCOVID19,V-887329,2020-03-20,90,1332.50,119925.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Surgical Masks,Biologica Pharmaceuticals,2013/067392/07,RT296,V-887303,2020-03-20,300,26.65,7995.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Tongue depressor,EVERGREEN LATEX,2002/057771/23,RT32,PP-008638,2020-03-18,10000,0.09,868.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Infra-Red Electronic Thermometers.,MULTISURGE,2014/170364/07,RTCOVID19,V-887325,2020-04-03,30,2300.00,69000.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Infra-Red Electronic Thermometers.,SANBONANI HOLDINGS,2004/000822/07,Quotation,V-887327,2020-04-08,16,1500.00,24000.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Mask N95 (each),LIORA MEDICAL SUPPLIES,2011/013434/23,RT32,PP-008620,2020-03-09,65100,5.35,348285.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Brush Surgical Nail (Reusable),LOGAN MEDICAL,2012/056508/07,RT32,PP-008649,2020-03-19,200,8.30,1660.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Brush Surgical Nail,LOGAN MEDICAL,2012/056508/07,RT32,pp-008648,2020-03-19,500,3.01,1505.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Masks Surgical (each),CHEMICAL WORLD,2019/253242/07,RT32,PP-008641,2020-03-18,30000,0.30,8970.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Masks Surgical (each),TRIPPLE MED DISTRIBUTORS,2011/129850/07,RTCOVID19,V-887306,2020-03-20,60000,0.26,15600.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Masks Surgical (each),QUALITY MED SUPPLIES,2015/019742/07,RTCOVID19,V-887305,2020-03-20,40000,0.21,8280.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Sanitizer  Hand (Per litre),LECHOBA MED,2005/044442/07,RTCOVID19,V-887309,2020-03-20,150,121.50,18225.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Sanitizer  Hand (500ML),LOGAN MEDICAL,2012/056508/07,RTCOVID19,V-887313,2020-03-20,100,92.00,9200.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Sanitizer  Hand (Per litre),CITY MEDICAL,1993/018125/23,Quotation,PP-008589,2020-03-24,25,139.80,3495.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Surgical Scrub 500ml,Barrs,2012/056577/07,RT300,PP-008633,2020-03-18,240,21.92,5260.80
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,PAPER TOWELS,PROMED TECH,2014/162486/07,RT14,PT-010133,2020-03-20,10000,10.50,105000.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,PROTECTIVE GOGGLES,LECHOBA MED,2005/044442/07,RTCOVID19,V-887324,2020-04-02,200,65.90,13180.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Masks Surgical (each),IMPERIAL HEATH SIENCE,1993/003465/07,NDOH/NT,V-887331,2020-04-20,863750,12.48,10779600.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Gloves surgical sterile 9,IMPERIAL HEATH SIENCE,1993/003465/07,NDOH/NT,V-887331,2020-04-20,50000,2.76,138000.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,PROTECTIVE GOGGLES,LECHOBA MED,2005/044442/07,RTCOVID19,V-887328,2020-04-14,800,65.90,52720.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Gloves surgical sterile 9,IMPERIAL HEATH SIENCE,1993/003465/07,NDOH/NT,V-887331,2020-04-20,5000,2.76,13800.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Coverall protective clothing bodysuit disp large,TRIPLE C MEDICAL SUPPLIES,2019/385058/07,Quotation,PP-008819,2020-06-30,100,85.55,8555.00
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Coverall protective clothing bodysuit disp X-large,TRIPLE C MEDICAL SUPPLIES,2019/385058/07,Quotation,PP-008819,2020-06-30,150,85.55,12832.50
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Decontamination,Mpholetins Projects,2014/147875/07,Quotations,PT-010411,2020-07-28,1,13924.55,13924.55
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Decontamination,Cetha Merchants,2017/033020/07,"Formal Price quoation
+PTAQ14/2020",PT-010301,2020-07-17,6,79255.95,475535.70
+Department of Correctional Services (DCS),Gauteng,KGOSI MAMPURU II,Decontamination,Maanda_Nes Investment,2014/098098/07,Quotations,A-476928,2020-03-07,1,12443.21,12443.21
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Alcohol based hand sanitiser 500 ml,Lechoba Medical Technologies,2005/044442/07,"NT Instruction No 8 of
+2019/2020 Annexure A
+RTCOVID19-008",AH-280568,2020-03-23,246,60.75,14944.50
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Alcohol based hand sanitiser 500 ml,Tripple N Medical Distributors,2011/129850/07,"NT Instruction No 8 of
+2019/2020 Annexure A
+RTCOVID19-008",AH-280569,2020-03-23,177,84.33,14926.41
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Alcohol based hand sanitiser 500 ml,Cleaning Specialist,2016/082258/07,Petty cash,N/A,2020-03-18,11,181.82,2000.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Biocide D / Bleach,Lynx Chemicals,1988/018201/23,Quotation,AH-280574,2020-03-25,1250,5.40,6750.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Coal Tar,Lynx Chemicals,1988/018201/23,Quotation,AH-280574,2020-03-25,750,12.60,9450.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Decontamination,Pest Control Specialist,"8,307,305,153,083",Emergency Quotation,AH-280605,2020-06-26,1,11650.00,11650.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Decontamination,Pest Control Specialist,"8,307,305,153,083",Emergency Quotation,AH-280606,2020-06-29,1,15280.00,15280.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Decontamination,Pest Control Specialist,"8,307,305,153,083",Quotation,AH-280609,2020-03-07,1,6550.00,6550.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Decontamination,Pest Control Specialist,"8,307,305,153,083",Petty cash,N/A,2020-08-07,1,1840.00,1840.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Decontamination,Ntabayemvula,2017/095241/07,Quotation KRU22/2020,KG-004277,2020-07-21,100000,1.49,149000.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Disinfectant General Purpose,Lynx Chemicals,1988/018201/23,Quotation,AH-280574,2020-03-25,1600,5.90,9440.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Disposable Aprons,Central Medical,1995/003785/07,RT32/2019,AH-280572,2020-03-24,3000,0.32,960.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Disposable Caps,Euphorbia Trading Enterprises,2008/046567/23,Quotation,AH-280591,2020-04-14,3800,1.56,5928.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Disposable Linen,Promed Technologies,2014/162486/07,RT32/2019,KG-004233,2020-05-22,1000,2.18,2180.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Disposable Thermometers,DR Temp,2013/120599/07,RT33/2019,AH-280593,2020-04-17,20000,3.22,64400.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Heavy duty rubber cleaning glove,Euphorbia Trading Enterprises,2008/046567/23,Quotation,AH-280591,2020-04-14,1000,40.25,40250.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Liquid Hand Washing soap,Lynx Chemicals,1988/018201/23,Quotation,AH-280574,2020-03-25,250,12.90,3225.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Matress Cover for hospitals,Hospital Equipment Manuafacturer,2000/000651/07,RT24/2016,KG-004232,2020-05-22,400,563.12,225248.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Paper towels,Promed Technologies,2014/162486/07,,AH-280602,2020-04-24,3500,10.50,36750.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Paper towels Holders,Shosho Industrial Supplies,2003/009940/23,RT14/2019,AH-280601,2020-04-24,70,148.55,10398.50
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Sanitizer (mounted and handheld),Euphorbia Trading Enterprises,2008/046567/23,Quotation,AH-280591,2020-04-14,60,733.70,44022.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Sanitizer Wet Wipes,Euphorbia Trading Enterprises,2008/046567/23,Quotation,AH-280591,2020-04-14,2000,31.05,62100.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Soap Dispensers,Euphorbia Trading Enterprises,2008/046567/23,Quotation,AH-280591,2020-04-14,70,733.70,51359.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Surgical Gloves Non Sterile,Evergreen Latex,2002/057771/23,RT76/2020,AH-208575,2020-03-25,2000,0.50,997.20
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Surgical Gloves Sterile Type 1,Supra Healthcare Johannesburg,2007/027848/07,RT76/2020,KG-004226,2020-05-18,900,2.45,2208.42
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Surgical masks,Biologica Pharmaceuticals,2013/067392/07,RT296/2020,AH-280571,2020-03-24,800,26.65,21320.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Surgical masks,Imperial Logistics South Africa,1993/003465/07,"NT Instruction No 3 of
+2020/2021 Covid 031",AH-280596,2020-04-21,4000,12.48,49920.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Temperature Scanner,Multisurge,2014/170364/07,"NT Instruction No 8 of
+2019/2020 Annexure A
+RTCOVID19-018",AH-280570,2020-03-24,5,2300.00,11500.00
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Temperature Scanner,Lechoba Medical Technology,2010/069513/23,"NT Instruction No 8 of
+2019/2020 Annexure A
+RTCOVID-19-018",AH-280592,2020-04-15,15,1348.99,20234.85
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Spray bottles,West Rand Pack,2000/076447/23,Petty cash,N/A,2020-11-06,34,53.72,1826.60
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Batteries,Game Key West,"199100680507000G101/22042020/928
+4/104/0543",Petty cash,N/A,2020-04-20,5,171.99,859.95
+Department of Correctional Services (DCS),Gauteng,Krugersdorp,Rain Suits,Western Gas,2014/181533/07,Petty cash,N/A,2020-09-04,6,80.00,480.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,Gloves surgical  (each),SUPRA HEALTHCARE,2007/027848/07(CSD:MAA0015240),RT76,LW-011637,2020-03-24,2000,170.14,340280.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,Infra-Red Electronic Thermometers.,BULELANI ENGEENIARING,2015/268006/07,Quotation,G-108151,2020-04-16,9,3220.00,28980.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,Mask N95 (each),LIORA MEDICAL SUPPLIES,2011/013434/23(CSD:MAA0002271),RT300,LW-011629,2020-03-24,20000,5.35,107000.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,Sanitizer  Hand (Per litre),GLOBAL INSYNC,2017/144143/07(CSD:MAAA0143660),Quotation,G-107287,2020-03-27,200,161.00,32200.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,Sanitizer Surface,PROMED TECHNOLOGIES,2014/162486/07(CSD:MAAA035214),RT289,LW-011656,2020-03-24,200,90.00,18000.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,PAPER TOWEL,PROMED TECHNOLOGIES,2014/162486/07(CSD:MAAA035214),RT14,LW-011638,2020-03-24,6000,55.75,334500.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,LINEN SAVERS,MEDDREG TECHNOLOGY,2003/014869/23(CSD:MAAA0278517),RT32,LW-011639,2020-03-24,5000,0.95,4750.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,N95 MASK,LICHOBA MED&TECHNOLOGIES,2001/044442/07(CSD:MAAA0038766),RT32,G-107278,2020-03-24,120,18.75,2250.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,MEDICAL DISPOSABLE BAG,PROMED TECHNOLOGIES,2014/162486/07(CSD:MAAA035214),RT32,G-107280,2020-03-25,2500,5.00,12500.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,HAND SANITIZER,ONALIMAATLA INVESTMENTS,2015/366839/07(CSD:MAAA0024730),Quotation,G-107283,2020-03-25,2800,70.00,196000.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,BLEACH BIOSIDE,DUMA HEALTH CARE,2015/004395/07(CSD:MAAA0099731),Quotation,G-107284,2020-03-25,1000,18.97,18970.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,BOOTS COVER,DUMA HEALTH CARE,2015/004395/07(CSD:MAAA0099731),Quotation,G-107284,2020-03-25,3000,5.76,17280.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,ENT SET,DUMA HEALTH CARE,2015/004395/07(CSD:MAAA0099731),Quotation,G-107284,2020-03-25,4,13524.00,54096.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,COVER MATTRESS BED,HOSPITAL EQUIPMENT MANUFACTURE,2S000/000651/07(CSD:MAAA0106830),RT24,LW-011641,2020-03-20,225,400.00,90000.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,DECONTAMINATION OF OFFICES,"CICIMA PROPERTY MANAGEMENT
+SOLUTION",2011/121121/07(CSD:MAAA0605241,Quotation,G-108223,2020-06-30,1788SQM,15.52,27758.00
+Department of Correctional Services (DCS),Gauteng,Leeuwkop,DECONTAMINATION OF OFFICES,BIG O TRADING 873,2010/148833/23(CSDMAAA0026754),Quotation,G-108224,2020-07-03,3395SQM,15.50,52622.50
+Department of Correctional Services (DCS),Gauteng,Modderbee,Gloves surgical  (each),PROMED,2014/162486/07,RT76,MR-005593,2020-03-18,70000,0.46,32200.00
+Department of Correctional Services (DCS),Gauteng,Modderbee,Infra-Red Electronic Thermometers.,RABUSA HOLDINGS,"2013/203408/07
+2012/056577/07",MR 68/2020,MR-005635,2020-08-04,18,1502.00,27036.00
+Department of Correctional Services (DCS),Gauteng,Modderbee,Sanitizer Hand (Per litre) (500ml),BARRS CHEMICALS,,RT 300,MR-005588,3/18/2020,,15.92,254720.00
+Department of Correctional Services (DCS),Gauteng,Modderbee,gowns,PROMED,2014/162486/07,RT 76,MR-005586,2020-03-18,5000,23.83,119150.00
+Department of Correctional Services (DCS),Gauteng,Modderbee,linen savers,LOGAN MEDICAL,2012/056508/07,RT 32,MR-005584,2020-03-18,5000,0.78,3900.00
+Department of Correctional Services (DCS),Gauteng,Modderbee,paper towels medical,PROMED,2014/162486/07,RT 76,MR-005586,2020-03-18,300,35.26,10578.00
+Department of Correctional Services (DCS),Gauteng,Modderbee,DECONTAMINATION,CLIFFMIXWELL,2017/324146/07,Quotation,MR-005720,2020-12-06,1091,4.00,4364.00
+Department of Correctional Services (DCS),Gauteng,Modderbee,DECONTAMINATION,MN INVESTMENT,2014/098098/07,Quotation,MR-005721,2020-06-17,1920,4.20,8065.00
+Department of Correctional Services (DCS),Gauteng,Zonderwater,GOGGELS SAFETY,QUALITY SUPPLIERS,2015/019742/07,RT32,AI-320905,2020-03-24,120,65.00,7800.00
+Department of Correctional Services (DCS),Gauteng,Zonderwater,SURGICAL SCRUB 5 LR,Barrs Pharmacetical,2012/056577/07,RT300,AI-320994,2020-03-18,50,159.93,7996.50
+Department of Correctional Services (DCS),Gauteng,Zonderwater,SURGICAL SCRUB 500ML,Barrs Pharmacetical,2012/056577/07,RT300,AI-320994,2020-03-18,30,21.92,657.60
+Department of Correctional Services (DCS),Gauteng,Zonderwater,PAPER TOWELS 230MM,Promed Technology,2014/162486/07,RT14,AI-320992,2020-03-18,800,31.75,25400.00
+Department of Correctional Services (DCS),Gauteng,Zonderwater,PLASTIC COVER MATRESS,Promed Technology,2014/162486/07,RT32,AI-320992,2020-03-18,1000,2.18,2180.00
+Department of Correctional Services (DCS),Gauteng,Zonderwater,PLASTIC BOOT COVERS KNEE LENGTH PAIRS,Mr First Aid,1990/00763/07,Price Quotation,ZD-012343,2020-03-24,83,60.95,5058.85
+Department of Correctional Services (DCS),Gauteng,Zonderwater,SPRAY PRESSURE 5L AGPRO,Hinterland,1984/008258/07,Quotation,PETTY CASH,2020-05-20,8,249.90,1999.10
+Department of Correctional Services (DCS),Gauteng,Zonderwater,SPRAY PRESSURE 5L AGPRO,Hinterland,1984/008258/07,Quotation,PETTY CASH,2020-05-06,6,249.90,1499.30
+Department of Correctional Services (DCS),Gauteng,Zonderwater,5L PRESSURE SPRAYER,Cullinan Hardware CC,CK92/27776/23,Quotation,PETTY CASH,2020-05-07,2,250.00,500.00
