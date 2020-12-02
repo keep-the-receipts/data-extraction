@@ -1,16 +1,16 @@
-buyer_name,No,"Procurement processes followed,",Date,Service Provider,Company Registration Number,Description,Amount
-The National Credit Regulator (NCR),1,Request for Quotations,12-May-20,Masana Hygiene Services,2014/110265/07,Supply and installation of hand sanitisers and units,"1 794,00"
-The National Credit Regulator (NCR),2,Request for Quotations,19-May-20,RiskVine Pty Limited,2015/107120/07,Purchase of sick beds and contents,"14 170,00"
-The National Credit Regulator (NCR),3,Request for Quotations,6-5-20,Vhanei Remedies,2015/396926/07,Purchase of thermometers,"6 300,00"
-The National Credit Regulator (NCR),4,Request for Quotations,11-May-20,Multi Surge Pty Limited,2014/170364/07,Purchase of medical hygiene products,"25 145,00"
-The National Credit Regulator (NCR),5,Request for Quotations,19-May-20, RiskVine Pty Limited,2015/107120/07,Supply of reusable face shields,"3 250,00"
-The National Credit Regulator (NCR),6,Request for Quotations,28-May-20,RiskVine Pty Limited,2015/107120/07,Conduct a COVID-19 risk assessment,"1 500,00"
-The National Credit Regulator (NCR),7,Request for Quotations,29-May-20,RiskVine Pty Limited,2014/110265/07,Disinfection of the NCR building,"7 017,76"
-The National Credit Regulator (NCR),8,Request for Quotations,7-7-20,Olwethuthando Pty Ltd,2018/076496/07,"Supply of hands free sanitiser stands, PPE gowns
-and hand sanitisers","83 500,00"
-The National Credit Regulator (NCR),9,Request for Quotations,30-Jul-20,Thoriso Branding Pty Ltd,2013/059117/07,"Supply and installation of COVID-19 Access
+buyer_name,No,procurement_method,invoice_date,supplier_name,company_registration_numbr,items_description,order_amount_zar
+The National Credit Regulator (NCR),1,Request for Quotations,2020-05-12,Masana Hygiene Services,2014/110265/07,Supply and installation of hand sanitisers and units,1794.00
+The National Credit Regulator (NCR),2,Request for Quotations,2020-05-19,RiskVine Pty Limited,2015/107120/07,Purchase of sick beds and contents,14170.00
+The National Credit Regulator (NCR),3,Request for Quotations,2020-05-06,Vhanei Remedies,2015/396926/07,Purchase of thermometers,6300.00
+The National Credit Regulator (NCR),4,Request for Quotations,2020-05-11,Multi Surge Pty Limited,2014/170364/07,Purchase of medical hygiene products,25145.00
+The National Credit Regulator (NCR),5,Request for Quotations,2020-05-19, RiskVine Pty Limited,2015/107120/07,Supply of reusable face shields,3250.00
+The National Credit Regulator (NCR),6,Request for Quotations,2020-05-28,RiskVine Pty Limited,2015/107120/07,Conduct a COVID-19 risk assessment,1500.00
+The National Credit Regulator (NCR),7,Request for Quotations,2020-05-29,RiskVine Pty Limited,2014/110265/07,Disinfection of the NCR building,7017.76
+The National Credit Regulator (NCR),8,Request for Quotations,2020-07-07,Olwethuthando Pty Ltd,2018/076496/07,"Supply of hands free sanitiser stands, PPE gowns
+and hand sanitisers",83500.00
+The National Credit Regulator (NCR),9,Request for Quotations,2020-07-30,Thoriso Branding Pty Ltd,2013/059117/07,"Supply and installation of COVID-19 Access
 Control Protocol Signage for the current and new
-NCR building","9 890,00"
-The National Credit Regulator (NCR),10,Request for Quotations,28-Jul-20,Cool Breeze Airconditioning and repairs,2003/069779/23,Supply and installation of PVC Screen for the reception desk,"1 850,00"
-The National Credit Regulator (NCR),11,Contract Variation,12-Jun-20,Masana Hygiene Service,2014/110265/07,Fortnightly deep cleaning and disinfection over a period of 12 months (Addendum to the contract),"94 372,13"
-The National Credit Regulator (NCR),12,Contract Variation,4-6-20,Tshireletso Multi-skills and Training,2012/131859/07,COVID-19 Induction for NCR employees (Addendum to the contract),"47 000,00"
+NCR building",9890.00
+The National Credit Regulator (NCR),10,Request for Quotations,2020-07-28,Cool Breeze Airconditioning and repairs,2003/069779/23,Supply and installation of PVC Screen for the reception desk,1850.00
+The National Credit Regulator (NCR),11,Contract Variation,2020-06-12,Masana Hygiene Service,2014/110265/07,Fortnightly deep cleaning and disinfection over a period of 12 months (Addendum to the contract),94372.13
+The National Credit Regulator (NCR),12,Contract Variation,2020-06-04,Tshireletso Multi-skills and Training,2012/131859/07,COVID-19 Induction for NCR employees (Addendum to the contract),47000.00
