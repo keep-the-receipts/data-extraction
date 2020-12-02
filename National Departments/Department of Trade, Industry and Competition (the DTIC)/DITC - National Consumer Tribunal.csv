@@ -1,11 +1,11 @@
-buyer_name,Month,Item,Amount,Supplier
-National Consumer Tribunal,March 2020,Sanitizers,R1 829.39,Dorite Pharmacy (Spar)
-National Consumer Tribunal,March 2020,Gloves,R900.00,Dorite Pharmacy (Spar)
-National Consumer Tribunal,March 2020,Biotaine in alcohol,R559.92,Dorite Pharmacy (Spar)
-National Consumer Tribunal,March 2020,Tissues,R200.13,Spar
-National Consumer Tribunal,May 2020,Sanitizers,R800.00,Spar
-National Consumer Tribunal,May 2020,Gloves,R1 200.00,Spar
-National Consumer Tribunal,July 2020,Gloves,R679.95,The Cleaning Hub
-National Consumer Tribunal,July 2020,Sanitizers,R729.50,Makro
-National Consumer Tribunal,July 2020,Disinfectants,R476.10,The Cleaning Hub
-National Consumer Tribunal,July 2020,Knapsack spray,R1 198.67,The Cleaning Hub
+buyer_name,Month,items_description,order_amount_zar,supplier_name
+National Consumer Tribunal,Mar-20,Sanitizers,1829.39,Dorite Pharmacy (Spar)
+National Consumer Tribunal,Mar-20,Gloves,900.00,Dorite Pharmacy (Spar)
+National Consumer Tribunal,Mar-20,Biotaine in alcohol,559.92,Dorite Pharmacy (Spar)
+National Consumer Tribunal,Mar-20,Tissues,200.13,Spar
+National Consumer Tribunal,May-20,Sanitizers,800.00,Spar
+National Consumer Tribunal,May-20,Gloves,1200.00,Spar
+National Consumer Tribunal,Jul-20,Gloves,679.95,The Cleaning Hub
+National Consumer Tribunal,Jul-20,Sanitizers,729.50,Makro
+National Consumer Tribunal,Jul-20,Disinfectants,476.10,The Cleaning Hub
+National Consumer Tribunal,Jul-20,Knapsack spray,1198.67,The Cleaning Hub
