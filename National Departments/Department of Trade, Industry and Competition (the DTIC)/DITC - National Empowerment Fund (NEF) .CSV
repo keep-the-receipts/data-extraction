@@ -1,83 +1,80 @@
-buyer_name,,Goods/Services Procured,Procurement Process,"Successful
-Bidder",Date,"Company
-Registration
-Number",Contract Value
-National Empowerment Fund (NEF),COVID-19 related activities between 1 March 2020 and 29 July 2020,"In-house Covid-19 awareness and
+buyer_name,items_description,procurement_method,supplier_name,invoice_date,company_registration_number,order_amount_zar
+National Empowerment Fund (NEF),"COVID-19 related activities between 1 March 2020 and 29 July 2020: In-house Covid-19 awareness and
 safety Training conducted by Dr
 Collin Amos for NEF staff","Specialist services by a
-medical practitioner",Vilakazi Health,2020/03/13,,"R15 000,00"
-National Empowerment Fund (NEF),COVID-19 related activities between 1 March 2020 and 29 July 2020,"Call centre Covid-19 message
+medical practitioner",Vilakazi Health,2020-03-13,,15000.00
+National Empowerment Fund (NEF),"COVID-19 related activities between 1 March 2020 and 29 July 2020: Call centre Covid-19 message
 recording","Normal procurement
 process for the threshold","Maghoda Trading
-(Pty) Ltd",2020/05/18,,"R2 200,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Screen Cleaning
+(Pty) Ltd",2020-05-18,,2200.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Screen Cleaning
 Wipes",3 Quotes,"LNL Projects Trading as
-Kimboards",2020/03/01,2016/307173/07,"R16 500,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Sanitizer Dispensers,"Quotation  (Less
+Kimboards",2020-03-01,2016/307173/07,16500.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Sanitizer Dispensers,"Quotation  (Less
 R10,000)","Masana Hygiene Services Pty
-(Ltd)",2020/03/12,2014/110265/07,"R9 418,50"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Sanitizer,"Quotation  (Less
-R10,000)",Naledi Pharm,2020/03/13,2019/194334/07,"R9 538,80"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Disinfectant,"Quotation (Less
-R10,000)",Bokang Muso (Pty) Ltd,2020/03/17,2012/204211/07,"R1 498,08"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Disinfectant,"Quotation  (Less
-R10,000)",Bokang Muso (Pty) Ltd,2020/03/18,2012/204211/07,"R1 000,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Multi-
+(Ltd)",2020-03-12,2014/110265/07,9418.50
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Sanitizer,"Quotation  (Less
+R10,000)",Naledi Pharm,2020-03-13,2019/194334/07,9538.80
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Disinfectant,"Quotation (Less
+R10,000)",Bokang Muso (Pty) Ltd,2020-03-17,2012/204211/07,1498.08
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Disinfectant,"Quotation  (Less
+R10,000)",Bokang Muso (Pty) Ltd,2020-03-18,2012/204211/07,1000.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Multi-
 Purpose Disinfectant","Quotation (Less
-R10,000)",F And O Specialised Cleaning,2020/03/18,2014/155909/07,"R7 700,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Deep Clean and
-Disinfect Office",4 Quotes Sourced,F And O Specialised Cleaning,2020/03/18,2014/155909/07,"R40 000,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Sanitizer,"Quotation (Less
-R10,000)",Naledi Pharm,2020/03/18,2019/194334/07,"R5 398,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Disinfectant Western
+R10,000)",F And O Specialised Cleaning,2020-03-18,2014/155909/07,7700.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Deep Clean and
+Disinfect Office",4 Quotes Sourced,F And O Specialised Cleaning,2020-03-18,2014/155909/07,40000.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Sanitizer,"Quotation (Less
+R10,000)",Naledi Pharm,2020-03-18,2019/194334/07,5398.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Disinfectant Western
 Cape","Quotation (Less
-R10,000)",Connor Pest Control Services,2020/03/25,2019/111501/07,"R1 730,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Hand Sanitizers,"Quotation (Less
+R10,000)",Connor Pest Control Services,2020-03-25,2019/111501/07,1730.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Hand Sanitizers,"Quotation (Less
 R10,000)","Bontle Ke Botho Facilities
-Management Services",2020/05/01,2002/074476/23,"R2 484,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Masks Regional,3 Quotes,Kgosigadi Cleaning Services,2020/05/01,2016/298564/07,"R9 375,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Gloves Regional,3 Quotes,Lechoba Medical Technologies,2020/05/01,2005/044442/07,"R776,50"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Masks Head Office,3 Quotes,Masala Projects Management,2020/05/01,2011/039582/23,"R24 000,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Gloves Head Office,3 Quotes,Lechoba Medical Technologies,2020/05/07,2005/044442/07,"R13 454,90"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Covid-19 Screens,"Quotation (Less
+Management Services",2020-05-01,2002/074476/23,2484.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Masks Regional,3 Quotes,Kgosigadi Cleaning Services,2020-05-01,2016/298564/07,9375.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Gloves Regional,3 Quotes,Lechoba Medical Technologies,2020-05-01,2005/044442/07,776.50
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Masks Head Office,3 Quotes,Masala Projects Management,2020-05-01,2011/039582/23,24000.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Gloves Head Office,3 Quotes,Lechoba Medical Technologies,2020-05-07,2005/044442/07,13454.90
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Covid-19 Screens,"Quotation (Less
 R10,000)","Premier Growth Investments
-Holdings",2020/05/07,2017/048701/07,"R6 420,20"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Thermo Scanners,"Quotation (Less
-R10,000)",Bigoh Hygiene Pty Ltd,2020/05/15,2019/467503/07,"R3 600,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Free State Office
+Holdings",2020-05-07,2017/048701/07,6420.20
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Thermo Scanners,"Quotation (Less
+R10,000)",Bigoh Hygiene Pty Ltd,2020-05-15,2019/467503/07,3600.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Free State Office
 Fogging","Quotation (Less
-R10,000)",Lodium Pest Controller's,2020/05/15,2012/212337/07,"R1 400,08"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Kwa Zulu Natal Office
+R10,000)",Lodium Pest Controller's,2020-05-15,2012/212337/07,1400.08
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Kwa Zulu Natal Office
 Fogging","Quotation (Less
-R10,000)",PSU Services,2020/05/15,2016/372282/07,"R2 296,62"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"East London Office
+R10,000)",PSU Services,2020-05-15,2016/372282/07,2296.62
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: East London Office
 Fogging","Quotation (Less
-R10,000)",PSU Services,2020/05/15,2016/372282/07,"R2 539,20"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Polokwane Office
+R10,000)",PSU Services,2020-05-15,2016/372282/07,2539.20
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Polokwane Office
 Fogging","Quotation (Less
-R10,000)",Mokiditi Cleaning and Projects,2020/05/21,2008/004295/23,"R1 300,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Desk Shield and
+R10,000)",Mokiditi Cleaning and Projects,2020-05-21,2008/004295/23,1300.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Desk Shield and
 Dividers","Quotation (Less
 R10,000)","Premier Growth Investments
-Holdings",2020/05/21,2017/048701/07,"R4 440,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Covid-19 Wipes for
+Holdings",2020-05-21,2017/048701/07,4440.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Covid-19 Wipes for
 Head Office","Quotation (Less
-R10,000)",Servest,2020/06/04,1997/006391/07,"R8 377,75"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Mpumalanga Office
+R10,000)",Servest,2020-06-04,1997/006391/07,8377.75
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Mpumalanga Office
 Sanitizing","Quotation (Less
-R10,000)",Bidvest Services,2020/06/05,2000/011155/07,"R4 386,11"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Disinfectant Desk
-Spray",3 Quotes,Naledi Pharm,2020/06/05,2019/194334/07,"R9 956,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Hand Sanitizers,3 Quotes,Naledi Pharm,2020/06/05,2019/194334/07,"R9 900,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Foot Sanitizer
+R10,000)",Bidvest Services,2020-06-05,2000/011155/07,4386.11
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Disinfectant Desk
+Spray",3 Quotes,Naledi Pharm,2020-06-05,2019/194334/07,9956.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Hand Sanitizers,3 Quotes,Naledi Pharm,2020-06-05,2019/194334/07,9900.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Foot Sanitizer
 Dispenser","Quotation (Less
-R10,000)",African People Intelligence,2020/06/08,2009/017104/07,"R2 208,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Face Shields,"Quotation (Less
-R10,000)",Bigoh Hygiene Pty Ltd,2020/06/11,2019/467503/07,"R2 760,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Anti-Bacterial Wipes,"Quotation (Less
-R10,000)",Servest,2020/06/23,1997/006391/07,"R2 115,00"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,"Nitrile Examination
+R10,000)",African People Intelligence,2020-06-08,2009/017104/07,2208.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Face Shields,"Quotation (Less
+R10,000)",Bigoh Hygiene Pty Ltd,2020-06-11,2019/467503/07,2760.00
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Anti-Bacterial Wipes,"Quotation (Less
+R10,000)",Servest,2020-06-23,1997/006391/07,2115.00
+National Empowerment Fund (NEF),"Procurement of Personal Protective Equipment: Nitrile Examination
 Gloves","Quotation (Less
-R10,000)",Lechoba Medical Technologies,2020/06/30,2005/044442/07,"R776,25"
-National Empowerment Fund (NEF),Procurement of Personal Protective Equipment,Sanitized Defogger,"Quotation (Less
-R10,000)",Bigoh Hygiene Pty Ltd,2020/07/06,2019/467503/07,"R1 104,00"
+R10,000)",Lechoba Medical Technologies,2020-06-30,2005/044442/07,776.25
+National Empowerment Fund (NEF),Procurement of Personal Protective Equipment: Sanitized Defogger,"Quotation (Less
+R10,000)",Bigoh Hygiene Pty Ltd,2020-07-06,2019/467503/07,1104.00
