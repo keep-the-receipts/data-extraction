@@ -1,148 +1,146 @@
-,buyer_name,items_description,Procurement Process,Service Provider,"Company
-Registration
-Number",Date,Amount
-1,South African Nation Accreditation System (SANAS),Covid 19 Services: Fumigation of Offices,3 Quote System,Fumigation Worx,2006/114521/23,14/05/2020,R9 832.50
-1,South African Nation Accreditation System (SANAS),Covid 19 Services: Sick Bed,3 Quote System,Mootlwana business nterprise,2018/455047/07,10/06/2020,R10 316.18
-1,South African Nation Accreditation System (SANAS),PPE item: Cloth Mask,3 Quote System,LME Business Consultation,2016/499196/07,15/06/2020,R5 000.00
-1,South African Nation Accreditation System (SANAS),PPE item: Santizer Dispensers and Refills,3 Quote System,Bokamoso 2017 Investments,2018/517204/07,22/06/2020,R22 880.00
-2,Competition Commission,PPE RELATED EXPENSES: 500 Masks,RFQ -NT List of Suppliers,Plus Fab,2019/151894/07,21/05/2020,"R 27 945,00"
-2,Competition Commission,PPE RELATED EXPENSES: 6 x Temperature Thermometers,Cheque - Cash Transaction,Link Pharmacy,n/a,15/03/2020,"R 4 000,00"
-2,Competition Commission,PPE RELATED EXPENSES: 300 Masks and 500 Gloves,RFQ,Afrikano Holdings,2019/151894/07,11/05/2020,"R 21 950,00"
-2,Competition Commission,"PPE RELATED EXPENSES: 70% Alcohol Based Gel Sanitisers 1L 100 Masks 200 Gloves 5l Surface Disinfectant",RFQ,Dolly Matlhatsi Enterprises,2018/349653/07,23/06/2020,"R 11 500,00"
-2,Competition Commission,PPE RELATED EXPENSES: 900 x Latex Gloves,Petty Cash,Sunrise Sweets Market,n/a,15/03/2020,"R 764,90"
+Buyer number as in PDF,buyer_name,items_description,procurement_method,supplier_name,company_registration_number,invoice_date,order_amount_zar
+1,South African Nation Accreditation System (SANAS),Covid 19 Services: Fumigation of Offices,3 Quote System,Fumigation Worx,2006/114521/23,2020-05-14,9832.50
+1,South African Nation Accreditation System (SANAS),Covid 19 Services: Sick Bed,3 Quote System,Mootlwana business nterprise,2018/455047/07,2020-06-10,10316.18
+1,South African Nation Accreditation System (SANAS),PPE item: Cloth Mask,3 Quote System,LME Business Consultation,2016/499196/07,2020-06-15,5000.00
+1,South African Nation Accreditation System (SANAS),PPE item: Santizer Dispensers and Refills,3 Quote System,Bokamoso 2017 Investments,2018/517204/07,2020-06-22,22880.00
+2,Competition Commission,PPE RELATED EXPENSES: 500 Masks,RFQ -NT List of Suppliers,Plus Fab,2019/151894/07,2020-05-21,27945.00
+2,Competition Commission,PPE RELATED EXPENSES: 6 x Temperature Thermometers,Cheque - Cash Transaction,Link Pharmacy,n/a,2020-03-15,4000.00
+2,Competition Commission,PPE RELATED EXPENSES: 300 Masks and 500 Gloves,RFQ,Afrikano Holdings,2019/151894/07,2020-05-11,21950.00
+2,Competition Commission,"PPE RELATED EXPENSES: 70% Alcohol Based Gel Sanitisers 1L 100 Masks 200 Gloves 5l Surface Disinfectant",RFQ,Dolly Matlhatsi Enterprises,2018/349653/07,2020-06-23,11500.00
+2,Competition Commission,PPE RELATED EXPENSES: 900 x Latex Gloves,Petty Cash,Sunrise Sweets Market,n/a,2020-03-15,764.90
 2,Competition Commission,"PPE RELATED EXPENSES: 73 x 2l Alcohol Based Sanitisers
 21 x 5l Alcohol Based Sanitisers
 17 Boxes x 2 Ply Folded Hand Towels
 50 x 6 pack Towel Rolls
 90 Boxes of 2 Ply Boxed Tissues 300 Masks
-Alcohol Based 50 ml Sanitisers Disposal Bins",,Vektor Projects,2018/049953/07,18/03/2020,"R 372 200,00"
-3,Companies Tribunal (CT),COVID-19 Expenditure: Covid-19 Training,Careways provides employee wellness services for Companies Tribunal and was appointed on a 3 year contract by following normal procurement processes on 8/03/2019,Careways,,28/05/2020,R9 717.50
-3,Companies Tribunal (CT), Procurement of PPEs: Sanitizers ,Bought through petty cash,Sunmed Healthcare Pharmacy,,20/03/2020,R1 350
-3,Companies Tribunal (CT), Procurement of PPEs: Branded Masks,Quotations sourced from suppliers registered on the National Treasury Central Supplier Database,Tevu Investments,2018/284374/07,09/06/2020,R3 492
-3,Companies Tribunal (CT)," Procurement of PPEs: Covid PPEs (Sanitisers, Paper Towels) ",Bought through petty cash,KitKat ,1996/002415/07,09/07/2020,R605
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Tissues for the office,Quotation,Dis chem,2005/009766/06,09/03/2020,1 184.80
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Thermometer for the office,Quotation,Dis chem,2005/009766/06,10/03/2020,699.9
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Tissues for the office,Quotation,Dis chem,2005/009766/06,12/03/2020,519.6
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Dumpie bottle for sanitisers,Quotation,West pack,2015/084205/07,18/03/2020,104.5
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Jik to sanitise the office,Quotation,Clicks,4520189236,23/03/2020,160.4
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Hand sprayer and trigger spray,Quotation,Indigo,Not Specified,23/03/2020,98
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Hand sanitisers for the office,Quotation,GA Anderson Enterprise,2015/372969/07,23/03/2020,1 020.00
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Masks,Quotation,Home Express,,23/03/2020,200
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Non-contact Thermometers,Quotation,Blax Interactive,2003/031360/23,07/05/2020,6 037.50
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Sanitisers,Quotation,Makro,1991/006805/07,07/05/2020,744.5
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Sanitisers,Quotation,Makro,1991/006805/07,07/05/2020,2 500.00
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Office Sanitation,Quotation,Masana,2014/110265/07,11/05/2020,9 990.63
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Hand sanitisers,Quotation,Makro,1991/006805/07,12/05/2020,3 052.40
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Material Face Masks,Quotation,Bizrocket,2013/180207/07,13/05/2020,5 000.00
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Hand sanitisers,Quotation,Makro,1991/006805/07,18/05/2020,2 978.00
-6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Office Sanitation,Quotation,Masana,2014/110265/07,25/06/2020,9 990.63
-6,Export Credit Insurance Company (ECIC),PPEs: Hand sanitisers for the office,Quotation,GA Anderson Enterprise,2015/372969/07,23/03/2020,1 020.00
-6,Export Credit Insurance Company (ECIC),PPEs: Thermometer for the,Quotation,Dis chem,2005/009766/06,10/03/2020,699.9
-6,Export Credit Insurance Company (ECIC),PPEs: Masks,Quotation,Home Express,No Specified,23/03/2020,200
-6,Export Credit Insurance Company (ECIC),PPEs: Non-contact Thermometers,Quotation,Blax Interactive,2003/031360/23,07/05/2020,6 037.50
-6,Export Credit Insurance Company (ECIC),PPEs: Sanitisers,Quotation,Makro,1991/006805/07,07/05/2020,744.5
-6,Export Credit Insurance Company (ECIC),PPEs: Sanitisers,Quotation,Makro,1991/006805/07,07/05/2020,2 500.00
-6,Export Credit Insurance Company (ECIC),PPEs: Material Face Masks,Quotation,Bizrocket,2013/180207/07,13/05/2020,5 000.00
-6,Export Credit Insurance Company (ECIC),PPEs: Hand sanitisers,Quotation,Makro,1991/006805/07,12/05/2020,3 052.40
-6,Export Credit Insurance Company (ECIC),PPEs: Hand sanitisers,Quotation,Makro,1991/006805/07,18/05/2020,2 978.00
-7,Industrial Development Corporation (IDC),COVID-19 related activities: Once off - Emergency Sanitisation Fogging after the announcement of a confirmed case of coronavirus at IDC Head Office,Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy. ,Meridian Hygiene (Pty) Ltd ,2015/314563/07,15/04/2020,R 62 500.00
-7,Industrial Development Corporation (IDC),COVID-19 related activities: Once off Sanitisation Fogging at certain IDC Regional Offices.,Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy. ,Meridian Hygiene (Pty) Ltd ,2015/314563/07,15/04/2020,R 75 753.07
-7,Industrial Development Corporation (IDC),COVID-19 related activities: Supply and delivery of 2 Temperature Scanners,One-qupte processin-line with IDC Procurement Policy,Class Three Medical Solutions (Pty) Ltd,2017/535986/07,20/03/2020,R 2 277.00
-7,Industrial Development Corporation (IDC),COVID-19 related activities: Supply and delivery of 25 Temperature Scanners,Tactical procurement process followed and order placed with service provider who could supply stock at short notice and at market related cost on an urgent basis in line with IDC Procurement Policy. ,Class Three Medical Solutions (Pty) Ltd,2017/535986/07,20/04/2020,R 41 464.00
-7,Industrial Development Corporation (IDC),COVID-19 related activities: Provision of 600 data cards to enable remote working for staff (initial 3 months of lockdown),Emergency procurement process followed and order placed with incumbent contractor who was appointed through a competitive tender process in 2019.,MTN ,1993/001436/07,25/03/2020,R 470 000.00
-7,Industrial Development Corporation (IDC),COVID-19 related activities: Provision of 400 data cards to enable remote working for staff (further 3 months of lockdown),Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,MTN ,1993/001436/07,29/07/2020,R 291 130.43
-7,Industrial Development Corporation (IDC),COVID-19 related activities: Provision of Sanitization Fogging services to IDC Head Office and all Regional Offices for a period of 6 months on the basis of 2 foggingÕs per month per office when required,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,The Specialists Franchise Holdings (Pty) Ltd ,2015/194656/07,29/05/2020,R610 181.40
+Alcohol Based 50 ml Sanitisers Disposal Bins",,Vektor Projects,2018/049953/07,2020-03-18,372200.00
+3,Companies Tribunal (CT),COVID-19 Expenditure: Covid-19 Training,Careways provides employee wellness services for Companies Tribunal and was appointed on a 3 year contract by following normal procurement processes on 8/03/2019,Careways,,2020-05-28,9717.50
+3,Companies Tribunal (CT), Procurement of PPEs: Sanitizers ,Bought through petty cash,Sunmed Healthcare Pharmacy,,2020-03-20,1350.00
+3,Companies Tribunal (CT), Procurement of PPEs: Branded Masks,Quotations sourced from suppliers registered on the National Treasury Central Supplier Database,Tevu Investments,2018/284374/07,2020-06-09,3492.00
+3,Companies Tribunal (CT)," Procurement of PPEs: Covid PPEs (Sanitisers, Paper Towels) ",Bought through petty cash,KitKat ,1996/002415/07,2020-07-09,605.00
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Tissues for the office,Quotation,Dis chem,2005/009766/06,2020-03-09,1184.80
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Thermometer for the office,Quotation,Dis chem,2005/009766/06,2020-03-10,699.90
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Tissues for the office,Quotation,Dis chem,2005/009766/06,2020-03-12,519.60
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Dumpie bottle for sanitisers,Quotation,West pack,2015/084205/07,2020-03-18,104.50
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Jik to sanitise the office,Quotation,Clicks,4520189236,2020-03-23,160.40
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Hand sprayer and trigger spray,Quotation,Indigo,Not Specified,2020-03-23,98.00
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Hand sanitisers for the office,Quotation,GA Anderson Enterprise,2015/372969/07,2020-03-23,1020.00
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Masks,Quotation,Home Express,,2020-03-23,200.00
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Non-contact Thermometers,Quotation,Blax Interactive,2003/031360/23,2020-05-07,6037.50
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Sanitisers,Quotation,Makro,1991/006805/07,2020-05-07,744.50
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Sanitisers,Quotation,Makro,1991/006805/07,2020-05-07,2500.00
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Office Sanitation,Quotation,Masana,2014/110265/07,2020-05-11,9990.63
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Hand sanitisers,Quotation,Makro,1991/006805/07,2020-05-12,3052.40
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Material Face Masks,Quotation,Bizrocket,2013/180207/07,2020-05-13,5000.00
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Hand sanitisers,Quotation,Makro,1991/006805/07,2020-05-18,2978.00
+6,Export Credit Insurance Company (ECIC),COVID-19 related activities: Office Sanitation,Quotation,Masana,2014/110265/07,2020-06-25,9990.63
+6,Export Credit Insurance Company (ECIC),PPEs: Hand sanitisers for the office,Quotation,GA Anderson Enterprise,2015/372969/07,2020-03-23,1020.00
+6,Export Credit Insurance Company (ECIC),PPEs: Thermometer for the,Quotation,Dis chem,2005/009766/06,2020-03-10,699.90
+6,Export Credit Insurance Company (ECIC),PPEs: Masks,Quotation,Home Express,No Specified,2020-03-23,200.00
+6,Export Credit Insurance Company (ECIC),PPEs: Non-contact Thermometers,Quotation,Blax Interactive,2003/031360/23,2020-05-07,6037.50
+6,Export Credit Insurance Company (ECIC),PPEs: Sanitisers,Quotation,Makro,1991/006805/07,2020-05-07,744.50
+6,Export Credit Insurance Company (ECIC),PPEs: Sanitisers,Quotation,Makro,1991/006805/07,2020-05-07,2500.00
+6,Export Credit Insurance Company (ECIC),PPEs: Material Face Masks,Quotation,Bizrocket,2013/180207/07,2020-05-13,5000.00
+6,Export Credit Insurance Company (ECIC),PPEs: Hand sanitisers,Quotation,Makro,1991/006805/07,2020-05-12,3052.40
+6,Export Credit Insurance Company (ECIC),PPEs: Hand sanitisers,Quotation,Makro,1991/006805/07,2020-05-18,2978.00
+7,Industrial Development Corporation (IDC),COVID-19 related activities: Once off - Emergency Sanitisation Fogging after the announcement of a confirmed case of coronavirus at IDC Head Office,Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy. ,Meridian Hygiene (Pty) Ltd ,2015/314563/07,2020-04-15,62500.00
+7,Industrial Development Corporation (IDC),COVID-19 related activities: Once off Sanitisation Fogging at certain IDC Regional Offices.,Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy. ,Meridian Hygiene (Pty) Ltd ,2015/314563/07,2020-04-15,75753.07
+7,Industrial Development Corporation (IDC),COVID-19 related activities: Supply and delivery of 2 Temperature Scanners,One-qupte processin-line with IDC Procurement Policy,Class Three Medical Solutions (Pty) Ltd,2017/535986/07,2020-03-20,2277.00
+7,Industrial Development Corporation (IDC),COVID-19 related activities: Supply and delivery of 25 Temperature Scanners,Tactical procurement process followed and order placed with service provider who could supply stock at short notice and at market related cost on an urgent basis in line with IDC Procurement Policy. ,Class Three Medical Solutions (Pty) Ltd,2017/535986/07,2020-04-20,41464.00
+7,Industrial Development Corporation (IDC),COVID-19 related activities: Provision of 600 data cards to enable remote working for staff (initial 3 months of lockdown),Emergency procurement process followed and order placed with incumbent contractor who was appointed through a competitive tender process in 2019.,MTN ,1993/001436/07,2020-03-25,470000.00
+7,Industrial Development Corporation (IDC),COVID-19 related activities: Provision of 400 data cards to enable remote working for staff (further 3 months of lockdown),Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,MTN ,1993/001436/07,2020-07-29,291130.43
+7,Industrial Development Corporation (IDC),COVID-19 related activities: Provision of Sanitization Fogging services to IDC Head Office and all Regional Offices for a period of 6 months on the basis of 2 foggingÕs per month per office when required,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,The Specialists Franchise Holdings (Pty) Ltd ,2015/194656/07,2020-05-29,610181.40
 7,Industrial Development Corporation (IDC),PPEs: Rental of Hand Sanitizer Spray Dispensers for a period of 12 months (Qty:100),"Emergency procurement process followed
-and order placed with incumbent hygiene contractor who was appointed through an open tender process in 2018.",Kusile Hygiene and Industrial Services ,2019/481196/07,11/03/2020,R 114 000.00
+and order placed with incumbent hygiene contractor who was appointed through an open tender process in 2018.",Kusile Hygiene and Industrial Services ,2019/481196/07,2020-03-11,114000.00
 7,Industrial Development Corporation (IDC),PPEs: Supply of Hand Sanitizer Spray Refills (Qty:400),"Emergency procuremeNt process followed and order placed with incumbent hygiene 11 March contractor who was appointed through an
-2020 open tender process in 2018.",Kusile Hygiene and Industrial Services ,2019/481196/07,11/03/2020,R 31 200.00
-7,Industrial Development Corporation (IDC),PPEs: Supply of Sanitiser 500ml (Qty. 500),Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy.,Blu Rain Trading cc ,2010/087527/23,25/03/2020,R 75 000.00
-7,Industrial Development Corporation (IDC),PPEs: Supply and delivery of surgical masks (Qty. 2000),Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy.,Blu Rain Trading cc ,2010/087527/23,25/03/2020,R 50 000.00
-7,Industrial Development Corporation (IDC),PPEs: Supply and delivery of latex gloves (Qty. 5000),Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy.,Blu Rain Trading cc ,2010/087527/23,25/03/2020,R 7 487.50
-7,Industrial Development Corporation (IDC),PPEs: Supply and delivery of surgical masks (Qty. 6000),Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy. ,Meridian Hygiene (Pty) Ltd ,2015/314563/07,15/04/2020,R 97 995.0
-7,Industrial Development Corporation (IDC),PPEs: 21 x 1L Sanitizer sprays,One-quote process in-line with IDC Procurement Policy ,i-dot-IT ,2019/238102/07,20/03/2020,R2 463.30
-7,Industrial Development Corporation (IDC),PPEs: 83 x 50ml Sanitizers,One-quote process in-line with IDC Procurement Policy ,Yes We Can Marketing Solutions ,2013/209790/07,20/03/2020,R2 489.24
-7,Industrial Development Corporation (IDC),PPEs: 5000 x Three layer fabric face masks,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,FBK Clothing and Textiles cc ,2010/066054/23,04/06/2020,R150 000.00
-7,Industrial Development Corporation (IDC),PPEs: 55 x Portable rectangular desktop sneeze guards,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,Azania Infracon (Pty) Ltd ,2011/143588/07,29/07/2020,R58 850.00
-7,Industrial Development Corporation (IDC),PPEs: 20 x Rectangular Guards,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,Azania Infracon (Pty) Ltd ,2011/143588/07,29/07/2020,R34 400.00
-7,Industrial Development Corporation (IDC),PPEs: 65 x free-standing wet wipes steel stand with disposal bin,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,Kusile Facilities Management (Pty) Ltd ,2019/481196/07,29/07/2020,R167 781.25
-7,Industrial Development Corporation (IDC),PPEs: 20 x Head-mounted full-face gas mask,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,Kusile Facilities Management (Pty) Ltd ,2019/481196/07,29/07/2020,R3 981.25
-7,Industrial Development Corporation (IDC),PPEs: 20 x Foot Pedal sanitiser stands with a bottle,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,FBK Clothing and Textiles cc ,2010/066054/23,08/07/2020,R19 000.00
-8,The International Trade Administration Commission (ITAC),COVID-19 related activities: Pump Long Nose 5lt. Sanitizer liquid hand gel. Mask Non- Woven 3 ply,Petty Cash ,G Fox (Pty) Ltd ,,15/04/2020,R2 000.00
-8,The International Trade Administration Commission (ITAC),COVID-19 related activities: Clothe Masks (250),Quotation system ,African Global Entertainment Network ,,30/04/2020,R12 000.00
+2020 open tender process in 2018.",Kusile Hygiene and Industrial Services ,2019/481196/07,2020-03-11,31200.00
+7,Industrial Development Corporation (IDC),PPEs: Supply of Sanitiser 500ml (Qty. 500),Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy.,Blu Rain Trading cc ,2010/087527/23,2020-03-25,75000.00
+7,Industrial Development Corporation (IDC),PPEs: Supply and delivery of surgical masks (Qty. 2000),Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy.,Blu Rain Trading cc ,2010/087527/23,2020-03-25,50000.00
+7,Industrial Development Corporation (IDC),PPEs: Supply and delivery of latex gloves (Qty. 5000),Tactical procurement process followed and order placed with service provider who could provide service at short notice and most cost effectively on an emergency procurement basis in line with IDC Procurement Policy.,Blu Rain Trading cc ,2010/087527/23,2020-03-25,7487.50
+7,Industrial Development Corporation (IDC),PPEs: Supply and delivery of surgical masks (Qty. 6000),Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy. ,Meridian Hygiene (Pty) Ltd ,2015/314563/07,2020-04-15,97995.00
+7,Industrial Development Corporation (IDC),PPEs: 21 x 1L Sanitizer sprays,One-quote process in-line with IDC Procurement Policy ,i-dot-IT ,2019/238102/07,2020-03-20,2463.30
+7,Industrial Development Corporation (IDC),PPEs: 83 x 50ml Sanitizers,One-quote process in-line with IDC Procurement Policy ,Yes We Can Marketing Solutions ,2013/209790/07,2020-03-20,2489.24
+7,Industrial Development Corporation (IDC),PPEs: 5000 x Three layer fabric face masks,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,FBK Clothing and Textiles cc ,2010/066054/23,2020-06-04,150000.00
+7,Industrial Development Corporation (IDC),PPEs: 55 x Portable rectangular desktop sneeze guards,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,Azania Infracon (Pty) Ltd ,2011/143588/07,2020-07-29,58850.00
+7,Industrial Development Corporation (IDC),PPEs: 20 x Rectangular Guards,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,Azania Infracon (Pty) Ltd ,2011/143588/07,2020-07-29,34400.00
+7,Industrial Development Corporation (IDC),PPEs: 65 x free-standing wet wipes steel stand with disposal bin,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,Kusile Facilities Management (Pty) Ltd ,2019/481196/07,2020-07-29,167781.25
+7,Industrial Development Corporation (IDC),PPEs: 20 x Head-mounted full-face gas mask,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,Kusile Facilities Management (Pty) Ltd ,2019/481196/07,2020-07-29,3981.25
+7,Industrial Development Corporation (IDC),PPEs: 20 x Foot Pedal sanitiser stands with a bottle,Tactical procurement process followed and order placed in line with IDCÕs Procurement Policy ,FBK Clothing and Textiles cc ,2010/066054/23,2020-07-08,19000.00
+8,The International Trade Administration Commission (ITAC),COVID-19 related activities: Pump Long Nose 5lt. Sanitizer liquid hand gel. Mask Non- Woven 3 ply,Petty Cash ,G Fox (Pty) Ltd ,,2020-04-15,2000.00
+8,The International Trade Administration Commission (ITAC),COVID-19 related activities: Clothe Masks (250),Quotation system ,African Global Entertainment Network ,,2020-04-30,12000.00
 8,The International Trade Administration Commission (ITAC),"COVID-19 related activities: Hand sanitizers liquid. (10 X 5lt) Latex gloves (X5 boxes)
-142 empty spray bottles (100ml)",Quotation system ,Munlin Travel ,,24/06/2020,R 6 547.66
-8,The International Trade Administration Commission (ITAC),PPEs: Pump Long Nose 5lt. Sanitizer liquid hand gel. Mask Non- Woven 3 ply,Petty Cash ,G Fox (Pty) Ltd ,2002/031805/07,15/04/2020,R2 000.00
-8,The International Trade Administration Commission (ITAC),PPEs: Cloth Masks (250),Quotation system ,African Global Entertainment Network ,2016/253600/07,30/04/2020,R12 000.00
+142 empty spray bottles (100ml)",Quotation system ,Munlin Travel ,,2020-06-24,6547.66
+8,The International Trade Administration Commission (ITAC),PPEs: Pump Long Nose 5lt. Sanitizer liquid hand gel. Mask Non- Woven 3 ply,Petty Cash ,G Fox (Pty) Ltd ,2002/031805/07,2020-04-15,2000.00
+8,The International Trade Administration Commission (ITAC),PPEs: Cloth Masks (250),Quotation system ,African Global Entertainment Network ,2016/253600/07,2020-04-30,12000.00
 8,The International Trade Administration Commission (ITAC),"PPEs: Hand sanitizers. (10 X 5lt)
 Latex gloves (X5 boxes)
-142 empty spray bottles (100ml)",Quotation system ,Munlin Travel ,2017/301772/07,24/06/2020,R 6 547.66
-9,National Consumer Comission (NCC),COVID-19 related activities: Provided Toll free number for consumer to report price gouging matters,Single source procurement ,Switch Telecom ,2005/037954/07,24/03/2020,R200 000.00
-9,National Consumer Comission (NCC),COVID-19 related activities: Prosecution of suppliers in contravention with COVID- 19 regulations,Single source procurement ,"Gildenhuys, Malatji Incorporate",1987/00211421,01/04/2020,R470 000.00
-9,National Consumer Comission (NCC),PPEs: 130 Masks,Petty cash purchase ,Absolute Office ,2006/029447/07,03/05/2020,"R4,550.00"
-9,National Consumer Comission (NCC),PPEs: 70 Masks,Petty cash purchase ,Blythe Design ,,30/04/2020,"R2,000.00"
-13,National Gambling Board (NGB),COVID-19 Activities from 01 March – 29 July 2020: N/A,N/A,N/A,,,N/A
-13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Hand wash pump and Soap,Petty cash,Makro,1991/006805/07,12/03/2020,R168.70
-13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Hand sanitiser and wipes,Petty cash,Pharma Marketing International,2002/001243/07,12/03/2020,"R1,566.95"
-13,National Gambling Board (NGB),"Procurement of PPEs from 01 March – 29 July 2020: Hand sanitisers, surface cleaners",Petty cash,Pharma Marketing International,2002/001243/07,16/03/2020,"R1,397.50"
-13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Soap dispensers,Petty cash,Store & More,2012/127780/07,16/03/2020,R599.70
-13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Gloves,Petty cash,Krosmosdal Pharmacy,1972/000895/07,18/03/2020,R460.00
-13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Wet wipes,Petty cash,Checkers,1972/000895/07,18/03/2020,"R1,230.77"
-13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Deep cleaning and sanitising of office premises,Quotation,Masana Hygiene services (Pty) Ltd,2014/110265/07,22/07/2020,"R37,260.00"
-13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Personal Protective Equipment: 100 cloth masks 3 layers ; 4 boxes of surgical masks; 10 boxes of N95 or FFP2 mask respirator; 13 boxes of examination gloves; 50 1L bottles of sanitiser (not less than 70%); 3 boxes of aprons; 3 digital thermometers.,Quotation,Muaki Group (Pty) Ltd,2016/573923/07,29/07/2020,"R19,820.00"
-15,National Metrology Institute of South Africa (NMISA) ,Hand Sanitizers,Petty cash,Halouw Make-Up,N/A,23/03/2020,R 500.00
+142 empty spray bottles (100ml)",Quotation system ,Munlin Travel ,2017/301772/07,2020-06-24,6547.66
+9,National Consumer Comission (NCC),COVID-19 related activities: Provided Toll free number for consumer to report price gouging matters,Single source procurement ,Switch Telecom ,2005/037954/07,2020-03-24,200000.00
+9,National Consumer Comission (NCC),COVID-19 related activities: Prosecution of suppliers in contravention with COVID- 19 regulations,Single source procurement ,"Gildenhuys, Malatji Incorporate",1987/00211421,2020-04-01,470000.00
+9,National Consumer Comission (NCC),PPEs: 130 Masks,Petty cash purchase ,Absolute Office ,2006/029447/07,2020-05-03,4550.00
+9,National Consumer Comission (NCC),PPEs: 70 Masks,Petty cash purchase ,Blythe Design ,,2020-04-30,2000.00
+13,National Gambling Board (NGB),COVID-19 Activities from 01 March – 29 July 2020: N/A,N/A,N/A,,,
+13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Hand wash pump and Soap,Petty cash,Makro,1991/006805/07,2020-03-12,168.70
+13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Hand sanitiser and wipes,Petty cash,Pharma Marketing International,2002/001243/07,2020-03-12,1566.95
+13,National Gambling Board (NGB),"Procurement of PPEs from 01 March – 29 July 2020: Hand sanitisers, surface cleaners",Petty cash,Pharma Marketing International,2002/001243/07,2020-03-16,1397.50
+13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Soap dispensers,Petty cash,Store & More,2012/127780/07,2020-03-16,599.70
+13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Gloves,Petty cash,Krosmosdal Pharmacy,1972/000895/07,2020-03-18,460.00
+13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Wet wipes,Petty cash,Checkers,1972/000895/07,2020-03-18,1230.77
+13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Deep cleaning and sanitising of office premises,Quotation,Masana Hygiene services (Pty) Ltd,2014/110265/07,2020-07-22,37260.00
+13,National Gambling Board (NGB),Procurement of PPEs from 01 March – 29 July 2020: Personal Protective Equipment: 100 cloth masks 3 layers ; 4 boxes of surgical masks; 10 boxes of N95 or FFP2 mask respirator; 13 boxes of examination gloves; 50 1L bottles of sanitiser (not less than 70%); 3 boxes of aprons; 3 digital thermometers.,Quotation,Muaki Group (Pty) Ltd,2016/573923/07,2020-07-29,19820.00
+15,National Metrology Institute of South Africa (NMISA) ,Hand Sanitizers,Petty cash,Halouw Make-Up,N/A,2020-03-23,500.00
 15,National Metrology Institute of South Africa (NMISA) ,"Sanitizerdispenser(4)
 and500mlspray
-sanitizer (10)",RFQ Process,Academy,2013/040602/07,05/05/2020,R 4 950.00
+sanitizer (10)",RFQ Process,Academy,2013/040602/07,2020-05-05,4950.00
 15,National Metrology Institute of South Africa (NMISA) ,"Perplexprotective
 sneeze guards (4), face
 shields (20), 3 ply cotton
 masks (400) and 500ml
-empty spray bottles (200)",RFQ Process,Maduwa Paint,2017/045763/07,21/05/2020,R 28 360.00
-15,National Metrology Institute of South Africa (NMISA) ,NMISA branded masks,Petty cash,World,2013/215506/07,08/06/2020,R 950.00
-15,National Metrology Institute of South Africa (NMISA) ,Thermometers (2),Petty cash,Moorejoy (Pty),N/A,08/06/2020,R 2 081.55
+empty spray bottles (200)",RFQ Process,Maduwa Paint,2017/045763/07,2020-05-21,28360.00
+15,National Metrology Institute of South Africa (NMISA) ,NMISA branded masks,Petty cash,World,2013/215506/07,2020-06-08,950.00
+15,National Metrology Institute of South Africa (NMISA) ,Thermometers (2),Petty cash,Moorejoy (Pty),N/A,2020-06-08,2081.55
 15,National Metrology Institute of South Africa (NMISA) ,"Isopropylalcoholand
-Glycerol",RFQ process,Ltd,1970/002497/07,08/06/2020,R 4 174.50
+Glycerol",RFQ process,Ltd,1970/002497/07,2020-06-08,4174.50
 15,National Metrology Institute of South Africa (NMISA) ,"500mlhandsanitizer
 (22),threeplyface
 masks (6), thermometer
-and metal sanitizer stand",RFQ Process,Pulse Mag,2020/163390/07,18/06/2020,R 8 389.00
+and metal sanitizer stand",RFQ Process,Pulse Mag,2020/163390/07,2020-06-18,8389.00
 15,National Metrology Institute of South Africa (NMISA) ,"Visormasks(30)and
 nitrilemedical
 examinationgloves(30
-boxes)",RFQ Process,"Dischem Glenfair,",2004/113796/23,18/06/2020,R 8 100.00
+boxes)",RFQ Process,"Dischem Glenfair,",2004/113796/23,2020-06-18,8100.00
 15,National Metrology Institute of South Africa (NMISA) ,"Nitrilemedical
 examinationgloves
 (small,medium,and
 large 9 boxes) and face
-masks (5 boxes)",RFQ Process,PTA,2000/010102/07,20/07/2020,R 3 363.75
+masks (5 boxes)",RFQ Process,PTA,2000/010102/07,2020-07-20,3363.75
 17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Perspex protective screens for
-reception areas",3 quotes,Auspicious Group Services,,06/05/2020,"R 195,000.00"
-17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Supercare,,13/05/2020,"R 7,272.77"
-17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Khanya Cleaning Group,,25/05/2020,"R 1,092.50"
-17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Delta Cleaning and Hygiene,,15/06/2020,"R 9,522.00"
-17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",Emergency,Delta Cleaning and Hygiene,,17/06/2020,"R 91,312.50"
-17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Khanya Cleaning Group,,01/07/2020,"R 1,380.00"
-17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Delta Cleaning and Hygiene,,09/07/2020,"R 9,522.00"
-17,South African Bureau of Standards (SANBS),PPEs : Alcohol based hand sanitizer,Emergency,Infection Protection Products,1980/002565/07,17/03/2020,"R 8,595.80"
+reception areas",3 quotes,Auspicious Group Services,,2020-05-06,195000.00
+17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Supercare,,2020-05-13,7272.77
+17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Khanya Cleaning Group,,2020-05-25,1092.50
+17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Delta Cleaning and Hygiene,,2020-06-15,9522.00
+17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",Emergency,Delta Cleaning and Hygiene,,2020-06-17,91312.50
+17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Khanya Cleaning Group,,2020-07-01,1380.00
+17,South African Bureau of Standards (SANBS),"COVID-19 related activities: Fogging/Disinfecting of offices, buildings and laboratories",1 quote,Delta Cleaning and Hygiene,,2020-07-09,9522.00
+17,South African Bureau of Standards (SANBS),PPEs : Alcohol based hand sanitizer,Emergency,Infection Protection Products,1980/002565/07,2020-03-17,8595.80
 17,South African Bureau of Standards (SANBS),PPEs : Alcohol based hand sanitizer,Emergency,"M Jnr & Olwethu Consulting T/A
-MJO",2014/035097/07,26/03/2020,"R 120,300.00"
+MJO",2014/035097/07,2020-03-26,120300.00
 17,South African Bureau of Standards (SANBS),PPEs : Sanitizer refill bottles,Emergency,"M Jnr & Olwethu Consulting T/A
-MJO",2014/035097/07,26/03/2020,"R 32,700.00"
-17,South African Bureau of Standards (SANBS),PPEs : Surgical masks,Emergency,DJ Montoya Training and Projects,2008/026290/23,01/04/2020,"R 12,500.00"
-17,South African Bureau of Standards (SANBS),PPEs : Thermometers,Emergency,Ramoeng Business Consultants,2010/018037/23,01/04/2020,"R 74,970.00"
-17,South African Bureau of Standards (SANBS),PPEs : Latex gloves,1 quote,DJ Montoya Training and Projects,2008/026290/23,17/04/2020,"R 2,910.00"
-17,South African Bureau of Standards (SANBS),PPEs : Thermometers,1 quote,Makrosafe Holdings,1999/019559/07,24/04/2020,"R 8,050.00"
-17,South African Bureau of Standards (SANBS),PPEs : Sanitizer refill bottles,1 quote,The Dental Warehouse,1978/016918/07,30/04/2020,"R 9,000.00"
-17,South African Bureau of Standards (SANBS),PPEs : Alcohol based hand sanitizer,3 quotes,JD Strategic Investments,2011/105035/23,07/05/2020,"R 119,937.50"
-17,South African Bureau of Standards (SANBS),PPEs : Fabric masks,3 quotes,Radeen Fashions,1962/000459/07,12/05/2020,"R 121,790.75"
-17,South African Bureau of Standards (SANBS),PPEs : Alcohol based hand sanitizer,3 quotes,Chemtron,2012/068783/07,15/05/2020,"R 359,950.00"
-17,South African Bureau of Standards (SANBS),PPEs : Face shields,3 quotes,Linn Business,2019/065450/07,15/05/2020,"R 65,000.00"
-17,South African Bureau of Standards (SANBS),PPEs : Boot covers,3 quotes,JD Strategic Investment,2011/105035/23,15/05/2020,"R 1,300.00"
-17,South African Bureau of Standards (SANBS),PPEs : N95 masks,3 quotes,Igugulindiwe Pty Ltd,2014/057318/07,18/05/2020,"R 12,420.00"
-17,South African Bureau of Standards (SANBS),PPEs : Disposable gowns,3 quotes,Nhlayiseko Holdings,2016/392246/07,18/05/2020,"R 80,000.00"
-17,South African Bureau of Standards (SANBS),PPEs : Surgical masks,3 quotes,Nhlayiseko Holdings,2016/392246/07,18/05/2020,"R 800,000.00"
-17,South African Bureau of Standards (SANBS),PPEs : Latex gloves,3 quotes,Igugulindiwe Pty Ltd,2014/057318/07,18/05/2020,"R 17,600.00"
-17,South African Bureau of Standards (SANBS),PPEs : Conti suits,3 quotes,Nhlayiseko Holdings,2016/392246/07,29/07/2020,"R 91,000.00"
-17,South African Bureau of Standards (SANBS),PPEs : Automated sanitizer dispensers,3 quotes,Ezweni Corporations,2014/190987/07,29/07/2020,"R 148,569.36"
-17,South African Bureau of Standards (SANBS),PPEs : Thermometers,3 quotes,ANL Holdings,2013/148815/07,29/07/2020,"R 52,324.00"
+MJO",2014/035097/07,2020-03-26,32700.00
+17,South African Bureau of Standards (SANBS),PPEs : Surgical masks,Emergency,DJ Montoya Training and Projects,2008/026290/23,2020-04-01,12500.00
+17,South African Bureau of Standards (SANBS),PPEs : Thermometers,Emergency,Ramoeng Business Consultants,2010/018037/23,2020-04-01,74970.00
+17,South African Bureau of Standards (SANBS),PPEs : Latex gloves,1 quote,DJ Montoya Training and Projects,2008/026290/23,2020-04-17,2910.00
+17,South African Bureau of Standards (SANBS),PPEs : Thermometers,1 quote,Makrosafe Holdings,1999/019559/07,2020-04-24,8050.00
+17,South African Bureau of Standards (SANBS),PPEs : Sanitizer refill bottles,1 quote,The Dental Warehouse,1978/016918/07,2020-04-30,9000.00
+17,South African Bureau of Standards (SANBS),PPEs : Alcohol based hand sanitizer,3 quotes,JD Strategic Investments,2011/105035/23,2020-05-07,119937.50
+17,South African Bureau of Standards (SANBS),PPEs : Fabric masks,3 quotes,Radeen Fashions,1962/000459/07,2020-05-12,121790.75
+17,South African Bureau of Standards (SANBS),PPEs : Alcohol based hand sanitizer,3 quotes,Chemtron,2012/068783/07,2020-05-15,359950.00
+17,South African Bureau of Standards (SANBS),PPEs : Face shields,3 quotes,Linn Business,2019/065450/07,2020-05-15,65000.00
+17,South African Bureau of Standards (SANBS),PPEs : Boot covers,3 quotes,JD Strategic Investment,2011/105035/23,2020-05-15,1300.00
+17,South African Bureau of Standards (SANBS),PPEs : N95 masks,3 quotes,Igugulindiwe Pty Ltd,2014/057318/07,2020-05-18,12420.00
+17,South African Bureau of Standards (SANBS),PPEs : Disposable gowns,3 quotes,Nhlayiseko Holdings,2016/392246/07,2020-05-18,80000.00
+17,South African Bureau of Standards (SANBS),PPEs : Surgical masks,3 quotes,Nhlayiseko Holdings,2016/392246/07,2020-05-18,800000.00
+17,South African Bureau of Standards (SANBS),PPEs : Latex gloves,3 quotes,Igugulindiwe Pty Ltd,2014/057318/07,2020-05-18,17600.00
+17,South African Bureau of Standards (SANBS),PPEs : Conti suits,3 quotes,Nhlayiseko Holdings,2016/392246/07,2020-07-29,91000.00
+17,South African Bureau of Standards (SANBS),PPEs : Automated sanitizer dispensers,3 quotes,Ezweni Corporations,2014/190987/07,2020-07-29,148569.36
+17,South African Bureau of Standards (SANBS),PPEs : Thermometers,3 quotes,ANL Holdings,2013/148815/07,2020-07-29,52324.00
