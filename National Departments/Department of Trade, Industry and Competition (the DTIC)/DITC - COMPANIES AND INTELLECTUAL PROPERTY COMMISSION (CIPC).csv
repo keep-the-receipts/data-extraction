@@ -1,38 +1,38 @@
-TYPE OF GOODS,NUMBER OF GOODS,DATE,PROCUREMENT PROCESS,TOTAL CONTRACT AMOUNT,NAME OF COMPANY
-"1.       Automatic Sanitiser
-Dispensers",35,19-May-20,"Request for quotations
+buyer_name,items_description,items_quantity,invoice_date,procurement_method,order_amount_zar,supplier_name
+Companies and Intellectual Property Commission (CIPC),"1.       Automatic Sanitiser
+Dispensers",35,2020-05-19,"Request for quotations
 (R4749.50 x 12 months rental
-per month)",R56 994.00,SUPERCARE
-2.       N95 Masks,10000,25-May-20,Request for quotations,R95 000.00,SUPRAHEALTHCARE
-"3.       70% Alcohol Based
-Sanitisers",20L X 10,25-May-20,Request for quotations,R21 134.20,SUPRAHEALTHCARE
-4.       Latex Gloves,1000,25-May-20,Request for quotations,R1 290.00,SUPRAHEALTHCARE
-5.       Nurse (6 months contract),1,06-Jul-20,Request for quotations,R113 556.00,ALLMED
-6.       Liquid Soap,26,18-May-20,Petty Cash,R951.00,MAKRO
-"7.       Courier Services to Cape
-Town Office",1,19-Jun-20,Petty Cash,R1 256.00,POSTNET
-8.       Liquid Soap,115,,Petty Cash,R1 840.00,MAKRO
-"9.       Body Temperature
-Scanners",5,20-Jul-20,"Emergency Procurement
+per month)",56994.00,SUPERCARE
+Companies and Intellectual Property Commission (CIPC),2.       N95 Masks,10000,2020-05-25,Request for quotations,95000.00,SUPRAHEALTHCARE
+Companies and Intellectual Property Commission (CIPC),"3.       70% Alcohol Based
+Sanitisers",20L X 10,2020-05-25,Request for quotations,21134.20,SUPRAHEALTHCARE
+Companies and Intellectual Property Commission (CIPC),4.       Latex Gloves,1000,2020-05-25,Request for quotations,1290.00,SUPRAHEALTHCARE
+Companies and Intellectual Property Commission (CIPC),5.       Nurse (6 months contract),1,2020-07-06,Request for quotations,113556.00,ALLMED
+Companies and Intellectual Property Commission (CIPC),6.       Liquid Soap,26,2020-05-18,Petty Cash,951.00,MAKRO
+Companies and Intellectual Property Commission (CIPC),"7.       Courier Services to Cape
+Town Office",1,2020-06-19,Petty Cash,1256.00,POSTNET
+Companies and Intellectual Property Commission (CIPC),8.       Liquid Soap,115,,Petty Cash,1840.00,MAKRO
+Companies and Intellectual Property Commission (CIPC),"9.       Body Temperature
+Scanners",5,2020-07-20,"Emergency Procurement
 therefore Deviation from normal
-Procurement process",R4 500.00,INTELLISEC
-"10.   Body Temperature
-Scanners",5,17-Mar-20,"Emergency Procurement
+Procurement process",4500.00,INTELLISEC
+Companies and Intellectual Property Commission (CIPC),"10.   Body Temperature
+Scanners",5,2020-03-17,"Emergency Procurement
 therefore Deviation from normal
-Procurement process",R5 300.00,CLICKS
-"11.   Decontamination and
-Fogging (Pta and Jhb Offices)",As and when need arises,04-Jun-20,Request for quotations,R24 150.00,MASANA HYGIENE SERVICES
-"12.   Decontamination and
-Fogging (Cape Town Office)",As and when need arises,06-Jul-20,Request for quotations,R25 567.74,SERVEST
-"13.   Decontamination and
-Fogging (Pta)",As and when need arises,23-Jun-20,Request for quotations,R77 991.61,BIDVEST
-14.   Office Deep Cleaning,As and when need arises,03-Jun-20,Request for quotations,R12 075.00,MASANA HYGIENCE SERVICES
-"15.   Doc Marking Tapes
-(Pretoria, Jhb, Cape Town, )",,May-20,Petty Cash,R2 000.00,BUILDERS WAREHOUSE
-"16.   Perspex screen dividers
-(Pta, Jhb and CT SSC)",,May-20,Petty Cash,R6 000.00,WOODKNOT WORKSHOP
-"17.   Social Distancing Markers
-(Durban Office)",14,May-20,Petty Cash,R2 000.00,MAXWELL ADVERTISING & DESIGN
-18.   Cloth Masks,1200,07-May-20,"Emergency Procurement
+Procurement process",5300.00,CLICKS
+Companies and Intellectual Property Commission (CIPC),"11.   Decontamination and
+Fogging (Pta and Jhb Offices)",As and when need arises,2020-06-04,Request for quotations,24150.00,MASANA HYGIENE SERVICES
+Companies and Intellectual Property Commission (CIPC),"12.   Decontamination and
+Fogging (Cape Town Office)",As and when need arises,2020-07-06,Request for quotations,25567.74,SERVEST
+Companies and Intellectual Property Commission (CIPC),"13.   Decontamination and
+Fogging (Pta)",As and when need arises,2020-06-23,Request for quotations,77991.61,BIDVEST
+Companies and Intellectual Property Commission (CIPC),14.   Office Deep Cleaning,As and when need arises,2020-06-03,Request for quotations,12075.00,MASANA HYGIENCE SERVICES
+Companies and Intellectual Property Commission (CIPC),"15.   Doc Marking Tapes
+(Pretoria, Jhb, Cape Town, )",,2020-05-01,Petty Cash,2000.00,BUILDERS WAREHOUSE
+Companies and Intellectual Property Commission (CIPC),"16.   Perspex screen dividers
+(Pta, Jhb and CT SSC)",,2020-05-01,Petty Cash,6000.00,WOODKNOT WORKSHOP
+Companies and Intellectual Property Commission (CIPC),"17.   Social Distancing Markers
+(Durban Office)",14,2020-05-01,Petty Cash,2000.00,MAXWELL ADVERTISING & DESIGN
+Companies and Intellectual Property Commission (CIPC),18.   Cloth Masks,1200,2020-05-07,"Emergency Procurement
 therefore Deviation from normal
-Procurement process",R30 000.00,ANGIOCHEM
+Procurement process",30000.00,ANGIOCHEM
