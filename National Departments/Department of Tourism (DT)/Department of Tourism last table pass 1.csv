@@ -1,23 +1,23 @@
-a) Name of Company,b)Amount,c)Goods/Service Acquired
-Total Resource Corporation Africa,"R1480,00",Thermal Scanner
-Queenswood Pharmacy,"R1 950,00",Thermal Scanner
-Clicks,"R920,00",Hand Sanitisers and Masks
-Builders Warehouse,"R550,00",Sanitiser Dispensers
-"Servest Hygiene & Servest Interior
-Solutions","R1782,50",Hand Sanitisers
-Clicks,"R474,60",Hygiene Wipes
-Builders Warehouse,"R427,90",Sanitiser Dispensers
-"Servest Hygiene & Servest Interior
-Solutions","R1 782,50",Hand Sanitisers
-Waverley Pharmacy,"R1 299,90",Thermal Scanner
-Lynwood Road Pharmacy,"R1 985,40",Hand Sanitisers and Masks
-The Laser House,"R1 875,00",Desk Shields
-The Laser House,"R1 875,00",Desk Shields
-Lynwood Road Pharmacy,"R1990,60",Hand Sanitisers and Masks
-Talking Heads Advertising(PTY)Ltd,"R1 800,00","Marketing material for the
+buyer_name,supplier_name,order_amount_zar,items_required
+Department of Tourism (DT),Total Resource Corporation Africa,1480.00,Thermal Scanner
+Department of Tourism (DT),Queenswood Pharmacy,1950.00,Thermal Scanner
+Department of Tourism (DT),Clicks,920.00,Hand Sanitisers and Masks
+Department of Tourism (DT),Builders Warehouse,550.00,Sanitiser Dispensers
+Department of Tourism (DT),"Servest Hygiene & Servest Interior
+Solutions",1782.50,Hand Sanitisers
+Department of Tourism (DT),Clicks,474.60,Hygiene Wipes
+Department of Tourism (DT),Builders Warehouse,427.90,Sanitiser Dispensers
+Department of Tourism (DT),"Servest Hygiene & Servest Interior
+Solutions",1782.50,Hand Sanitisers
+Department of Tourism (DT),Waverley Pharmacy,1299.90,Thermal Scanner
+Department of Tourism (DT),Lynwood Road Pharmacy,1985.40,Hand Sanitisers and Masks
+Department of Tourism (DT),The Laser House,1875.00,Desk Shields
+Department of Tourism (DT),The Laser House,1875.00,Desk Shields
+Department of Tourism (DT),Lynwood Road Pharmacy,1990.60,Hand Sanitisers and Masks
+Department of Tourism (DT),Talking Heads Advertising(PTY)Ltd,1800.00,"Marketing material for the
 Tourism Relief Fund"
-Lynwood Road Pharmacy,"R1 997,50",Hand Sanitisers
-Ackermans Pharmacy,"R374,00",Face Masks
-Mopani Pharmacy,"R307,00",Hand Sanitisers and Masks
-Brooklyn Pharmacy,"R245,00",Hand Sanitisers and Masks
-Pick and Pay,"R1 997,50",Hand Sanitisers
+Department of Tourism (DT),Lynwood Road Pharmacy,1997.50,Hand Sanitisers
+Department of Tourism (DT),Ackermans Pharmacy,374.00,Face Masks
+Department of Tourism (DT),Mopani Pharmacy,307.00,Hand Sanitisers and Masks
+Department of Tourism (DT),Brooklyn Pharmacy,245.00,Hand Sanitisers and Masks
+Department of Tourism (DT),Pick and Pay,1997.50,Hand Sanitisers
