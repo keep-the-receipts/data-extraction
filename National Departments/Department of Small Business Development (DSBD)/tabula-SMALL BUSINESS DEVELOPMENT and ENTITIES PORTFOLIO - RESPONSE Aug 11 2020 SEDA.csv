@@ -1,24 +1,11 @@
-buyer_name,implementation_location_province,"Name of Province /
-National Office","Details of procured goods
-and services (including
-disinfection of offices and
-PPE)","Procurement
-process
-followed","Name of
-service
-provider
-(Appointed
-Company)","Company
-registration
-number","Date of
+buyer_name,implementation_location_province,implementation_location_other,items_description,procurement_method,supplier_name,company_registration_number,"Date of
 appointment
-(Order date)","Contract value
-(R)"
+(Order date)",award_date,order_amount_zar
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,"500ml Sanitizer
 Bottles(Quantity:1660)","Request For
 Quotation (RFQ)","Unitrade
 1032 CC","CK No.:
-1998/002665/23",09/04/2020,R103 086.00
+1998/002665/23",09/04/2020,2020-04-09,103086.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,"National Office plus
 9(Nine) Provincial
 Offices and Seda
@@ -30,1319 +17,1086 @@ Digital Thermometers (QTY:90)","NT Instruction
 Note 3 of
 2020/21","Spot On
 Trading","Reg No:
-2005/052378/23",06/05/2020,R 552 028.00
+2005/052378/23",06/05/2020,2020-05-06,552028.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,Cloth masks(QTY:450),"Request For
 Quotation","Style
 Substratum","REG No: 2016
-356437/07",31/06/2020,R 9 350.00
+356437/07",31/06/2020,2020-06-31,9350.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,"Fogging and Disinfection of the
 building","Request For
 Quotation","Apple Tree
 Investment","Reg No:
-2019/405500/07",08/07/2020,R 29 740.00
+2019/405500/07",08/07/2020,2020-07-08,29740.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,"Dettol(QTY:2X6X125ml and
 1X12X50ml)  and
-bottles(QTY:135X5ml)",Petty Cash,,N/A,23/03/2020,R 3 509.70
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,Sanitizers(QTY:60X500ml),Petty Cash,,N/A,16/03/2020,R 3 900.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,"Name of Province /
-National Office","Details of procured goods
-and services (including
-disinfection of offices and
-PPE)","Procurement
-process
-followed","Name of
-service
-provider
-(Appointed
-Company)","Company
-registration
-number","Date of
-appointment
-(Order date)","Contract value
-(R)"
+bottles(QTY:135X5ml)",Petty Cash,,N/A,23/03/2020,2020-03-23,3509.70
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,Sanitizers(QTY:60X500ml),Petty Cash,,N/A,16/03/2020,2020-03-16,3900.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,"Social Distance
 Stickers(QTY:33X stickers)(3x
 Duct tapes) and
 batteries(4XAAand 2XAAA)",Petty Cash,,N/A,"07/05-26/06
-& 17/07/2020",R 2 726.60
+& 17/07/2020",,2726.60
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,"Sanitation Step Foot
 Operator(QTY:4)",Petty Cash,,N/A,"17-
-23/07/20202",R 4 784.00
+23/07/20202","17-
+23/07/20202",4784.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,"Counter top Protection
-Screen(QTY:3)plus transport",Petty Cash,,N/A,26/06/2020,R 4 250.00
+Screen(QTY:3)plus transport",Petty Cash,,N/A,26/06/2020,2020-06-26,4250.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),,National Office,"Disposable Coverall for Building
-sanitation(QTY:3)",Petty Cash,,N/A,17/07/2020,R 495.00
+sanitation(QTY:3)",Petty Cash,,N/A,17/07/2020,2020-07-17,495.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Office disinfecting for JHB & PO
-- COVID-19 case","Petty Cash –
-each branch
-procured their
+- COVID-19 case","Petty Cash
+each branch procured their
 own as it was
 below R2000","Safe pest
-control",N/A,04/05/2020,"1,200.00"
+control",N/A,04/05/2020,2020-05-04,1200.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Reception desk protection
-screen - JHB","Petty Cash –
-each branch
-procured their
+screen - JHB","Petty Cash
+each branch procured their
 own as it was
 below R2000","CNC
-National",N/A,20/05/2020,"1,475.00"
+National",N/A,20/05/2020,2020-05-20,1475.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Reception desk protection
-screen – Kempton Park","Petty Cash –
-each branch
-procured their
+screen â€“ Kempton Park","Petty Cash
+each branch procured their
 own as it was
 below R2000","CNC
-National",N/A,24/06/2020,"1,475.00"
+National",N/A,24/06/2020,2020-06-24,1475.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Office disinfecting- COVID-19
-case - JHB & PO","Petty Cash –
-each branch
-procured their
+case - JHB & PO","Petty Cash
+each branch procured their
 own as it was
 below R2000","Safe pest
-control",N/A,25/06/2020,"1,500.00"
+control",N/A,25/06/2020,2020-06-25,1500.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Reception desk protection
-screen – PTA","Petty Cash –
-each branch
-procured their
+screen â€“ PTA","Petty Cash
+each branch procured their
 own as it was
 below R2000","CNC
-National",N/A,09/06/2020,"1,650.00"
+National",N/A,09/06/2020,2020-06-09,1650.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Floor markers stickers - social
 distancing",RFQ,"Ramsking
-Consulting",2009/219875/23,12/06/2020,"14,250.00"
+Consulting",2009/219875/23,12/06/2020,2020-06-12,14250.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,2ply Cloth face masks,RFQ,"Paulesh
-(Pty)Ltd",2015/394652/07,22/06/2020,"3,000.00"
+(Pty)Ltd",2015/394652/07,22/06/2020,2020-06-22,3000.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Protective personal equipment
 for staff",RFQ,"Makgamatha
-Holdings",2013/080585/07,29/06/2020,"61,151.65"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Batteries for thermometer–
-COVID-19","Petty Cash –
-each branch",Clicks,N/A,02/06/2020,40.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,,,"procured their
+Holdings",2013/080585/07,29/06/2020,2020-06-29,61151.65
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Batteries for thermometerâ€“
+COVID-19","Petty Cash
+each branch procured their
 own as it was
-below R2000",,,,
+below R2000",Clicks,N/A,02/06/2020,2020-06-02,40.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Print out and laminated posters
-for COVID-19","Petty Cash –
-each branch
-procured their
+for COVID-19","Petty Cash
+each branch procured their
 own as it was
 below R2000","301 Horizon
-View",N/A,15/06/2020,"1,523.00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"OHS supplies for office –
-COVID-19","Petty Cash –
-each branch
-procured their
+View",N/A,15/06/2020,2020-06-15,1523.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"OHS supplies for office â€“
+COVID-19","Petty Cash
+each branch procured their
 own as it was
 below R2000","Westpack
-Lifestyle",N/A,24/06/2020,353.00
+Lifestyle",N/A,24/06/2020,2020-06-24,353.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Gauteng,Seda Gauteng,"Office disinfecting- COVID-19
-case","Petty Cash –
-each branch
-procured their
+case","Petty Cash
+each branch procured their
 own as it was
-below R2000",HWTC,N/A,21/07/2020,"1,500.00"
+below R2000",HWTC,N/A,21/07/2020,2020-07-21,1500.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Limpopo,Limpopo Province,"Foot Operated Sanitizer
 Dispensers for 6x
 Offices/Branches",RFQ,"Dirty Clinique
 Cleaning
-Services",2016/188013/07,2020/06/18,R29 600.00
+Services",2016/188013/07,18/06/2020,2020-06-18,29600.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Limpopo,Limpopo Province,"Fumigation/Disinfection Of 6x
 Offices/Branches",RFQ,"Cleaning
-Specialist",2015/267996/07,2020/05/07,R15 097.20
+Specialist",2015/267996/07,07/05/2020,2020-05-07,15097.20
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Limpopo,Limpopo Province,"Masks/Desk
 Screens/Sanitisers/Temperature
 Scanner/Distance marking
-Tapes for 6 x Offices/Branches",RFQ,,N/A,,R23 748.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Provincial Office,Hand Sanitizers,"Petty Cash –
-each branch
-procured their
+Tapes for 6 x Offices/Branches",RFQ,,N/A,,,23748.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Provincial Office,Hand Sanitizers,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Forever
 Living","No info on
-receipt",23/04/2020,R395.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Provincial Office,Hand Sanitizers,"Petty Cash –
-each branch
-procured their
+receipt",23/04/2020,2020-04-23,395.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Provincial Office,Hand Sanitizers,"Petty Cash
+each branch procured their
 own as it was
 below R2000","SK Industrial
 Solutions","No info on
-receipt",23/04/2020,R475.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Provincial Office,Thermometer,"Petty Cash –
-each branch
-procured their",Dromex,2011/057447/23,7/05/2020,R1 950.75
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Provincial Office,Office Deep clean,Contract,Rentokil,1967/013286/07,23/04/2020,R2 875.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – OR Tambo,Covid19 awareness posters,"Petty Cash –
-each branch
-procured their
+receipt",23/04/2020,2020-04-23,475.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Provincial Office,Thermometer,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Dromex,2011/057447/23,07/05/2020,2020-05-07,1950.75
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Provincial Office,Office Deep clean,Contract,Rentokil,1967/013286/07,23/04/2020,2020-04-23,2875.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC OR Tambo,Covid19 awareness posters,"Petty Cash
+each branch procured their
 own as it was
 below R2000",The Ink Spot,"Only VAT no.
-4920160316",29/05/2020,R66.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – OR Tambo,Antiseptic Liquid,"Petty Cash –
-each branch
-procured their
+4920160316",29/05/2020,2020-05-29,66.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC OR Tambo,Antiseptic Liquid,"Petty Cash
+each branch procured their
 own as it was
 below R2000",Spar,"Only VAT no.
-4460156583",29/05/2020,146.60
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – OR Tambo,Hand sanitizer + 8spray bottles,"Petty Cash –
-each branch
-procured their
+4460156583",29/05/2020,2020-05-29,146.60
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC OR Tambo,Hand sanitizer + 8spray bottles,"Petty Cash
+each branch procured their
 own as it was
 below R2000",Aminachem,"Only VAT no.
-4620267684",29/05/2020,R534.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – OR Tambo,Re-usable masks X10,"Petty Cash –
-each branch
-procured their
+4620267684",29/05/2020,2020-05-29,534.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC OR Tambo,Re-usable masks X10,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Sikhuluwe
-Trading",2008/021793/23,29/05/2020,R300.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Provincial Office,Desk Stand  + Face Shields X2,"Petty Cash –
-each branch
-procured their
+Trading",2008/021793/23,29/05/2020,2020-05-29,300.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Provincial Office,Desk Stand  + Face Shields X2,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Mattison
-Graffix",2003/016177/23,14/05/2020,R1 528.30
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Provincial Office,Mask Nano wave,"Petty Cash –
-each branch
-procured their
+Graffix",2003/016177/23,14/05/2020,2020-05-14,1528.30
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Provincial Office,Mask Nano wave,"Petty Cash
+each branch procured their
 own as it was
 below R2000",Bentocorp,"No info on
-receipt",18/05/2020,R600.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Amathole,Hand Sanitizers,"Petty Cash –
-each branch
-procured their
+receipt",18/05/2020,2020-05-18,600.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Amathole,Hand Sanitizers,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Silver
-Emerald",2018/331594/07,18/05/2020,R490.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Nelson Mandela,Office Deep Clean,Contract,"Bidvest
-Steiner",2000/011155/07,20/05/2020,R2 070.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Alfred Nzo,Batteries for Thermometer,"Petty Cash –
-each branch
-procured their
+Emerald",2018/331594/07,18/05/2020,2020-05-18,490.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Nelson Mandela,Office Deep Clean,Contract,"Bidvest
+Steiner",2000/011155/07,20/05/2020,2020-05-20,2070.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Alfred Nzo,Batteries for Thermometer,"Petty Cash
+each branch procured their
 own as it was
 below R2000",Spar,"Only VAT no.
-4360256913",28/05/2020,R104.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Alfred Nzo,Disposable Masks and Gloves,"Petty Cash –
-each branch
-procured their
+4360256913",28/05/2020,2020-05-28,104.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Alfred Nzo,Disposable Masks and Gloves,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Lathi-Thaa
 Pharmacy","No info on
-receipt",28/05/2020,R700.95
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Alfred Nzo,Foot pedal sanitizer,"Petty Cash –
-each branch
-procured their
+receipt",28/05/2020,2020-05-28,700.95
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Alfred Nzo,Foot pedal sanitizer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","African
-Medium Hold",2013/070898/07,28/05/2020,R1782.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Chris Hani,"Masks, Disinfectant, Cloth","Petty Cash –
-each branch
-procured their
+Medium Hold",2013/070898/07,28/05/2020,2020-05-28,1782.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Chris Hani,"Masks, Disinfectant, Cloth","Petty Cash
+each branch procured their
 own as it was
 below R2000",Superclean,"Only VAT no.
-4900168677",5/05/2020,R853.20
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – OR Tambo,Office Deep Clean,"Petty Cash –
-each branch
-procured their
+4900168677",05/05/2020,2020-05-05,853.20
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC OR Tambo,Office Deep Clean,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Igubevu
-Trading",2009/012404/23,25/06/2020,R1 800.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – OR Tambo,Covid19 Awareness Posters,"Petty Cash –
-each branch
-procured their","Andz Li
-Trading",2013/02553/07,25/06/2020,R900.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Alfred Nzo,Counter Screens,RFQ,"African
-Medium Hold",2013/070898/07,15/06/2020,R8 797.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Nelson Mandela,Counter Screens,RFQ,"Brochure
-Mgmnt",2013/035810/07,01/07/2020,R8 200.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Chris Hani,Office Deep Clean,RFQ,Pro Clean,2006/070983/23,28/07/2020,R5 535.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Nelson Mandela,Office Deep Clean,Contract,"Bidvest
-Steiner",2000/011155/07,28/07/2020,R2 070.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Alfred Nzo,Face Shields,"Petty Cash –
-each branch
-procured their
+Trading",2009/012404/23,25/06/2020,2020-06-25,1800.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC OR Tambo,Covid19 Awareness Posters,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Andz Li
+Trading",2013/02553/07,25/06/2020,2020-06-25,900.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Alfred Nzo,Counter Screens,RFQ,"African
+Medium Hold",2013/070898/07,15/06/2020,2020-06-15,8797.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Nelson Mandela,Counter Screens,RFQ,"Brochure
+Mgmnt",2013/035810/07,01/07/2020,2020-07-01,8200.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Chris Hani,Office Deep Clean,RFQ,Pro Clean,2006/070983/23,28/07/2020,2020-07-28,5535.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Nelson Mandela,Office Deep Clean,Contract,"Bidvest
+Steiner",2000/011155/07,28/07/2020,2020-07-28,2070.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Alfred Nzo,Face Shields,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Lathi-Thaa
 Pharmacy","No info on
-receipt",27/07/2020,R139.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Alfred Nzo,Sanitizer Containers,"Petty Cash –
-each branch
-procured their
+receipt",27/07/2020,2020-07-27,139.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Alfred Nzo,Sanitizer Containers,"Petty Cash
+each branch procured their
 own as it was
 below R2000",China Mall,"No info on
-receipt",27/07/2020,R89.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Chris Hani,Counter Screen,"Petty Cash –
-each branch
-procured their",Glasfit,"Only VAT no.
-4360282844",27/07/20,R2000.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC – Nelson Mandela,Thermometer,"Petty Cash –
-each branch
-procured their
+receipt",27/07/2020,2020-07-27,89.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Chris Hani,Counter Screen,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Glasfit,"Only VAT no.
+4360282844",27/07/2020,2020-07-27,2000.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Eastern Cape,EC Nelson Mandela,Thermometer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Protea
 Pharmacy","Only VAT no.
-4370252860",28/07/2020,R1 110.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Provincial Office,Cloth Masks,"Petty Cash –
-each branch
-procured their
+4370252860",28/07/2020,2020-07-28,1110.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Provincial Office,Cloth Masks,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Technicolour
-Auto Spa",2018/576815/07,29/05/2020,R990
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Provincial Office,Shield Screen,"Petty Cash –
-each branch
-procured their
+Auto Spa",2018/576815/07,29/05/2020,2020-05-29,990.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Provincial Office,Shield Screen,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Technicolour
-AutoSpa",2018/576815/07,29/05/2020,R1025
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Provincial Office,Social Distance Stickers,"Petty Cash –
-each branch
-procured their
+AutoSpa",2018/576815/07,29/05/2020,2020-05-29,1025.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Provincial Office,Social Distance Stickers,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Ruffael
-Printing",2013/223406/07,01/06/2020,R1990
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Provincial Office,Disinfecting of Office,RFQ,Relisec,2014/150594/07,07/05/2020,R4600
+Printing",2013/223406/07,01/06/2020,2020-06-01,1990.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Provincial Office,Disinfecting of Office,RFQ,Relisec,2014/150594/07,07/05/2020,2020-05-07,4600.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Lejweleputswa,"Shield Screen and
-Consumables","Petty Cash –
-each branch
-procured their
+Consumables","Petty Cash
+each branch procured their
 own as it was
 below R2000","Fortna 196
-CC",2011/036750/23,26/06/2020,R816.50
+CC",2011/036750/23,26/06/2020,2020-06-26,816.50
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Lejweleputswa,Disinfecting of Office,RFQ,"Hygiene
-Outright",2015/031643/07,20/05/2020,R2718.6
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Thabo Mofutsanyane,Hand Sanitizers,"Petty Cash –
-each branch
-procured their
+Outright",2015/031643/07,20/05/2020,2020-05-20,2718.60
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Thabo Mofutsanyane,Hand Sanitizers,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Phantom VI
 Ethanol
-Fumigator",2018/567396/07,19/05/2020,R1200
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Thabo Mofutsanyane,Batteries for Thermometers,"Petty Cash –
-each branch
-procured their
+Fumigator",2018/567396/07,19/05/2020,2020-05-19,1200.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Thabo Mofutsanyane,Batteries for Thermometers,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Pep,N/A,29/05/2020,R224.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Thabo Mofutsanyane,Cloth Masks,"Petty Cash –
-each branch
-procured their
+below R2000",Pep,N/A,29/05/2020,2020-05-29,224.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Thabo Mofutsanyane,Cloth Masks,"Petty Cash
+each branch procured their
 own as it was
 below R2000","100 Concept
-Store",2016/51029/07,10/06/2020,R1322
+Store",2016/51029/07,10/06/2020,2020-06-10,1322.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Fezile Dabi,Disinfecting of Office,RFQ,"Burewa
-Trading",2007/149406/23,28/04/2020,R8250
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Fezile Dabi,Batteries For Thermometers,"Petty Cash –
-each branch
-procured their
+Trading",2007/149406/23,28/04/2020,2020-04-28,8250.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Fezile Dabi,Batteries For Thermometers,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Shao Chun
-Trading",2010/059518/23,26/05/2020,R50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Fezile Dabi,Reflector Tapes,"Petty Cash –
-each branch
-procured their
+Trading",2010/059518/23,26/05/2020,2020-05-26,50.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Fezile Dabi,Reflector Tapes,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Shao Chun
-Trading",2010/059518/23,26/05/2020,R260
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Fezile Dabi,Shield Screens,"Petty Cash –
-each branch
-procured their
+Trading",2010/059518/23,26/05/2020,2020-05-26,260.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Fezile Dabi,Shield Screens,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Bayanda
 Business
-Academy",2008/230417/23,27/05/2020,R1483.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Latex Gloves,"Petty Cash –
-each branch
-procured their
+Academy",2008/230417/23,27/05/2020,2020-05-27,1483.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Latex Gloves,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Spar,N/A,29/04/2020,R250
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Hand Sanitizers,"Petty Cash –
-each branch",USave,,29/04/2020,R300
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,,,"procured their
+below R2000",Spar,N/A,29/04/2020,2020-04-29,250.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Hand Sanitizers,"Petty Cash
+each branch procured their
 own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Face Shield and Disinfectants,"Petty Cash –
-each branch
-procured their
+below R2000",USave,,29/04/2020,2020-04-29,300.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Face Shield and Disinfectants,"Petty Cash
+each branch procured their
 own as it was
-below R2000","Vasili’s
+below R2000","Vasiliâ€™s
 Cleaning
-Supplies",2019/251310/07,25/05/2020,R369.9
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Marking Tapes,"Petty Cash –
-each branch
-procured their
+Supplies",2019/251310/07,25/05/2020,2020-05-25,369.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Marking Tapes,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Builders
-Warehouse",2004/035206/07,25/05/2020,R81
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Shield Screen,"Petty Cash –
-each branch
-procured their
+Warehouse",2004/035206/07,25/05/2020,2020-05-25,81.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Shield Screen,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Technicolour
-AutoSpa",2018/576815/07,29/05/2020,R1025
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Face Masks,"Petty Cash –
-each branch
-procured their
+AutoSpa",2018/576815/07,29/05/2020,2020-05-29,1025.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Face Masks,"Petty Cash
+each branch procured their
 own as it was
 below R2000","L van d
-Merwe",2018/576815/07,31//05/2020,R630
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Door Protector,"Petty Cash –
-each branch
-procured their
+Merwe",2018/576815/07,31//05/2020,2020-05-31,630.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Free State,Xhariep,Door Protector,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Foodzone
-Supermarket",2018/576815/07,11/06/2020,R50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizers,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Bidvest
-Steiner",N/A,13/03/2020,381.80
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizers & Gloves,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Bidvest
-Steiner",N/A,19/03/2020,1831.05
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Spray Bottles for Sanitizers,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Crazy
-Plastics",N/A,19/03/2020,209.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Cloth Face Masks,"Petty Cash –
-each branch
-procured their",Deepmoon,N/A,05/05/2020,860.20
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Adhesive Tape & Measuring
-Tape","Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Builders
-Warehouse",N/A,09/05/2020,255.20
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Disposable Apron &
-Thermometer","Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Cherish Life,N/A,12/05/2020,1733.20
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Face Shields,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",KLS Lasers,N/A,18/05/2020,360.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Pedal Bins,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Crazy
-Plastics",N/A,19/05/2020,679.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Disinfectant Foggers,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Bidvest
-Steiner",N/A,05/05/2020,747.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Sanitising,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Kgalalelo
-Tswellopele",N/A,07/07/2020,1900.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Redspot
-Seep",N/A,20/03/2020,386.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Disposable Gloves,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Healthpharm,N/A,20/03/2020,1014.30
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"2 x Protection Screens
-Reception","Petty Cash –
-each branch
-procured their",Creative Ink,N/A,08/05/2020,1955.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Face Shields,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Creative Ink,N/A,08/05/2020,207.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Covid 19 Sign (No Mask No
-Entry","Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Creative Ink,N/A,08/05/2020,155.25
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Stickers (Social Distancing),"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Creative Ink,N/A,08/05/2020,39.96
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Disposable Gloves & Masks,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Pack and
-Spice Brits",N/A,16/03/2020,156.60
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Perspex Screen Reception,"Petty Cash –
-each branch",Glasfit Brits,N/A,23/05/2020,650.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,,,"procured their
-own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Reusable Masks,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Madibeng
-Mining",N/A,29/06/2020,639.95
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Surface Sanitiser,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Pack And
-Spice",N/A,01/07/2020,68.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Batteries & Charger for
-Thermometer","Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Clicks,N/A,15/06/2020,249.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Spray Bottles for Disinfectants,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Conquest
-Chemicals",N/A,17/06/2020,78.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Face Shields,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Creative Ink,N/A,24/06/2020,140.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Surface Sanitizer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Clicks,N/A,16/03/2020,153.60
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Pick ‘n Pay,N/A,16/03/2020,346.40
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Disposable Masks,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Cashbuild,N/A,16/03/2020,209.85
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Disinfectant Foggers,"Petty Cash –
+Supermarket",2018/576815/07,11/06/2020,2020-06-11,50.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizers,"Petty Cash
 each branch procured their
 own as it was
 below R2000","Bidvest
-Steiner",N/A,05/05/2020,1005.10
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
+Steiner",N/A,13/03/2020,2020-03-13,381.80
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizers & Gloves,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Bidvest
+Steiner",N/A,19/03/2020,2020-03-19,1831.05
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Spray Bottles for Sanitizers,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Crazy
+Plastics",N/A,19/03/2020,2020-03-19,209.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Cloth Face Masks,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Deepmoon,N/A,05/05/2020,2020-05-05,860.20
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Adhesive Tape & Measuring
+Tape","Petty Cash
+each branch procured their
+own as it was
+below R2000","Builders
+Warehouse",N/A,09/05/2020,2020-05-09,255.20
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Disposable Apron &
+Thermometer","Petty Cash
+each branch procured their
+own as it was
+below R2000",Cherish Life,N/A,12/05/2020,2020-05-12,1733.20
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Face Shields,"Petty Cash
+each branch procured their
+own as it was
+below R2000",KLS Lasers,N/A,18/05/2020,2020-05-18,360.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Pedal Bins,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Crazy
+Plastics",N/A,19/05/2020,2020-05-19,679.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Disinfectant Foggers,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Bidvest
+Steiner",N/A,05/05/2020,2020-05-05,747.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Sanitising,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Kgalalelo
+Tswellopele",N/A,07/07/2020,2020-07-07,1900.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Redspot
+Seep",N/A,20/03/2020,2020-03-20,386.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Disposable Gloves,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Healthpharm,N/A,20/03/2020,2020-03-20,1014.30
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"2 x Protection Screens
+Reception","Petty Cash
+each branch procured their
+own as it was
+below R2000",Creative Ink,N/A,08/05/2020,2020-05-08,1955.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Face Shields,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Creative Ink,N/A,08/05/2020,2020-05-08,207.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Covid 19 Sign (No Mask No
+Entry","Petty Cash
+each branch procured their
+own as it was
+below R2000",Creative Ink,N/A,08/05/2020,2020-05-08,155.25
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Stickers (Social Distancing),"Petty Cash
+each branch procured their
+own as it was
+below R2000",Creative Ink,N/A,08/05/2020,2020-05-08,39.96
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Disposable Gloves & Masks,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Pack and
+Spice Brits",N/A,16/03/2020,2020-03-16,156.60
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Perspex Screen Reception,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Glasfit Brits,N/A,23/05/2020,2020-05-23,650.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Reusable Masks,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Madibeng
+Mining",N/A,29/06/2020,2020-06-29,639.95
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Surface Sanitiser,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Pack And
+Spice",N/A,01/07/2020,2020-07-01,68.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Batteries & Charger for
+Thermometer","Petty Cash
+each branch procured their
+own as it was
+below R2000",Clicks,N/A,15/06/2020,2020-06-15,249.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Spray Bottles for Disinfectants,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Conquest
+Chemicals",N/A,17/06/2020,2020-06-17,78.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Face Shields,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Creative Ink,N/A,24/06/2020,2020-06-24,140.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Surface Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Clicks,N/A,16/03/2020,2020-03-16,153.60
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Pick â€˜n Pay,N/A,16/03/2020,2020-03-16,346.40
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Disposable Masks,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Cashbuild,N/A,16/03/2020,2020-03-16,209.85
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Disinfectant Foggers,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Bidvest
+Steiner",N/A,05/05/2020,2020-05-05,1005.10
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Vryburg DIY
-Depot",N/A,11/05/2020,158.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Flip Top Bins & Tape,"Petty Cash –
-each branch
-procured their
+Depot",N/A,11/05/2020,2020-05-11,158.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Flip Top Bins & Tape,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Vryburg DIY
-Depot",N/A,11/05/2020,1042.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Face Shields,"Petty Cash –
-each branch
-procured their
+Depot",N/A,11/05/2020,2020-05-11,1042.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Face Shields,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Vryburg
-Apteek",N/A,11/05/2020,460.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Buff Tape,"Petty Cash –
-each branch
-procured their
+Apteek",N/A,11/05/2020,2020-05-11,460.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Buff Tape,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Roxy
 Discount
-Store",N/A,11/05/2020,8.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Barrier Tape,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Cashbuild
-Vryburg",N/A,12/05/2020,34.95
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Perspex Screen Reception,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Norman
-Chartz",N/A,20/05/2020,680.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Bidvest
-Steiner",N/A,13/03/2020,180.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Disinfectant Foggers,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Bidvest
-Steiner",N/A,30/04/2020,1092.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Perspex Screen Reception,"Petty Cash –
-each branch
-procured their","PG Glass
-Mafikeng",N/A,22/05/2020,1690.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Perspex Screen Reception PO
-and Rustenburg",RFQ,"Trascon
-Trading",2012/181774/07,25/05/2020,5798.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Square Spar,N/A,17/03/2020,63.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Naledi
-Cleaning",N/A,18/03/2020,700.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Spray Bottles for Sanitizer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Zonke Zonke,N/A,18/03/2020,210
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Sanitizer Stand,"Petty Cash –
-each branch
-procured their","Kgalalelo
-Tswellopele",N/A,19/06/2020,950.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Sanitizing,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Kgalalelo
-Tswellopele",N/A,06/07/2020,1900.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Deep Cleaning,SCM – 3 quotes,"Cleaning
-Specialist",2017/242642/07,28/07/2020,"R1,567-45"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Reception Screens,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",,N/A,May 2020,"R15,636-40"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Batteries for Thermometer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",,N/A,May 2020,R469-50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Fogging,"Petty Cash –
-each branch
-procured their",,N/A,May 2020,R895-60
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,"Tape – Marking of social
-distancing","Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",,N/A,June 2020,R133-90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Masks/Branded Masks,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",,N/A,June 2020,"R1,940-00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Face Shields/Clear Shields,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",,N/A,June 2020,"R1,875-00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Sanitizer & bottles,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",,N/A,June 2020,R791-10
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Foot Dispenser,"Petty Cash –
+Store",N/A,11/05/2020,2020-05-11,8.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Barrier Tape,"Petty Cash
 each branch procured their
 own as it was
-below R2000",,N/A,June 2020,R650-00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,Western Cape - Eden,Office Deep Clean,RFQ,Supercare,1985/060217/07,15/07/2020,"9,200.00"
+below R2000","Cashbuild
+Vryburg",N/A,12/05/2020,2020-05-12,34.95
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Perspex Screen Reception,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Norman
+Chartz",N/A,20/05/2020,2020-05-20,680.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Bidvest
+Steiner",N/A,13/03/2020,2020-03-13,180.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Disinfectant Foggers,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Bidvest
+Steiner",N/A,30/04/2020,2020-04-30,1092.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Perspex Screen Reception,"Petty Cash
+each branch procured their
+own as it was
+below R2000","PG Glass
+Mafikeng",N/A,22/05/2020,2020-05-22,1690.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,"Perspex Screen Reception PO
+and Rustenburg",RFQ,"Trascon
+Trading",2012/181774/07,25/05/2020,2020-05-25,5798.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Square Spar,N/A,17/03/2020,2020-03-17,63.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Hand Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Naledi
+Cleaning",N/A,18/03/2020,2020-03-18,700.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Spray Bottles for Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Zonke Zonke,N/A,18/03/2020,2020-03-18,210.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Sanitizer Stand,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Kgalalelo
+Tswellopele",N/A,19/06/2020,2020-06-19,950.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),North West,North West,Office Sanitizing,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Kgalalelo
+Tswellopele",N/A,06/07/2020,2020-07-06,1900.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Deep Cleaning,SCM 3 quotes,"Cleaning
+Specialist",2017/242642/07,28/07/2020,2020-07-28,1567.45
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Reception Screens,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,N/A,May-20,2020-05-01,15636.40
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Batteries for Thermometer,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,N/A,May-20,2020-05-01,469.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Fogging,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,N/A,May-20,2020-05-01,895.60
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,"Tape â€“ Marking of social
+distancing","Petty Cash
+each branch procured their
+own as it was
+below R2000",,N/A,Jun-20,2020-06-01,133.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Masks/Branded Masks,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,N/A,Jun-20,2020-06-01,1940.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Face Shields/Clear Shields,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,N/A,Jun-20,2020-06-01,1875.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Sanitizer & bottles,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,N/A,Jun-20,2020-06-01,791.10
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Kwa-Zulu Natal,KZN,Foot Dispenser,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,N/A,Jun-20,2020-06-01,650.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,Western Cape - Eden,Office Deep Clean,RFQ,Supercare,1985/060217/07,15/07/2020,2020-07-15,9200.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,"Western Cape -
 Oudsthoorn",Office Deep Clean,RFQ,"The
 Specialist
 Franchise
-Holdings",2015/194656/07,26/05/2020,"7,762.50"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,"Western Cape –
+Holdings",2015/194656/07,26/05/2020,2020-05-26,7762.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,"Western Cape â€“
 Vredenburg",Office Deep Clean,RFQ,"Iyobantle
-Consortium",2017/2411/76/07,13/05/2020,"10,350.00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,"Western Cape –
+Consortium",2017/2411/76/07,13/05/2020,2020-05-13,10350.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,"Western Cape â€“
 Worcester",Office Deep Clean,RFQ,"Felix
-Cleaning",2005/014995/23,21/05/2020,"8,047.40"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – CBD Branch,Screens,"Petty Cash –
-each branch
-procured their
+Cleaning",2005/014995/23,21/05/2020,2020-05-21,8047.40
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC â€“ CBD Branch,Screens,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Purple Pappy,2013/138574/07,22/06/2020,"1,821.60"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – CoCT,Office Deep Clean,RFQ,"Iyobantle
-Consortium",2007/168192/23,29/05/2020,"25,987.70"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Hermanus,Office Deep Clean,RFQ,"Felix
-Cleaning",2005/014995/23,29/05/2020,6.706.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Cape Winelands,Sanitizer,"Petty Cash –
-each branch
-procured their
+below R2000",Purple Pappy,2013/138574/07,22/06/2020,2020-06-22,1821.60
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC â€“ CoCT,Office Deep Clean,RFQ,"Iyobantle
+Consortium",2007/168192/23,29/05/2020,2020-05-29,25987.70
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC â€“ Hermanus,Office Deep Clean,RFQ,"Felix
+Cleaning",2005/014995/23,29/05/2020,2020-05-29,6706.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC â€“ Cape Winelands,Sanitizer,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Orkin,1969/017/179/07,09/07/2020,"1,872.00"
+below R2000",Orkin,1969/017/179/07,09/07/2020,2020-07-09,1872.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC - Swellendam,Office Deep Clean,RFQ,"Weszel
 Construction
-Works",2019/570619/07,23/06/2020,"8,800.00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Eden,Sanitizer,"Petty Cash –
-each branch
-procured their
+Works",2019/570619/07,23/06/2020,2020-06-23,8800.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Eden,Sanitizer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Steiner
-Hygiene",1969/005893/07,10/06/2020,529.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Eden,Screens,"Petty Cash –
-each branch
-procured their
+Hygiene",1969/005893/07,10/06/2020,2020-06-10,529.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Eden,Screens,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Digifusion,2015/046320/07,10/06/2020,"1,190.20"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Knysna,Sanitizer,"Petty Cash –
-each branch
-procured their",,2017/040887/07,11/06/2020,"1,950.00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Knysna,Screens,"Petty Cash –
-each branch
-procured their
+below R2000",Digifusion,2015/046320/07,10/06/2020,2020-06-10,1190.20
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Knysna,Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,2017/040887/07,11/06/2020,2020-06-11,1950.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Knysna,Screens,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Sunner
-Rama",,11/06/2020,"1,895.00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Mossel Bay,Office Deep Clean,"Petty Cash –
-each branch
-procured their
+Rama",,11/06/2020,2020-06-11,1895.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Mossel Bay,Office Deep Clean,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Lukhenyisa
 General
-Trading",,09/06/2020,"1,879.50"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,,,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Oudsthoorn,Screens,"Petty Cash –
-each branch
-procured their
+Trading",,09/06/2020,2020-06-09,1879.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Oudsthoorn,Screens,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Nyola Abantu
-Solutions",9205100707,01/06/2020,"1,400.00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Cape Winelands,Footpump,"Petty Cash –
-each branch
-procured their
+Solutions",9205100707,01/06/2020,2020-06-01,1400.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Cape Winelands,Footpump,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Offshore
 Procurement
-Solutions",2008/087120/23,09/06/2020,791.20
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Cape Winelands,Sanitiser,"Petty Cash –
-each branch
-procured their
+Solutions",2008/087120/23,09/06/2020,2020-06-09,791.20
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Cape Winelands,Sanitiser,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Clicks,Clicks,30/06/2020,79.20
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Worcester,Screen,"Petty Cash –
-each branch
-procured their
+below R2000",Clicks,Clicks,30/06/2020,2020-06-30,79.20
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Worcester,Screen,"Petty Cash
+each branch procured their
 own as it was
-below R2000",R S supplies,2019/406979/07,11/06/2020,"1,897.50"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Worcester,Masks,"Petty Cash –
-each branch
-procured their
+below R2000",R S supplies,2019/406979/07,11/06/2020,2020-06-11,1897.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Worcester,Masks,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Soul of Africa,2001/029324/23,11/06/2020,600.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC – Eden,Masks,"Petty Cash –
-each branch
-procured their","Czwe B
-Industries",2015/035744/07,10/06/2020,900.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,,,"own as it was
-below R2000",,,,
+below R2000",Soul of Africa,2001/029324/23,11/06/2020,2020-06-11,600.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Western Cape,WC Eden,Masks,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Czwe B
+Industries",2015/035744/07,10/06/2020,2020-06-10,900.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Pixley Ka Seme
-Branch",Protective screen for reception,"Petty Cash –
-each branch
-procured their
+Branch",Protective screen for reception,"Petty Cash
+each branch procured their
 own as it was
 below R2000","LLT
-Marketing",2012/164398/07,01/06/2020,517.50
+Marketing",2012/164398/07,01/06/2020,2020-06-01,517.50
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Pixley Ka Seme
-Branch",Courier for the Protective shield,"Petty Cash –
-each branch
-procured their
+Branch",Courier for the Protective shield,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Joko
 Couriers","740605 5015
-087",01/06/2020,130.00
+087",01/06/2020,2020-06-01,130.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Pixley Ka Seme
 Branch","Hardware to install shield &
-batteries for thermometer","Petty Cash –
-each branch
-procured their
+batteries for thermometer","Petty Cash
+each branch procured their
 own as it was
 below R2000","Prestige
-Hardware",National Retailer,01/06/2020,140.40
+Hardware",National Retailer,01/06/2020,2020-06-01,140.40
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Pixley Ka Seme
-Branch",Installation of protective shield,"Petty Cash –
-each branch
-procured their
+Branch",Installation of protective shield,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Johanness
-Abbott",Sole Proprietor,01/06/2020,150.00
+Abbott",Sole Proprietor,01/06/2020,2020-06-01,150.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Pixley Ka Seme
-Branch",Mask: Large,"Petty Cash –
-each branch
-procured their
+Branch",Mask: Large,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Urname
 Karoo (Pty)
-Ltd",2018/078328/07,29/07/2020,450.00
+Ltd",2018/078328/07,29/07/2020,2020-07-29,450.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Frances Baard Branch
 Kimberly","Sanitizing stand + 1L 70%
-alcohol sanitizer","Petty Cash –
-each branch
-procured their
+alcohol sanitizer","Petty Cash
+each branch procured their
 own as it was
 below R2000","Blue
 Aquarian
-Trading",2018/246729/07,15/05/2020,1 350.00
+Trading",2018/246729/07,15/05/2020,2020-05-15,1350.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Frances Baard Branch
 Kimberly",Disinfecting of office,PO001638 RFQ,"Lerwana
 Pest Control
-& Hygiene",2012/184569/07,05/06/2020,4 767.20
+& Hygiene",2012/184569/07,05/06/2020,2020-06-05,4767.20
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Frances Baard Branch
 Kimberly","Batteries for temperture
-screener","Petty Cash –
-each branch
-procured their
+screener","Petty Cash
+each branch procured their
 own as it was
-below R2000",Shoprite,National Retailer,17/06/2020,24.90
+below R2000",Shoprite,National Retailer,17/06/2020,2020-06-17,24.90
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Frances Baard Branch
 Kimberly","Social Distancing floor vinyl
 sticker and Physical distance
-seperator","Petty Cash –
-each branch
-procured their
+seperator","Petty Cash
+each branch procured their
 own as it was
-below R2000",Print Zone,2017/066613/07,29/07/2020,1 956.10
+below R2000",Print Zone,2017/066613/07,29/07/2020,2020-07-29,1956.10
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,JTG Branch Kuruman,"Stickers / perspex shield / red
-tape","Petty Cash –
-each branch
-procured their
+tape","Petty Cash
+each branch procured their
 own as it was
-below R2000",NC Signs,2006/005997/23,29/05/2020,793.00
+below R2000",NC Signs,2006/005997/23,29/05/2020,2020-05-29,793.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,JTG Branch Kuruman,"Batteries for temperature
-screener","Petty Cash –
-each branch
-procured their
+screener","Petty Cash
+each branch procured their
 own as it was
-below R2000",Pick n Pay,National Retailer,17/06/2020,80.00
+below R2000",Pick n Pay,National Retailer,17/06/2020,2020-06-17,80.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Provincial Office
 Kimberly","A1 Covid-19 posters x 2 and
-floor stickers","Petty Cash –
-each branch
-procured their
+floor stickers","Petty Cash
+each branch procured their
 own as it was
-below R2000",Swiftprint,1987/027075/23,20/05/2020,535.20
+below R2000",Swiftprint,1987/027075/23,20/05/2020,2020-05-20,535.20
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Provincial Office
 Kimberly","Disinfecting & deep cleaning of
 office",RFQ,"Lerwana
-Pest Control",2012/184569/07,27/05/2020,10 225.00
+Pest Control",2012/184569/07,27/05/2020,2020-05-27,10225.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Provincial Office
 Kimberly","Physical Distance separator
-with mounts","Petty Cash –
-each branch
-procured their
+with mounts","Petty Cash
+each branch procured their
 own as it was
-below R2000",Label Lab,2016/098802/07,11/06/2020,509.15
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Name of Province /
-National Office","Details of procured goods
-and services (including
-disinfection of offices and
-PPE)","Procurement
-process
-followed","Name of
-service
-provider
-(Appointed
-Company)","Company
-registration
-number","Date of
-appointment
-(Order date)","Contract value
-(R)"
+below R2000",Label Lab,2016/098802/07,11/06/2020,2020-06-11,509.15
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Namakwa Branch
 Springbok","Sanitize and mask sign, counter
 shield and social distance
-stickers","Petty Cash –
-each branch
-procured their
+stickers","Petty Cash
+each branch procured their
 own as it was
 below R2000","Namaqua
-Signs",2001/025832/23,22/05/2020,1 004.90
+Signs",2001/025832/23,22/05/2020,2020-05-22,1004.90
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Namakwa Branch
-Springbok",Covid 19 office rules A1 posters,"Petty Cash –
-each branch
-procured their
+Springbok",Covid 19 office rules A1 posters,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Namaqua
-Signs",2001/025832/23,22/05/2020,450.00
+Signs",2001/025832/23,22/05/2020,2020-05-22,450.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Namakwa Branch
 Springbok","Printing of Seda social distance
-stickers","Petty Cash –
-each branch
-procured their
+stickers","Petty Cash
+each branch procured their
 own as it was
 below R2000","Namaqua
-Signs",2001/025832/23,02/06/2020,174.90
+Signs",2001/025832/23,02/06/2020,2020-06-02,174.90
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Namakwa Branch
-Springbok",Employee face shield masks x 3,"Petty Cash –
-each branch
-procured their
+Springbok",Employee face shield masks x 3,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Blue
 Petroleum
-(Pty) Ltd",2012/174388/07,11/06/2020,240.00
+(Pty) Ltd",2012/174388/07,11/06/2020,2020-06-11,240.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Namakwa Branch
 Springbok","Paint for social distant marks
-outside the office","Petty Cash –
-each branch
-procured their","Honolulu
+outside the office","Petty Cash
+each branch procured their
+own as it was
+below R2000","Honolulu
 Mica
-Springbok",National Retailer,29/06/2020,150.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,,,"own as it was
-below R2000",,,,
+Springbok",National Retailer,29/06/2020,2020-06-29,150.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Namakwa Branch
 Springbok","Painting of social distance
-marks outside of the office","Petty Cash –
-each branch
-procured their
+marks outside of the office","Petty Cash
+each branch procured their
 own as it was
 below R2000","William
-Goliath",Sole Proprietor,08/07/2020,100.00
+Goliath",Sole Proprietor,08/07/2020,2020-07-08,100.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Namakwa Branch
-Springbok",Employee face shield masks x 4,"Petty Cash –
-each branch
-procured their
+Springbok",Employee face shield masks x 4,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Blue
 Petroleum
-(Pty) Ltd",2012/174388/07,17/07/2020,320.00
+(Pty) Ltd",2012/174388/07,17/07/2020,2020-07-17,320.00
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Namakwa Branch
 Springbok","Bins for covid-19 disposable
-items x 4","Petty Cash –
-each branch
-procured their
+items x 4","Petty Cash
+each branch procured their
 own as it was
 below R2000","Blue
 Petroleum
-(Pty) Ltd",2012/174388/07,17/07/2020,172.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,ZFM Branch Upington,Reception desk Screen,"Petty Cash –
-each branch
-procured their
+(Pty) Ltd",2012/174388/07,17/07/2020,2020-07-17,172.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,ZFM Branch Upington,Reception desk Screen,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Inter Tekens,1995/001726/07,03/06/2020,759.60
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,"Name of Province /
-National Office","Details of procured goods
-and services (including
-disinfection of offices and
-PPE)","Procurement
-process
-followed","Name of
-service
-provider
-(Appointed
-Company)","Company
-registration
-number","Date of
-appointment
-(Order date)","Contract value
-(R)"
+below R2000",Inter Tekens,1995/001726/07,03/06/2020,2020-06-03,759.60
 SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,ZFM Branch Upington,"Surgical gown / shield / paint &
-tape markings / paper towels","Petty Cash –
-each branch
-procured their
+tape markings / paper towels","Petty Cash
+each branch procured their
 own as it was
 below R2000","Halsted & Co
-(Pty) Ltd",1952/001225/07,12/06/2020,449.40
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,ZFM Branch Upington,Sanitiser metal stand dispenser,"Petty Cash –
-each branch
-procured their
+(Pty) Ltd",1952/001225/07,12/06/2020,2020-06-12,449.40
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Northern Cape,ZFM Branch Upington,Sanitiser metal stand dispenser,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Halsted & Co
-(Pty) Ltd",1952/001225/07,22/06/2020,782.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,5Ltr sanitizer,"Petty Cash –
-each branch
-procured their
+(Pty) Ltd",1952/001225/07,22/06/2020,2020-06-22,782.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,5Ltr sanitizer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Presam
-Trading",,18/03/2020,R408.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Training for Cvid-19 screener,"Petty Cash –
-each branch
-procured their
+Trading",,18/03/2020,2020-03-18,408.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Training for Cvid-19 screener,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Rally
 business
-Consulting",,09/06/2020,R552.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Face shield -clear,"Petty Cash –
-each branch
-procured their
+Consulting",,09/06/2020,2020-06-09,552.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Face shield -clear,"Petty Cash
+each branch procured their
 own as it was
 below R2000","AJ Safety
-Solutions",,02/06/2020,R161.40
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,"Face cloths masks – 2 per staff
-member","Petty Cash –
-each branch
-procured their
+Solutions",,02/06/2020,2020-06-02,161.40
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,"Face cloths masks â€“ 2 per staff
+member","Petty Cash
+each branch procured their
 own as it was
 below R2000","Membry
-Projects",,01/06/2020,480.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Covid -19 Presentation,"Petty Cash –
-each branch
-procured their
+Projects",,01/06/2020,2020-06-01,480.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Covid -19 Presentation,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Sister
 Priscillar Ntoi
 (Clicks
-Pharmacy)",,01/06/2020,R250.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Laminating Covid Signs,"Petty Cash –
-each branch
-procured their
+Pharmacy)",,01/06/2020,2020-06-01,250.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Laminating Covid Signs,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Reos
 Sanitation
-&projects",,29/05/2020,R101.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Desk Shield Reception,"Petty Cash –
-each branch
-procured their",Signarama,,25/05/2020,R977.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,,,"own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Sanitizer stand,"Petty Cash –
-each branch
-procured their
+&projects",,29/05/2020,2020-05-29,101.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Desk Shield Reception,"Petty Cash
+each branch procured their
 own as it was
-below R2000",,,3/07/2020,R550.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Pedal Sanitiser,"Petty Cash –
-each branch
-procured their
+below R2000",Signarama,,25/05/2020,2020-05-25,977.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Gert Sibande,Sanitizer stand,"Petty Cash
+each branch procured their
+own as it was
+below R2000",,,03/07/2020,2020-07-03,550.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Pedal Sanitiser,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Signarama-
-Middleburg",,June 2020,R700.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Reception Screen Protector,"Petty Cash –
-each branch
-procured their
+Middleburg",,Jun-20,2020-06-01,700.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Reception Screen Protector,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Signarama-
-Middleburg",,June 2020,R977.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Thermometer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Cash and
-Carry",,July 2020,R 500.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Thermometer Batteries,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Spar
-Saveways",,June 2020,R 100.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Training for Temp Trainer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Rally
-Business
-Consulting",,July 2020,R 552.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Spraying for Office-July 02,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Lucage
-Trading and
-Projects",,July 2020,R1800.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,"Laminating social distancing
-stickers","Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Waltons –
-Witbank",,June 2020,R24.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Thermometer,"Petty Cash –
+Middleburg",,Jun-20,2020-06-01,977.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Thermometer,"Petty Cash
 each branch procured their
 own as it was
 below R2000","Cash and
-Carry",,July 2020,R480.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Deep Cleaning & Disinfecting,RFQ,Lukhaya (SP),,30/04/2020,R5700.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Staff Gloves,"Petty Cash –
-each branch
-procured their
+Carry",,Jul-20,2020-07-01,500.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Thermometer Batteries,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Spar
+Saveways",,Jun-20,2020-06-01,100.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Training for Temp Trainer,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Rally
+Business
+Consulting",,Jul-20,2020-07-01,552.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Spraying for Office-July 02,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Lucage
+Trading and
+Projects",,Jul-20,2020-07-01,1800.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,"Laminating social distancing
+stickers","Petty Cash
+each branch procured their
+own as it was
+below R2000","Waltons â€“
+Witbank",,Jun-20,2020-06-01,24.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkangala,Thermometer,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Cash and
+Carry",,Jul-20,2020-07-01,480.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Deep Cleaning & Disinfecting,RFQ,Lukhaya (SP),,30/04/2020,2020-04-30,5700.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Staff Gloves,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Malelane
-Pharmacy",,23/03/2020,R178.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
+Pharmacy",,23/03/2020,2020-03-23,178.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Hand Sanitizer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Buco
-Hardware",,25/03/2020,R99.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Duct Tape,"Petty Cash –
-each branch
-procured their
+Hardware",,25/03/2020,2020-03-25,99.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Duct Tape,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Buco
-Hardware",,20/05/2020,R73.99
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Protective Screens & Signs,"Petty Cash –
-each branch
-procured their
+Hardware",,20/05/2020,2020-05-20,73.99
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Protective Screens & Signs,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Phambili
 Plastic &
 Lowveld
-Signs",,20/05/2020,R685.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Thermometer Batteries,"Petty Cash –
-each branch
-procured their
+Signs",,20/05/2020,2020-05-20,685.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Thermometer Batteries,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Spar
-Malelane",,01/06/2020,R93.80
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Face Shield & Dust Clothes,"Petty Cash –
-each branch
-procured their
+Malelane",,01/06/2020,2020-06-01,93.80
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Face Shield & Dust Clothes,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Rotunda
 Circle
-Pharmacy",,03/06/2020,R442.40
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Staff Face Mask,"Petty Cash –
-each branch
-procured their
+Pharmacy",,03/06/2020,2020-06-03,442.40
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Staff Face Mask,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Uncle City
-Tailor",,11/06/2020,R300.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
+Tailor",,11/06/2020,2020-06-11,300.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Hand Sanitizer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Rotunda
 Circle
-Pharmacy",,11/06/2020,R357.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Staff Sanitizer Bottles,"Petty Cash –
+Pharmacy",,11/06/2020,2020-06-11,357.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Staff Sanitizer Bottles,"Petty Cash
 each branch procured their
 own as it was
 below R2000","Dream Lucky
-Trading",,17/06/2020,R108.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Cov- 19 Distance Stickers,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Classic Signs,,26/06/2020,R1300.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Sanitizer stand,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Valencia,,30/06/2020,R699.99
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Deep Cleaning & Disinfecting,RFQ,Lukhaya (SP),,30/04/2020,R5700.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Staff Gloves,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Malelane
-Pharmacy",,23/03/2020,R178.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Buco
-Hardware",,25/03/2020,R99.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Floor markings and installations,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Classic signs,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Training for Screeners * 3,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000","Rally
-Business
-Consulting",,"25 June
-2020",R1300
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Reception Screen,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Petty Cash,,1 June 2020,R1656
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Face shields and Spray bottle,"Petty Cash –
-each branch
-procured their
-own as it was
-below R2000",Buco,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Floor markings and installations,"Petty Cash –
+Trading",,17/06/2020,2020-06-17,108.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Cov- 19 Distance Stickers,"Petty Cash
 each branch procured their
 own as it was
-below R2000",Classic signs,,5 June 2020,R300
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Training for Screeners * 3,"Petty Cash –
-each branch
-procured their
+below R2000",Classic Signs,,26/06/2020,2020-06-26,1300.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Sanitizer stand,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Valencia,,30/06/2020,2020-06-30,699.99
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Deep Cleaning & Disinfecting,RFQ,Lukhaya (SP),,30/04/2020,2020-04-30,5700.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Staff Gloves,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Malelane
+Pharmacy",,23/03/2020,2020-03-23,178.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Nkomazi,Hand Sanitizer,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Buco
+Hardware",,25/03/2020,2020-03-25,99.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Floor markings and installations,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Classic signs,,,,
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Training for Screeners * 3,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Rally
 Business
 Consulting",,"25 June
-2020",R1300
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
+2020",,1300.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Reception Screen,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Petty Cash,,01-Jun-20,2020-06-01,1656.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Face shields and Spray bottle,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Buco,,,,
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Floor markings and installations,"Petty Cash
+each branch procured their
+own as it was
+below R2000",Classic signs,,05-Jun-20,2020-06-05,300.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Bushbuckridge,Training for Screeners * 3,"Petty Cash
+each branch procured their
+own as it was
+below R2000","Rally
+Business
+Consulting",,"25 June
+2020","25 June
+2020",1300.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Hand Sanitizer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Waltons
-Bidvest",N/A,25/5/2020,R78.50
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Hand soap,"Petty Cash –
-each branch
-procured their
+Bidvest",N/A,25/05/2020,2020-05-25,78.50
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Hand soap,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Spar,N/A,25/5/2020,R94.80
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Marking Tape,"Petty Cash –
-each branch
-procured their
+below R2000",Spar,N/A,25/05/2020,2020-05-25,94.80
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Marking Tape,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Waltons
-Bidvest",N/A,22/5/2020,R128.94
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Desk Protective Screens,"Petty Cash –
-each branch
-procured their
+Bidvest",N/A,22/05/2020,2020-05-22,128.94
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Desk Protective Screens,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Crystalite
-Plastics",N/A,20/5/2020,R364.55
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Thermometer Batteries,"Petty Cash –
-each branch
-procured their
+Plastics",N/A,20/05/2020,2020-05-20,364.55
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Thermometer Batteries,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Spar
 Nelspruit &
-Pick a Pay",N/A,27/5/2020,R86.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Face Shield,"Petty Cash –
-each branch
-procured their
+Pick a Pay",N/A,27/05/2020,2020-05-27,86.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Face Shield,"Petty Cash
+each branch procured their
 own as it was
-below R2000","Walton’s
-Nelspruit",N/A,02/6/2020,R149.99
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Disinfectant wipes,"Petty Cash –
-each branch
-procured their
+below R2000","Waltonâ€™s
+Nelspruit",N/A,02/06/2020,2020-06-02,149.99
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Disinfectant wipes,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Buco,N/A,01/6/2020,R195.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Staff Cloth Face Masks,"Petty Cash –
+below R2000",Buco,N/A,01/06/2020,2020-06-01,195.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Staff Cloth Face Masks,"Petty Cash
 each branch procured their
 own as it was
 below R2000","UGT
 Industrial
 Work ware
-Nelspruit",N/A,02/6/2020,R260.87
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Staff Cloth Face Masks,"Petty Cash –
-each branch
-procured their
+Nelspruit",N/A,02/06/2020,2020-06-02,260.87
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Staff Cloth Face Masks,"Petty Cash
+each branch procured their
 own as it was
 below R2000","UGT
 Industrial
 Work ware
-Nelspruit",N/A,04/6/2020,R156.52
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Face Shield,"Petty Cash –
-each branch
-procured their
+Nelspruit",N/A,04/06/2020,2020-06-04,156.52
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Face Shield,"Petty Cash
+each branch procured their
 own as it was
-below R2000","Walton’s
-Nelspruit",N/A,04/6/2020,R200.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Face Shield,"Petty Cash –
-each branch
-procured their
+below R2000","Waltonâ€™s
+Nelspruit",N/A,04/06/2020,2020-06-04,200.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Face Shield,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Mopani
-Pharmacy",N/A,12/6/2020,R210.70
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Face Masks,"Petty Cash –
-each branch
-procured their
+Pharmacy",N/A,12/06/2020,2020-06-12,210.70
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Face Masks,"Petty Cash
+each branch procured their
 own as it was
 below R2000","UGT
 Industrial
 Work ware
-Nelspruit",N/A,12/6/2020,R195.60
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Sanitizer stand,"Petty Cash –
-each branch",Valencia,N/A,12/6/2020,R700.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,,,"procured their
+Nelspruit",N/A,12/06/2020,2020-06-12,195.60
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Sanitizer stand,"Petty Cash
+each branch procured their
 own as it was
-below R2000",,,,
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Screener Trainer,"Petty Cash –
-each branch
-procured their
+below R2000",Valencia,N/A,12/06/2020,2020-06-12,700.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Ehlanzeni,Screener Trainer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Rally
 Business
-Consulting",2009/024030/07,12/6/2020,"R1,104.00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Hand Sanitizer,"Petty Cash –
-each branch
-procured their
+Consulting",2009/024030/07,12/06/2020,2020-06-12,1104.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Hand Sanitizer,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Every
-Sunrise",2013/110016/07,2020/03/25,"R2,000.00"
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Disinfectors,"Petty Cash –
-each branch
-procured their
+Sunrise",2013/110016/07,25/03/2020,2020-03-25,2000.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Disinfectors,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Builders
-warehouse",2004/035206/07,2020/03/19,R376.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Reception Screen,"Petty Cash –
-each branch
-procured their
+warehouse",2004/035206/07,19/03/2020,2020-03-19,376.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Reception Screen,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Crystallite
-Plastic",2009/228022/23,2020/05/25,R364.55
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Duct Tape,"Petty Cash –
-each branch
-procured their
+Plastic",2009/228022/23,25/05/2020,2020-05-25,364.55
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Duct Tape,"Petty Cash
+each branch procured their
 own as it was
-below R2000",PNA,2015/084365/07,2020/05/28,R95.99
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Measuring Tape,"Petty Cash –
-each branch
-procured their
+below R2000",PNA,2015/084365/07,28/05/2020,2020-05-28,95.99
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Measuring Tape,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Shoprite,1929/001817/07,2020/05/29,R19.99
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,COVID Screen Training,"Petty Cash –
-each branch
-procured their
+below R2000",Shoprite,1929/001817/07,29/05/2020,2020-05-29,19.99
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,COVID Screen Training,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Rally
-Business",2009/024030/07,2020/06/01,R1104.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Thermometer Batteries,"Petty Cash –
-each branch
-procured their
+Business",2009/024030/07,01/06/2020,2020-06-01,1104.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Thermometer Batteries,"Petty Cash
+each branch procured their
 own as it was
-below R2000",Pick N Pay,2015/084205/07,2020/06/30,R16.90
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Purchase Of Face Mark,"Petty Cash –
-each branch
-procured their
+below R2000",Pick N Pay,2015/084205/07,30/06/2020,2020-06-30,16.90
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Purchase Of Face Mark,"Petty Cash
+each branch procured their
 own as it was
 below R2000","UGT
 Industrial
-Workwear",2007/016782/23,2020/06/01,R480.00
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Purchase Of Plastic Bottle,"Petty Cash –
-each branch
-procured their
+Workwear",2007/016782/23,01/06/2020,2020-06-01,480.00
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Purchase Of Plastic Bottle,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Michem
 Cleaning
-Supplies",2001/061662/23,2020/06/01,R306.19
-SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Foot Operator Stand,"Petty Cash –
-each branch
-procured their
+Supplies",2001/061662/23,01/06/2020,2020-06-01,306.19
+SMALL ENTERPRISE DEVELOPMENT AGENCY (SEDA),Mpumalanga,Prov. Office,Foot Operator Stand,"Petty Cash
+each branch procured their
 own as it was
 below R2000","Home
-Modernity",,2020/06/02,R700.00
+Modernity",,02/06/2020,2020-06-02,700.00
