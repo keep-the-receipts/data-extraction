@@ -1,15 +1,11 @@
-Gauteng Department of e-Government,,,,,,,,
-No,PReq No.,"Purchasing
-document",Short Text,Vendor Number,Vendor Name,"Purchase Order
-Date",,PO value
-1,1002140590,4550265347,"Disinfection of the environment at
-Alert level 5",1100158710,CAPOTEX TRADING ENTERPRISE,20.04.2020,OFFICE SUPPORT & AUXILLIARY SERV,"517,000.00"
-2,1002140597,4550265346,"Disinfection of Document
-Management Centre",1100158711,FINESSE WORLD WIDE,20.04.2020,OFFICE SUPPORT & AUXILLIARY SERV,"328,457.00"
-3,1002140603,4550265348,Security Alarm System,1100111331,MAXI PHUMELELA SECURITY,20.04.2020,SECURITY MANAGEMENT,"243,779.00"
-4,,"Procurement through Health as per GPT
-Circular No. 3 of 2019/20","PPE equipment (Face shield,
-Surgical Mask, and Sanitiser)",,Department of Health,25.04.2020,HUMAN AND PHYSICAL RESOURCE MANA,"269,740.00"
-5,1002155672,4550266026,"Mask face tie back adults 3 layer
-cloth & Cloth medium blue microfibre",1100158882,ANGIEOCHEM,02.06.2020,HUMAN AND PHYSICAL RESOURCE MANA,"88,000.00"
-6,1002170008,4550266288,Disinfection of environment at level 4,1100092938,ATIRILO TRADING,24.06.2020,OFFICE SUPPORT & AUXILLIARY SERV,"390,000.00"
+buyer_name,implementation_location_province, No,PReq No.,order_number,items_description,supplier_numbers_other,supplier_name,invoice_date,,order_amount_zar
+Gauteng Department of e-Government,Gauteng,1,1002140590,4550265347,"Disinfection of the environment at
+ Alert level 5",1100158710,CAPOTEX TRADING ENTERPRISE,2020-04-20,OFFICE SUPPORT & AUXILLIARY SERV,517000.00
+Gauteng Department of e-Government,Gauteng,2,1002140597,4550265346,"Disinfection of Document
+ Management Centre",1100158711,FINESSE WORLD WIDE,2020-04-20,OFFICE SUPPORT & AUXILLIARY SERV,328457.00
+Gauteng Department of e-Government,Gauteng,3,1002140603,4550265348,Security Alarm System,1100111331,MAXI PHUMELELA SECURITY,2020-04-20,SECURITY MANAGEMENT,243779.00
+Gauteng Department of e-Government,Gauteng,4,,Procurement through Health as per GPT Circular No. 3 of 2019/20,"PPE equipment (Face shield,
+ Surgical Mask, and Sanitiser)",,Department of Health,2020-04-25,HUMAN AND PHYSICAL RESOURCE MANA,269740.00
+Gauteng Department of e-Government,Gauteng,5,1002155672,4550266026,"Mask face tie back adults 3 layer
+ cloth & Cloth medium blue microfibre",1100158882,ANGIEOCHEM,2020-06-02,HUMAN AND PHYSICAL RESOURCE MANA,88000.00
+Gauteng Department of e-Government,Gauteng,6,1002170008,4550266288,Disinfection of environment at level 4,1100092938,ATIRILO TRADING,2020-06-24,OFFICE SUPPORT & AUXILLIARY SERV,390000.00
