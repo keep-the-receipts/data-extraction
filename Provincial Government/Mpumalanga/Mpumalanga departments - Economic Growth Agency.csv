@@ -1,14 +1,10 @@
-"Names of the C
- ompanies a
- warded","Product or services
-  rendered",Unit Price,Quantity,"The full amount paid 
- for the Products or 
- services","Any donations 
+buyer_name,implementation_location_zar,supplier_name,"items_description
+  rendered",Unit Price,Quantity,order_amount_zar,"Any donations 
  received from
   external funders /
  companies","The beneficiary targets and method 
  of distribution"
-Thubalo (Pty)Ltd,"Sanitizers
+Mpumalanga Economic Growth Agency (MEGA),Mpumalanga,Thubalo (Pty)Ltd,"Sanitizers
 Sanitizer Dispenser
 Hand Sanitizer Dispenser
 Gloves
@@ -35,7 +31,7 @@ Branding Masks","933,21
 12
 113
 12
-382","198 580,00",N/A,Employees
-Zamangwane Consultants,"Fumigation
+382",198580.00,N/A,Employees
+Mpumalanga Economic Growth Agency (MEGA),Mpumalanga,Zamangwane Consultants,"Fumigation
 Disinfection","10,47
-54 794,86",7,"383 564,00",N/A,Employees
+54 794,86",7,383564.00,N/A,Employees
