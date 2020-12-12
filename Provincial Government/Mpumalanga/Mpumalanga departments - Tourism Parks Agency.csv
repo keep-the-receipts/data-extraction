@@ -1,65 +1,63 @@
-Names of the Companies awarded,Product or services rendered,Unit Price,Quantity,"The full amount paid 
- for the Products or 
- services","Any donations 
+buyer_name,implementation_location_zar,supplier_name,items_description,cost_per_unit_zar,items_quantity,,,order_amount_zar,"Any donations 
  received from
   external funders /
  companies","The beneficiary targets and method 
  of distribution"
-MBES Medical Supplies,Conti Suit,"7,206",34,"245,00",N/A,Employees
-MBES Medical Supplies,Conti Suit,"6,071",42,"255,00",N/A,Employees
-MBES Medical Supplies,Conti Suit,"5,300",50,"265,00",N/A,Employees
-MBES Medical Supplies,Conti Suit,"4,732",56,"265,00",N/A,Employees
-MBES Medical Supplies,Conti Suit,"6,176",34,"210,00",N/A,Employees
-MBES Medical Supplies,Conti Suit,"5,250",40,"210,00",N/A,Employees
-MBES Medical Supplies,Conti Suit,"151,333",6,"908,00",N/A,Employees
-MBES Medical Supplies,Boots Black,"64,857",7,"454,00",N/A,Employees
-MBES Medical Supplies,Boots Black,"170,250",8,"1 362,00",N/A,Employees
-MBES Medical Supplies,Boots Black,"6,500",400,"2 600,00",N/A,Employees
-MBES Medical Supplies,Gloves,"25,600",200,"5 120,00",N/A,Employees
-MBES Medical Supplies,Face Masks,"100,000",22,"2 200,00",N/A,Employees
-MBES Medical Supplies,Sanitizers,"7,206",34,"245,00",N/A,Employees
-World Base Trading 1,PPE for Staff at Zithabiseni,,,,N/A,Employees
-World Base Trading 1,Conti suite,"214,475",16,"3 431,60",N/A,Employees
-World Base Trading 1,Conti suite,"241,500",2,"483,00",N/A,Employees
-World Base Trading 1,Boots,"488,750",16,"7 820,00",N/A,Employees
-World Base Trading 1,Sanitiers,"115,000",22,"2 530,00",N/A,Employees
-World Base Trading 1,Gloves,"6,900",200,"1 380,00",N/A,Employees
-World Base Trading 1,Face Masks,"28,750",200,"5 750,00",N/A,Employees
-Bidvest Michem,Sanitizer,"425,500",10,"4 255,00",N/A,Employees
-Makro,Food Parcel,"2,628,490",3,"7 885,47",N/A,Employees
-Emalahleni Live,Disinfect,,,,N/A,Employees
-Emalahleni Live,Sanitizers,"466,060",4,"1 864,24",N/A,Employees
-Emalahleni Live,Face Masks,"25,000",102,"2 550,00",N/A,Employees
-Emalahleni Live,Gloves,"46,000",10,"460,00",N/A,Employees
-Emalahleni Live,Gloves,"26,700",34,"907,80",N/A,Employees
-Emalahleni Live,Cotton Floor Mop,"48,600",224,"10 886,40",N/A,Employees
-Emalahleni Live,Apron,"1,550",200,"310,00",N/A,Employees
-Emalahleni Live,Waist Plastic,"3,000",1000,"3 000,00",N/A,Employees
-Emalahleni Live,Waste plastic,"9,840",1000,"9 840,00",N/A,Employees
-Doha Medical Supplies Thermometer,Thermometer,,,,N/A,Employees
-Doha Medical Supplies Thermometer,Thermometer,"2,298,833",42,"96 551,00",N/A,Employees
-Doha Medical Supplies Thermometer,Face Shiel,"39,104",77,"3 011,00",N/A,Employees
-Ntimba Co-ordinates,Face Masks,,,,N/A,Employees
-Ntimba Co-ordinates,PPE for Head Office and Reserves,"1,725,000",95,"163 875,00",N/A,Employees
-Ntimba Co-ordinates,Sanitizer,"74,750",84,"6 279,00",N/A,Employees
-Ntimba Co-ordinates,Sanitizer,"23,000",94,"2 162,00",N/A,Employees
-Ntimba Co-ordinates,Hand soap,"253,000",167,"42 251,00",N/A,Employees
-Ntimba Co-ordinates,Disposable towels,"460,000",126,"57 960,00",N/A,Employees
-Ntimba Co-ordinates,Surgical Masks,"51,750",503,"26 030,25N/A",N/A,Employees
-Ntimba Co-ordinates,Spray Bottles,"2,242,500",35,"78 487,50",N/A,Employees
-Ntimba Co-ordinates,Sanitizer,"344,977",43,"14 834,00",N/A,Employees
-Ntimba Co-ordinates,Gloves,"597,926",27,"16 144,00",N/A,Employees
-Ntimba Co-ordinates,Disinfectant,"25,000",194,"4 850,00",N/A,Employees
-Ntimba Co-ordinates,Cloth Masks,"1,725,000",95,"163 875,00",N/A,Employees
-MKO Solutions,Cloth Masks,194,"25,000","4 850,00",N/A,Employees
-Bomsa Trading,Face Masks,180,"28,000","5 040,00",N/A,Employees
-Bomsa Trading,Face Masks,112,"28,000","3 136,00",N/A,Employees
-Petty Cash,Rechargable Batteries,,,"500,00",N/A,Employees
-World Base Trading,Disinfection,,,,N/A,Employees
-World Base Trading,Coverall,14,"327,750","4 588,50",N/A,Employees
-World Base Trading,Gloves,24,"30,188","724,50",N/A,Employees
-World Base Trading,Boots,14,"241,500","3 381,00",N/A,Employees
-World Base Trading,Face Shield,14,"493,214","6 905,00",N/A,Employees
-World Base Trading,Goggles,14,"115,000","1 610,00",N/A,Employees
-Petty Cash,Andover Petty Cash,,,"5 000,00",N/A,Employees
-Petty Cash,Mask,194,,"490,00",N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Conti Suit,7206.00,34,"245,00",245.00,245.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Conti Suit,6071.00,42,"255,00",255.00,255.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Conti Suit,5300.00,50,"265,00",265.00,265.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Conti Suit,4732.00,56,"265,00",265.00,265.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Conti Suit,6176.00,34,"210,00",210.00,210.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Conti Suit,5250.00,40,"210,00",210.00,210.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Conti Suit,151333.00,6,"908,00",908.00,908.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Boots Black,64857.00,7,"454,00",454.00,454.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Boots Black,170250.00,8,"1 362,00",1 362.00,1362.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Boots Black,6500.00,400,"2 600,00",2 600.00,2600.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Gloves,25600.00,200,"5 120,00",5 120.00,5120.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Face Masks,100000.00,22,"2 200,00",2 200.00,2200.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MBES Medical Supplies,Sanitizers,7206.00,34,"245,00",245.00,245.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading 1,PPE for Staff at Zithabiseni,,,,,,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading 1,Conti suite,214475.00,16,"3 431,60",3 431.60,3431.60,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading 1,Conti suite,241500.00,2,"483,00",483.00,483.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading 1,Boots,488750.00,16,"7 820,00",7 820.00,7820.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading 1,Sanitiers,115000.00,22,"2 530,00",2 530.00,2530.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading 1,Gloves,6900.00,200,"1 380,00",1 380.00,1380.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading 1,Face Masks,28750.00,200,"5 750,00",5 750.00,5750.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Bidvest Michem,Sanitizer,425500.00,10,"4 255,00",4 255.00,4255.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Makro,Food Parcel,2628490.00,3,"7 885,47",7 885.47,7885.47,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Disinfect,,,,,,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Sanitizers,466060.00,4,"1 864,24",1 864.24,1864.24,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Face Masks,25000.00,102,"2 550,00",2 550.00,2550.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Gloves,46000.00,10,"460,00",460.00,460.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Gloves,26700.00,34,"907,80",907.80,907.80,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Cotton Floor Mop,48600.00,224,"10 886,40",10 886.40,10886.40,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Apron,1550.00,200,"310,00",310.00,310.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Waist Plastic,3000.00,1000,"3 000,00",3 000.00,3000.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Emalahleni Live,Waste plastic,9840.00,1000,"9 840,00",9 840.00,9840.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Doha Medical Supplies Thermometer,Thermometer,,,,,,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Doha Medical Supplies Thermometer,Thermometer,2298833.00,42,"96 551,00",96 551.00,96551.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Doha Medical Supplies Thermometer,Face Shiel,39104.00,77,"3 011,00",3 011.00,3011.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Face Masks,,,,,,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,PPE for Head Office and Reserves,1725000.00,95,"163 875,00",163 875.00,163875.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Sanitizer,74750.00,84,"6 279,00",6 279.00,6279.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Sanitizer,23000.00,94,"2 162,00",2 162.00,2162.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Hand soap,253000.00,167,"42 251,00",42 251.00,42251.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Disposable towels,460000.00,126,"57 960,00",57 960.00,57960.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Surgical Masks,51750.00,503,"26 030,25",26 030.25,26030.25,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Spray Bottles,2242500.00,35,"78 487,50",78 487.50,78487.50,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Sanitizer,344977.00,43,"14 834,00",14 834.00,14834.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Gloves,597926.00,27,"16 144,00",16 144.00,16144.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Disinfectant,25000.00,194,"4 850,00",4 850.00,4850.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Ntimba Co-ordinates,Cloth Masks,1725000.00,95,"163 875,00",163 875.00,163875.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,MKO Solutions,Cloth Masks,194.00,"25,000","4 850,00",4 850.00,4850.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Bomsa Trading,Face Masks,180.00,"28,000","5 040,00",5 040.00,5040.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Bomsa Trading,Face Masks,112.00,"28,000","3 136,00",3 136.00,3136.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Petty Cash,Rechargable Batteries,,,"500,00",500.00,500.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading,Disinfection,,,,,,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading,Coverall,14.00,"327,750","4 588,50",4 588.50,4588.50,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading,Gloves,24.00,"30,188","724,50",724.50,724.50,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading,Boots,14.00,"241,500","3 381,00",3 381.00,3381.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading,Face Shield,14.00,"493,214","6 905,00",6 905.00,6905.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,World Base Trading,Goggles,14.00,"115,000","1 610,00",1 610.00,1610.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Petty Cash,Andover Petty Cash,,,"5 000,00",5 000.00,5000.00,N/A,Employees
+Mpumalanga Tourism and Parks Agency,Mpumalanga,Petty Cash,Mask,194.00,,"490,00",490.00,490.00,N/A,Employees
