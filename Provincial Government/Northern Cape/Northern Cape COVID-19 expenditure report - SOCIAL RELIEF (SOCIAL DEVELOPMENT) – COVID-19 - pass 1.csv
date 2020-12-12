@@ -1,738 +1,738 @@
-REGION,ITEM,NAME OF SUPPLIER,QUANTITY,UNIT PRICE,TOTAL ( R)
-Head Office,Food Parcels,365 LEGACY ENTERTAINMENT,50,900,"45,000.00"
-Head Office,Food Parcels,AMBITIOUS BUSINESS SOLUTIONS,50,900,"45,000.00"
-Head Office,Food Parcels,AMOR DE DIOS TRADERS,50,900,"45,000.00"
-Head Office,Food Parcels,ANERVI,50,900,"45,000.00"
-Head Office,Food Parcels,AZZURI CONNEXIONS,50,900,"45,000.00"
-Head Office,Food Parcels,BAROLONG BATHO PTY LTD - QUOTE 1,50,900,"45,000.00"
-Head Office,Food Parcels,BLUE AQUARIAN,50,900,"45,000.00"
-Head Office,Food Parcels,BNK ENTERPRISES,50,900,"45,000.00"
-Head Office,Food Parcels,BOBBI TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,BP KKK INVESTMENTS,50,900,"45,000.00"
-Head Office,Food Parcels,CALANTRA TRADING 655 CC,50,900,"45,000.00"
-Head Office,Food Parcels,CAREY GROUP,50,900,"45,000.00"
-Head Office,Food Parcels,CONLOW GENERAL,50,900,"45,000.00"
-Head Office,Food Parcels,COSMIC FORCE HOLDINGS,50,900,"45,000.00"
-Head Office,Food Parcels,DICHRI CONSTRUCTIONS,50,900,"45,000.00"
-Head Office,Food Parcels,DKL 82 INVESTMENT,50,900,"45,000.00"
-Head Office,Food Parcels,ECO-FRIENDLY CLEANERS PTY LTD,50,900,"45,000.00"
-Head Office,Food Parcels,ELSKANEX,50,900,"45,000.00"
-Head Office,Food Parcels,FERRIS AND CO,50,900,"45,000.00"
-Head Office,Food Parcels,FST TRADING AND BUSINESS ADMINISTRATION,50,900,"45,000.00"
-Head Office,Food Parcels,GLOBAL WILL POWER,50,900,"45,000.00"
-Head Office,Food Parcels,GOSIAME SUPPLIER AND CONSTRUCTION,50,900,"45,000.00"
-Head Office,Food Parcels,JR ENGELBRECHT CONSULTING,50,900,"45,000.00"
-Head Office,Food Parcels,K -ENTLE TRADING ENTERPRISE,50,900,"45,000.00"
-Head Office,Food Parcels,K&J ENDEAVOUR,50,900,"45,000.00"
-Head Office,Food Parcels,K2017398249(SOUTH AFRICA),50,900,"45,000.00"
-Head Office,Food Parcels,KATLEGHO ENTERPRISE,50,900,"45,000.00"
-Head Office,Food Parcels,KDEE BUSINESS SOLUTIONS,50,900,"45,000.00"
-Head Office,Food Parcels,KWA DEKE CONSTRUCTION,50,900,"45,000.00"
-Head Office,Food Parcels,KONOPO FAMILY BUSINESS,50,900,"45,000.00"
-Head Office,Food Parcels,LESHOMO PROJECTS,50,900,"45,000.00"
-Head Office,Food Parcels,LETLHOGONOLO & TSHEPISO,50,900,"45,000.00"
-Head Office,Food Parcels,MAGGIE MABEL GEN TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,MAMZO CATERING,50,900,"45,000.00"
-Head Office,Food Parcels,MARANG A LESEDI,50,900,"45,000.00"
-Head Office,Food Parcels,MARUPING AGENCY,50,900,"45,000.00"
-Head Office,Food Parcels,MEREITSILE TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,MICACLUS,50,900,"45,000.00"
-Head Office,Food Parcels,MLISA CATERING AND TRADING ENTERPRISE,50,900,"45,000.00"
-Head Office,Food Parcels,MPOTSANG NC TRADERS,50,900,"45,000.00"
-Head Office,Food Parcels,MZA GENERAL TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,NAMISA SOLUTION,50,900,"45,000.00"
-Head Office,Food Parcels,NCHUTELANG HOLDINGS,50,900,"45,000.00"
-Head Office,Food Parcels,NDZ DEVELOPMENT,50,900,"45,000.00"
-Head Office,Food Parcels,NDZILANE TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,NOMANTLE HOLDINGS,50,900,"45,000.00"
-Head Office,Food Parcels,NUBIAN TOUCH PROJECTS,50,900,"45,000.00"
-Head Office,Food Parcels,O SEDUMEDI TRANSPORT SERVICES,50,900,"45,000.00"
-Head Office,Food Parcels,OBCO PTY LTD,50,900,"45,000.00"
-Head Office,Food Parcels,OMOLEMO MPHOENTLE,50,900,"45,000.00"
-Head Office,Food Parcels,OMPHEMETSE KAMOHAU ENTERPRISES,50,900,"45,000.00"
-Head Office,Food Parcels,PS PHATSINO TRADING PTY LTD,50,900,"45,000.00"
-Head Office,Food Parcels,RATISINO TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,RATSOTELLA (PTY) LTD,50,900,"45,000.00"
-Head Office,Food Parcels,REABETSWE KABELO GENERAL TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,REMORATILE GENERAL TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,SETLHARE PTY,50,900,"45,000.00"
-Head Office,Food Parcels,SISTERWOOD TRADING & INVESTMENT,50,900,"45,000.00"
-Head Office,Food Parcels,SIZWE AND KGATLISO  INVESTMENTS,50,900,"45,000.00"
-Head Office,Food Parcels,SMIX SUPPLY ENTERPRISE PTY LTD,50,900,"45,000.00"
-Head Office,Food Parcels,SULBRICK KIMBERLEY CC,50,900,"45,000.00"
-Head Office,Food Parcels,TARCAD TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,THE FAVORED GOVERNMENT TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,THEPA TRADING 646CC T/A MOJALEFAS,50,900,"45,000.00"
-Head Office,Food Parcels,THOKOZA 71 PTY,50,900,"45,000.00"
-Head Office,Food Parcels,TIMLA TRADING ENTERPRISE PTY LTD,50,900,"45,000.00"
-Head Office,Food Parcels,TLHAPING INVESTMENT,50,900,"45,000.00"
-Head Office,Food Parcels,TLHONEP BUSINESS SOLUTION,50,900,"45,000.00"
-Head Office,Food Parcels,TOLLERANZA PIETA,50,900,"45,000.00"
-Head Office,Food Parcels,TRIPLE A TRADING,50,900,"45,000.00"
-Head Office,Food Parcels,ULTIMO SOLUTIONS,50,900,"45,000.00"
-Head Office,Food Parcels,ZIKHO PROJECTS (PTY) LTD,50,900,"45,000.00"
-Head Office,Food Parcels,108 MANDLANE TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,BLACKBIRD TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,CAMINANDO HOLDINGS (PTY)LTD,100,900,"90,000.00"
-Head Office,Food Parcels,CAYANE TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,CENTIMAX CYNO TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,DO DOT PROJECTS,100,900,"90,000.00"
-Head Office,Food Parcels,ENHLE HOPE SOLUTIONS (PTY)LTD,100,900,"90,000.00"
-Head Office,Food Parcels,ENTLE 44 TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,GARY'S HOLDING,100,900,"90,000.00"
-Head Office,Food Parcels,HUNTERCY,100,900,"90,000.00"
-Head Office,Food Parcels,ILINGE-LAMAZONDI (PTY)LTD,100,900,"90,000.00"
-Head Office,Food Parcels,KBY GENERAL TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,KEBAKANTSE SUPPLIES AND TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,KITZORO LOGISTICS,100,900,"90,000.00"
-Head Office,Food Parcels,KUMKANI DEVELOPERS (PTY),100,900,"90,000.00"
-Head Office,Food Parcels,LEFIKA HOLDINGS,100,900,"90,000.00"
-Head Office,Food Parcels,LELOTHA GENERAL TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,LESEDI CLEANING & CATERING,100,900,"90,000.00"
-Head Office,Food Parcels,LYREPOINTER PROJECT,100,900,"90,000.00"
-Head Office,Food Parcels,MABOKO CONSULTANCY,100,900,"90,000.00"
-Head Office,Food Parcels,MIT TRADERS,100,900,"90,000.00"
-Head Office,Food Parcels,MODIRAGADI TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,MOR-O-LONG VENTURES,100,900,"90,000.00"
-Head Office,Food Parcels,MOUCKS TRADING & INVESTMENTS,100,900,"90,000.00"
-Head Office,Food Parcels,PRUDAAN TRADING PTY,100,900,"90,000.00"
-Head Office,Food Parcels,R&S AMBITION TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,REAMOGETSE KARABO (PTY) LTD,100,900,"90,000.00"
-Head Office,Food Parcels,RISKI BOY EVENTS & SUPPLY,100,900,"90,000.00"
-Head Office,Food Parcels,SHAW TRANSPORT AND LOGISTICS,100,900,"90,000.00"
-Head Office,Food Parcels,SHINE THE WAY 1302 CC,100,900,"90,000.00"
-Head Office,Food Parcels,THE TRAVELING ROSE,100,900,"90,000.00"
-Head Office,Food Parcels,TRIPLE A TRADING,100,900,"90,000.00"
-Head Office,Food Parcels,WOTEX INVESMENT,100,900,"90,000.00"
-Head Office,Food Parcels,ZITHABO ENTERPRISE (PTY)LTD,100,900,"90,000.00"
-Head Office,Food Parcels,BLAQMYNT (PTY)LTD,150,900,"135,000.00"
-Head Office,Food Parcels,ARIES INTERNATIONAL,200,900,"180,000.00"
-Head Office,Food Parcels,AUM 7860 INVESTMENTS,200,900,"180,000.00"
-Head Office,Food Parcels,BADISA BA BAKWENA SECURITY,200,900,"180,000.00"
-Head Office,Food Parcels,BADISA WHOLESALE SUPPLY,200,900,"180,000.00"
-Head Office,Food Parcels,BELREX 305,200,900,"180,000.00"
-Head Office,Food Parcels,BLING SUPPLY & DELIVERY,200,900,"180,000.00"
-Head Office,Food Parcels,BOITUMELO SECHABENG TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,BOKAMOHSO JWA SECHABA,200,900,"180,000.00"
-Head Office,Food Parcels,BOOKER T.C ENTERPRISE,200,900,"180,000.00"
-Head Office,Food Parcels,CECEMAZELE,200,900,"180,000.00"
-Head Office,Food Parcels,CONLOW GENERAL TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,CYBRONIX PTY LTD,200,900,"180,000.00"
-Head Office,Food Parcels,DELA CASA TRADING 533,200,900,"180,000.00"
-Head Office,Food Parcels,DICHABANYANE TRADING ENT,200,900,"180,000.00"
-Head Office,Food Parcels,ELEWAMA ENTERPRISE (PTY) LTD,200,900,"180,000.00"
-Head Office,Food Parcels,ETERNAL CITY TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,GAOTSHWANE GENERAL ENTERPRISE (PTY) LTD,200,900,"180,000.00"
-Head Office,Food Parcels,GMAT TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,HRA TRADING EVENTS MANAGEMENTS,200,900,"180,000.00"
-Head Office,Food Parcels,HUNTERCY PTY(LTD),200,900,"180,000.00"
-Head Office,Food Parcels,IMMERSE SYNERGY PTY LTD,200,900,"180,000.00"
-Head Office,Food Parcels,IMVUSA TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,ISIPHANDA GENERAL TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,K&S SOLUTIONS,200,900,"180,000.00"
-Head Office,Food Parcels,KEATLEGILE INVESTMENTS,200,900,"180,000.00"
-Head Office,Food Parcels,LEKAMTELA GENERAL TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,LUBABALO ENTERPRISE,200,900,"180,000.00"
-Head Office,Food Parcels,MACRONYM 37,200,900,"180,000.00"
-Head Office,Food Parcels,MBALETHLE TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,MILNEX 325 CC,200,900,"180,000.00"
-Head Office,Food Parcels,MOORE BLAQUE,200,900,"180,000.00"
-Head Office,Food Parcels,NANCY TRADING ENTERPRISE,200,900,"180,000.00"
-Head Office,Food Parcels,NARON,200,900,"180,000.00"
-Head Office,Food Parcels,NOSIVU ENTERPRISES,200,900,"180,000.00"
-Head Office,Food Parcels,PEGANE INFRASTRUCTURE & PROJECTS,200,900,"180,000.00"
-Head Office,Food Parcels,PHUTI HOLDINGS,200,900,"180,000.00"
-Head Office,Food Parcels,SJM GROUP,200,900,"180,000.00"
-Head Office,Food Parcels,SKYLARK SUPPLIES,200,900,"180,000.00"
-Head Office,Food Parcels,STANCH TRADING PTY,200,900,"180,000.00"
-Head Office,Food Parcels,SYRINX DYNAMIC SOLUTIONS,200,900,"180,000.00"
-Head Office,Food Parcels,TOLLERANZA,200,900,"180,000.00"
-Head Office,Food Parcels,UHX TRADING,200,900,"180,000.00"
-Head Office,Food Parcels,VUYANI & MONWABISI INVESTMENT HOLDINGS,200,900,"180,000.00"
-Head Office,Food Parcels,PROMETHIAN LODGE,300,900,"270,000.00"
-Head Office,Food Parcels,A TO Z DISTRIBUTION,500,900,"450,000.00"
-Other Expenditure,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,"2,777.40"
-Other Expenditure,61:-Contrctrs:Casual Labourers,TH SHUPING,,,434
-Other Expenditure,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,434
-Other Expenditure,61:-Contrctrs:Casual Labourers,JK SHUPING,,,434
-Other Expenditure,146:-P/P:Pest Cntrl/Fumigation Ser,MODIAKGOTLAS CREATIONS/AFRO GAMES,,,"43,036.00"
-Other Expenditure,146:-P/P:Pest Cntrl/Fumigation Ser,A-Z GENERAL TRADING,,,"22,197.00"
-Other Expenditure,133:-Cons:Sp&Os:Stationery,JUBALEX LTD/KWANOBANTU ENTERPRISE,,,"57,210.80"
-Other Expenditure,114:-Cons Hous Sup:Dis Paper/Plast,MZA GENERAL TRADING,,,"46,800.00"
-Other Expenditure,110:-Cons Supp: Medical Supplies,UBUNELE PRIMARY,,,"2,000.00"
-Other Expenditure,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,520.8
-Other Expenditure,61:-Contrctrs:Casual Labourers,TH SHUPING,,,520.8
-Other Expenditure,61:-Contrctrs:Casual Labourers,JK SHUPING,,,520.8
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",SILVESTER B TRADING ENTER,100,888,"88,800.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",SEVENTH AVENUE,100,900,"90,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",ISAGO ENTLE  MULTIPURPOSE,100,899.3,"89,930.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",BAROLONG BATHO,100,899,"89,900.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",SALAMAT ENTERPRISE,100,892.5,"89,250.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",NUBIAN TOUCH PROJECTS,100,898,"89,800.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",TSARONA,100,895,"89,500.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",ATNOZA TRADING,100,896,"89,600.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",SOUTH HILL TRADING,100,897,"89,700.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",BULAWA LEGACY PROJECTS,100,892.1,"89,210.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",LESEDI BONESA POJECTS,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",MCM HOPE TRADING,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",ROWKAJ ENTREPRISE,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",JSM APPEX HOLDINDS,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",HEREDITY PROJECTS,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",GREY VISION SOLUTION,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",PHETOGO AFRICA,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",LETSATSI EMPIRE,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",MNMOSH TRADING,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",THATIS HOLDINGS,200,900,"180,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",KWEZILANGA,100,"1,231.30","123,130.00"
-Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,LEFIKA HOLDINGS,,,"10,177.00"
-Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,PARIGENX,,,"18,333.00"
-Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,SILVESTER B TRADING ENTER,,,"11,270.00"
-Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,S AND F EMPLOYMENT,,,"9,520.00"
-Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,K AND S SOLUTIONS,,,"21,000.00"
-Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,BLING SUPPLY AND DELIVERY,,,"7,371.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",DCMP,,,"16,675.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",REA IPELA MEGA,,,"14,210.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",MINATLOU TRADING,,,"18,165.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",MOTABOGI ENTERPRISE,,,"8,990.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",S SQUARED,,,"39,150.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",DESEREE,,,"15,000.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",SOUTH HILL TRADING,,,"3,128.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",OWAMI AND ONGEZWA TRADING,,,"5,075.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",KM MEMORY GARDEN,,,"29,290.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",SIYABONGA GENERAL SUPPLIERS,,,"1,717.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",SELEKOK TRADING,,,"4,350.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",FUNREST CATERING,,,"17,415.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",FLORE TRADING,,,"5,800.00"
-Frances Baard,"72:-A&S/O Nutrition
-Ser:Communities",NVL COMMUNICATION,,,"199,750.00"
-Frances Baard,116:-Cons Hous Sup:Toiletries,MOTABOGI ENTERPRISE,,,"3,545.20"
-Frances Baard,114:-Cons Hous Sup:Dis Paper/Plast,MAREMA,,,"28,750.00"
-Pixley Ka Seme,"100 Food Parcels, Renosterberg
-Municipality",KHULA MOTORS,100,900,"90,000.00"
-,,,,,
-Pixley Ka Seme,"100 Food Parcels, Kareerberg Muncipality",VVUKOLWAM ENTERPRISE,100,899.95,"89,995.00"
-,,,,,
-Pixley Ka Seme,"100 Food Parcels, Siyancuma Muncipality",PHENDUKANA LEGACY,100,765,"76,500.00"
-,,,,,
-Pixley Ka Seme,"100 Food Parcels, Siyancuma Muncipality",PHENDUKANA LEGACY,100,135,"13,500.00"
-,,,,,
-Pixley Ka Seme,"100 Food Parcels, Siyancuma Muncipality",WINTERS KITCHEN,100,899.82,"89,982.00"
-Pixley Ka Seme,"100 Food Parcels, 50 Ubunutu & 50 Siyathemba Municipality",EKAMALUSI ENTERPRISES,100,897.5,"89,750.00"
-Pixley Ka Seme,"100 Food Parcels, Emthanjeni Muncipality",THINGOS GENERAL TRADING,100,900,"90,000.00"
-Pixley Ka Seme,"100 Food Parcels, Ubuntu Muncipality",INGOMSO YOUTH GENERAL TRADING,100,888,"88,800.00"
-Pixley Ka Seme,"100 Food Parcels, Emthanjeni Muncipality",ZIYAMA TRADING AND SERVICES,100,811,"81,100.00"
-Pixley Ka Seme,"100 Food Parcels, Umsobomvu Munciplaity",METCOL BUSINESS,100,800,"80,000.00"
-Pixley Ka Seme,"100 Food Parcels, Umsobomvu Muncipality",KOTOANE TRADING,100,900,"90,000.00"
-Pixley Ka Seme,"100 Food Parcels, Emthanjeni Muncipality",KISMET AGENCIES,100,900,"90,000.00"
-Pixley Ka Seme,"100 Food Parcels, Ubuntu Muncipality",BHULI TRADING,100,900,"90,000.00"
-Pixley Ka Seme,"100 Food Parcels, Umsobomvu Muncipality",SOTHEMBELA,100,900,"90,000.00"
-Pixley Ka Seme,"100 Food Parcels, Thembelihle Muncipality",MOIRA CATERING,100,837,"83,700.00"
-Pixley Ka Seme,"100 Food Parcels, Ubuntu Muncipality",KHULA MOTORS,100,900,"90,000.00"
-Pixley Ka Seme,Groceries For Richmond Shelter,EMTHANJENI ENTERPRISE,,,"4,976.00"
-Pixley Ka Seme,100 Food Parcels,BONANG & SONTI,100,881.9,"88,190.00"
-Pixley Ka Seme,100 Food Parcels,ZIYAMA TRADING AND SERVICES,100,881.9,"88,190.00"
-Pixley Ka Seme,100 Food Parcels,MDK N ENTERPRISES,100,900,"90,000.00"
-Pixley Ka Seme,100 Food Parcels,KHULA MOTORS,100,900,"90,000.00"
-Pixley Ka Seme,100 Food Parcels,VVUKOLWAM ENTERPRISE,100,899.95,"89,995.00"
-Pixley Ka Seme,100 Food Parcels,METCOL BUSINESS,100,800,"80,000.00"
-Pixley Ka Seme,100 Food Parcels,BONANG & SONTI,100,881.9,"88,190.00"
-Pixley Ka Seme,100 Food Parcels,LALLA GENERAL ENTERPRISE,100,900,"90,000.00"
-Pixley Ka Seme,100 Food Parcels,THINGOS GENERAL TRADING,100,900,"90,000.00"
-Pixley Ka Seme,100 Food Parcels,MOIRA CATERING,100,837,"83,700.00"
-Pixley Ka Seme,200 Food Parcels,IC CATERING,200,590,"118,000.00"
-Pixley Ka Seme,100 Food Parcels,BHULI TRADING,100,900,"90,000.00"
-Pixley Ka Seme,"Catering, 5 Days, 20 People, Volunteers + Officials Delivering
-Food Parcels",LALLA GENERAL ENTERPRISE,,,"8,700.00"
-Pixley Ka Seme,Masks For Officials,MAZIKWANA MAZWATHINI TRADING,100,900,"90,000.00"
-Pixley Ka Seme,100 Food Parcels,KOTOANE TRADING,100,900,"90,000.00"
-Pixley Ka Seme,100 Food Parcels,INGOMSO YOUTH GENERAL TRADING,100,885,"88,500.00"
-Pixley Ka Seme,100 Food Parcels,BEHLULI PROJECTS,100,900,"90,000.00"
-Pixley Ka Seme,100 Food Parcels,NOVANDISITHINI GENERAL TRADING,100,900,"90,000.00"
-Pixley Ka Seme,"Catering, 1 Day, 20 People,
+implementation_province_province,buyer_name,implementation_location_other,items_description,supplier_name,items_quantity,cost_per_unit_zar,order_amount_zar
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,365 LEGACY ENTERTAINMENT,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,AMBITIOUS BUSINESS SOLUTIONS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,AMOR DE DIOS TRADERS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ANERVI,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,AZZURI CONNEXIONS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BAROLONG BATHO PTY LTD - QUOTE 1,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BLUE AQUARIAN,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BNK ENTERPRISES,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BOBBI TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BP KKK INVESTMENTS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CALANTRA TRADING 655 CC,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CAREY GROUP,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CONLOW GENERAL,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,COSMIC FORCE HOLDINGS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,DICHRI CONSTRUCTIONS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,DKL 82 INVESTMENT,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ECO-FRIENDLY CLEANERS PTY LTD,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ELSKANEX,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,FERRIS AND CO,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,FST TRADING AND BUSINESS ADMINISTRATION,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,GLOBAL WILL POWER,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,GOSIAME SUPPLIER AND CONSTRUCTION,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,JR ENGELBRECHT CONSULTING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,K -ENTLE TRADING ENTERPRISE,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,K&J ENDEAVOUR,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,K2017398249(SOUTH AFRICA),50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KATLEGHO ENTERPRISE,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KDEE BUSINESS SOLUTIONS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KWA DEKE CONSTRUCTION,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KONOPO FAMILY BUSINESS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,LESHOMO PROJECTS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,LETLHOGONOLO & TSHEPISO,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MAGGIE MABEL GEN TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MAMZO CATERING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MARANG A LESEDI,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MARUPING AGENCY,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MEREITSILE TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MICACLUS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MLISA CATERING AND TRADING ENTERPRISE,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MPOTSANG NC TRADERS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MZA GENERAL TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NAMISA SOLUTION,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NCHUTELANG HOLDINGS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NDZ DEVELOPMENT,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NDZILANE TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NOMANTLE HOLDINGS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NUBIAN TOUCH PROJECTS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,O SEDUMEDI TRANSPORT SERVICES,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,OBCO PTY LTD,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,OMOLEMO MPHOENTLE,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,OMPHEMETSE KAMOHAU ENTERPRISES,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,PS PHATSINO TRADING PTY LTD,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,RATISINO TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,RATSOTELLA (PTY) LTD,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,REABETSWE KABELO GENERAL TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,REMORATILE GENERAL TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SETLHARE PTY,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SISTERWOOD TRADING & INVESTMENT,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SIZWE AND KGATLISO  INVESTMENTS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SMIX SUPPLY ENTERPRISE PTY LTD,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SULBRICK KIMBERLEY CC,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,TARCAD TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,THE FAVORED GOVERNMENT TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,THEPA TRADING 646CC T/A MOJALEFAS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,THOKOZA 71 PTY,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,TIMLA TRADING ENTERPRISE PTY LTD,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,TLHAPING INVESTMENT,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,TLHONEP BUSINESS SOLUTION,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,TOLLERANZA PIETA,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,TRIPLE A TRADING,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ULTIMO SOLUTIONS,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ZIKHO PROJECTS (PTY) LTD,50,900.00,45000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,108 MANDLANE TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BLACKBIRD TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CAMINANDO HOLDINGS (PTY)LTD,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CAYANE TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CENTIMAX CYNO TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,DO DOT PROJECTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ENHLE HOPE SOLUTIONS (PTY)LTD,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ENTLE 44 TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,GARY'S HOLDING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,HUNTERCY,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ILINGE-LAMAZONDI (PTY)LTD,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KBY GENERAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KEBAKANTSE SUPPLIES AND TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KITZORO LOGISTICS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KUMKANI DEVELOPERS (PTY),100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,LEFIKA HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,LELOTHA GENERAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,LESEDI CLEANING & CATERING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,LYREPOINTER PROJECT,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MABOKO CONSULTANCY,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MIT TRADERS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MODIRAGADI TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MOR-O-LONG VENTURES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MOUCKS TRADING & INVESTMENTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,PRUDAAN TRADING PTY,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,R&S AMBITION TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,REAMOGETSE KARABO (PTY) LTD,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,RISKI BOY EVENTS & SUPPLY,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SHAW TRANSPORT AND LOGISTICS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SHINE THE WAY 1302 CC,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,THE TRAVELING ROSE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,TRIPLE A TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,WOTEX INVESMENT,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ZITHABO ENTERPRISE (PTY)LTD,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BLAQMYNT (PTY)LTD,150,900.00,135000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ARIES INTERNATIONAL,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,AUM 7860 INVESTMENTS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BADISA BA BAKWENA SECURITY,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BADISA WHOLESALE SUPPLY,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BELREX 305,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BLING SUPPLY & DELIVERY,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BOITUMELO SECHABENG TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BOKAMOHSO JWA SECHABA,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,BOOKER T.C ENTERPRISE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CECEMAZELE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CONLOW GENERAL TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,CYBRONIX PTY LTD,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,DELA CASA TRADING 533,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,DICHABANYANE TRADING ENT,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ELEWAMA ENTERPRISE (PTY) LTD,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ETERNAL CITY TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,GAOTSHWANE GENERAL ENTERPRISE (PTY) LTD,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,GMAT TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,HRA TRADING EVENTS MANAGEMENTS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,HUNTERCY PTY(LTD),200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,IMMERSE SYNERGY PTY LTD,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,IMVUSA TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,ISIPHANDA GENERAL TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,K&S SOLUTIONS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,KEATLEGILE INVESTMENTS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,LEKAMTELA GENERAL TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,LUBABALO ENTERPRISE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MACRONYM 37,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MBALETHLE TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MILNEX 325 CC,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,MOORE BLAQUE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NANCY TRADING ENTERPRISE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NARON,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,NOSIVU ENTERPRISES,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,PEGANE INFRASTRUCTURE & PROJECTS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,PHUTI HOLDINGS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SJM GROUP,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SKYLARK SUPPLIES,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,STANCH TRADING PTY,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,SYRINX DYNAMIC SOLUTIONS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,TOLLERANZA,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,UHX TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,VUYANI & MONWABISI INVESTMENT HOLDINGS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,PROMETHIAN LODGE,300,900.00,270000.00
+Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,A TO Z DISTRIBUTION,500,900.00,450000.00
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,2777.40
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,61:-Contrctrs:Casual Labourers,TH SHUPING,,,434.00
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,434.00
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,61:-Contrctrs:Casual Labourers,JK SHUPING,,,434.00
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,146:-P/P:Pest Cntrl/Fumigation Ser,MODIAKGOTLAS CREATIONS/AFRO GAMES,,,43036.00
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,146:-P/P:Pest Cntrl/Fumigation Ser,A-Z GENERAL TRADING,,,22197.00
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,133:-Cons:Sp&Os:Stationery,JUBALEX LTD/KWANOBANTU ENTERPRISE,,,57210.80
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,114:-Cons Hous Sup:Dis Paper/Plast,MZA GENERAL TRADING,,,46800.00
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,110:-Cons Supp: Medical Supplies,UBUNELE PRIMARY,,,2000.00
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,520.80
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,61:-Contrctrs:Casual Labourers,TH SHUPING,,,520.80
+Northern Cape,Northern Cape Provincial Government,Other Expenditure,61:-Contrctrs:Casual Labourers,JK SHUPING,,,520.80
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",SILVESTER B TRADING ENTER,100,888.00,88800.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",SEVENTH AVENUE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",ISAGO ENTLE  MULTIPURPOSE,100,899.30,89930.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",BAROLONG BATHO,100,899.00,89900.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",SALAMAT ENTERPRISE,100,892.50,89250.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",NUBIAN TOUCH PROJECTS,100,898.00,89800.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",TSARONA,100,895.00,89500.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",ATNOZA TRADING,100,896.00,89600.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",SOUTH HILL TRADING,100,897.00,89700.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",BULAWA LEGACY PROJECTS,100,892.10,89210.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",LESEDI BONESA POJECTS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",MCM HOPE TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",ROWKAJ ENTREPRISE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",JSM APPEX HOLDINDS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",HEREDITY PROJECTS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",GREY VISION SOLUTION,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",PHETOGO AFRICA,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",LETSATSI EMPIRE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",MNMOSH TRADING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",THATIS HOLDINGS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",KWEZILANGA,100,1231.30,123130.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,LEFIKA HOLDINGS,,,10177.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,PARIGENX,,,18333.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,SILVESTER B TRADING ENTER,,,11270.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,S AND F EMPLOYMENT,,,9520.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,K AND S SOLUTIONS,,,21000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,146:-P/P:Pest Cntrl/Fumigation Ser,BLING SUPPLY AND DELIVERY,,,7371.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",DCMP,,,16675.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",REA IPELA MEGA,,,14210.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",MINATLOU TRADING,,,18165.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",MOTABOGI ENTERPRISE,,,8990.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",S SQUARED,,,39150.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",DESEREE,,,15000.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",SOUTH HILL TRADING,,,3128.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",OWAMI AND ONGEZWA TRADING,,,5075.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",KM MEMORY GARDEN,,,29290.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",SIYABONGA GENERAL SUPPLIERS,,,1717.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",SELEKOK TRADING,,,4350.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",FUNREST CATERING,,,17415.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",FLORE TRADING,,,5800.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,"72:-A&S/O Nutrition
+Ser:Communities",NVL COMMUNICATION,,,199750.00
+Northern Cape,Northern Cape Provincial Government,Frances Baard,116:-Cons Hous Sup:Toiletries,MOTABOGI ENTERPRISE,,,3545.20
+Northern Cape,Northern Cape Provincial Government,Frances Baard,114:-Cons Hous Sup:Dis Paper/Plast,MAREMA,,,28750.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Renosterberg
+Municipality",KHULA MOTORS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Kareerberg Muncipality",VVUKOLWAM ENTERPRISE,100,899.95,89995.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Siyancuma Muncipality",PHENDUKANA LEGACY,100,765.00,76500.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Siyancuma Muncipality",PHENDUKANA LEGACY,100,135.00,13500.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Siyancuma Muncipality",WINTERS KITCHEN,100,899.82,89982.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, 50 Ubunutu & 50 Siyathemba Municipality",EKAMALUSI ENTERPRISES,100,897.50,89750.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Emthanjeni Muncipality",THINGOS GENERAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Ubuntu Muncipality",INGOMSO YOUTH GENERAL TRADING,100,888.00,88800.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Emthanjeni Muncipality",ZIYAMA TRADING AND SERVICES,100,811.00,81100.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Umsobomvu Munciplaity",METCOL BUSINESS,100,800.00,80000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Umsobomvu Muncipality",KOTOANE TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Emthanjeni Muncipality",KISMET AGENCIES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Ubuntu Muncipality",BHULI TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Umsobomvu Muncipality",SOTHEMBELA,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Thembelihle Muncipality",MOIRA CATERING,100,837.00,83700.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Ubuntu Muncipality",KHULA MOTORS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,Groceries For Richmond Shelter,EMTHANJENI ENTERPRISE,,,4976.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,BONANG & SONTI,100,881.90,88190.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,ZIYAMA TRADING AND SERVICES,100,881.90,88190.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,MDK N ENTERPRISES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,KHULA MOTORS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,VVUKOLWAM ENTERPRISE,100,899.95,89995.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,METCOL BUSINESS,100,800.00,80000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,BONANG & SONTI,100,881.90,88190.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,LALLA GENERAL ENTERPRISE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,THINGOS GENERAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,MOIRA CATERING,100,837.00,83700.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,200 Food Parcels,IC CATERING,200,590.00,118000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,BHULI TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 5 Days, 20 People, Volunteers + Officials Delivering
+Food Parcels",LALLA GENERAL ENTERPRISE,,,8700.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,Masks For Officials,MAZIKWANA MAZWATHINI TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,KOTOANE TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,INGOMSO YOUTH GENERAL TRADING,100,885.00,88500.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,BEHLULI PROJECTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Food Parcels,NOVANDISITHINI GENERAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 20 People,
 Volunteers + Officials Delivering
-Food Parcels",EMTHANJENI ENTERPRISE,,,"2,400.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People,
+Food Parcels",EMTHANJENI ENTERPRISE,,,2400.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People,
 Volunteers + Officials Delivering
-Food Parcels",MASENE ENTERPISES,,,"1,950.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People,
+Food Parcels",MASENE ENTERPISES,,,1950.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People,
 Volunteers + Officials Delivering
-Food Parcels",MDK N ENTERPRISES,,,"2,700.00"
-Pixley Ka Seme,"Catering, 1 Day, 20 People,
+Food Parcels",MDK N ENTERPRISES,,,2700.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 20 People,
 Volunteers + Officials Delivering
-Food Parcels",ALHAYS GENERAL TRADING,,,"1,300.00"
-Pixley Ka Seme,"Catering, 1 Day, 20 People,
+Food Parcels",ALHAYS GENERAL TRADING,,,1300.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 20 People,
 Volunteers + Officials Delivering
-Food Parcels",BHULI TRADING,,,"1,140.00"
-Pixley Ka Seme,"Catering, 1 Day, 15 People,
+Food Parcels",BHULI TRADING,,,1140.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 15 People,
 Volunteers + Officials Delivering
-Food Parcels",GNAMS TRADING,,,"1,200.00"
-Pixley Ka Seme,"Catering, 1 Day, 20 People,
+Food Parcels",GNAMS TRADING,,,1200.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 20 People,
 Volunteers + Officials Delivering
-Food Parcels",DIAN CATERING,,,"2,000.00"
-Pixley Ka Seme,Groceries For Richmond Shelter,KOTOANE TRADING,,,"10,605.00"
-Pixley Ka Seme,"Catering, 1 Day, 12 People,
+Food Parcels",DIAN CATERING,,,2000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,Groceries For Richmond Shelter,KOTOANE TRADING,,,10605.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 12 People,
 Volunteers + Officials Delivering
-Food Parcels",MOIRA CATERING,,,840
-Pixley Ka Seme,"Catering, 1 Day, 30 People,
+Food Parcels",MOIRA CATERING,,,840.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People,
 Volunteers + Officials Delivering
-Food Parcels",MDK N ENTERPRISES,,,"2,700.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People,
+Food Parcels",MDK N ENTERPRISES,,,2700.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People,
 Volunteers + Officials Delivering
-Food Parcels",MAE VAN ZYL,,,"1,950.00"
-Pixley Ka Seme,"Catering, 1 Day, 20 People,
+Food Parcels",MAE VAN ZYL,,,1950.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 20 People,
 Volunteers + Officials Delivering
-Food Parcels",EMZINI WAKUTI,,,"1,400.00"
-Pixley Ka Seme,Transporting Food Parcels To Hanover,KHULA MOTORS,,,"2,700.00"
-Pixley Ka Seme,"Catering, 1 Day, 14 People,
+Food Parcels",EMZINI WAKUTI,,,1400.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,Transporting Food Parcels To Hanover,KHULA MOTORS,,,2700.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 14 People,
 Volunteers + Officials Delivering
-Food Parcels",MAGGY'S CATERING,,,"1,120.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People,
+Food Parcels",MAGGY'S CATERING,,,1120.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People,
 Volunteers + Officials Delivering
-Food Parcels",ALIDA'S CATERING,,,"1,120.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People,
+Food Parcels",ALIDA'S CATERING,,,1120.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People,
 Volunteers + Officials Delivering
-Food Parcels",SAAIMAN ENTERPRISE,,,"2,400.00"
-Pixley Ka Seme,"Disinfection Of De Aar, Carnarvon, Britstown & Victoria West Offices",ISJX GENERAL CONTRACTORS,,,"18,002.02"
-Pixley Ka Seme,"Disinfection Of Hopetown, Douglas, Griekwastad & Prieska Offices",ULWAZI ENRIRO SOLUTIONS,,,"10,430.00"
-Pixley Ka Seme,"200 Food Parcels, Griekwastad",BONANG & SONTI,200,599.1,"119,820.00"
-Pixley Ka Seme,"200 Food Parcel, Douglas",IC CATERING,200,590,"118,000.00"
-Pixley Ka Seme,"200 Food Parcels, Griekwastad",INGOMSO YOUTH GENERAL TRADING,200,582.5,"116,500.00"
-Pixley Ka Seme,"200 Food Parcel, Douglas",MIRACLUS TRADING,200,598,"119,600.00"
-Pixley Ka Seme,"Disinfection, De Aar Child & Youth Care Centre",VVUKOLWAM ENTERPRISE,,,"22,960.00"
-Pixley Ka Seme,"100 Food Parcels, Griekwastad",IPOPENG MULTI-PURPOSE PRIMARY CO,100,600,"60,000.00"
-Pixley Ka Seme,1000 Washable Masks For DACYCC 1000  + Officials,MAZIKWANA MAZWATHINI TRADING,,,"18,000.00"
-Pixley Ka Seme,"Accommodation And Meals, 1
+Food Parcels",SAAIMAN ENTERPRISE,,,2400.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Disinfection Of De Aar, Carnarvon, Britstown & Victoria West Offices",ISJX GENERAL CONTRACTORS,,,18002.02
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Disinfection Of Hopetown, Douglas, Griekwastad & Prieska Offices",ULWAZI ENRIRO SOLUTIONS,,,10430.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"200 Food Parcels, Griekwastad",BONANG & SONTI,200,599.10,119820.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"200 Food Parcel, Douglas",IC CATERING,200,590.00,118000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"200 Food Parcels, Griekwastad",INGOMSO YOUTH GENERAL TRADING,200,582.50,116500.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"200 Food Parcel, Douglas",MIRACLUS TRADING,200,598.00,119600.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Disinfection, De Aar Child & Youth Care Centre",VVUKOLWAM ENTERPRISE,,,22960.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcels, Griekwastad",IPOPENG MULTI-PURPOSE PRIMARY CO,100,600.00,60000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,1000 Washable Masks For DACYCC 1000  + Officials,MAZIKWANA MAZWATHINI TRADING,,,18000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, Food Parcel Distribution, M
-Asia",TONJAN INVESTMENTS,,,480
-Pixley Ka Seme,"Accommodation And Meals, 1
+Asia",TONJAN INVESTMENTS,,,480.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, Food Parcel Distribution, M
-Asia",TONJAN INVESTMENTS,,,270
-Pixley Ka Seme,"Accommodation And Meals, 1
+Asia",TONJAN INVESTMENTS,,,270.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, Food Parcel Distribution, J
-Uithaler",TONJAN INVESTMENTS,,,480
-Pixley Ka Seme,"Accommodation And Meals, 1
+Uithaler",TONJAN INVESTMENTS,,,480.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, Food Parcel Distribution, J
-Uithaler",TONJAN INVESTMENTS,,,270
-,,,,,
-,,,,,
-Pixley Ka Seme,"Accommodation And Meals, 2
+Uithaler",TONJAN INVESTMENTS,,,270.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 2
 Nights, Food Parcel Distribution, 12
-Volunteers",BROADWATER TRUST,,,"12,200.00"
-Pixley Ka Seme,"Accommodation And Meals, 2
+Volunteers",BROADWATER TRUST,,,12200.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 2
 Nights, Food Parcel Distribution, 12
-Volunteers",BROADWATER TRUST,,,"4,320.00"
-Pixley Ka Seme,"Accommodation And Meals, 2
+Volunteers",BROADWATER TRUST,,,4320.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 2
 Nights, Food Parcel Distribution, 16
-Volunteers",VILLIERA GUESTHOUSE,,,"17,560.00"
-Pixley Ka Seme,"Accommodation And Meals, 2
+Volunteers",VILLIERA GUESTHOUSE,,,17560.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 2
 Nights, Food Parcel Distribution, 16
-Volunteers",VILLIERA GUESTHOUSE,,,"8,640.00"
-Pixley Ka Seme,"100 Food Parcel, Douglas",MIRACLUS TRADING,,,"59,800.00"
-Pixley Ka Seme,"Disinfection Of Hanover, Richmond,
+Volunteers",VILLIERA GUESTHOUSE,,,8640.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"100 Food Parcel, Douglas",MIRACLUS TRADING,,,59800.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Disinfection Of Hanover, Richmond,
 Colesburg, Noupoort, Phillipstown
-& Petrusville Offices",ISJX GENERAL CONTRACTORS,,,"13,814.58"
-Pixley Ka Seme,"Accommodation And Meals, 1
+& Petrusville Offices",ISJX GENERAL CONTRACTORS,,,13814.58
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, Food Parcel Distribution, S
-Manya",DE LANGE GATSEHUIS,,,750
-Pixley Ka Seme,"Accommodation And Meals, 1
+Manya",DE LANGE GATSEHUIS,,,750.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, Food Parcel Distribution, S
-Manya",DE LANGE GATSEHUIS,,,350
-Pixley Ka Seme,"Catering, 3 Days, 25 People, Covid-
-19 Food Distribution",GRIQUA ENTERPRISE,,,"7,375.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People, Covid-
-19 Food Distribution",MICHOLENE TRADING,,,"1,980.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People, Covid-
-19 Food Distribution",MAE VAN ZYL,,,"2,100.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People, Covid-
-19 Food Distribution",MICHOLENE TRADING,,,"1,920.00"
-,,,,,
-Pixley Ka Seme,"Catering, 1 Day, 25 People, Covid-
-19 Food Distribution",ALHAYS GENERAL TRADING,,,"1,900.00"
-,,,,,
-Pixley Ka Seme,"Catering, 3 Days, 20 People, Covid-
-19 Food Distribution",NTSUNDU HALA ENTERPRISE,,,"6,180.00"
-,,,,,
-Pixley Ka Seme,"200 Food Parcels, Victoria West",KHULA MOTORS,200,600,"120,000.00"
-Pixley Ka Seme,"Catering, 1 Day, 20 People, Covid-
-19 Food Distribution",KWANOKHAYA,,,"1,600.00"
-,,,,,
-Pixley Ka Seme,"PPE, VEP Shelter",WALLA ENTERPISE,,,"1,981.20"
-Pixley Ka Seme,"Accommodation And Meals, 1
-Night, N Qunta, COVID-19 NFD",HOLE IN ONE TRUST,,,740
-Pixley Ka Seme,"Accommodation And Meals, 1
-Night, N Qunta, COVID-19 NFD",HOLE IN ONE TRUST,,,180
-Pixley Ka Seme,"Accommodation And Meals, 1
+Manya",DE LANGE GATSEHUIS,,,350.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 3 Days, 25 People, Covid-
+19 Food Distribution",GRIQUA ENTERPRISE,,,7375.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People, Covid-
+19 Food Distribution",MICHOLENE TRADING,,,1980.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People, Covid-
+19 Food Distribution",MAE VAN ZYL,,,2100.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People, Covid-
+19 Food Distribution",MICHOLENE TRADING,,,1920.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 25 People, Covid-
+19 Food Distribution",ALHAYS GENERAL TRADING,,,1900.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 3 Days, 20 People, Covid-
+19 Food Distribution",NTSUNDU HALA ENTERPRISE,,,6180.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"200 Food Parcels, Victoria West",KHULA MOTORS,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 20 People, Covid-
+19 Food Distribution",KWANOKHAYA,,,1600.00
+Northern Cape,Northern Cape Provincial Government,,,,,,
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"PPE, VEP Shelter",WALLA ENTERPISE,,,1981.20
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
+Night, N Qunta, COVID-19 NFD",HOLE IN ONE TRUST,,,740.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
+Night, N Qunta, COVID-19 NFD",HOLE IN ONE TRUST,,,180.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, K Francis, N Serati & M
-Dhlamini, & H Biko COVID-19 NFD",HOLE IN ONE TRUST,,,"2,960.00"
-Pixley Ka Seme,"Accommodation And Meals, 1
+Dhlamini, & H Biko COVID-19 NFD",HOLE IN ONE TRUST,,,2960.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, K Francis, N Serati & M
-Dhlamini, COVID-19 NFD",HOLE IN ONE TRUST,,,720
-Pixley Ka Seme,"Catering, 1 Day, 15 People, Covid-
-19 Food Distribution",PHENDUKANA LEGACY,,,"1,425.00"
-Pixley Ka Seme,"Accommodation And Meals, 1
-Night, N Qunta, COVID-19 NFD",MCKALA GUESTHOUSE,,,650
-Pixley Ka Seme,"Accommodation And Meals, 1
-Night, N Qunta, COVID-19 NFD",MCKALA GUESTHOUSE,,,275
-Pixley Ka Seme,"Accommodation And Meals, 1
+Dhlamini, COVID-19 NFD",HOLE IN ONE TRUST,,,720.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 15 People, Covid-
+19 Food Distribution",PHENDUKANA LEGACY,,,1425.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
+Night, N Qunta, COVID-19 NFD",MCKALA GUESTHOUSE,,,650.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
+Night, N Qunta, COVID-19 NFD",MCKALA GUESTHOUSE,,,275.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, K Francis, N Serati & M
-Dhlamini, COVID-19 NFD",MCKALA GUESTHOUSE,,,"1,950.00"
-Pixley Ka Seme,"Accommodation And Meals, 1
+Dhlamini, COVID-19 NFD",MCKALA GUESTHOUSE,,,1950.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, K Francis, N Serati & M
-Dhlamini, COVID-19 NFD",MCKALA GUESTHOUSE,,,825
-Pixley Ka Seme,"Accommodation And Meals, 1
-Night, H Biko, Office Dry Run",NADIA MARIC,,,480
-Pixley Ka Seme,"Accommodation And Meals, 1
-Night, H Biko, Office Dry Run",NADIA MARIC,,,260
-Pixley Ka Seme,"Catering, 3 Days, 40 People, Covid-
-19 Food Distribution",PHENDUKANA LEGACY,,,"12,800.00"
-Pixley Ka Seme,10 Food Parcels,BHULI TRADING,,,"8,450.00"
-Pixley Ka Seme,"Catering, 2 Days, 25 People,
+Dhlamini, COVID-19 NFD",MCKALA GUESTHOUSE,,,825.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
+Night, H Biko, Office Dry Run",NADIA MARIC,,,480.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
+Night, H Biko, Office Dry Run",NADIA MARIC,,,260.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 3 Days, 40 People, Covid-
+19 Food Distribution",PHENDUKANA LEGACY,,,12800.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,10 Food Parcels,BHULI TRADING,,,8450.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 2 Days, 25 People,
 Volunteers + Officials Delivering
-Food Parcels",ALHAYS GENERAL TRADING,,,"4,275.00"
-Pixley Ka Seme,"Catering, 1 Day, 30 People,
+Food Parcels",ALHAYS GENERAL TRADING,,,4275.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 30 People,
 Volunteers + Officials Delivering
-Food Parcels",ALHAYS GENERAL TRADING,,,"3,900.00"
-Pixley Ka Seme,"PPE, Noupoort Office - Shields And
-Space Suits",MAZIKWANA MAZWATHINI TRADING,,,"3,090.00"
-Pixley Ka Seme,16 X Gazebos,VVUKOLWAM ENTERPRISE,,,"27,200.00"
-Pixley Ka Seme,150 Pages Of Stickers + Barrier Taoe,VVUKOLWAM ENTERPRISE,,,"13,184.00"
-Pixley Ka Seme,"Catering, 3 Days, 20 People,
+Food Parcels",ALHAYS GENERAL TRADING,,,3900.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"PPE, Noupoort Office - Shields And
+Space Suits",MAZIKWANA MAZWATHINI TRADING,,,3090.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,16 X Gazebos,VVUKOLWAM ENTERPRISE,,,27200.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,150 Pages Of Stickers + Barrier Taoe,VVUKOLWAM ENTERPRISE,,,13184.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 3 Days, 20 People,
 Volunteers + Officials Delivering
-Food Parcels",NTSUNDU HALA ENTERPRISE,,,"3,900.00"
-Pixley Ka Seme,"Catering, 1 Days, 30 People, Covid-
-19 Food Distribution",GRIQUA ENTERPRISE,,,"3,000.00"
-Pixley Ka Seme,"Catering, 1 Days, 20 People, Covid-
-19 Food Distribution",NOMHLE & KHANYA,,,"2,000.00"
-Pixley Ka Seme,"Accommodation And Meals, 1
+Food Parcels",NTSUNDU HALA ENTERPRISE,,,3900.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Days, 30 People, Covid-
+19 Food Distribution",GRIQUA ENTERPRISE,,,3000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Days, 20 People, Covid-
+19 Food Distribution",NOMHLE & KHANYA,,,2000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, N Serati-K Francis & N Qunta,
-COVID-19 NFD",MCKALA GUESTHOUSE,,,"1,950.00"
-Pixley Ka Seme,"Accommodation And Meals, 1
+COVID-19 NFD",MCKALA GUESTHOUSE,,,1950.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
 Night, N Serati-K Francis & N Qunta,
-COVID-19 NFD",MCKALA GUESTHOUSE,,,825
-Pixley Ka Seme,"Accommodation And Meals, 1
-Night, H Biko, COVID-19 NFD",MCKALA GUESTHOUSE,,,650
-Pixley Ka Seme,"Accommodation And Meals, 1
-Night, H Biko, COVID-19 NFD",MCKALA GUESTHOUSE,,,"2,750.00"
-Pixley Ka Seme,"Catering, 1 Days, 20 People, Covid-
-19 Food Distribution",EG MZIMELA,,,"1,875.00"
-Pixley Ka Seme,"Catering, 1 Day, 13 People, Covid-
-19 Food Distribution",PHENDUKANA LEGACY,,,"1,040.00"
-Pixley Ka Seme,"Catering, 1 Day, 25 People, Covid-
-19 Food Distribution",PHENDUKANA LEGACY,,,"2,000.00"
-Pixley Ka Seme,"Catering, 40 People, 1 Day, Covid-
-19 Food Parcel Distribution",ANN'S CATERING,,,"2,800.00"
-Pixley Ka Seme,100 Litres Sanitizer,THINGOS GENERAL TRADING,,,"10,000.00"
-Pixley Ka Seme,"Disinfection, District Office",MAZIKWANA MAZWATHINI TRADING,,,"8,610.00"
-Pixley Ka Seme,50 X 3 Ply Face Masks,KUKHONYE TRADING,,,"2,100.00"
-Pixley Ka Seme,"Catering, 18 People, 1 Day, Food
-Parcel Distribution (Veggies)",ALHAYS GENERAL TRADING,,,990
-ZFM,"Petrol Supply For Generator To Use
+COVID-19 NFD",MCKALA GUESTHOUSE,,,825.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
+Night, H Biko, COVID-19 NFD",MCKALA GUESTHOUSE,,,650.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Accommodation And Meals, 1
+Night, H Biko, COVID-19 NFD",MCKALA GUESTHOUSE,,,2750.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Days, 20 People, Covid-
+19 Food Distribution",EG MZIMELA,,,1875.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 13 People, Covid-
+19 Food Distribution",PHENDUKANA LEGACY,,,1040.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 1 Day, 25 People, Covid-
+19 Food Distribution",PHENDUKANA LEGACY,,,2000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 40 People, 1 Day, Covid-
+19 Food Parcel Distribution",ANN'S CATERING,,,2800.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,100 Litres Sanitizer,THINGOS GENERAL TRADING,,,10000.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Disinfection, District Office",MAZIKWANA MAZWATHINI TRADING,,,8610.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,50 X 3 Ply Face Masks,KUKHONYE TRADING,,,2100.00
+Northern Cape,Northern Cape Provincial Government,Pixley Ka Seme,"Catering, 18 People, 1 Day, Food
+Parcel Distribution (Veggies)",ALHAYS GENERAL TRADING,,,990.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Petrol Supply For Generator To Use
 @ Shelter During The 21 Days Of
-Lockdown",FW MOTORS,,,"1,900.00"
-ZFM,Dignity Packs For 32 Children,KARIN'S CATERING,,,"6,240.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-19",FREEDOM & COMPONY,"1,000","1,000.00","100,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-19",YOLI'S DÉCOR & RENTALS,,,"1,550.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",MN JAIRA,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",YOLI'S DÉCOR & RENTALS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",TRI-ME ENTERPROZE,100,900,"90,000.00"
-ZFM,"Vouchers For Blankets & Matrasses
-To Vulnerable People During COVID-20",RC DUNDEE,,,"31,750.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",RC DUNDEE,,,"12,000.00"
-ZFM,"Renting Of 2 Moveable Toilets To
-Vulnerable People During COVID-20",JAJ GEN.SERVICES,,,"19,640.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",ABANTWINI ENTERPRIZE,100,"1,000.00","100,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",PM NDLAMBE,100,"1,000.00","100,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",E&S CATERING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",IMBHOKODONC,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",ZBC TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",EJ & ASSOCIATES,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",K2018,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",EKWE CONSTRUCTION,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",JAJ GEN.SERVICES,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",NDAYENI GENERAL,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",KHETSHE HOLDINGS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",NOLWAZI CATERING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",R&B SUPPLY,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",THAMSHANQA TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",AKSANTI SKILL DEVELOPMENT,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",MAPHEMBA HOLDINGS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",AKSANTI SKILL DEVELOPMENT,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",KITZARO LOGISTIC,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",JNB MARKETING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",MJ CATERING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",UPTOWN PROJECTS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",KARIN'S CATERING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",JMP MANUFACTURING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",SAN'S SERVICES,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",SAN'S SERVICES,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",SATTELITE MUSIC,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",NGOBUBELE CONSTRUCTION,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",DITLAGISO,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",JULIA HOLDINGS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",REMONA'S CATERING,100,900,"90,000.00"
-ZFM,Petrol For Generator - COVID-31,WILFRED ENGELBRECH,,,"1,900.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",KABOPHELO TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",ETONA EVENTS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",ETONA EVENTS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",SEBENZA GEN.&MED SERV,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",SA MALIE GEN,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",SA MALIE GEN,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",TANEALS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",SA MALIE GEN,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",G&B HOLDINGS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",VUWANI ENTERPRIZE,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",VUWANI ENTERPRIZE,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",YOLI'S DÉCOR & RENTALS,,,"7,030.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",G&B HOLDINGS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",SAN'S SERVICES,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",VUWANI ENTERPRIZE,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",TFNP,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",TFNP,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",TFNP,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",TFNP,100,900,"90,000.00"
-ZFM,Lunch Packs For Volunteers,EMCA'S CATERING,,,"6,120.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",GUBULA TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",TWELVE26 PROJECTS,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",TWELVE26 PROJECTS,100,900,"90,000.00"
-ZFM,"Gas And Other Essentials For The
-Homeless Shelter",YOLIS RENTALS,,,"1,600.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",ANDREAS ENTERPRIZE,100,900,"90,000.00"
-ZFM,Mobile Toilets,PM NDLAMBE,,,"28,992.44"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",KABOPHELO TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",KABOPHELO TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",KABOPHELO TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",KUKHANYA ILANGA TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",IDEAL TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",IDEAL TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",IDEAL TRADING,100,900,"90,000.00"
-ZFM,"Food Parcels To Vulnerable People
-During COVID-20",IDEAL TRADING,100,900,"90,000.00"
-ZFM,Petrol For The Shelter,W. ENGELBRECHT,,,"6,904.19"
-ZFM,Groceries,SIPHUMELELE GENERAL SERVICES,,,"4,507.00"
-ZFM,Disinfecting Of The Building,JH PEST CONTROL,,,"45,701.00"
-ZFM,Non-Fin Provincial Meeting,MCKALA GUESTHOUSE,,,"2,760.00"
-ZFM,Non-Fin Provincial Meeting,MCKALA GUESTHOUSE,,,"2,760.00"
-ZFM,Groceries For Shelter,R AND B SUPPLY,,,"1,935.00"
-ZFM,Gas For Shelter,R AND B SUPPLY,,,"1,000.00"
-ZFM,"Vouchers To Buy Clothing For
-Shelter",KAREN'S CATERING,,,"3,200.00"
-ZFM,Groceries For The Shelter,KAREN'S CATERING,,,"1,600.00"
-ZFM,Mobile Toilets,SILVER FALL TRADING,,,"18,000.00"
-ZFM,Fuel For Household Use To Sustain Shelter,WILFRED ENGELBRECHT,,,"2,481.50"
-ZFM,First Aid Kit For Centre,UPINGTON APTEEK,,,"13,325.85"
-ZFM,Assessment And Counseling To Client,CYNTHIA CLARKE,,,"5,000.00"
-ZFM,Assessment And Counseling To Client,CYNTHIA CLARKE,,,"8,500.00"
-ZFM,Assessment And Counseling To Parcel,R AND B SUPPLY,,,"1,000.00"
-ZFM,Transport A Client To VGK Children In Kamieskroon,OKIEP COUNTRY LODGE,,,"1,050.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",SASTAS TRADING,70,"1,000.00","70,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",IVANDUR TRADING & ENTERPRISE,80,"1,000.00","80,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",MP GENERAL DEALER,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",POLBOX ENTERPRISE,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",ANMIR CONSTUCTION & GENERAL,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",L2G SERVICES,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",AM CATERING & TRANSPORT,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",EEDM CONNECTION ENTERPRISE,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",NAYBRO CASH STORE,50,600,"30,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",CAROLUSBERG TYRA CONSTRUCTION,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",BRAINWAVE KONSTRUKSIE,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",L2G SERVICES,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",NAYBRO CASH STORE,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",UC CHEMICALS & CLEANING,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",IVANDUR TRADING & ENTERPRISE,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",CLARISSA CARSTEN SPECIALIZED SERVICES,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",GAMSHA PROJECTS,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",CF HIRING & SUPPLY SERVICES,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",CGC CARPENTING BUILDING,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",AA ENGELBRECHT,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",EEDM CONNECTION ENTERPRISE,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",JOHAN BOOYES,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",AM CATERING & TRANSPORT,200,900,"180,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",GAMSHA PROJECTS,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",SASTAS TRADING,200,600,"120,000.00"
-Namakwa,"Food Parcels To Vulnerable People
-During COVID-19",NAMAQUA PRIDE,200,600,"120,000.00"
-Namakwa,"Hiring Of Fork Lifter For Oofload Of
-Food Parcels",CF HIRING AND SUPPLY SERVICES,,,"3,450.00"
-JTG,100 Sanitory Towels,HUGO D TRADING,,,"3,000.00"
-JTG,50 Dignitory Packs,LESHOMO CONSTRUCTION,,,"11,500.00"
-JTG,R500 * 50 Pep Vouchers,KERE TOUCH,,,"30,000.00"
-JTG,100 Food Parcels,SUPA VOLT TECH,100,900,"90,000.00"
-JTG,100 Food Parcels,MASEGO MAINTENANCE,100,900,"90,000.00"
-JTG,100 Food Parcels,BOITSHWARELO BOGONE,100,900,"90,000.00"
-JTG,100 Food Parcels,MOSIKATSE TRADING AND CONSTRUCTION,100,900,"90,000.00"
-JTG,100 Food Parcels,TEHO GENERAL TRADING,100,900,"90,000.00"
-JTG,100 Food Parcels,MATSHEPS BUSINESS ENTERPRISE,100,900,"90,000.00"
-JTG,100 Food Parcels,LESHOMO CONSTRUCTION AND PROJECTS,100,900,"90,000.00"
-JTG,100 Food Parcels,GAKEPATWE HOLDINGS,100,900,"90,000.00"
-JTG,100 Food Parcels,CAPI- TRA  CLEANING AND TRADING,100,900,"90,000.00"
-JTG,100 Food Parcels,TLHOPS N MORE TRADING,100,900,"90,000.00"
-JTG,100 Food Parcels,MAVOZA LAUNDRY AND CATERING,100,900,"90,000.00"
-JTG,100 Food Parcels,BOIKEMO TRADING ENTERPRISE & PROJECTS,100,900,"90,000.00"
-JTG,100 Food Parcels,LOMEKOTLHO,100,900,"90,000.00"
-JTG,100 Food Parcels,TUMI BADIRWANG HOLDING,100,900,"90,000.00"
-JTG,100 Food Parcels,PHAPHANG MNAGEMENT,100,900,"90,000.00"
-JTG,100 Food Parcels,REMOTLOTLO CATERING  EVENTS,100,900,"90,000.00"
-JTG,100 Food Parcels,REYA PELE HOLDINGS,100,900,"90,000.00"
-JTG,100 Food Parcels,NOBULAS HOLDINGS,100,900,"90,000.00"
-JTG,100 Food Parcels,BONDIC TRADING ENTERPRISE,100,900,"90,000.00"
-JTG,100 Food Parcels,SEBUSENG SUPPLY  & TRANSPORT SERVICES,100,900,"90,000.00"
-JTG,100 Food Parcels,KGOMOTSO IMAGES PROJECT,100,900,"90,000.00"
-JTG,100 Food Parcels,MOKOPAREDI TRADING AND PROJECT,100,900,"90,000.00"
-JTG,100 Food Parcels,LOTLEHANG TRADING & PROJECT,100,900,"90,000.00"
-JTG,100 Food Parcels,GOTYANAVEU,100,900,"90,000.00"
-JTG,100 Food Parcels,LARONA GENERAL TRADING,100,900,"90,000.00"
-JTG,100 Food Parcels,OGONE M RESOURCES,100,900,"90,000.00"
-JTG,100 Food Parcels,OSHEBENG TRADING SERVICE,100,900,"90,000.00"
-JTG,100 Food Parcels,PHAKAMO LOGISTICS,100,900,"90,000.00"
-JTG,100 Food Parcels,BENNET THEBE,100,900,"90,000.00"
-JTG,Food Voucher For R2500,M A MARTINEZ,,,"3,250.00"
-JTG,Electricity For R500,M A MARTINEZ,,,650
-JTG,150 Food Parcels,TSA GAETSHO TRADING,150,600,"90,000.00"
-JTG,150 Food Parcels,ADO G CINSTRUCTION,150,600,"90,000.00"
-JTG,150 Food Parcels,LESEDI KO PELE,150,600,"90,000.00"
-JTG,150 Food Parcels,BOILE RESOURCES,150,600,"90,000.00"
-JTG,150 Food Parcels,SETSE TRADING,150,600,"90,000.00"
-JTG,150 Food Parcels,SEGWANENG TRADING,150,600,"90,000.00"
-JTG,150 Food Parcels,BANEWA ELECTRICAL,150,600,"90,000.00"
-JTG,150 Food Parcels,DIMPHO TSE DINTLE,150,600,"90,000.00"
-JTG,150 Food Parcels,BASHA NORTHERN CAPE,150,600,"90,000.00"
-JTG,150 Food Parcels,DELEMO TRADING,150,600,"90,000.00"
-JTG,"Deep Cleaning Of All Office
-Buildings",KUYABA SERVICES,,,"17,334.77"
-Prov Other,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,"2,777.40"
-Prov Other,61:-Contrctrs:Casual Labourers,TH SHUPING,,,434
-Prov Other,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,434
-Prov Other,61:-Contrctrs:Casual Labourers,JK SHUPING,,,434
-Prov Other,146:-P/P:Pest Cntrl/Fumigation Ser,MODIAKGOTLAS CREATIONS/AFRO GAMES,,,"43,036.00"
-Prov Other,146:-P/P:Pest Cntrl/Fumigation Ser,A-Z GENERAL TRADING,,,"22,197.00"
-Prov Other,133:-Cons:Sp&Os:Stationery,JUBALEX LTD/KWANOBANTU ENTERPRISE,,,"57,210.80"
-Prov Other,114:-Cons Hous Sup:Dis Paper/Plast,MZA GENERAL TRADING,,,"46,800.00"
-Prov Other,110:-Cons Supp: Medical Supplies,UBUNELE PRIMARY,,,"2,000.00"
-Prov Other,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,520.8
-Prov Other,61:-Contrctrs:Casual Labourers,TH SHUPING,,,520.8
-Prov Other,61:-Contrctrs:Casual Labourers,JK SHUPING,,,520.8
+Lockdown",FW MOTORS,,,1900.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Dignity Packs For 32 Children,KARIN'S CATERING,,,6240.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-19",FREEDOM & COMPONY,"1,000",1000.00,100000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-19",YOLI'S DÉCOR & RENTALS,,,1550.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",MN JAIRA,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",YOLI'S DÉCOR & RENTALS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",TRI-ME ENTERPROZE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Vouchers For Blankets & Matrasses
+To Vulnerable People During COVID-20",RC DUNDEE,,,31750.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",RC DUNDEE,,,12000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Renting Of 2 Moveable Toilets To
+Vulnerable People During COVID-20",JAJ GEN.SERVICES,,,19640.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",ABANTWINI ENTERPRIZE,100,1000.00,100000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",PM NDLAMBE,100,1000.00,100000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",E&S CATERING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",IMBHOKODONC,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",ZBC TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",EJ & ASSOCIATES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",K2018,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",EKWE CONSTRUCTION,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",JAJ GEN.SERVICES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",NDAYENI GENERAL,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",KHETSHE HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",NOLWAZI CATERING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",R&B SUPPLY,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",THAMSHANQA TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",AKSANTI SKILL DEVELOPMENT,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",MAPHEMBA HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",AKSANTI SKILL DEVELOPMENT,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",KITZARO LOGISTIC,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",JNB MARKETING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",MJ CATERING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",UPTOWN PROJECTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",KARIN'S CATERING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",JMP MANUFACTURING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",SAN'S SERVICES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",SAN'S SERVICES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",SATTELITE MUSIC,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",NGOBUBELE CONSTRUCTION,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",DITLAGISO,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",JULIA HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",REMONA'S CATERING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Petrol For Generator - COVID-31,WILFRED ENGELBRECH,,,1900.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",KABOPHELO TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",ETONA EVENTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",ETONA EVENTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",SEBENZA GEN.&MED SERV,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",SA MALIE GEN,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",SA MALIE GEN,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",TANEALS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",SA MALIE GEN,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",G&B HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",VUWANI ENTERPRIZE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",VUWANI ENTERPRIZE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",YOLI'S DÉCOR & RENTALS,,,7030.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",G&B HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",SAN'S SERVICES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",VUWANI ENTERPRIZE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",TFNP,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",TFNP,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",TFNP,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",TFNP,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Lunch Packs For Volunteers,EMCA'S CATERING,,,6120.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",GUBULA TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",TWELVE26 PROJECTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",TWELVE26 PROJECTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Gas And Other Essentials For The
+Homeless Shelter",YOLIS RENTALS,,,1600.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",ANDREAS ENTERPRIZE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Mobile Toilets,PM NDLAMBE,,,28992.44
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",KABOPHELO TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",KABOPHELO TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",KABOPHELO TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",KUKHANYA ILANGA TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",IDEAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",IDEAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",IDEAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Food Parcels To Vulnerable People
+During COVID-20",IDEAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Petrol For The Shelter,W. ENGELBRECHT,,,6904.19
+Northern Cape,Northern Cape Provincial Government,ZFM,Groceries,SIPHUMELELE GENERAL SERVICES,,,4507.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Disinfecting Of The Building,JH PEST CONTROL,,,45701.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Non-Fin Provincial Meeting,MCKALA GUESTHOUSE,,,2760.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Non-Fin Provincial Meeting,MCKALA GUESTHOUSE,,,2760.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Groceries For Shelter,R AND B SUPPLY,,,1935.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Gas For Shelter,R AND B SUPPLY,,,1000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,"Vouchers To Buy Clothing For
+Shelter",KAREN'S CATERING,,,3200.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Groceries For The Shelter,KAREN'S CATERING,,,1600.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Mobile Toilets,SILVER FALL TRADING,,,18000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Fuel For Household Use To Sustain Shelter,WILFRED ENGELBRECHT,,,2481.50
+Northern Cape,Northern Cape Provincial Government,ZFM,First Aid Kit For Centre,UPINGTON APTEEK,,,13325.85
+Northern Cape,Northern Cape Provincial Government,ZFM,Assessment And Counseling To Client,CYNTHIA CLARKE,,,5000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Assessment And Counseling To Client,CYNTHIA CLARKE,,,8500.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Assessment And Counseling To Parcel,R AND B SUPPLY,,,1000.00
+Northern Cape,Northern Cape Provincial Government,ZFM,Transport A Client To VGK Children In Kamieskroon,OKIEP COUNTRY LODGE,,,1050.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",SASTAS TRADING,70,1000.00,70000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",IVANDUR TRADING & ENTERPRISE,80,1000.00,80000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",MP GENERAL DEALER,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",POLBOX ENTERPRISE,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",ANMIR CONSTUCTION & GENERAL,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",L2G SERVICES,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",AM CATERING & TRANSPORT,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",EEDM CONNECTION ENTERPRISE,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",NAYBRO CASH STORE,50,600.00,30000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",CAROLUSBERG TYRA CONSTRUCTION,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",BRAINWAVE KONSTRUKSIE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",L2G SERVICES,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",NAYBRO CASH STORE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",UC CHEMICALS & CLEANING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",IVANDUR TRADING & ENTERPRISE,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",CLARISSA CARSTEN SPECIALIZED SERVICES,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",GAMSHA PROJECTS,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",CF HIRING & SUPPLY SERVICES,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",CGC CARPENTING BUILDING,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",AA ENGELBRECHT,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",EEDM CONNECTION ENTERPRISE,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",JOHAN BOOYES,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",AM CATERING & TRANSPORT,200,900.00,180000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",GAMSHA PROJECTS,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",SASTAS TRADING,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Food Parcels To Vulnerable People
+During COVID-19",NAMAQUA PRIDE,200,600.00,120000.00
+Northern Cape,Northern Cape Provincial Government,Namakwa,"Hiring Of Fork Lifter For Oofload Of
+Food Parcels",CF HIRING AND SUPPLY SERVICES,,,3450.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Sanitory Towels,HUGO D TRADING,,,3000.00
+Northern Cape,Northern Cape Provincial Government,JTG,50 Dignitory Packs,LESHOMO CONSTRUCTION,,,11500.00
+Northern Cape,Northern Cape Provincial Government,JTG,R500 * 50 Pep Vouchers,KERE TOUCH,,,30000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,SUPA VOLT TECH,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,MASEGO MAINTENANCE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,BOITSHWARELO BOGONE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,MOSIKATSE TRADING AND CONSTRUCTION,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,TEHO GENERAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,MATSHEPS BUSINESS ENTERPRISE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,LESHOMO CONSTRUCTION AND PROJECTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,GAKEPATWE HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,CAPI- TRA  CLEANING AND TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,TLHOPS N MORE TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,MAVOZA LAUNDRY AND CATERING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,BOIKEMO TRADING ENTERPRISE & PROJECTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,LOMEKOTLHO,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,TUMI BADIRWANG HOLDING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,PHAPHANG MNAGEMENT,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,REMOTLOTLO CATERING  EVENTS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,REYA PELE HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,NOBULAS HOLDINGS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,BONDIC TRADING ENTERPRISE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,SEBUSENG SUPPLY  & TRANSPORT SERVICES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,KGOMOTSO IMAGES PROJECT,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,MOKOPAREDI TRADING AND PROJECT,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,LOTLEHANG TRADING & PROJECT,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,GOTYANAVEU,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,LARONA GENERAL TRADING,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,OGONE M RESOURCES,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,OSHEBENG TRADING SERVICE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,PHAKAMO LOGISTICS,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,100 Food Parcels,BENNET THEBE,100,900.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,Food Voucher For R2500,M A MARTINEZ,,,3250.00
+Northern Cape,Northern Cape Provincial Government,JTG,Electricity For R500,M A MARTINEZ,,,650.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,TSA GAETSHO TRADING,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,ADO G CINSTRUCTION,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,LESEDI KO PELE,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,BOILE RESOURCES,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,SETSE TRADING,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,SEGWANENG TRADING,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,BANEWA ELECTRICAL,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,DIMPHO TSE DINTLE,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,BASHA NORTHERN CAPE,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,150 Food Parcels,DELEMO TRADING,150,600.00,90000.00
+Northern Cape,Northern Cape Provincial Government,JTG,"Deep Cleaning Of All Office
+Buildings",KUYABA SERVICES,,,17334.77
+Northern Cape,Northern Cape Provincial Government,Prov Other,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,2777.40
+Northern Cape,Northern Cape Provincial Government,Prov Other,61:-Contrctrs:Casual Labourers,TH SHUPING,,,434.00
+Northern Cape,Northern Cape Provincial Government,Prov Other,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,434.00
+Northern Cape,Northern Cape Provincial Government,Prov Other,61:-Contrctrs:Casual Labourers,JK SHUPING,,,434.00
+Northern Cape,Northern Cape Provincial Government,Prov Other,146:-P/P:Pest Cntrl/Fumigation Ser,MODIAKGOTLAS CREATIONS/AFRO GAMES,,,43036.00
+Northern Cape,Northern Cape Provincial Government,Prov Other,146:-P/P:Pest Cntrl/Fumigation Ser,A-Z GENERAL TRADING,,,22197.00
+Northern Cape,Northern Cape Provincial Government,Prov Other,133:-Cons:Sp&Os:Stationery,JUBALEX LTD/KWANOBANTU ENTERPRISE,,,57210.80
+Northern Cape,Northern Cape Provincial Government,Prov Other,114:-Cons Hous Sup:Dis Paper/Plast,MZA GENERAL TRADING,,,46800.00
+Northern Cape,Northern Cape Provincial Government,Prov Other,110:-Cons Supp: Medical Supplies,UBUNELE PRIMARY,,,2000.00
+Northern Cape,Northern Cape Provincial Government,Prov Other,61:-Contrctrs:Casual Labourers,TE MAHOLA,,,520.80
+Northern Cape,Northern Cape Provincial Government,Prov Other,61:-Contrctrs:Casual Labourers,TH SHUPING,,,520.80
+Northern Cape,Northern Cape Provincial Government,Prov Other,61:-Contrctrs:Casual Labourers,JK SHUPING,,,520.80
