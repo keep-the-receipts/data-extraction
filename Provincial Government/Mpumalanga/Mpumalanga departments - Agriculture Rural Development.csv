@@ -1,81 +1,14 @@
-"Names of the
- Companies awarded",Product or services rendered,Unit Price,Quantity,"The full amount paid for the
- Products or services","Any donations received
+implementation_location_province,buyer_name,supplier_name,items_description,cost_per_unit_zar,items_quantity,order_amount_zar,"Any donations received
  from external funders /
  companies","The beneficiary targets and
  method of distribution"
- "Classylook
- Makhotane
- Trading","Sanitizer. withnotlessthan70%
- alcohol( 25L)",1 624.75,236, 383 441.00 ,NONE,"500mlofhand
- sanitiserdistributed
- to1570officials
- weekly."
- "Classylook
- Makhotane
- Trading",Gloves - Surgicaland examination - nitrile rubber latex (Box of 100 Medium ),46,160, 7 360.00 ,NONE,"160 boxes distributed
- toVeterinary
- Services"
- "Classylook
- Makhotane
- Trading","Gloves - Surgicaland
- examination  -  nitrile rubber latex (
- Box of 100 Large )",46,50, 2 300.00 ,NONE,"50boxesdistributed
- toVeterinary
- Services"
- "Classylook
- Makhotane
- Trading",3 layer of fabric cloth mask,24,4400, 105 600.00 ,NONE,"3140masks
- distributedto1570
- officials(2masksper
- official)"
- "Classylook
- Makhotane
- Trading","Empty500mlbottleswithspray
- nozzle",30,1500, 45 000.00 ,NONE,"1500emptybottles
- distributedto1500
- officialsofthe
- Department"
- "Classylook
- Makhotane
- Trading",Face shields,60,800, 48 000.00 ,NONE,
- "Classylook
- Makhotane
- Trading",Digital thermometer gun,1 200.00,57, 68 400.00 ,NONE,"57Thermometers
- distributedto57
- DARDLEAofficesin
- districtsandHead
- Office"
- Sabalala Food and Beverages,"Food Parcel Hamper ( Each
- Hamperinclude;10kg
- mealiemeal,10KGrice,
- 1kgwhitesuger,matchbox
- pack,packofcandles,2L
- cooking oil, box of teabags,
- 3 heads of cabbages, 400g
- cannedfish,400gcanned
- beans,1kgfullcream
- powderedmilk,7kgbagof
- potatoesand7kgbagof
- onions)",805.81, 12 700.00 , 10 233 787.00 ,NONE,DARDLEA appointed Sabalala Food and Beverages to operationalise and manage the Mkhondo Agrihub. The Agrihub delivered 12700 food parcel hampers in Gert Sibande District through the DSD nerve centres. The demand for food parcels was presented by the nerve centre to DARDLEA and DARDLEA instructed the Agrihub to deliver as per the demand.
- Impumelelo Agribusiness Solutions,"Food Parcel Hamper ( Each
- Hamper include; 10kg
- mealie meal, 10KG rice,
- 1kg white suger, matchbox
- pack, pack of candles, 2L
- cooking oil, box of teabags,
- 3 heads of cabbages, 400g
- canned fish, 400g canned
- beans, 1kg full cream
- powdered milk, 7kg bag of
- potatoes and 7kg bag of
- onions)",805.81, 27 300.00 , 21 998 613.00 ,NONE,"DARDLEA appointed Impumelelo
- Agribusiness Solutions to operationalise and
- manage the Mkhuhlu Agrihub. The Agrihub
- delivered 13000 food parcel hampers in
- Ehlanzeni District and 14300 in Nkangala
- District through the DSD nerve centre. The
- demand for food parcels was presented by the
- nerve centre to DARDLEA and DARDLEA
- instructed the AGRIHUB to deliver as per the
- demand"
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Classylook Makhotane Trading,"Sanitizer, with not less than 70% alcohol ( 25L)",1624.75,236,383441.00,NONE,500ml of hand sanitiser distributed to 1570 officials weekly.
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Classylook Makhotane Trading,Gloves Ð Surgical and examination Ð nitrile rubber latex ( Box of 100 Medium ),46.00,160,7360.00,NONE,160 boxes distributed to Veterinary Services
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Classylook Makhotane Trading,Gloves Ð Surgical and examination Ð nitrile rubber latex ( Box of 100 Large ),46.00,50,2300.00,NONE,50 boxes distributed to Veterinary Services
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Classylook Makhotane Trading,3 layer of fabric cloth mask,24.00,4400,105600.00,NONE,3140 masks distributed to 1570 officials(2 masks per official)
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Classylook Makhotane Trading,"Empty 500ml bottles with spray nozzle
+ nozzle",30.00,1500,45000.00,NONE,1500 empty bottles distributed to 1500 officials of the department
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Classylook Makhotane Trading,Face shields,60.00,800,48000.00,NONE,
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Classylook Makhotane Trading,Digital thermometer gun,1200.00,57,68400.00,NONE,57 Thermometers distributed to 57 DARDLEA offices in districts and Head Office
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Sabalala Food and Beverages,"Food Parcel Hamper ( Each Hamper include; 10kg mealie meal, 10KG rice, 1kg white suger, matchbox pack, pack of candles, 2L cooking oil, box of teabags, 3 heads of cabbages, 400g canned fish, 400g canned beans, 1kg full cream powdered milk, 7kg bag of potatoes and 7kg bag of onions)",805.81,12 700.00,10233787.00,NONE,DARDLEA appointed Sabalala Food and Beverages to operationalise and manage the Mkhondo Agrihub. The Agrihub delivered 12700 food parcel hampers in Gert Sibande District through the DSD nerve centres. The demand for food parcels was presented by the nerve centre to DARDLEA and DARDLEA instructed the Agrihub to deliver as per the demand.
+Mpumalanga,"Mpumalanga Department of Agriculture, Rural Development Land and Environmental Affairs (DARDLEA)",Impumelelo Agribusiness Solutions,"Food Parcel Hamper ( Each Hamper include; 10kg mealie meal, 10KG rice, 1kg white suger, matchbox pack, pack of candles, 2L cooking oil, box of teabags, 3 heads of cabbages, 400g canned fish, 400g canned beans, 1kg full cream powdered milk, 7kg bag of potatoes and 7kg bag of onions)",805.81,27 300.00,21998613.00,NONE,DARDLEA appointed Impumelelo Agribusiness Solutions to operationalise and manage the Mkhuhlu Agrihub. The Agrihub delivered 13000 food parcel hampers in Ehlanzeni District and 14300 in Nkangala District through the DSD nerve centre. The demand for food parcels was presented by the nerve centre to DARDLEA and DARDLEA instructed the AGRIHUB to deliver as per the demand
