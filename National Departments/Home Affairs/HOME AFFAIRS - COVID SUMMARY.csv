@@ -1,442 +1,442 @@
-buyer_name,Supplier Name,"Item Description (Gloves, Masks, Sanitisers, etc)",Total Amount
-Home Affairs,Edna Medical Distributors,Gloves - Surgical & Examination - Natural Rubber Latex (BVR),1080.00
-Home Affairs,RND Amalgamated Pest Control and Higlene Soeclallst,Sanitisers (BVR),4025.00
-Home Affairs,KITA TOURS DELIVERIES,BOTTLE SPRAYS,10920.00
-Home Affairs,KOMAPE MANIA TRADING ENTERPRISE,STEEL FOOT DISPENSER,41800.00
-Home Affairs,Plastics R us,Spray bottles,2402.00
-Home Affairs,MTHOWANI,STAND,650.00
-Home Affairs,MTHOWANI,SANITIZING WIPES,1350.00
-Home Affairs,MAKRO,BATTERIES,1963.00
-Home Affairs,PLASTICS R US,LOTION PUMP BOTTLE 10,1989.00
-Home Affairs,MTHOWANI,STAND,650.00
-Home Affairs,MTHOWANI,SANITIZING WIPES,1350.00
-Home Affairs,Ezolutsha Trading,Sanitisers,12000.00
-Home Affairs,Ntuba Ltd Pty,Sanitisers,13000.00
-Home Affairs,Ntuba Ltd Pty,Sanitisers,13600.00
-Home Affairs,Nodoll,Sanitisers,13600.00
-Home Affairs,The Stationers & Computer shop,Gloves,1925.00
-Home Affairs,The Stationers & Computer shop,Gloves,1925.00
-Home Affairs,The Stationers & Computer shop,Gloves,1925.00
-Home Affairs,The Stationers & Computer shop,Gloves,1925.00
-Home Affairs,The Stationers & Computer shop,Gloves,1925.00
-Home Affairs,JOE DAVIS,Spray bottles,220.00
-Home Affairs,BKB DISTRIBUTORS,Sanitisers,340.00
-Home Affairs,BKB DISTRIBUTORS,Sanitisers,112.00
-Home Affairs,Cassim's,Sanitisers,500.00
-Home Affairs,Cassim's,Gloves,360.00
+buyer_name,supplier_name,items_description,order_amount_zar
+Home Affairs,Edna Medical Distributors,Gloves - Surgical & Examination - Natural Rubber Latex (BVR),1080
+Home Affairs,RND Amalgamated Pest Control and Higlene Soeclallst,Sanitisers (BVR),4025
+Home Affairs,KITA TOURS DELIVERIES,BOTTLE SPRAYS,10920
+Home Affairs,KOMAPE MANIA TRADING ENTERPRISE,STEEL FOOT DISPENSER,41800
+Home Affairs,Plastics R us,Spray bottles,2402
+Home Affairs,MTHOWANI,STAND,650
+Home Affairs,MTHOWANI,SANITIZING WIPES,1350
+Home Affairs,MAKRO,BATTERIES,1963
+Home Affairs,PLASTICS R US,LOTION PUMP BOTTLE 10,1989
+Home Affairs,MTHOWANI,STAND,650
+Home Affairs,MTHOWANI,SANITIZING WIPES,1350
+Home Affairs,Ezolutsha Trading,Sanitisers,12000
+Home Affairs,Ntuba Ltd Pty,Sanitisers,13000
+Home Affairs,Ntuba Ltd Pty,Sanitisers,13600
+Home Affairs,Nodoll,Sanitisers,13600
+Home Affairs,The Stationers & Computer shop,Gloves,1925
+Home Affairs,The Stationers & Computer shop,Gloves,1925
+Home Affairs,The Stationers & Computer shop,Gloves,1925
+Home Affairs,The Stationers & Computer shop,Gloves,1925
+Home Affairs,The Stationers & Computer shop,Gloves,1925
+Home Affairs,JOE DAVIS,Spray bottles,220
+Home Affairs,BKB DISTRIBUTORS,Sanitisers,340
+Home Affairs,BKB DISTRIBUTORS,Sanitisers,112
+Home Affairs,Cassim's,Sanitisers,500
+Home Affairs,Cassim's,Gloves,360
 Home Affairs,SPAR,Sanitisers,118.93
 Home Affairs,CLICKS Phamarcy,Sanitisers,271.84
 Home Affairs,CLICKS Phamarcy,Sanitisers,152.91
 Home Affairs,BRANDO'S Pharmacy,Gloves,114.95
 Home Affairs,CLICKS Phamarcy,Sanitisers,269.97
-Home Affairs,Fantasy Trading,Sanitizer Containers,241.50
-Home Affairs,Aminachem Pty Ltd,Sanitiser (For Tabankulu Office),350.00
+Home Affairs,Fantasy Trading,Sanitizer Containers,241.5
+Home Affairs,Aminachem Pty Ltd,Sanitiser (For Tabankulu Office),350
 Home Affairs,Sylewyse Cosmlcs Blzana,Dettol {For Bizana Office),139.98
 Home Affairs,Lathl-thaa Pharmacy,Gloves {For Mt AyliffOfflce),129.95
 Home Affairs,Lathi-thaa Pharmacy,Sanitiser (For Mt Ayliff Office),120.05
 Home Affairs,Lathi-thaa Pharmacy,Sanitiser (For Mt Ayllff Office),39.95
-Home Affairs,Arise and Shine Ministries,Sanitiser (For Bizana Office),510.00
+Home Affairs,Arise and Shine Ministries,Sanitiser (For Bizana Office),510
 Home Affairs,Superpar,Oetol,343.96
 Home Affairs,Superoar,Health & Beauty ( GERMEX HYGIENE LIQUID),194.95
 Home Affairs,lngquza Hill Pharmacy,Gloves,512.94
-Home Affairs,Jabula Supermarket,Menthol Spirit,84.00
-Home Affairs,Emax Home,Plastic Water bottles,144.00
+Home Affairs,Jabula Supermarket,Menthol Spirit,84
+Home Affairs,Emax Home,Plastic Water bottles,144
 Home Affairs,Shorprite,Cleaning Clothes,159.92
-Home Affairs,Entabeni Hardware Express,Plastic Water Bottles,77.70
+Home Affairs,Entabeni Hardware Express,Plastic Water Bottles,77.7
 Home Affairs,Entabeni Hardware Express,Plastic Water Bottles,38.85
 Home Affairs,Blazing Sliver Trading,Deto\,356.97
 Home Affairs,Cash Build,Dust Musk,1329.08
-Home Affairs,Clicks,Gloves,432.00
-Home Affairs,Quality Plumbers,Dust Musk,192.00
-Home Affairs,Soul Fire Holdings,Sanitiser,1100.00
-Home Affairs,Gulenl Projects,Cloth Masks,7350.00
-Home Affairs,Phumaphamblll Agric and Textile,Cloth Masks,12500.00
-Home Affairs,Ulu Trading PTY (LTD),Deep cleanlng-15 offices,118380.00
-Home Affairs,JK Tech Promo,Sanitizers,40468.50
-Home Affairs,Spumeze Trading,Sanitizers,20556.00
-Home Affairs,Evergreen latex Gloves,Gloves,286700.00
-Home Affairs,Africa's Plumber,Deep cleanlng-16 offices,114950.00
-Home Affairs,Libhongo trading Enterprise,sanitizers,60000.00
+Home Affairs,Clicks,Gloves,432
+Home Affairs,Quality Plumbers,Dust Musk,192
+Home Affairs,Soul Fire Holdings,Sanitiser,1100
+Home Affairs,Gulenl Projects,Cloth Masks,7350
+Home Affairs,Phumaphamblll Agric and Textile,Cloth Masks,12500
+Home Affairs,Ulu Trading PTY (LTD),Deep cleanlng-15 offices,118380
+Home Affairs,JK Tech Promo,Sanitizers,40468.5
+Home Affairs,Spumeze Trading,Sanitizers,20556
+Home Affairs,Evergreen latex Gloves,Gloves,286700
+Home Affairs,Africa's Plumber,Deep cleanlng-16 offices,114950
+Home Affairs,Libhongo trading Enterprise,sanitizers,60000
 Home Affairs,Luphlwam Trading,Deep cleaning,45189.09
-Home Affairs,Ezanathl solutions,Sanit!zers,24100.00
-Home Affairs,Yolanindalo,Deep cleaning,154260.00
+Home Affairs,Ezanathl solutions,Sanit!zers,24100
+Home Affairs,Yolanindalo,Deep cleaning,154260
 Home Affairs,Snow's catering,Cleaners,247957.71
-Home Affairs,Super clean,Deep cleaning,140248.50
-Home Affairs,lngachwuma Services,Sanitiser,26000.00
-Home Affairs,East cost clothing,Mask,15000.00
-Home Affairs,Gulenl Projects,Mask,13475.00
-Home Affairs,CIA Pharmacy,Gloves,844.20
-Home Affairs,NM Khanya,Masks,338775.00
-Home Affairs,NM Khanya,Gloves,70425.00
-Home Affairs,MGC Malotle Group,Sanitisers,63800.00
-Home Affairs,MGC Malotle Group,Sanitisers,7700.00
-Home Affairs,Value Max,Sanitisers,63960.00
-Home Affairs,Stonehange Mulimlsl Consulting,Thermometers,45375.00
-Home Affairs,Sbankwa Construction,Spray Bottles,14175.00
-Home Affairs,Bloemclty Love,Knapsack Spray bottle,12000.00
-Home Affairs,Bakgwetsi Ba Katleho Co-oneratlve,Gloves,50000.00
+Home Affairs,Super clean,Deep cleaning,140248.5
+Home Affairs,lngachwuma Services,Sanitiser,26000
+Home Affairs,East cost clothing,Mask,15000
+Home Affairs,Gulenl Projects,Mask,13475
+Home Affairs,CIA Pharmacy,Gloves,844.2
+Home Affairs,NM Khanya,Masks,338775
+Home Affairs,NM Khanya,Gloves,70425
+Home Affairs,MGC Malotle Group,Sanitisers,63800
+Home Affairs,MGC Malotle Group,Sanitisers,7700
+Home Affairs,Value Max,Sanitisers,63960
+Home Affairs,Stonehange Mulimlsl Consulting,Thermometers,45375
+Home Affairs,Sbankwa Construction,Spray Bottles,14175
+Home Affairs,Bloemclty Love,Knapsack Spray bottle,12000
+Home Affairs,Bakgwetsi Ba Katleho Co-oneratlve,Gloves,50000
 Home Affairs,ATM Trading & Projects,COVID cleaning services three months contract,452179.66
-Home Affairs,SA Chemical,Sanitisers,5925.00
+Home Affairs,SA Chemical,Sanitisers,5925
 Home Affairs,Various supermarkes,Gloves- Surgical & Examination - Natural Rubber Latex ( 4 bo,599.75
 Home Affairs,Various supermarkes,Sanitisers,2938.25
-Home Affairs,Various sunermarkes,Disinfectants,1899.50
-Home Affairs,Various supermarkes,Other: Specify WIPES,9167.20
+Home Affairs,Various sunermarkes,Disinfectants,1899.5
+Home Affairs,Various supermarkes,Other: Specify WIPES,9167.2
 Home Affairs,Kroonstad pharmacy,Hand sanitezer,173.92
-Home Affairs,Kroonstad pharmacy,Dettol,41.00
+Home Affairs,Kroonstad pharmacy,Dettol,41
 Home Affairs,Ok Grocery,Savlon liquid,113.98
 Home Affairs,Game,Batteries for thermotetres,479.97
 Home Affairs,Game,Batteries for thermotetres,159.99
 Home Affairs,Hinterland sa,Sprayer pressure,1564.87
-Home Affairs,WIiiows apteek,Batteries for thermotetres,33.80
-Home Affairs,Hinterland SA (pty)LTD,sanitiser hand gel,399.90
-Home Affairs,Hinterland SA (pty)LTD,Sprayer pressure,449.90
-Home Affairs,ATM Trading and Projects, Cleaning of services, 83 430.59
-Home Affairs,Tumey consulting,COVID19 disinfectant wet wipes,144900.00
-Home Affairs,Sbankwa projects,Knapsack Sprayer,14175.00
-Home Affairs,Shift Consultlng,Cloth face masks,28 750
-Home Affairs,Stonehage Mulimisi Consultlng,Stand for Sanitizer,23750.00
-Home Affairs,Prostigeâ€¢rm Trading & Projects,Sanitizer,118000.00
-Home Affairs,AKT,SURGICAL MASKS,34695.00
-Home Affairs,WEST RAND SUPPLIES,SURGICAL MASKS,35775.00
-Home Affairs,ZONDIPHASE,SURGICAL MASKS,98000.00
-Home Affairs,AKT,Gloves Surgical,18500.00
-Home Affairs,WEST RAND SUPPLIES,Gloves Surgical,18990.00
-Home Affairs,KEVALI CHEMICALS,Hand sanitisers,34500.00
-Home Affairs,AKT,Hand sanitisers,4200.00
-Home Affairs,LURANGA TRADING,Empty hand sanitiser bottles,2300.00
-Home Affairs,TARA HEALTH CARE,Hand sanitisers,312500.00
-Home Affairs,ONS SUPPLIES,SURGICAL MASKS,422625.00
+Home Affairs,WIiiows apteek,Batteries for thermotetres,33.8
+Home Affairs,Hinterland SA (pty)LTD,sanitiser hand gel,399.9
+Home Affairs,Hinterland SA (pty)LTD,Sprayer pressure,449.9
+Home Affairs,ATM Trading and Projects, Cleaning of services,83430.59
+Home Affairs,Tumey consulting,COVID19 disinfectant wet wipes,144900
+Home Affairs,Sbankwa projects,Knapsack Sprayer,14175
+Home Affairs,Shift Consultlng,Cloth face masks,28750
+Home Affairs,Stonehage Mulimisi Consultlng,Stand for Sanitizer,23750
+Home Affairs,Prostigeâ€¢rm Trading & Projects,Sanitizer,118000
+Home Affairs,AKT,SURGICAL MASKS,34695
+Home Affairs,WEST RAND SUPPLIES,SURGICAL MASKS,35775
+Home Affairs,ZONDIPHASE,SURGICAL MASKS,98000
+Home Affairs,AKT,Gloves Surgical,18500
+Home Affairs,WEST RAND SUPPLIES,Gloves Surgical,18990
+Home Affairs,KEVALI CHEMICALS,Hand sanitisers,34500
+Home Affairs,AKT,Hand sanitisers,4200
+Home Affairs,LURANGA TRADING,Empty hand sanitiser bottles,2300
+Home Affairs,TARA HEALTH CARE,Hand sanitisers,312500
+Home Affairs,ONS SUPPLIES,SURGICAL MASKS,422625
 Home Affairs,ONS SUPPLIES,EXAMINATIONS GLOVES,57356.25
-Home Affairs,PICK N PAY,TOILET PAPER,52.90
-Home Affairs,PICK N PAY,HAND WASH,64.90
-Home Affairs,FLAMIGO MOON,FACE CLOTH MASKS,81000.00
-Home Affairs,FORTISLE,FACE CLOTH MASKS,49500.00
-Home Affairs,TRIPPLE N MEDICAL,GLOVES,100000.00
-Home Affairs,GLYCOLESS,WET WIPES,37260.00
-Home Affairs,EMU MEDICAL SUPPLIERS,DRY WIPE CLOTH,50625.00
-Home Affairs,JKV ENGENEERING SOLUTIONS,BATTERIES,13200.00
-Home Affairs,JKV ENGENEER1NG SOLUTIONS,BATTERIES CHARGER,10120.00
-Home Affairs,TRIPPLE N MEDICAL,SANITISERS,245943.00
-Home Affairs,PROMED TECHNOLOGIES,DISPOSABLE MASK,270000.00
-Home Affairs,MVELAPANDA GENERAL TRADING,REFILL SANITISER BOTTLE,13375.00
-Home Affairs,EMU MEDICAL SUPPLIERS,WET WIPES,50625.00
-Home Affairs,VITAL LIFE MEDICAL,SANITISERS,218500.00
-Home Affairs,JKV ENGINEERING SOLUTIONS,BATTERIES,10120.00
-Home Affairs,JKV ENGINEERING SOLUTIONS,BATTERIES,13200.00
-Home Affairs,TRIPPLE N.MEDICAL,SANITISERS,245943.00
-Home Affairs,UI BRAND,BASE STAND HAND SANITISER STAND,110000.00
-Home Affairs,PROME D TECHNOLOGIES,SURFACE DISINFECTANT,45000.00
+Home Affairs,PICK N PAY,TOILET PAPER,52.9
+Home Affairs,PICK N PAY,HAND WASH,64.9
+Home Affairs,FLAMIGO MOON,FACE CLOTH MASKS,81000
+Home Affairs,FORTISLE,FACE CLOTH MASKS,49500
+Home Affairs,TRIPPLE N MEDICAL,GLOVES,100000
+Home Affairs,GLYCOLESS,WET WIPES,37260
+Home Affairs,EMU MEDICAL SUPPLIERS,DRY WIPE CLOTH,50625
+Home Affairs,JKV ENGENEERING SOLUTIONS,BATTERIES,13200
+Home Affairs,JKV ENGENEER1NG SOLUTIONS,BATTERIES CHARGER,10120
+Home Affairs,TRIPPLE N MEDICAL,SANITISERS,245943
+Home Affairs,PROMED TECHNOLOGIES,DISPOSABLE MASK,270000
+Home Affairs,MVELAPANDA GENERAL TRADING,REFILL SANITISER BOTTLE,13375
+Home Affairs,EMU MEDICAL SUPPLIERS,WET WIPES,50625
+Home Affairs,VITAL LIFE MEDICAL,SANITISERS,218500
+Home Affairs,JKV ENGINEERING SOLUTIONS,BATTERIES,10120
+Home Affairs,JKV ENGINEERING SOLUTIONS,BATTERIES,13200
+Home Affairs,TRIPPLE N.MEDICAL,SANITISERS,245943
+Home Affairs,UI BRAND,BASE STAND HAND SANITISER STAND,110000
+Home Affairs,PROME D TECHNOLOGIES,SURFACE DISINFECTANT,45000
 Home Affairs,CREATIVE MEDICAL,EMPTY SPRAY BOTTLES,21828.15
-Home Affairs,CREATIVE MEDICAL,EMPTY SPRAY BOTTLES,23163.30
-Home Affairs,PROMED TECHNOLOGIES,SURGICAL DISPOSAL PLASTIC BAGS(RED),26000.00
+Home Affairs,CREATIVE MEDICAL,EMPTY SPRAY BOTTLES,23163.3
+Home Affairs,PROMED TECHNOLOGIES,SURGICAL DISPOSAL PLASTIC BAGS(RED),26000
 Home Affairs,ULYMAT PROJECTS,CLEANING SERVICES,39999.99
-Home Affairs,TRIPLE S.CONCEPTS,5 LITRE EMPTY SPRAY PUMP BOTTLE,17500.00
-Home Affairs,SHECKS GLOBAL,CLEANING SERVICES(KRUGERSDORP),47400.00
-Home Affairs,GLYCOLESS (LDT),DISINFECTANT WET WIPES,37260.00
-Home Affairs,OIMEKO TSA RABODIBE,CLEANING SERVICES,50832.00
-Home Affairs,TARA HEALTH CARE,HAND SANITISERS,262500.00
-Home Affairs,TARA HEALTH CARE,HAND SANITISERSá GEL,91355.00
-Home Affairs,JANWURMBK,HAND SANITISERS,700.00
-Home Affairs,PEPPS MOOIMOLLE,CUDOLESOME,39.00
-Home Affairs,SAFETY FIRST LTT,MASKS,260.00
-Home Affairs,SAFETY FIRST LTT,EXAMINATION GLOVES,100.00
-Home Affairs,SAFETY FiRST LTT,HAND SOAP LIQUID,320.00
-Home Affairs,MODERN PACKAGING,GLOVES LATEX X-LARGE,2400.00
-Home Affairs,RCC,HAND SANITISERS,9000.00
+Home Affairs,TRIPLE S.CONCEPTS,5 LITRE EMPTY SPRAY PUMP BOTTLE,17500
+Home Affairs,SHECKS GLOBAL,CLEANING SERVICES(KRUGERSDORP),47400
+Home Affairs,GLYCOLESS (LDT),DISINFECTANT WET WIPES,37260
+Home Affairs,OIMEKO TSA RABODIBE,CLEANING SERVICES,50832
+Home Affairs,TARA HEALTH CARE,HAND SANITISERS,262500
+Home Affairs,TARA HEALTH CARE,HAND SANITISERSá GEL,91355
+Home Affairs,JANWURMBK,HAND SANITISERS,700
+Home Affairs,PEPPS MOOIMOLLE,CUDOLESOME,39
+Home Affairs,SAFETY FIRST LTT,MASKS,260
+Home Affairs,SAFETY FIRST LTT,EXAMINATION GLOVES,100
+Home Affairs,SAFETY FiRST LTT,HAND SOAP LIQUID,320
+Home Affairs,MODERN PACKAGING,GLOVES LATEX X-LARGE,2400
+Home Affairs,RCC,HAND SANITISERS,9000
 Home Affairs,CHECKERS POLOKWANE,HAND SANITISERS,79.98
-Home Affairs,REAKGONA CLEANING CHEMICALS,SANITISER,2400.00
-Home Affairs,REAKGONA CLEANING CHEMICALS,BOTTLE,675.00
+Home Affairs,REAKGONA CLEANING CHEMICALS,SANITISER,2400
+Home Affairs,REAKGONA CLEANING CHEMICALS,BOTTLE,675
 Home Affairs,Gazamed Pharmacy,Gloves,299.85
-Home Affairs,Phalaborwa Plastics,Masks,175.00
-Home Affairs,Phalaborwa Plastics,Gloves Latex,110.00
-Home Affairs,Modern Packaging,Hand Sanitizer,1600.00
+Home Affairs,Phalaborwa Plastics,Masks,175
+Home Affairs,Phalaborwa Plastics,Gloves Latex,110
+Home Affairs,Modern Packaging,Hand Sanitizer,1600
 Home Affairs,SPAR,hand sanitizer,59.98
-Home Affairs,Pep Trading Store,Rubber Gloves,38.90
-Home Affairs,AW Chemicals,Bleach,80.00
-Home Affairs,Checkers,Vinegar,39.90
-Home Affairs,Checkers,Piastre Bag,0.60
-Home Affairs,Morden Packaging,Hand Sanitizer,640.00
+Home Affairs,Pep Trading Store,Rubber Gloves,38.9
+Home Affairs,AW Chemicals,Bleach,80
+Home Affairs,Checkers,Vinegar,39.9
+Home Affairs,Checkers,Piastre Bag,0.6
+Home Affairs,Morden Packaging,Hand Sanitizer,640
 Home Affairs,Usave,Trigger Spray,69.93
-Home Affairs,01s-Chem,Hand sanftazer mixer,240.00
-Home Affairs,Modjadjl Phamacy,Cloves,120.00
-Home Affairs,Morden Packaging,Hand Sanitizer,640.00
+Home Affairs,01s-Chem,Hand sanftazer mixer,240
+Home Affairs,Modjadjl Phamacy,Cloves,120
+Home Affairs,Morden Packaging,Hand Sanitizer,640
 Home Affairs,Usave,Trigger Spray,69.93
-Home Affairs,Dis-Chem,Hand sanitazer mixer,240.00
-Home Affairs,Modjadjl Phamacy,Cloves,120.00
-Home Affairs,Modern Packglng Polokwane,Hand Sanitiser,320.00
-Home Affairs,Modern Packging Polokwane,Hand Sanitiser,1280.00
-Home Affairs,Galaxy Hardware,Dust mask,119.00
-Home Affairs,Phlnorah Safetyware,Dust mask,900.00
-Home Affairs,Pienaar Bros,Gloves,350.00
-Home Affairs,Pep,Wipes,300.00
-Home Affairs,Cherkers,Sanitiser,270.00
-Home Affairs,The Cleanlng Co.,Sanitiser,695.80
-Home Affairs,DNS SUPPLIES,SURGICAL MASKS,338100.00
-Home Affairs,DNS SUPPLIES,EXAMINATIONS GLOVES,22942.50
-Home Affairs,Bidvest commercial products,Sanitizer,118383.00
+Home Affairs,Dis-Chem,Hand sanitazer mixer,240
+Home Affairs,Modjadjl Phamacy,Cloves,120
+Home Affairs,Modern Packglng Polokwane,Hand Sanitiser,320
+Home Affairs,Modern Packging Polokwane,Hand Sanitiser,1280
+Home Affairs,Galaxy Hardware,Dust mask,119
+Home Affairs,Phlnorah Safetyware,Dust mask,900
+Home Affairs,Pienaar Bros,Gloves,350
+Home Affairs,Pep,Wipes,300
+Home Affairs,Cherkers,Sanitiser,270
+Home Affairs,The Cleanlng Co.,Sanitiser,695.8
+Home Affairs,DNS SUPPLIES,SURGICAL MASKS,338100
+Home Affairs,DNS SUPPLIES,EXAMINATIONS GLOVES,22942.5
+Home Affairs,Bidvest commercial products,Sanitizer,118383
 Home Affairs,Bidvest commercial products,gloves,288792.95
-Home Affairs,lndustroclean,Sanitizer,63071.00
-Home Affairs,AW chemicals,blo harard,11592.00
+Home Affairs,lndustroclean,Sanitizer,63071
+Home Affairs,AW chemicals,blo harard,11592
 Home Affairs,tndustroclean,gloves,6854.58
-Home Affairs,Bidvest Steiner,Disinfecting of 43 Offices,90659.10
-Home Affairs,Cleaning Specialist,Disinfecting of Jane Furse Office,3700.10
-Home Affairs,Cleaning Specialist,Disinfecting of Thohovandou Office,7277.20
+Home Affairs,Bidvest Steiner,Disinfecting of 43 Offices,90659.1
+Home Affairs,Cleaning Specialist,Disinfecting of Jane Furse Office,3700.1
+Home Affairs,Cleaning Specialist,Disinfecting of Thohovandou Office,7277.2
 Home Affairs,Bidvest Steiner,Disinfecting of Tzaneen Office,11777.15
-Home Affairs,Cleaning Speciallst,Disinfecting of Bochum Office,1999.00
+Home Affairs,Cleaning Speciallst,Disinfecting of Bochum Office,1999
 Home Affairs,Cleaning Specialist,Disinfecting of Jane Bochum Office,3483.55
-Home Affairs,Macter Bapela Plumbing,Procurement of Jojo Tanks and Installation at Groblersdaal Ofl,28800.00
-Home Affairs,Tshepangnaledi Tradfng,Procurement of Jojo Tanks and Installation at Mokopane Offic,29590.00
+Home Affairs,Macter Bapela Plumbing,Procurement of Jojo Tanks and Installation at Groblersdaal Ofl,28800
+Home Affairs,Tshepangnaledi Tradfng,Procurement of Jojo Tanks and Installation at Mokopane Offic,29590
 Home Affairs,lndustroclean,Trigger Spray Bottles,2889.03
-Home Affairs,Onele Construction,Gloves,200000.00
-Home Affairs,Onele Construction,Surglcal Masks,292000.00
-Home Affairs,LN CRESSENTIA,Sanitisers,132600.00
-Home Affairs,SALEYA TRADING CONSTRUCTION,Clothes Masks,47265.00
-Home Affairs,KHEZOMEN ENTERTAINMENT,Sanitisers,189566.00
-Home Affairs,KHEZOMEN ENTERTAINMENT,Disinfectants,264270.00
-Home Affairs,GUMZA GUEST TRADING,Protective Body Suites Disposable,38400.00
-Home Affairs,GUMZA GUEST TRADING,Surgical Gloves,5773.70
-Home Affairs,GUMZA GUESTTRADING,Knapsack Prayer with Shoulder Strap{16L},25536.50
-Home Affairs,DNS SUPPLIES,MASK,3150.00
-Home Affairs,DNS SUPPLIES,MASK,42000.00
-Home Affairs,ONS SUPPLIES,MASK,3633.00
-Home Affairs,DNS SUPPLIES,GLOVES,1200.00
-Home Affairs,NALEDI CHEMICALS,GLOVES,900.00
+Home Affairs,Onele Construction,Gloves,200000
+Home Affairs,Onele Construction,Surglcal Masks,292000
+Home Affairs,LN CRESSENTIA,Sanitisers,132600
+Home Affairs,SALEYA TRADING CONSTRUCTION,Clothes Masks,47265
+Home Affairs,KHEZOMEN ENTERTAINMENT,Sanitisers,189566
+Home Affairs,KHEZOMEN ENTERTAINMENT,Disinfectants,264270
+Home Affairs,GUMZA GUEST TRADING,Protective Body Suites Disposable,38400
+Home Affairs,GUMZA GUEST TRADING,Surgical Gloves,5773.7
+Home Affairs,GUMZA GUESTTRADING,Knapsack Prayer with Shoulder Strap{16L},25536.5
+Home Affairs,DNS SUPPLIES,MASK,3150
+Home Affairs,DNS SUPPLIES,MASK,42000
+Home Affairs,ONS SUPPLIES,MASK,3633
+Home Affairs,DNS SUPPLIES,GLOVES,1200
+Home Affairs,NALEDI CHEMICALS,GLOVES,900
 Home Affairs,BIDVEST STEINER,GLOVES,9449.78
-Home Affairs,DNS SUPPLIES,SANITIZERS,34500.00
-Home Affairs,. HALSTED AND CO,SANITIZERS,4025.00
-Home Affairs,BLUE PETROLEUM,SANITIZERS,360.00
-Home Affairs,NIMBA TECK,SANITIZERS,1035.00
-Home Affairs,NALEDI CHEMICALS,SANITIZERS,900.00
-Home Affairs,HALSTED AND CO,DISINFECTANT,316.00
-Home Affairs,STEINER,GLOVES (PPE),9450.00
-Home Affairs,ONS SUPPLIES,MASKS,42000.00
-Home Affairs,DNS SUPPLIES,SANITIZERS,30000.00
-Home Affairs,ONS SUPPLIES,SANITIZERS,46575.00
-Home Affairs,DNS SUPPLIES,GLOVES,20700.00
-Home Affairs,DNS SUPPLIES,MASKS,86250.00
-Home Affairs,DNS SUPPLIES,DISINFECTING OF OFFICES,107222.00
-Home Affairs,LLTP HOLDINGS,SURGICAL GLOVES,50700.00
-Home Affairs,LLTP HOLDINGS,MASKS,28800.00
-Home Affairs,SULBRINK KIMBERELY,MULTI-PURPOSE CLEANER,7605.00
-Home Affairs,SULBRINK KIMBERELY,HAND SANITIZERS,51277.50
-Home Affairs,SULBRINK KIMBERELY,DISINFECTANT,14062.50
-Home Affairs,PHORI TRADING,KNAPSACK(PPE),25500.00
-Home Affairs,FG UNIFORM,CLOTH MASK,29988.00
+Home Affairs,DNS SUPPLIES,SANITIZERS,34500
+Home Affairs,. HALSTED AND CO,SANITIZERS,4025
+Home Affairs,BLUE PETROLEUM,SANITIZERS,360
+Home Affairs,NIMBA TECK,SANITIZERS,1035
+Home Affairs,NALEDI CHEMICALS,SANITIZERS,900
+Home Affairs,HALSTED AND CO,DISINFECTANT,316
+Home Affairs,STEINER,GLOVES (PPE),9450
+Home Affairs,ONS SUPPLIES,MASKS,42000
+Home Affairs,DNS SUPPLIES,SANITIZERS,30000
+Home Affairs,ONS SUPPLIES,SANITIZERS,46575
+Home Affairs,DNS SUPPLIES,GLOVES,20700
+Home Affairs,DNS SUPPLIES,MASKS,86250
+Home Affairs,DNS SUPPLIES,DISINFECTING OF OFFICES,107222
+Home Affairs,LLTP HOLDINGS,SURGICAL GLOVES,50700
+Home Affairs,LLTP HOLDINGS,MASKS,28800
+Home Affairs,SULBRINK KIMBERELY,MULTI-PURPOSE CLEANER,7605
+Home Affairs,SULBRINK KIMBERELY,HAND SANITIZERS,51277.5
+Home Affairs,SULBRINK KIMBERELY,DISINFECTANT,14062.5
+Home Affairs,PHORI TRADING,KNAPSACK(PPE),25500
+Home Affairs,FG UNIFORM,CLOTH MASK,29988
 Home Affairs,STEINER,DISINFECTING OFFICE - KURUMAN,12903.03
-Home Affairs,TT GLOBAL TRADING,DISINFECTING OFFICE - COLESBERG,16495.00
-Home Affairs,PHORI MAMZ HOLDINGS,MICROGUARD CHLORIDE BIOCIDES,1920.00
+Home Affairs,TT GLOBAL TRADING,DISINFECTING OFFICE - COLESBERG,16495
+Home Affairs,PHORI MAMZ HOLDINGS,MICROGUARD CHLORIDE BIOCIDES,1920
 Home Affairs,EVERGREEN LATEX,Examination Gloves,29911.51
 Home Affairs,EVERGREEN LATEX,Surgical Gloves,41438.19
-Home Affairs,Designer Culture,Office Dlslnfaction Service,9271.80
-Home Affairs,Ellefu Suppliers,Office Disinfact!on Service,6843.10
+Home Affairs,Designer Culture,Office Dlslnfaction Service,9271.8
+Home Affairs,Ellefu Suppliers,Office Disinfact!on Service,6843.1
 Home Affairs,Sapu Trading,Office Dlsfnfaction Service,27018.18
-Home Affairs,O and D Technologies,Office Dlsinfactlon Service,14050.00
-Home Affairs,Kalahari Business,Office Disinfactlon Service,1988.60
-Home Affairs,Legoale Construction,Office Dislnfactlon Service,15235.20
+Home Affairs,O and D Technologies,Office Dlsinfactlon Service,14050
+Home Affairs,Kalahari Business,Office Disinfactlon Service,1988.6
+Home Affairs,Legoale Construction,Office Dislnfactlon Service,15235.2
 Home Affairs,Traffic Cleaning,Office Dislnfaction Service,15990.78
-Home Affairs,Jojo Dlstributers,Office Disinfaction Servlce,14646.00
-Home Affairs,Jojo Distributers,Office Dlslnfaction Service,7098.00
+Home Affairs,Jojo Dlstributers,Office Disinfaction Servlce,14646
+Home Affairs,Jojo Distributers,Office Dlslnfaction Service,7098
 Home Affairs,TPM Travel Enterprise,Office Dlslnfactlon Service,29459.79
 Home Affairs,The Black Wrack,Office D(sinfaction Service,19814.37
-Home Affairs,LO Thamaga,Office Dlslnfaction Service,10430.50
-Home Affairs,Flness Trading,Office Dislnfact!on Service,16084.80
-Home Affairs,Aglsanang Women,Office Dlslnfaction Service,10173.80
-Home Affairs,Designer Culture,Office Disinfactlon Service,2750.00
-Home Affairs,KPLX Africa,Office Dislnfactlon Service,9330.00
-Home Affairs,KPLX Africa,Office Dlslnfaction Service,22200.00
-Home Affairs,M M B  Trading and Projects,Dlsposable Masks,74880.00
-Home Affairs,Angieochem,Cloth Masks,27500.00
-Home Affairs,Matopana Retails and Projects,Sanitizer,84992.00
-Home Affairs,Matopana Retails and Projects,SOO ml Surface Disinfactant Cleaner,2676.00
-Home Affairs,Matopana Retails and Projects,500 ml Trigger Spray Bottle,3250.00
-Home Affairs,Matopana Retails and Projects,16 Litre Knapsack Hand Operated Pressure Spray,9900.00
-Home Affairs,Matopana Retails and Projects,Visor Face Shield,5057.00
-Home Affairs,Matopana Retafls and Projects,Plastic Apron,2509.00
-Home Affairs,EVERGREEN LATEX,Gloves,23828.00
-Home Affairs,Dandri Hatchery & Chemicals,Gloves,1400.00
-Home Affairs,Dandrl Hatchery & Chemicals,SanitizersSpray Bottle,1500.00
-Home Affairs,Dandri Hatchery & Chemicals,SanltizersSpray Bottle,1500.00
-Home Affairs,Dandrl Hatchery & Chemicals,SanltizersSpray Bottle,1500.00
-Home Affairs,Dandrl Hatchery & Chemicals,SanltizersSpray Bottle,1500.00
-Home Affairs,Dandrl Hatchery & Chemicals,SanitizersSpray Bottle,1500.00
-Home Affairs,DandrJ Hatchery & Chemicals,SanitizersSpray Bottles,420.00
-Home Affairs,SIGMA Safety Solutions,Masks,101250.00
-Home Affairs,M M B  Trading and Projects,SanltizersSpray Bottles,98700.00
-Home Affairs,GIGANTIC CONSORTIUM,BIO HAZARD WASTE BAGS,26654.40
-Home Affairs,TRIPLE 3 SERVICES,S LITRE PRESURISED SPRAY,7875.00
-Home Affairs,JRJ TRADING AND BUSINESS ENTERPRISE PTY LTD,DISPOSABLE BODY COVERALLS,15345.00
-Home Affairs,JRJ TRADING AND BUSINESS ENTERPRISE PTV LTD,DISPOSABLE BOOTCOVERS,6249.60
-Home Affairs,DESIGN 26,CLOTH MASKS- BLUE PLEATED,24035.00
-Home Affairs,DESIGN 26,CLOTH MASKS- BLUE PLEATED,32775.00
-Home Affairs,DESIGN 26,CLOTH MASKS- BLUE PLEATED,21850.00
-Home Affairs,DESIGN 26,CLOTH MASKS- BLUE PLEATED,43700.00
-Home Affairs,ITSTYM GENERAL TRADING,SURGICAL MASKS (3PLY STANDARD EAR LOOP FACE MASK),44999.00
+Home Affairs,LO Thamaga,Office Dlslnfaction Service,10430.5
+Home Affairs,Flness Trading,Office Dislnfact!on Service,16084.8
+Home Affairs,Aglsanang Women,Office Dlslnfaction Service,10173.8
+Home Affairs,Designer Culture,Office Disinfactlon Service,2750
+Home Affairs,KPLX Africa,Office Dislnfactlon Service,9330
+Home Affairs,KPLX Africa,Office Dlslnfaction Service,22200
+Home Affairs,M M B  Trading and Projects,Dlsposable Masks,74880
+Home Affairs,Angieochem,Cloth Masks,27500
+Home Affairs,Matopana Retails and Projects,Sanitizer,84992
+Home Affairs,Matopana Retails and Projects,SOO ml Surface Disinfactant Cleaner,2676
+Home Affairs,Matopana Retails and Projects,500 ml Trigger Spray Bottle,3250
+Home Affairs,Matopana Retails and Projects,16 Litre Knapsack Hand Operated Pressure Spray,9900
+Home Affairs,Matopana Retails and Projects,Visor Face Shield,5057
+Home Affairs,Matopana Retafls and Projects,Plastic Apron,2509
+Home Affairs,EVERGREEN LATEX,Gloves,23828
+Home Affairs,Dandri Hatchery & Chemicals,Gloves,1400
+Home Affairs,Dandrl Hatchery & Chemicals,SanitizersSpray Bottle,1500
+Home Affairs,Dandri Hatchery & Chemicals,SanltizersSpray Bottle,1500
+Home Affairs,Dandrl Hatchery & Chemicals,SanltizersSpray Bottle,1500
+Home Affairs,Dandrl Hatchery & Chemicals,SanltizersSpray Bottle,1500
+Home Affairs,Dandrl Hatchery & Chemicals,SanitizersSpray Bottle,1500
+Home Affairs,DandrJ Hatchery & Chemicals,SanitizersSpray Bottles,420
+Home Affairs,SIGMA Safety Solutions,Masks,101250
+Home Affairs,M M B  Trading and Projects,SanltizersSpray Bottles,98700
+Home Affairs,GIGANTIC CONSORTIUM,BIO HAZARD WASTE BAGS,26654.4
+Home Affairs,TRIPLE 3 SERVICES,S LITRE PRESURISED SPRAY,7875
+Home Affairs,JRJ TRADING AND BUSINESS ENTERPRISE PTY LTD,DISPOSABLE BODY COVERALLS,15345
+Home Affairs,JRJ TRADING AND BUSINESS ENTERPRISE PTV LTD,DISPOSABLE BOOTCOVERS,6249.6
+Home Affairs,DESIGN 26,CLOTH MASKS- BLUE PLEATED,24035
+Home Affairs,DESIGN 26,CLOTH MASKS- BLUE PLEATED,32775
+Home Affairs,DESIGN 26,CLOTH MASKS- BLUE PLEATED,21850
+Home Affairs,DESIGN 26,CLOTH MASKS- BLUE PLEATED,43700
+Home Affairs,ITSTYM GENERAL TRADING,SURGICAL MASKS (3PLY STANDARD EAR LOOP FACE MASK),44999
 Home Affairs,THE SPECIALIST FRANCHISE,FUMIGATION,84261.36
-Home Affairs,THE SPECIALIST FRANCHISE,FUMIGATION,190704.50
-Home Affairs,Al NASWA FUMIGATION,FUMIGATION,28500.00
-Home Affairs,UVP VELTOPARK,PLASTIC FACE SHIELS,2000.00
-Home Affairs,UVP VEL TOP ARK,PLASTIC FACE SHIELDS,2000.00
-Home Affairs,UVP VEL TO PARK,PLASTIC FACE SHIELDS,2000.00
-Home Affairs,UVP VELTOPARK,PLASTIC FACE SHIELDS,2000.00
-Home Affairs,UVP VELTOPARK,PLASTIC FACE SHIELDS,2000.00
-Home Affairs,WAYMAKER SHE SUPPORT SERVICES,SURGICAL GLOVES,2000.00
-Home Affairs,LINGS DEPARTMENT SOTE,HAND SANITIZER,229.00
-Home Affairs,OVERBERG AGRI,SPRAY - MARKlNGS FOR SOCIAL DISTANCING,158.40
+Home Affairs,THE SPECIALIST FRANCHISE,FUMIGATION,190704.5
+Home Affairs,Al NASWA FUMIGATION,FUMIGATION,28500
+Home Affairs,UVP VELTOPARK,PLASTIC FACE SHIELS,2000
+Home Affairs,UVP VEL TOP ARK,PLASTIC FACE SHIELDS,2000
+Home Affairs,UVP VEL TO PARK,PLASTIC FACE SHIELDS,2000
+Home Affairs,UVP VELTOPARK,PLASTIC FACE SHIELDS,2000
+Home Affairs,UVP VELTOPARK,PLASTIC FACE SHIELDS,2000
+Home Affairs,WAYMAKER SHE SUPPORT SERVICES,SURGICAL GLOVES,2000
+Home Affairs,LINGS DEPARTMENT SOTE,HAND SANITIZER,229
+Home Affairs,OVERBERG AGRI,SPRAY - MARKlNGS FOR SOCIAL DISTANCING,158.4
 Home Affairs,PICK N PAY,BATTERIES FOR THEMOMETERS,279.98
-Home Affairs,LIZAHN SEWING,FACE MASK,700.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1150.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127.00
-Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127.00
-Home Affairs,LECHOBA MEDICAL TECHNOLOGIES,HAND SANITIZER,91125.00
+Home Affairs,LIZAHN SEWING,FACE MASK,700
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1150
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127
+Home Affairs,LAMBS CHEMICAL MANUFACTURER,HAND SANITIZER,1127
+Home Affairs,LECHOBA MEDICAL TECHNOLOGIES,HAND SANITIZER,91125
 Home Affairs,LECHOBA MEDICAL TECHNOLOGIES,HANO SANITIZER,189540.04
 Home Affairs,EDEN MEDICAL SUPPLIES,MEDICAL GLOVES,611.96
-Home Affairs,BOLAND PACKING EMBS,HAND SANITIZER,365.50
-Home Affairs,BOLAND PACKING EMBS,"SPRAY"" MARKINGS FOR SOCIAL DISTANCING",992.00
+Home Affairs,BOLAND PACKING EMBS,HAND SANITIZER,365.5
+Home Affairs,BOLAND PACKING EMBS,"SPRAY"" MARKINGS FOR SOCIAL DISTANCING",992
 Home Affairs,BRIGHTS HARDWARE,BATTERIES FOR THEMOMETERS,119.95
 Home Affairs,SPAR,BATTERIES FOR THEMOMETERS,199.99
-Home Affairs,CHEMICAL CITY,HAND SANITIZER,204.00
+Home Affairs,CHEMICAL CITY,HAND SANITIZER,204
 Home Affairs,LIFESTYLE FABRICS CURTAINS,CLEANING MATERIAL,83.95
-Home Affairs,TlKEDl HOLDING,CLEANING SERVICES,5787.50
-Home Affairs,TRUEGAURD SECURITY AND HYGIENE,CLEANING SERVICES,5860.00
-Home Affairs,LIFO LUFESTYLE MANAGEMENT,CLEANING SERVICES,5980.00
-Home Affairs,Ubuntu sourcing,Gloves,750.00
-Home Affairs,BEE-INFORMED (Gloves),Gloves,100.00
-Home Affairs,Unlversal pulse trading,Sanitisers,1100.00
-Home Affairs,Universal pulse trading,Masks,2080.00
-Home Affairs,Universal pulse trading,Sanitisers,1192.00
-Home Affairs,Universal pulse trading,Masks,1100.00
-Home Affairs,Unlversal pulse trading,Masks,1100.00
-Home Affairs,Universal pulse trading,Masks,1100.00
-Home Affairs,Universal pulse trading,Sanitisers,1490.00
-Home Affairs,Universal pulse trading,Sanitisers,845.00
-Home Affairs,Universal pulse trading,Sanitisers,149.00
-Home Affairs,Universal pulse trading,Sanitisers,1100.00
-Home Affairs,Universal Safety Products,Masks,20010.00
-Home Affairs,BEE-INFORMED (Sanitiser),Sanitisers,5800.00
-Home Affairs,Motheo W Rona,Gloves,9000.00
-Home Affairs,Motheo W Rona,Mask,110000.00
-Home Affairs,Baju,Sanitisers,55000.00
-Home Affairs,Baju,Sanitisers,47437.50
-Home Affairs,Baju,Disinfectants,167970.00
+Home Affairs,TlKEDl HOLDING,CLEANING SERVICES,5787.5
+Home Affairs,TRUEGAURD SECURITY AND HYGIENE,CLEANING SERVICES,5860
+Home Affairs,LIFO LUFESTYLE MANAGEMENT,CLEANING SERVICES,5980
+Home Affairs,Ubuntu sourcing,Gloves,750
+Home Affairs,BEE-INFORMED (Gloves),Gloves,100
+Home Affairs,Unlversal pulse trading,Sanitisers,1100
+Home Affairs,Universal pulse trading,Masks,2080
+Home Affairs,Universal pulse trading,Sanitisers,1192
+Home Affairs,Universal pulse trading,Masks,1100
+Home Affairs,Unlversal pulse trading,Masks,1100
+Home Affairs,Universal pulse trading,Masks,1100
+Home Affairs,Universal pulse trading,Sanitisers,1490
+Home Affairs,Universal pulse trading,Sanitisers,845
+Home Affairs,Universal pulse trading,Sanitisers,149
+Home Affairs,Universal pulse trading,Sanitisers,1100
+Home Affairs,Universal Safety Products,Masks,20010
+Home Affairs,BEE-INFORMED (Sanitiser),Sanitisers,5800
+Home Affairs,Motheo W Rona,Gloves,9000
+Home Affairs,Motheo W Rona,Mask,110000
+Home Affairs,Baju,Sanitisers,55000
+Home Affairs,Baju,Sanitisers,47437.5
+Home Affairs,Baju,Disinfectants,167970
 Home Affairs,Baju,Disinfectants,70827.35
-Home Affairs,Universal Safety Porducts,Mask- Other (Head Office),619275.00
-Home Affairs,Baju,Sanitisers (Head Office),55000.00
-Home Affairs,Balu,Disinfectants (Head Office),167970.00
-Home Affairs,Baju,Sanitisers (Head Office),41250.00
-Home Affairs,Baju Logistics,Hand sanitizers,47437.00
+Home Affairs,Universal Safety Porducts,Mask- Other (Head Office),619275
+Home Affairs,Baju,Sanitisers (Head Office),55000
+Home Affairs,Balu,Disinfectants (Head Office),167970
+Home Affairs,Baju,Sanitisers (Head Office),41250
+Home Affairs,Baju Logistics,Hand sanitizers,47437
 Home Affairs,Baju Logistics,All surface disinfectant,70827.85
-Home Affairs,Goldstone,Digital body thermometer,828000.00
-Home Affairs,Manone Trading,Faceshield,395000.00
-Home Affairs,Ma none Trading,Faceshleld,553000.00
-Home Affairs,BAJU Cleaning Chemlcals,Hand sanitizers,228400.00
-Home Affairs,COHORT TRADING,BOXES OF GLOVES,792000.00
-Home Affairs,Shonlsani,PRDCURMENT OF FACESHIELD MASKS,476100.00
-Home Affairs,SIYAZIWA PROJECTS,12 000 CLOTH MASK REUSABLE,282000.00
-Home Affairs,Medlwaste Packaging (Fadlitles),Digital Body Thermometer,634800.00
+Home Affairs,Goldstone,Digital body thermometer,828000
+Home Affairs,Manone Trading,Faceshield,395000
+Home Affairs,Ma none Trading,Faceshleld,553000
+Home Affairs,BAJU Cleaning Chemlcals,Hand sanitizers,228400
+Home Affairs,COHORT TRADING,BOXES OF GLOVES,792000
+Home Affairs,Shonlsani,PRDCURMENT OF FACESHIELD MASKS,476100
+Home Affairs,SIYAZIWA PROJECTS,12 000 CLOTH MASK REUSABLE,282000
+Home Affairs,Medlwaste Packaging (Fadlitles),Digital Body Thermometer,634800
 Home Affairs,CLEANING WAREHOUSE,SANITIZING WIPES BUCKET,715.99
-Home Affairs,Gomvrich PTY LTD,Duct Tapes,128500.00
-Home Affairs,Materna Trading,Sanitisers (IMS},1036035.00
-Home Affairs,Reka Moka,Hand Sanitizers,166425.00
-Home Affairs,Masana Clothing,Cloth Masks,131750.00
-Home Affairs,Lechoba Medical Technologies,Face Shields,252956.00
-Home Affairs,Biological,Thermometers,119920.00
-Home Affairs,Masana Clothing,Cloth Masks,131750.00
-Home Affairs,Gomvrich PTY LTD,Duct Tapes,128500.00
-Home Affairs,TCi 1 Solution,MASKS,17040.00
-Home Affairs,TCI 1 Solution,GLOVES,10880.00
-Home Affairs,TCI 1 Solution,GLOVES,87100.00
-Home Affairs,TCI 1 Solution,MASKS,192500.00
-Home Affairs,AG TRADING,SANITIZERS,243250.00
+Home Affairs,Gomvrich PTY LTD,Duct Tapes,128500
+Home Affairs,Materna Trading,Sanitisers (IMS},1036035
+Home Affairs,Reka Moka,Hand Sanitizers,166425
+Home Affairs,Masana Clothing,Cloth Masks,131750
+Home Affairs,Lechoba Medical Technologies,Face Shields,252956
+Home Affairs,Biological,Thermometers,119920
+Home Affairs,Masana Clothing,Cloth Masks,131750
+Home Affairs,Gomvrich PTY LTD,Duct Tapes,128500
+Home Affairs,TCi 1 Solution,MASKS,17040
+Home Affairs,TCI 1 Solution,GLOVES,10880
+Home Affairs,TCI 1 Solution,GLOVES,87100
+Home Affairs,TCI 1 Solution,MASKS,192500
+Home Affairs,AG TRADING,SANITIZERS,243250
 Home Affairs,MOTHEO WA RONA TRADlNG,GLOVES,63000.21
-Home Affairs,HENRY SCHEIN DENTAL WAREHOUSE,GLOVES,124030.00
-Home Affairs,PERFECT PPE,Mask,250.00
-Home Affairs,ORION AGENCIES,Mask,496000.00
-Home Affairs,Coastal Farmers,Mask,200.00
-Home Affairs,OSMANS WHOLESALERS,Mask,800.00
-Home Affairs,ARISE BRANDING,Mask,300.00
-Home Affairs,ORION AGENCIES,Gloves,160000.00
-Home Affairs,City Max Home,Gloves,180.00
-Home Affairs,Pongoia Plaza Pharmacy,Gloves,230.00
-Home Affairs,City Max Home,Gloves,80.00
-Home Affairs,LINK CHEMIST,Gloves,330.00
-Home Affairs,MAKRO,Gloves,400.00
-Home Affairs,SCOTTBURGH DAY & NITE PHARMACY,Gloves,140.00
-Home Affairs,PEOPLES PHARMACY,Gloves,390.00
-Home Affairs,AS CASH 7 CARRY,Gloves,38.00
-Home Affairs,LINK CHEMIST,Gloves,330.00
-Home Affairs,ESTCOURT SHOP,Gloves,215.00
-Home Affairs,ALLENCO MEDICAL & DENTAL SUPPLIES CC,Sanitisers,77625.00
-Home Affairs,BUILD IT HARDWARE,Sanitisers,900.00
-Home Affairs,LADVSMITH PHARMACY,Sanitisers,70.00
-Home Affairs,MACKSONS HYPER ZONE,Sanitisers,180.00
-Home Affairs,MACKSONS HYPER ZONE,Sanitisers,200.00
-Home Affairs,MOOSA'S DISCOUNT,Sanitisers,120.00
-Home Affairs,MULTI SAVE,Sanitisers,450.00
-Home Affairs,PICK N PAY,Sanitisers,110.00
-Home Affairs,TCC CHEMICALS,Sanitisers,225.00
-Home Affairs,PICK N PAY,Sanitisers,680.00
-Home Affairs,SPAR,Sanitisers,279.00
-Home Affairs,KRIKO HOUSEHOLD DETERGENTS,Sanitisers,70.00
-Home Affairs,KRIKO HOUSEHOLD DETERGENTS,Sanitisers,40.00
-Home Affairs,KRIKO HOUSEHOLD DETERGENTS,Sanitisers,140.00
-Home Affairs,Home Hub,Sanitisers,120.00
-Home Affairs,EVERLASTING PRODUCTS,Sanlt!sers,780.00
-Home Affairs,Mtuba Pharmacy,Sanitisers,120.00
-Home Affairs,Pongola Plaza Pharmacy,Sanitisers,120.00
-Home Affairs,Game Store,Sanitisers,1900.00
-Home Affairs,SAVMOR CASH&CARRY,Sanitisers,1200.00
-Home Affairs,DB Cleaning,Sanitisers,370.00
-Home Affairs,PETTY CASH-INGAMKHULULI PROJECTS,Sanitisers,1600.00
-Home Affairs,SAV More,Sanitisers,1980.00
-Home Affairs,CYBERCHEM,Sanitisers,800.00
-Home Affairs,SCOTTBURGH DAY & NITE PHARMACY,Sanitisers,483.00
-Home Affairs,PALMER AGRICULTURE & TRACTOR SUPPLIERS,Sanitisers,900.00
-Home Affairs,Qualchem,Sanitisers,200.00
-Home Affairs,Qualchem,Sanitisers,950.00
-Home Affairs,PROME D TECHNOLOGIES,D!slnfectants,34560.00
-Home Affairs,SARADOX FACTORY SHOP,Disinfectants,400.00
-Home Affairs,SUPER SPAR,BAR SOAPS,63.00
-Home Affairs,SHOPRITE,BARSOAP DETTOL,35.00
-Home Affairs,Coastal Farmers,EMPTY Containers 2 litres,180.00
-Home Affairs,Royal Cash & Carry-,EMPTY Containers for Sanitiser,80.00
-Home Affairs,SARAHS CD,EMPTY SPRAY BOTTLES,100.00
-Home Affairs,Qualchem,EMPTY spray bottles and tops,120.00
-Home Affairs,NORTH SAFETY PRODUCTS,HAND SOAP - 1 LITRE EACH,448.00
-Home Affairs,Qualchem,Sani Wipes lOOO's,740.00
-Home Affairs,SHOPRITE,WIPES,90.00
-Home Affairs,ALLEN CO MEDICAL & DENTAL SUPPLIES CC,SANITISERS,161000.00
-Home Affairs,ZAKHANYA FITNESS,CLOTH MASKS,23400.00
-Home Affairs,EVERGREEN LATEX,GLOVES,49860.00
-Home Affairs,PROM ED TECHNOLOGIES,DISINFECTANT,72000.00
+Home Affairs,HENRY SCHEIN DENTAL WAREHOUSE,GLOVES,124030
+Home Affairs,PERFECT PPE,Mask,250
+Home Affairs,ORION AGENCIES,Mask,496000
+Home Affairs,Coastal Farmers,Mask,200
+Home Affairs,OSMANS WHOLESALERS,Mask,800
+Home Affairs,ARISE BRANDING,Mask,300
+Home Affairs,ORION AGENCIES,Gloves,160000
+Home Affairs,City Max Home,Gloves,180
+Home Affairs,Pongoia Plaza Pharmacy,Gloves,230
+Home Affairs,City Max Home,Gloves,80
+Home Affairs,LINK CHEMIST,Gloves,330
+Home Affairs,MAKRO,Gloves,400
+Home Affairs,SCOTTBURGH DAY & NITE PHARMACY,Gloves,140
+Home Affairs,PEOPLES PHARMACY,Gloves,390
+Home Affairs,AS CASH 7 CARRY,Gloves,38
+Home Affairs,LINK CHEMIST,Gloves,330
+Home Affairs,ESTCOURT SHOP,Gloves,215
+Home Affairs,ALLENCO MEDICAL & DENTAL SUPPLIES CC,Sanitisers,77625
+Home Affairs,BUILD IT HARDWARE,Sanitisers,900
+Home Affairs,LADVSMITH PHARMACY,Sanitisers,70
+Home Affairs,MACKSONS HYPER ZONE,Sanitisers,180
+Home Affairs,MACKSONS HYPER ZONE,Sanitisers,200
+Home Affairs,MOOSA'S DISCOUNT,Sanitisers,120
+Home Affairs,MULTI SAVE,Sanitisers,450
+Home Affairs,PICK N PAY,Sanitisers,110
+Home Affairs,TCC CHEMICALS,Sanitisers,225
+Home Affairs,PICK N PAY,Sanitisers,680
+Home Affairs,SPAR,Sanitisers,279
+Home Affairs,KRIKO HOUSEHOLD DETERGENTS,Sanitisers,70
+Home Affairs,KRIKO HOUSEHOLD DETERGENTS,Sanitisers,40
+Home Affairs,KRIKO HOUSEHOLD DETERGENTS,Sanitisers,140
+Home Affairs,Home Hub,Sanitisers,120
+Home Affairs,EVERLASTING PRODUCTS,Sanlt!sers,780
+Home Affairs,Mtuba Pharmacy,Sanitisers,120
+Home Affairs,Pongola Plaza Pharmacy,Sanitisers,120
+Home Affairs,Game Store,Sanitisers,1900
+Home Affairs,SAVMOR CASH&CARRY,Sanitisers,1200
+Home Affairs,DB Cleaning,Sanitisers,370
+Home Affairs,PETTY CASH-INGAMKHULULI PROJECTS,Sanitisers,1600
+Home Affairs,SAV More,Sanitisers,1980
+Home Affairs,CYBERCHEM,Sanitisers,800
+Home Affairs,SCOTTBURGH DAY & NITE PHARMACY,Sanitisers,483
+Home Affairs,PALMER AGRICULTURE & TRACTOR SUPPLIERS,Sanitisers,900
+Home Affairs,Qualchem,Sanitisers,200
+Home Affairs,Qualchem,Sanitisers,950
+Home Affairs,PROME D TECHNOLOGIES,D!slnfectants,34560
+Home Affairs,SARADOX FACTORY SHOP,Disinfectants,400
+Home Affairs,SUPER SPAR,BAR SOAPS,63
+Home Affairs,SHOPRITE,BARSOAP DETTOL,35
+Home Affairs,Coastal Farmers,EMPTY Containers 2 litres,180
+Home Affairs,Royal Cash & Carry-,EMPTY Containers for Sanitiser,80
+Home Affairs,SARAHS CD,EMPTY SPRAY BOTTLES,100
+Home Affairs,Qualchem,EMPTY spray bottles and tops,120
+Home Affairs,NORTH SAFETY PRODUCTS,HAND SOAP - 1 LITRE EACH,448
+Home Affairs,Qualchem,Sani Wipes lOOO's,740
+Home Affairs,SHOPRITE,WIPES,90
+Home Affairs,ALLEN CO MEDICAL & DENTAL SUPPLIES CC,SANITISERS,161000
+Home Affairs,ZAKHANYA FITNESS,CLOTH MASKS,23400
+Home Affairs,EVERGREEN LATEX,GLOVES,49860
+Home Affairs,PROM ED TECHNOLOGIES,DISINFECTANT,72000
 Home Affairs,MICA,Battery AAA,239.97
 Home Affairs,SUPERSPAR,"Soap,h/wash",78.97
-Home Affairs,FACTORY SHOP SUPPLIER,Spray bottles,40.00
-Home Affairs,TCC CHEMICALS,Sanitizer,155.00
+Home Affairs,FACTORY SHOP SUPPLIER,Spray bottles,40
+Home Affairs,TCC CHEMICALS,Sanitizer,155
 Home Affairs,ValueClty Wholesalers cc,Spray bottles,117.71
-Home Affairs,Escourt Build It,Sanitizer,199.80
-Home Affairs,City Max,Disposable Gloves,80.00
-Home Affairs,Coastals,"Sprayer,Mask dust",522.30
-Home Affairs,Mtuba Phamacy,Hand Sanitiser Pump,119.90
+Home Affairs,Escourt Build It,Sanitizer,199.8
+Home Affairs,City Max,Disposable Gloves,80
+Home Affairs,Coastals,"Sprayer,Mask dust",522.3
+Home Affairs,Mtuba Phamacy,Hand Sanitiser Pump,119.9
 Home Affairs,Game,Duracell Battery,84.99
-Home Affairs,E-Max Home,Spray bottles,116.00
-Home Affairs,Newcastle Master Locksmith,Battery A27,45.00
-Home Affairs,Makro,Gloves,100.00
+Home Affairs,E-Max Home,Spray bottles,116
+Home Affairs,Newcastle Master Locksmith,Battery A27,45
+Home Affairs,Makro,Gloves,100
 Home Affairs,Family Express,Duracell Plus Battery AAA,56.98
 Home Affairs,Division of Pepkor trading,Energlzer(battery),44.99
-Home Affairs,Woolworths,Energize r(battery),149.90
+Home Affairs,Woolworths,Energize r(battery),149.9
 Home Affairs,ROYLOND PTY LTD,16 LITRE BACKPACK SPRAYERS,59393.75
-Home Affairs,DARADA TRADING & PROJECTS,CLEANING SERVICE- EMONDLO,39150.00
+Home Affairs,DARADA TRADING & PROJECTS,CLEANING SERVICE- EMONDLO,39150
 Home Affairs,MSONTOS GROUP,CLEANING SERVICE- HLABISA,23999.04
-Home Affairs,BH LEGACY,CLEANING SERVICE- MBAZWANA,26724.00
-Home Affairs,MKLG GROUP,CLEANING SERVICE - UBOMBO,30000.00
-Home Affairs,UBUCUBU HOME INDUSTRIES,3 LAYER CLOTH MASKS,12840.00
-Home Affairs,SIPHIWENONKOSI CLEANING SERVICES,CLEANING SERVICE- ESIKHAWINI,30000.00
-Home Affairs,LAKE TETE TRADING AND PROJECTS,CLEANING SERV1CE-JOZINI,27000.00
-Home Affairs,TAP TAP TRADING & PROJECT,CLEANING SERVICE - KWANGWANASE,24150.00
+Home Affairs,BH LEGACY,CLEANING SERVICE- MBAZWANA,26724
+Home Affairs,MKLG GROUP,CLEANING SERVICE - UBOMBO,30000
+Home Affairs,UBUCUBU HOME INDUSTRIES,3 LAYER CLOTH MASKS,12840
+Home Affairs,SIPHIWENONKOSI CLEANING SERVICES,CLEANING SERVICE- ESIKHAWINI,30000
+Home Affairs,LAKE TETE TRADING AND PROJECTS,CLEANING SERV1CE-JOZINI,27000
+Home Affairs,TAP TAP TRADING & PROJECT,CLEANING SERVICE - KWANGWANASE,24150
 Home Affairs,SKITTERBLINK CLEANING SERVICES,DEEP CLEANING -VRYHEID,14973.58
