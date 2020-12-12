@@ -1,26 +1,19 @@
-"Names of the
- Companies
- awarded",Product or services rendered,Unit Price,Quantity,"The full amount paid
- for the Products or
- services","Any donations
- received from
- external funders /
- companies",The beneficiary targets and method of distribution
-MasontoÕs Business Enterprise,Hand Sanitisers,59,250,14750,Not Applicable,Distributed to Staff at All Offices
-Mahlakuri Pythons Security,Face Masks,21.6,500,10800,Not Applicable,Distributed to Staff at All Offices
-Sihlangu Semnikati Trading,Hand Sanitisers and disunfectants,48.87; 414.00,250;4,13874.75,Not Applicable,Distributed to Staff at All Offices Disinfectants for Cleaners
-Mpumalanga Chemicals,Digital Thermometeres,972.63,19,18480,Not Applicable,Distributed to points of entrance
-Mpumalanga NCRF Hub,"Radio broadcast related to
- Covid-19",Not Applicable,Not Applicable,23000,Not Applicable,Not Applicable
-Oarabile JN Trading and Project,"Surface disinfectants 25 Liters
+buyer_name,implementation_location_province,supplier_name,items_description,Unit Price,cost_per_unit_zar,items_quantity,order_amount_zar,Any donations received from external funders /companies,The beneficiary targets and method of distribution
+Moumalanga Department of Economic Development and Tourism,Mpumalanga,MasontoÕs Business Enterprise,Hand Sanitisers,59,59.00,250,14750.00,Not Applicable,Distributed to Staff at All Offices
+Moumalanga Department of Economic Development and Tourism,Mpumalanga,Mahlakuri Pythons Security,Face Masks,21.6,21.60,500,10800.00,Not Applicable,Distributed to Staff at All Offices
+Moumalanga Department of Economic Development and Tourism,Mpumalanga,Sihlangu Semnikati Trading,Hand Sanitisers and disunfectants,48.87; 414.00,,250;4,13874.75,Not Applicable,Distributed to Staff at All Offices Disinfectants for Cleaners
+Moumalanga Department of Economic Development and Tourism,Mpumalanga,Mpumalanga Chemicals,Digital Thermometeres,972.63,972.63,19,18480.00,Not Applicable,Distributed to points of entrance
+Moumalanga Department of Economic Development and Tourism,Mpumalanga,Mpumalanga NCRF Hub,"Radio broadcast related to
+ Covid-19",Not Applicable,,Not Applicable,23000.00,Not Applicable,Not Applicable
+Moumalanga Department of Economic Development and Tourism,Mpumalanga,Oarabile JN Trading and Project,"Surface disinfectants 25 Liters
 Face Shields
-Individual Sanitisers",800.00;70.00;60.75,8;50;250,25087.5,Not Applicable,Distributed to Staff at All Offices
-Realingrid General Trading,Foot Pump Sanitisers,1322.5,19,26182,Not Applicable,Awaiting Delivery
- Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,"SAB
+Individual Sanitisers",800.00;70.00;60.75,,8;50;250,25087.50,Not Applicable,Distributed to Staff at All Offices
+Moumalanga Department of Economic Development and Tourism,Mpumalanga,Realingrid General Trading,Foot Pump Sanitisers,1322.5,1322.50,19,26182.00,Not Applicable,Awaiting Delivery
+Moumalanga Department of Economic Development and Tourism,Mpumalanga, Not Applicable,Not Applicable,Not Applicable,,Not Applicable,,"SAB
  1. 100 Food Parcels
  2. 100 Sanitizers
  3. 100 Mask
  4. 100 Blankets",All were donated in a Drop-in Centre in Hazyview
- Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,"STANDARD BANK
+Moumalanga Department of Economic Development and Tourism,Mpumalanga, Not Applicable,Not Applicable,Not Applicable,,Not Applicable,,"STANDARD BANK
  1. 100 Food Vouchers
  and will be distributed",To be distributed to Gert Sibande Informal Businesses
