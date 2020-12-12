@@ -1,4 +1,4 @@
-implementation_province_province,buyer_name,implementation_location_other,items_description,supplier_name,items_quantity,cost_per_unit_zar,order_amount_zar
+implementation_location_province,buyer_name,implementation_location_other,items_description,supplier_name,items_quantity,cost_per_unit_zar,order_amount_zar
 Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,365 LEGACY ENTERTAINMENT,50,900.00,45000.00
 Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,AMBITIOUS BUSINESS SOLUTIONS,50,900.00,45000.00
 Northern Cape,Northern Cape Provincial Government,Head Office,Food Parcels,AMOR DE DIOS TRADERS,50,900.00,45000.00
