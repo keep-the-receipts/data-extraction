@@ -1,21 +1,16 @@
-"Names of the C
- ompanies a
- warded","Product or services
-  rendered",Unit Price,Quantity,"The full amount paid 
- for the Products or 
- services","Any donations 
+buyer_name,implementation_location_zar,supplier_name,items_description,cost_per_unit_zar,items_quantity,order_amount_zar,"Any donations 
  received from
   external funders /
  companies","The beneficiary targets and method 
  of distribution"
-Yamakhosi Trading,Liquid Hand Soap,R94.00,50,R4 700.00,N/A,N/A
-Yamakhosi Trading,Non-contact soap dispensers,R3 200.00,15,R48 000.00,N/A,N/A
-Yamakhosi Trading,Disposable Hand Towels,R890.00,50 (Bales of 6),R44 500.00,N/A,N/A
-Yamakhosi Trading,Liquid/gel sanitisers,R2 500.00,(50X2.5L) 25 Litres,R125 000.00,N/A,N/A
-Yamakhosi Trading,Non-contact sanitisers dispensers,R3 200.00,30,R96 000.00,N/A,N/A
-Yamakhosi Trading,Portable hand sanitisers (1 Litres),1R94.00,100 X 1 litres,R9 400.00,N/A,N/A
-Yamakhosi Trading,Disposable Latex hand gloves,R6.80,250 pairs,R1 700.00,N/A,N/A
-Yamakhosi Trading,Face Shields,R198.00,20,R5 940.00,N/A,N/A
-Yamakhosi Trading,Re-usable Face masks/Cloth masks/3 � layered masks,R55.00,600,R33 000.00,N/A,N/A
-Yamakhosi Trading,Disinfection Chemicals,R1 850.00,30X20 Litres (20 Litres),R55 500.00,N/A,N/A
-Yamakhosi Trading,Infrared Thermometer,R2 990.00,25,R74 750.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Liquid Hand Soap,94.00,50,4700.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Non-contact soap dispensers,3200.00,15,48000.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Disposable Hand Towels,890.00,50 (Bales of 6),44500.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Liquid/gel sanitisers,2500.00,(50X2.5L) 25 Litres,125000.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Non-contact sanitisers dispensers,3200.00,30,96000.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Portable hand sanitisers (1 Litres),194.00,100 X 1 litres,9400.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Disposable Latex hand gloves,6.80,250 pairs,1700.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Face Shields,198.00,20,5940.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Re-usable Face masks/Cloth masks/3 � layered masks,55.00,600,33000.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Disinfection Chemicals,1850.00,30X20 Litres (20 Litres),55500.00,N/A,N/A
+Mpumalanga Regional Training Trust (MRTT),Mpumalanga,Yamakhosi Trading,Infrared Thermometer,2990.00,25,74750.00,N/A,N/A
