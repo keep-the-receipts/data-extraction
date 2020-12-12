@@ -1,307 +1,306 @@
-DEPARTMENT,SUPPLIER NAME,ITEM DESCRIPTION,"PAYMENT
-QUANTITY","UNIT OF
-MEASURE",UNIT PRICE,TOTAL (R)
-Office of The Premier,IOT WORLD (PTY) LTD,Two Layers Cloth Masks,750,Each,72,"54,000.00"
-Office of The Premier,IOT WORLD (PTY) LTD,Hand Sanitiser - 70% Alcohol,20,500 ml,225,"4,500.00"
-Office of The Premier,IOT WORLD (PTY) LTD,Hand Sanitiser - 70% Alcohol,300,1L,250,"75,000.00"
-Office of The Premier,KISSA GENERAL TRADING,Hand Sanitiser - 70% Alcohol,150,500 ml,100,"15,000.00"
-Office of The Premier,DNS SUPPLIES,Surgical Masks,50,Each,24.15,"1,207.50"
-Office of The Premier,DNS SUPPLIES,"Surgical Gloves (S,M,L)",3,100 per box,138,414
-Office of The Premier,DNS SUPPLIES,Protective Clothing,40,Each,172.5,"6,900.00"
-Office of The Premier,DNS SUPPLIES,Digital Scanners,2,Each,"2,070.00","4,140.00"
-Office of The Premier,CRYSTAL PHARMACY,Digital Scanners,4,Each,"2,001.00","8,004.00"
-Office of The Premier,BUCO,Face Shields,70,Each,38.33,"2,683.07"
-Office of The Premier,STEINER,Alcohol Hand Wipes,100,100 per pack,37.01,"3,700.70"
-Office of The Premier,DNS SUPPLIES,KN95 Masks - Clinic,1,50 per box,"3,737.50","3,737.50"
-Office of The Premier,DNS SUPPLIES,Surgical Masks,50,Each,12,600
-Office of The Premier,ROSS CARPERTS,Disinfecting And Sanitising,1,Building,"14,446.00","14,446.00"
-Provincial Treasury,HALSTED & CO,Sanitizer Detergent,100,5L bottle,460,"46,000.00"
-Provincial Treasury,HALSTED & CO,Bottles,50,750ml bottle,115,"5,750.00"
-Provincial Treasury,HALSTED & CO,Glove Examination,20,Box of 100,174,"3,470.93"
-Provincial Treasury,HALSTED & CO,Facial Tissue,500,100g,57,"28,250.00"
-Provincial Treasury,HALSTED & CO,Mask,20,Box of 50,"1,208.00","24,150.00"
-Provincial Treasury,HALSTED & CO,Mask,3,Box of 20,569,"1,707.75"
-Provincial Treasury,LORATO CREATIONS,"Mask, Dust",632,,25,"15,800.00"
-Provincial Treasury,POLELO IT SOLUTIONS,"Shield, Medical Visor COVID",36,,45,"1,620.00"
-Provincial Treasury,LOJANE TRADING,"Shield, Medical Visor COVID",15,,65,975
-Provincial Treasury,DNS SUPPLIES,"Thermometer, Medical Digital",15,,"2,070.00","31,050.00"
-Health,DNS SUPPLIES,Examination Gloves (Medium & Large),"4,000",100 per box,108.042,"432,170.00"
-Health,DNS SUPPLIES,Hand Sanitisers,"1,000",500 ml,96.02,"96,025.00"
-Health,PRO-PRINT,Posters,"12,500",Each,9.17,"114,687.50"
-Health,PRO-PRINT,Posters,"2,000",Each,11.8,"23,600.00"
-Health,PRO-PRINT,Pamphlets,"10,000",Each,0.9,"9,085.00"
-Health,PRO-PRINT,Posters,"12,500",Each,9.17,"114,687.50"
-Health,BOKAMOSO TRADING ENTERPRISE,Posters,"25,000",Each,13.6,"340,000.00"
-Health,ASIJIKI SOUNDBYTES,Aprons,"180,000",Each,0.74,"133,200.00"
-Health,ASIJIKI SOUNDBYTES,Disposable Gowns (Large & Extra Large),"100,000",Each,127.5,"12,750,000.00"
-Health,ASIJIKI SOUNDBYTES,Goggles,"10,000",Each,51.74,"517,400.00"
-Health,ASIJIKI SOUNDBYTES,Infra-Red Thermometer,300,Each,1725,"517,500.00"
-Health,MACRONYM 37,Surgical Masks,"250,000",Each,13.8,"3,450,000.00"
-Health,MACRONYM 37,FFP2/3 Or N95,"250,000",Each,36.8,"9,200,000.00"
-Health,MACRONYM 37,Coveralls,"50,000",Each,286.2,"14,310,025.00"
-Health,C MED SUPPLIES,Surgical Masks,"200,000",Each,17.89,"3,578,000.00"
-Health,C MED SUPPLIES,FFP2/3 Or N95,"30,000",Each,81.82,"2,454,600.00"
-Health,C MED SUPPLIES,Coveralls,"2,000",Each,201.25,"402,500.00"
-Health,C MED SUPPLIES,Hand Sanitisers,"5,000",Each,74.75,"373,750.00"
-Health,C MED SUPPLIES,Goggles,"1,000",Each,37.95,"37,950.00"
-Health,C MED SUPPLIES,Disposable Gowns (Large),"5,000",Each,94.49,"472,450.00"
-Health,C MED SUPPLIES,Disposable Gowns (Extra Large),"5,000",Each,97.49,"487,450.00"
-Health,C MED SUPPLIES,Facial Shields,"1,000",Each,74.99,"74,990.00"
-Health,C MED SUPPLIES,Infra-Red Thermometer,100,Each,"1,892.94","189,294.00"
-Health,REVOLT HEADBOY,Surgical Masks,"240,000",Each,12.28,"2,947,200.00"
-"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Hand Sanitizer Not Less Than 70% Alcohol Based.,50,5L,430,"21,500.00"
-"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Surgical Masks,"1,200",Each,25,"30,000.00"
-"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Examination Gloves - Non,30,Box of 100,260,"7,800.00"
-"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Anti Bacterial Wet Wipes,100,Box of 100,48,"4,800.00"
-"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Hand Soap,50,5L,105,"5,250.00"
-"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Spirits,500,200ml,100,"50,000.00"
-"Sport, Arts and Culture",SHINE THE WAY,Supply And Delivery Of 1800 Quantities Of 3 Layer Facemasks - DTIC,"1,800",Each,25,"45,000.00"
-"Sport, Arts and Culture",BLUE AQUARIAN TRADING,Supply And Delivery Of Hand Soap.,60,5L,120,"7,200.00"
-"Sport, Arts and Culture",BLUE AQUARIAN TRADING,Supply And Delivery Of Hand Sanitizer Not Less Than 70% Alcohol Based.,60,5L,320,"19,200.00"
-"Sport, Arts and Culture",BLUE AQUARIAN TRADING,Supply And Delivery Of Empty 500 Ml Bottles,"1,200",500ml,20,"24,000.00"
-"Sport, Arts and Culture",VERITY PROJECTS AND TRADING,Supply And Delivery Of Digital Thermometers,20,Each,875,"17,500.00"
-"Sport, Arts and Culture",VERITY PROJECTS AND TRADING,Supply And Delivery Of Surface Wipes,600,Box of 100,65,"39,000.00"
-COGHSTA,BLUE PETROLEUM,"Towel, Paper Per Roll",10,Each,24,240.01
-COGHSTA,BLUE PETROLEUM,Gloves Yellow Medium household Heavy Duty,6,Each,8,48.01
-COGHSTA,BLUE PETROLEUM,Alcohol Sanitiser And Disinfectant 20lt COVID 048,20,Litre,79.99,"1,599.99"
-COGHSTA,BLUE PETROLEUM,Bottle Spray 500ml Covid 054,6,Each,37.99,227.97
-COGHSTA,BLUE PETROLEUM,"Shield,Medical Visor Covid 036",10,Each,44,440
-COGHSTA,UC CHEMICAL & CLEANING,Soap Hand & Body,50,Each,12.5,625
-COGHSTA,UC CHEMICAL & CLEANING,Bottle Spray 250ml Covid 053,20,Each,25,500
-COGHSTA,BLUE PETROLEUM,Bottle Spray 500ml Covid 054,6,Each,37.99,227.97
-COGHSTA,JLK BUSINESS CONSULTING,Soap Hand 125g,300,Each,18.4,"5,520.00"
-COGHSTA,JLK BUSINESS CONSULTING,Bottle Spray 500ml Covid 054,300,Each,22.42,"6,727.50"
-COGHSTA,ZULEIKAS DESIGN,"Mask,Medical Covid 030",300,Each,35,"10,500.00"
-COGHSTA,BLUE PETROLEUM,Alcohol Sanitiser And Disinfectant 5lt Covid 047,8,Each,305,"2,440.00"
-COGHSTA,KEVKUT CONSULTING,"Mask,Medical Covid 030",60,Each,45,"2,700.00"
-COGHSTA,KATHARISMA GENERAL SUPPLIERS,Gloves Rubber Multi Purpose,50,Each,20,"1,000.00"
-COGHSTA,KATHARISMA GENERAL SUPPLIERS,Bottle Spray 250ml Covid 053,30,Each,25,750
-COGHSTA,KATHARISMA GENERAL SUPPLIERS,Bottle Spray 500ml COVID 054,6,Each,29,174
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Soap Hand Wash Liquid,852,Each,90,"76,680.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,"Mask,Dust Box 20",70,Box,35,"2,450.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Antibacterial Spray Sanitizer,910,Two hundred & fifty,210,"191,100.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Antibacterial Spray Sanitizer,560,Two hundred & fifty,246,"137,760.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Gloves Latex Powdered Large Box 100,7,Box,550,"3,850.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Soap Hand Wash Liquid,366,Each,90,"32,940.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,"Mask, Dust Box 20",30,Box,35,"1,050.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Antibacterial Spray Sanitizer,390,Two hundred & fifty,210,"81,900.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Antibacterial Spray Sanitizer,240,Two hundred & fifty,246,"59,040.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Gloves Latex Powdered Large Box 100,3,Box,550,"1,650.00"
-COGHSTA,JPD BUSINESS ENTERPRISE,"Mask, Medical COVID 030",703,Two hundred & fifty,68,"47,804.00"
-COGHSTA,KIDS SPORTSWEAR,"Mask, Medical COVID 030",730,Two hundred & fifty,46,"33,580.00"
-COGHSTA,SHAUN WAYNE BARNES,Sanitizer Detergent 5 Lt,1,Two hundred & fifty,"82,000.00","82,000.00"
-COGHSTA,R D T GENERAL TRADING,Gloves Gloves,1,Each,360,360
-COGHSTA,R D T GENERAL TRADING,"Mask, Medical COVID 030",20,Two hundred & fifty,50,"1,000.00"
-COGHSTA,OMPHEMETSE KAMOHAU ENTERPRISES AN,"Dispenser, Paper Towel Economy Floor Stand - Jumbo
-Paper Towel Rolls",25,Two hundred & fifty,765,"19,125.00"
-COGHSTA,OMPHEMETSE KAMOHAU ENTERPRISES AN,"Shield, Medical Face Frames Sf2511",200,Two hundred & fifty,60,"12,000.00"
-COGHSTA,OMPHEMETSE KAMOHAU ENTERPRISES AN,"Towel, Paper",62,Pack or packet,340,"21,080.00"
-COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Apron Large,1,Two hundred & fifty,"7,400.00","7,400.00"
-Social Development,I MOTLEKAR T/A AUTO RACE CAR WASH,"60x 5lt OF SANITIZER,40x 500ml SPRAY BOTTLE SANITIZER, 60x 100 BOX OF GLOVES SANITIZER, 60x 100 BOX OF GLOVES",60,5 litre 70% Alcohol sanitiser,650,"56,800.00"
-Social Development,I MOTLEKAR T/A AUTO RACE CAR WASH,60 X Boxes Of Gloved (100 Gloves Per Box),60,Price per box of gloves,180,-
-Social Development,DNS SUPPLIES,Hand Sanitizer For DSD Officials 400 X 5l,400,,747.5,"299,000.00"
-Social Development,"PRICESMART TECHNOLOGIES
-CC/CALTEX LENNOX",700x SURGICAL MASKS,700,3 ply surgical masks per mask,27,"18,917.50"
-Social Development,DNS SUPPLIES,Supply And Deliver Of 100 Infrared Thermometers,100,A unit of a thermometer,"1,955.00","199,525.00"
-Social Development,OXIRON TRADING,Surgical Masks For Provincial Officials,"8,000",3 ply surgical masks per mask,11.5,"57,500.00"
-Social Development,MAGIC ENTERPRISES,2000 3 Ply Surgical Masks,"2,000",1 unit of 3 ply surgical masks,30,"66,000.00"
-Social Development,MAGIC ENTERPRISES,30 Boxes Of Hand Gloves Latex Free,30,1 Box 100 gloves per box,200,-
-Social Development,LORATO CREATIONS,3600x FABRIC FACE MASKS,"3,600",Price per mask,"R30 X 1300
-R23 X 2600.","98,800.00"
-Social Development,NDZ DEVELOPMENTS,1400 Plastic Face Shields,"1,400",Price per face shield (Visors),60,"84,000.00"
-Social Development,ASIJIKI SOUNDBYTES,10 000 Face Masks For Officials,10000,Price per mask,30,"300,000.00"
-Social Development,AUTO RACE,5 000 Face Masks For Officials,5000,Price per mask,28.5,"142,500.00"
-Economic Development,MHLANGA TOURS,Alcohol Based Hand Sanitizer,600 units,500ml,155.25,-
-Economic Development,MHLANGA TOURS,Dettol Hand Wash,49 units,500ml,97.75,-
-Economic Development,MHLANGA TOURS,Alcohol Based Hand Sanitizer,33 units,1L,310.5,-
-Economic Development,MHLANGA TOURS,Wipes,300 units,40 wipes per packet,115,-
-Economic Development,MHLANGA TOURS,Paper Towel,10 units,205*1500M + 1L Sanitizer,"1,650.25",-
-Economic Development,MHLANGA TOURS,Glove Nitrile,32 Boxes,100 Per box,276,"168,020.25"
-Economic Development,NCRF NORTHERN CAPE,Coronavirus Covid-19 Interview,,7 radio station,,"30,000.00"
-Economic Development,MHLANGA TOURS,Alcohol Based Hand Sanitizer,200 units,500ml,155.25,-
-Economic Development,MHLANGA TOURS,N95 Masks,400 units,masks,57.5,-
-Economic Development,MHLANGA TOURS,Glove Nitrile,8 Boxes,100 per box,276,"56,258.00"
-Economic Development,CALSIM CONSORTIUM,Screening Thermometers,35,,"1,820.00","63,700.00"
-Economic Development,FROST CO,Covid 19 Refil Fund Info Pamphets,"100,000",,4.6,"460,000.00"
-Economic Development,EVERS XCELLENCE MANAGEMENT,Masks Project,Production of masks,,"264,000.00","264,000.00"
-Environment and Nature Conservation,IZINDWE MARKETING,Face Masks;  Gloves,30 boxes;,,,"69,800.00"
-Environment and Nature Conservation,KIMBERLEY HANDYMAN,Sanitiser 70% Alcohol;  Trigger Spray Bottles,30 X 5Lt,,,"115,625.00"
-Environment and Nature Conservation,JAY LESEDI TRADING ENTERPRISE CC,Catering For Provincial Joint Committee (Provjoc),70,,,"11,200.00"
-Environment and Nature Conservation,IKOMKHULU INTEGRATED RESOURCES,Procurement Of Food Parcels For Waste Pickers At Sol Plaatje Landfill Due To COVID-19,50,,,"41,297.00"
-Environment and Nature Conservation,LEBETSA TRADING (PTY) LTD,Face Masks,500,,,"27,500.00"
-Environment and Nature Conservation,BEYOND TRADE ENTERPRISE (PTY) LTD,Procurement Of Food Parcels For Waste Pickers At Sol Plaatje Landfill Due To COVID-19,50,,,"45,000.00"
-Environment and Nature Conservation,TEMA INVESTMENT (PTY) LTD,Procurement Of Digital Thermometers,6,,,"10,800.00"
-Environment and Nature Conservation,MASEDI STAR,Sanitiser Detergent 750ml,12,,,"22,569.21"
-Environment and Nature Conservation,SECHABA STATIONERIES (PTY) LTD,Sanitiser Gel 70% Alcohol,20 X 5Lt,,,"9,900.00"
-Environment and Nature Conservation,SHINE THE WAY 649,3 Layer Cloth Face Masks,500,,,"12,500.00"
-Environment and Nature Conservation,365 LEGACY ENTERTAINMENT,Surface Sanitiser 70% Alcohol,30,,,"10,500.00"
-Environment and Nature Conservation,Goodies gadget galore,Procurement Of Infrared Thermometers,6,,,"5,100.00"
-Environment and Nature Conservation,SKEMA COMMUNICATION SOLUTIONS,Procurement Of Hand Wash Soap,30,,,"14,751.90"
-Environment and Nature Conservation,ETERNAL CITY TRADING 664,3 Layer Cloth Face Masks,1000,,,"22,000.00"
-Education,SPLENDOUR TRADING&PROJECTS,25lt Hand Sanitizers,350,25LT,"1,750.00","612,500.00"
-Education,JOSMEL GENERAL TRADING,25lt Hand Sanitizers,350,25LT,"1,189.00","416,150.00"
-Education,LE-AFRIQUE HOLDINGS,25lt Hand Sanitizers,350,25LT,"1,423.68","498,287.50"
-Education,INHLAMVU PROJECTS&SERVICES,25lt Hand Sanitizers,350,25LT,"1,500.00","525,000.00"
-Education,RAMSY HOLDINGS,25lt Hand Sanitizers,350,25LT,"1,300.00","455,000.00"
-Education,MMG CONSULTING,25lt Hand Sanitizers,10,25LT,"1,850.00","18,500.00"
-Education,THE EYE NORTHERN CAPE,Fabric Face Mask-3 Layers,"3,000",Each,25,"75,000.00"
-Education,IPOPENG TRADING ENTERPRISE,Fabric Face Mask-3 Layers,"30,000",Each,20,"600,000.00"
-Education,MATS BROTHERS,Fabric Face Mask-3 Layers,"30,000",Each,13.2,"396,000.00"
-Education,RAFF KAHDER CONSTRUCTION,Fabric Face Mask-3 Layers,"30,000",Each,19,"570,000.00"
-Education,GALLANT BUSINESS SOLUTIONS,Fabric Face Mask-3 Layers,"30,000",Each,20.5,"615,000.00"
-Education,ASIJIKI SOUND BYTE,Fabric Face Mask-3 Layers,"30,000",Each,24.8,"744,000.00"
-Education,LAPA LAKA TRADERS,Fabric Face Mask-3 Layers,"30,000",Each,22,"660,000.00"
-Education,ZAHOEK TRADING,Fabric Face Mask-3 Layers,"30,000",Each,23,"690,000.00"
-Education,KING OF EMPERORS,Fabric Face Mask-3 Layers,30000,Each,25,"750,000.00"
-Education,SHIREWAY PROJECTS,Fabric Face Mask-3 Layers,"30,000",Each,23.8,"714,000.00"
-Education,OXICON TRADING,Fabric Face Mask-3 Layers,"30,000",Each,16.5,"495,000.00"
-Education,DISKONTO TRADING,Fabric Face Mask-3 Layers,"30,000",Each,22,"660,000.00"
-Education,EXACTUS 24 TRADING,Fabric Face Mask-3 Layers,"30,000",Each,23.48,"704,400.00"
-Education,AMADWALA TRADING,Fabric Face Mask-3 Layers,"30,000",Each,24,"720,000.00"
-Education,INHLAMVU PROJECTS&SERVICES,Fabric Face Mask-3 Layers,"30,000",Each,24.5,"735,000.00"
-Education,BAITX JUBILEE,Fabric Face Mask-3 Layers,"30,000",Each,17,"510,000.00"
-Education,GAOLATLHE SUPPLIERS,Fabric Face Mask-3 Layers,"30,000",Each,22,"660,000.00"
-Education,THATABETSWE TRADING&INVEST,Fabric Face Mask-3 Layers,"30,000",Each,21,"630,000.00"
-Education,SOUTH HILL TRADING,Fabric Face Mask-3 Layers,"30,000",Each,22.89,"686,550.00"
-Education,PEO ENTLE,Fabric Face Mask-3 Layers,"30,000",Each,21.5,"645,000.00"
-Education,RISHVA LOGISTICS,Fabric Face Mask-3 Layers,"3,660",Each,22.47,"82,250.00"
-Education,CAREY GROUP,Visors/(Face Shields),"6,020",Each,35,"210,700.00"
-Education,KATLEGO TRADING,Visors/(Face Shields),"6,020",Each,30.01,"180,660.00"
-Education,INOVETEX,Visors/(Face Shields),"6,020",Each,40,"240,800.00"
-Education,INNO SUPPLY SUPPLY&DELIVERY,Visors/(Face Shields),"6,020",Each,49.5,"297,990.00"
-Education,TSHIAMELO CORPORATION,Visors/(Face Shields),"6,020",Each,49.99,"300,939.80"
-Education,CLASSICAL JAZZY NOTE,Digital Thermometers,128,Each,"1,500.00","192,000.00"
-Education,PAPRENAX EXCEPTIONAL,Digital Thermometers,320,Each,"1,380.00","441,600.00"
-Education,ALL IN SOLUTIONS,Digital Thermometers,320,Each,"1,100.00","352,000.00"
-Education,RIMA SOLUTIONS,Digital Thermometers,320,Each,"1,200.00","384,000.00"
-Education,NC PRINTING&STATIONERY,Digital Thermometers,320,Each,"1,560.00","499,200.00"
-Education,CHEKKART AGENCIES,Digital Thermometers,320,Each,"1,400.00","448,000.00"
-Education,KOPANANG WOMEN ENTERPRISE,Digital Thermometers,320,Each,"1,200.00","384,000.00"
-Education,LERONTI PROJECT AND GENERAL,Digital Thermometers,320,Each,"1,299.00","415,680.00"
-Education,MIRACLUS TRADING,Heavy Duty Plastic Bags,100,5 in a pack,,"11,200.00"
-Education,CLAN SECURITIES,Heavy Duty Plastic Bags,"2,127",200 in pack,,"361,590.00"
-Education,CLT ENTERPRISE,Surgical Gloves,"3,147",Per box of 100,189,"594,783.00"
-Education,MIRACLUS TRADING,Surgical Gloves,20,Per box of 100,110,"2,200.00"
-Education,BAIKANYEGI TRADING,PVC Aprons,"1,630",Each,225,"366,750.00"
-Education,TS CREATIONS,PVC Aprons,"1,630",Each,236.56,"385,600.00"
-Education,DISKONTO TRADING,25 Lt Hand Liquid Soap,659,Each,299.9,"197,634.10"
-Education,LUKHANYISILE DEVELOPMENT,25 Lt Hand Liquid Soap,659,Each,360,"237,240.00"
-Education,ATNOZA TRADING,25 Lt Hand Liquid Soap,659,Each,350,"230,650.00"
-Education,MIRACLUS TRADING,25 Lt Hand Liquid Soap,659,Each,410,"270,190.00"
-Education,EXCELLENCE KEEPIN,25 Lt Hand Liquid Soap,659,Each,425,"280,075.00"
-Education,TRADI EXCELLENCE,25 Lt Hand Liquid Soap,149,Each,427,"63,623.00"
-Education,MMG CONSULTING,25 Lt Hand Liquid Soap,10,Each,678.01,"6,780.05"
-Education,TLKZ OPTIMUM,Soap Dispensers,831,750ml,33.34,"27,704.29"
-Education,RAFF KHADER CONSTRUCTION,Soap Dispensers,831,750ml,42.5,"35,317.50"
-Education,E ATILE MED SUPPL,Soap Dispensers,831,750ml,79.21,"65,825.00"
-Education,CLASSICS OF KIMBERLEY,Soap Dispensers,831,750ml,44.8,"37,228.00"
-Education,MMG CONSULTING,Soap Dispensers,500,1lt,89.83,"44,915.55"
-Education,BAIKANYEGI TRADING,Spray Bottles,"9,110",1lt,38.5,"350,735.00"
-Education,BAN MOS(PTY)LTD,Liquid Soap 25lt,142,25lt,365,"51,830.00"
-Education,BAN MOS(PTY)LTD,25lt Hand Sanitizers,142,25lt,"1,035.00","146,970.00"
-Education,BAN MOS(PTY)LTD,Pine Gel 25lt,142,25lt,428.5,"60,847.00"
-Education,THATABETSWE TRADING&INVEST,Jeyes Fluid,213,5LT,150,"31,950.00"
-Education,THATABETSWE TRADING&INVEST,Anti-Bacteria Soap 100g,"14,200",Each,7,"99,400.00"
-Education,THATABETSWE TRADING&INVEST,Cleaning Fabric Cloth,710,Packet of 50,19,"13,490.00"
-Education,THATABETSWE TRADING&INVEST,Soap Dispensers,710,1lt,37,"26,270.00"
-Education,THATABETSWE TRADING&INVEST,Spray Bottles,710,1lt,38,"26,980.00"
-Education,THATABETSWE TRADING&INVEST,Toilet Paper Single Ply,355,1 Bale,235,"83,425.00"
-Education,CHARLES WELDING WORKS,Wetwipes,910,Pack of 64,44.33,"40,340.30"
-Education,BLACK ENTERPRISE ENTERPRENEUR,Wetwipes,"4,680",Pack of 100,6.49,"30,350.00"
-Education,NC MAINTENANCE,Wetwipes,910,Pack of 100,55,"50,050.00"
-Education,AAA TRADING,Wetwipes,910,Pack of 100,71.7,"65,250.00"
-Education,NJ WELDING WORKS,Wetwipes,910,Pack of 100,51.75,"47,092.50"
-Education,PHINZI TRADING&PROJECTS,Wetwipes,"4,680",Pack of 100,80,"374,400.00"
-Education,KONOPO FAMILY BUSINESS,Wetwipes,"4,680",Pack of 100,75,"351,000.00"
-Education,ABM ENTERPRISE,Wetwipes,"4,680",Pack of 100,58,"271,440.00"
-Education,WOTEX INVESTMENTS,Wetwipes,900,1000 in a bucket,312,"280,800.00"
-Education,ILC TRADING AND PROJECTS,Large Plastic Funnels,562,Each,52,"29,224.00"
-"Transport, Safety and Liaison",OLTA,Hand Sanitizer 5l,266 x 5 Litres,Litres,760,"202,160.00"
-"Transport, Safety and Liaison",OLTA,Hand Sanitizers 1l,150 x 1 Litres,Litres,180,"27,000.00"
-"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Hand Sanitizer 25l,17 x 25 Litres,25Liters,"1,750.00","29,750.00"
-"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Disinfectant Liquid Soap 10L,20 x 10 Litres,10Liters,"1,080.00","21,600.00"
-"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Disinfectant  25L,17 x 25 Litres,25Liters,"1,700.00","28,900.00"
-"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Liquid Soap,5 Small Bottles,,64,320
-"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Fogger Cans,"1,200 Cans of 400ml",400ml cans,"2,388.00","238,800.00"
-"Transport, Safety and Liaison",KENOSI,Sani-Touch Wipes,600 tubs,Unit,212.75,"127,650.00"
-"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Alcohol Wipes,50 tubs,Unit,117,"5,850.00"
-"Transport, Safety and Liaison",A-Z TRADING,Cavi Wipes,600 tubs,Unit,240,"144,000.00"
-"Transport, Safety and Liaison",MODISA TRADING,Hand Towels,35,Box 200 sheet,490,"17,150.00"
-"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Paper Towels,2,Box 200 sheet,294,588
-"Transport, Safety and Liaison",KENOSI,Mask (Province),220 Masks,Units,46,"10,120.00"
-"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Mask (District),150 Masks,Units,35,"5,250.00"
-"Transport, Safety and Liaison",ROYAL BAFOKENG,Mask 3 Layer Face Mask (Traffics),280 Masks,Units,45,"12,600.00"
-"Transport, Safety and Liaison",MODISA TRADING,Cloth Mask,106,Units,20,"2,120.00"
-"Transport, Safety and Liaison",BBN GROUP,Latex Gloves,30 Small Boxes,Boxes,,"5,370.00"
-"Transport, Safety and Liaison",BBN GROUP,Latex Gloves,10 Medium boxes,Boxes,,"1,790.00"
-"Transport, Safety and Liaison",BBN GROUP,Latex Gloves,100 Pairs,Pairs,,"4,500.00"
-"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Desk Screens,30,Units,"1,600.00","48,000.00"
-"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Facial Screens,40,Units,47,"1,880.00"
-"Transport, Safety and Liaison",KENOSI,Thermometers,20,Units,"2,070.00","41,400.00"
-"Transport, Safety and Liaison",BY DESIGN TRADING,Thermometers,10,Units,"1,555.80","15,558.00"
-"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Led Torchers,51,Units,"1,200.00","61,200.00"
-"Transport, Safety and Liaison",SWIFT PRINT,Reflective Sign Floor Sticker,150,Units,30,"13,000.00"
-"Transport, Safety and Liaison",SWIFT PRINT,Reflective Sign Strip,200,Units,12,110
-"Transport, Safety and Liaison",MAYBERG MANAGEMENT,Spray Bottle,400,Units,,"10,800.00"
-"Transport, Safety and Liaison",IGM TRADING,Batteries,25,4 Pack,55,"1,375.00"
-Agriculture,SA FAST TRADING AND PROJECTS,"Particulate Respirator, Grade KN95",50,1,40,"2,000.00"
-Agriculture,NAMOLO GENERAL TRADING,Sanitiser 1lt,18,,280,"5,040.00"
-Agriculture,NAMOLO GENERAL TRADING,Sanitiser (25l),5,,"4,480.00","22,400.00"
-Agriculture,NAMOLO GENERAL TRADING,Disinfectant (25lt),5,,"3,800.00","19,000.00"
-Agriculture,NAMOLO GENERAL TRADING,Sanitising Wipes(100pk),32,,55,"1,760.00"
-Agriculture,NAMOLO GENERAL TRADING,Disposable Masks(50pk),480,,11.46,"5,500.00"
-Agriculture,TEMA INVESTMENTS (PTY) LTD,Fabric Masks (50pk),"1,250",,45.6,"57,000.00"
-Agriculture,NAMOLO GENERAL TRADING,Surgical Gloves,275,,10.47,"2,880.00"
-Agriculture,NAMOLO GENERAL TRADING,Sanitiser (25l),31,,"4,498.06","139,440.00"
-Agriculture,NAMOLO GENERAL TRADING,Disinfectant (25lt),25,,"3,800.00","95,000.00"
-Agriculture,NAMOLO GENERAL TRADING,"Bottles,Nozzle Spray (500ml)",250,,38,"9,500.00"
-Agriculture,MATLHOMOLA TRADING,Digital Thermometers(1),40,,"1,882.50","75,300.00"
-Agriculture,NOSARITI BUSINES ENTERPRISE,Perspex Sneeze Protector Screens,80,,"1,687.50","135,000.00"
-Agriculture,M HOOSAIN CONSULTING,Digital Thermometers(1),49,,"1,267.35","62,100.00"
-Agriculture,OMPHEMETSE KAMOHAU ENT,"Signage, Directional Floor Stickers",330,,87.8,"28,974.00"
-Agriculture,NAMOLO GENERAL TRADING,Sanitiser (25l),40,,"1,375.00","55,000.00"
-Agriculture,NAMOLO GENERAL TRADING,Disinfectant (25lt),40,,680,"27,200.00"
-Roads & Public Works,THATO KABELO CONSTRUCTION & PROJ,Sanitizer Detergent,1,Each,"11,400.00","11,400.00"
-Roads & Public Works,TRUE BUILD SERVICES,Antibacterial Spray,"1,000",Each,178.25,"178,250.00"
-Roads & Public Works,EKWE CONSTRUCTION,"Mask, Dust","16,000",Each,24.8,"396,800.00"
-Roads & Public Works,KALKSLOOT HOLDINGS,Provincial Road,1,Each,"57,898.00","57,898.00"
-Roads & Public Works,KALKSLOOT HOLDINGS,Provincial Road,1,Each,"55,895.00","55,895.00"
-Roads & Public Works,KALKSLOOT HOLDINGS,Provincial Road,1,Each,"68,780.00","68,780.00"
-Roads & Public Works,KALKSLOOT HOLDINGS,Provincial Road,1,Each,"27,427.00","27,427.00"
-Roads & Public Works,DITSHEGOFATSO TSA RONA,"Mask, Dust Complete With Cartridge",250,Each,85,"21,250.00"
-Roads & Public Works,SPAR SA,Battery Pack Duracell 9v,15,Each,75.99,"1,139.85"
-Roads & Public Works,NAYBRO CASH STORE,Battery Pack Duracell 9v,10,Each,24.99,249.9
-Roads & Public Works,BEST ENOUGH TRADING AND PROJECTS 287,Antibacterial Spray,1,Each,"18,275.40","18,275.40"
-Roads & Public Works,WYDEX EVENTS PROMOTIONS,Antibacterial Spray,"16,000",Each,31.05,"496,800.00"
-Roads & Public Works,KINGSLEYS PEST CONTROL,Antibacterial Spray,1,Each,"141,415.20","141,415.20"
-Roads & Public Works,MOHINA SOLUTIONS,Antibacterial Spray,1,Each,"69,133.15","69,133.15"
-Roads & Public Works,AM CATERING,"Mask,Medical",50,Each,35,"1,750.00"
-Roads & Public Works,NAMA HARDEWARE,"Tape,Insulation",10,Each,108.68,"1,086.75"
-Roads & Public Works,NOKU GENERAL TRADING,"Shield,Medical Face Clear Lenses - Sf2510",1,Each,"65,190.00","65,190.00"
-Roads & Public Works,EMTHANJENI PRINTING,"Mask,Medical",200,For rectification,100,"20,000.00"
-Roads & Public Works,EMTHANJENI PRINTING,"Thermometer,Digital",9,For rectification,"1,950.00","17,550.00"
-Roads & Public Works,PEST AND WEED AWAY,Fumigation,1,Each,"13,837.95","13,837.95"
-Roads & Public Works,PELONTLHE 129 GENERAL TRADING,"Shield,Medical Face Clear Lenses - Sf2510",1,Each,850,850
-Roads & Public Works,OTP LOGISTICS,Antibacterial Spray,1,Each,"45,001.80","45,001.80"
-Roads & Public Works,ISJX GENERAL CONTRACTORS AND TRADING,Antibacterial Spray,1,Each,"815,900.00","815,900.00"
-Roads & Public Works,PELONTLHE 129 GENERAL TRADING,Gloves,1,Each,"11,000","11,000.00"
-Roads & Public Works,PELONTLHE 129 GENERAL TRADING,"Dispenser,Bottle",1,Each,"18,750","18,750.00"
-Roads & Public Works,BONISA BONANG GENERAL TRADING,Sanitizer Detergent,1,Each,"95,000.00","95,000.00"
-Roads & Public Works,BEST ENOUGH TRADING AND PROJECTS 287,Accommodation,1,Each,"56,000.00","56,000.00"
-Roads & Public Works,VVUKOLWAM ENTERPRISE,"Thermometer,Digital",10,For rectification,"2,000.00","20,000.00"
-Roads & Public Works,MTSQUARED TRADING,"Mask,Dust","16,000",Each,11,"176,000.00"
-Roads & Public Works,BEST ENOUGH TRADING AND PROJECTS 287,Antibacterial Spray,1,Each,"30,585.83","30,585.83"
-Roads & Public Works,BEST ENOUGH TRADING AND PROJECTS 287,Antibacterial Spray,1,Each,"25,040.00","25,040.00"
-Roads & Public Works,MASEDI STAR,"Thermometer,Medical Tele",1,Each,"54,007.17","54,007.17"
-Roads & Public Works,MASEDI STAR,Antibacterial Spray,1,Each,"70,991.80","70,991.80"
-Roads & Public Works,MASEDI STAR,"Mask,Dust",1,Each,"14,448.31","14,448.31"
-Roads & Public Works,KEMOAGILE CONSTRUCTION MANAGEMENT AND PROJECTS,"Shield,Medical Face Clear Lenses - Sf2510",1,Each,"51,000.00","51,000.00"
-Roads & Public Works,TSIBOGO TRADING,"Mask,Dust Complete With Cartridge",250,Each,45,"11,250.00"
-Roads & Public Works,PRESTIGE HARDWARE,"Battery,Non Rechargeable Duracell 9v",10,For rectification,98,980
-Roads & Public Works,PRESTIGE HARDWARE,"Battery,Non Rechargeable Penlite R6pp Aaa",10,For rectification,19.8,198
-Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,"Shield,Medical",5,For rectification,156,780
-Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,"Dispenser,Soap Bottle Plastic",2,For rectification,143,286
-Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,Spray Can,10,For rectification,36,360
-Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,"Towel,Paper Cormatic Rolls",12,For rectification,31,372
-Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,"Mask,Medical",200,For rectification,35,"7,000.00"
-Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,Alcohol,50,For rectification,108,"5,400.00"
+buyer_name,implementation_location_province,DEPARTMENT,supplier_name,items_description,items_quantity,"UNIT OF
+MEASURE",UNIT PRICE,cost_per_unit_zar,order_amount_zar
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,IOT WORLD (PTY) LTD,Two Layers Cloth Masks,750,Each,72,72.00,54000.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,IOT WORLD (PTY) LTD,Hand Sanitiser - 70% Alcohol,20,500 ml,225,225.00,4500.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,IOT WORLD (PTY) LTD,Hand Sanitiser - 70% Alcohol,300,1L,250,250.00,75000.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,KISSA GENERAL TRADING,Hand Sanitiser - 70% Alcohol,150,500 ml,100,100.00,15000.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,DNS SUPPLIES,Surgical Masks,50,Each,24.15,24.15,1207.50
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,DNS SUPPLIES,"Surgical Gloves (S,M,L)",3,100 per box,138,138.00,414.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,DNS SUPPLIES,Protective Clothing,40,Each,172.5,172.50,6900.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,DNS SUPPLIES,Digital Scanners,2,Each,"2,070.00",2070.00,4140.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,CRYSTAL PHARMACY,Digital Scanners,4,Each,"2,001.00",2001.00,8004.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,BUCO,Face Shields,70,Each,38.33,38.33,2683.07
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,STEINER,Alcohol Hand Wipes,100,100 per pack,37.01,37.01,3700.70
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,DNS SUPPLIES,KN95 Masks - Clinic,1,50 per box,"3,737.50",3737.50,3737.50
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,DNS SUPPLIES,Surgical Masks,50,Each,12,12.00,600.00
+Northern Cape Office of The Premier,Northern Cape,Office of The Premier,ROSS CARPERTS,Disinfecting And Sanitising,1,Building,"14,446.00",14446.00,14446.00
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,HALSTED & CO,Sanitizer Detergent,100,5L bottle,460,460.00,46000.00
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,HALSTED & CO,Bottles,50,750ml bottle,115,115.00,5750.00
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,HALSTED & CO,Glove Examination,20,Box of 100,174,174.00,3470.93
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,HALSTED & CO,Facial Tissue,500,100g,57,57.00,28250.00
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,HALSTED & CO,Mask,20,Box of 50,"1,208.00",1208.00,24150.00
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,HALSTED & CO,Mask,3,Box of 20,569,569.00,1707.75
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,LORATO CREATIONS,"Mask, Dust",632,,25,25.00,15800.00
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,POLELO IT SOLUTIONS,"Shield, Medical Visor COVID",36,,45,45.00,1620.00
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,LOJANE TRADING,"Shield, Medical Visor COVID",15,,65,65.00,975.00
+Northern Cape Provincial Treasury,Northern Cape,Provincial Treasury,DNS SUPPLIES,"Thermometer, Medical Digital",15,,"2,070.00",2070.00,31050.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,DNS SUPPLIES,Examination Gloves (Medium & Large),"4,000",100 per box,108.042,108.04,432170.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,DNS SUPPLIES,Hand Sanitisers,"1,000",500 ml,96.02,96.02,96025.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,PRO-PRINT,Posters,"12,500",Each,9.17,9.17,114687.50
+Northern Cape Department of Health (DOH),Northern Cape,Health,PRO-PRINT,Posters,"2,000",Each,11.8,11.80,23600.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,PRO-PRINT,Pamphlets,"10,000",Each,0.9,0.90,9085.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,PRO-PRINT,Posters,"12,500",Each,9.17,9.17,114687.50
+Northern Cape Department of Health (DOH),Northern Cape,Health,BOKAMOSO TRADING ENTERPRISE,Posters,"25,000",Each,13.6,13.60,340000.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,ASIJIKI SOUNDBYTES,Aprons,"180,000",Each,0.74,0.74,133200.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,ASIJIKI SOUNDBYTES,Disposable Gowns (Large & Extra Large),"100,000",Each,127.5,127.50,12750000.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,ASIJIKI SOUNDBYTES,Goggles,"10,000",Each,51.74,51.74,517400.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,ASIJIKI SOUNDBYTES,Infra-Red Thermometer,300,Each,1725,1725.00,517500.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,MACRONYM 37,Surgical Masks,"250,000",Each,13.8,13.80,3450000.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,MACRONYM 37,FFP2/3 Or N95,"250,000",Each,36.8,36.80,9200000.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,MACRONYM 37,Coveralls,"50,000",Each,286.2,286.20,14310025.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,Surgical Masks,"200,000",Each,17.89,17.89,3578000.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,FFP2/3 Or N95,"30,000",Each,81.82,81.82,2454600.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,Coveralls,"2,000",Each,201.25,201.25,402500.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,Hand Sanitisers,"5,000",Each,74.75,74.75,373750.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,Goggles,"1,000",Each,37.95,37.95,37950.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,Disposable Gowns (Large),"5,000",Each,94.49,94.49,472450.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,Disposable Gowns (Extra Large),"5,000",Each,97.49,97.49,487450.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,Facial Shields,"1,000",Each,74.99,74.99,74990.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,C MED SUPPLIES,Infra-Red Thermometer,100,Each,"1,892.94",1892.94,189294.00
+Northern Cape Department of Health (DOH),Northern Cape,Health,REVOLT HEADBOY,Surgical Masks,"240,000",Each,12.28,12.28,2947200.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Hand Sanitizer Not Less Than 70% Alcohol Based.,50,5L,430,430.00,21500.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Surgical Masks,"1,200",Each,25,25.00,30000.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Examination Gloves - Non,30,Box of 100,260,260.00,7800.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Anti Bacterial Wet Wipes,100,Box of 100,48,48.00,4800.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Hand Soap,50,5L,105,105.00,5250.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",SHAUN WAYNE BARNES T/A S&R ENTERPRISES,Supply And Delivery Of Spirits,500,200ml,100,100.00,50000.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",SHINE THE WAY,Supply And Delivery Of 1800 Quantities Of 3 Layer Facemasks - DTIC,"1,800",Each,25,25.00,45000.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",BLUE AQUARIAN TRADING,Supply And Delivery Of Hand Soap.,60,5L,120,120.00,7200.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",BLUE AQUARIAN TRADING,Supply And Delivery Of Hand Sanitizer Not Less Than 70% Alcohol Based.,60,5L,320,320.00,19200.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",BLUE AQUARIAN TRADING,Supply And Delivery Of Empty 500 Ml Bottles,"1,200",500ml,20,20.00,24000.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",VERITY PROJECTS AND TRADING,Supply And Delivery Of Digital Thermometers,20,Each,875,875.00,17500.00
+"Northern Cape Department of Sport, Arts and Culture",Northern Cape,"Sport, Arts and Culture",VERITY PROJECTS AND TRADING,Supply And Delivery Of Surface Wipes,600,Box of 100,65,65.00,39000.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,BLUE PETROLEUM,"Towel, Paper Per Roll",10,Each,24,24.00,240.01
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,BLUE PETROLEUM,Gloves Yellow Medium household Heavy Duty,6,Each,8,8.00,48.01
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,BLUE PETROLEUM,Alcohol Sanitiser And Disinfectant 20lt COVID 048,20,Litre,79.99,79.99,1599.99
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,BLUE PETROLEUM,Bottle Spray 500ml Covid 054,6,Each,37.99,37.99,227.97
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,BLUE PETROLEUM,"Shield,Medical Visor Covid 036",10,Each,44,44.00,440.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,UC CHEMICAL & CLEANING,Soap Hand & Body,50,Each,12.5,12.50,625.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,UC CHEMICAL & CLEANING,Bottle Spray 250ml Covid 053,20,Each,25,25.00,500.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,BLUE PETROLEUM,Bottle Spray 500ml Covid 054,6,Each,37.99,37.99,227.97
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,JLK BUSINESS CONSULTING,Soap Hand 125g,300,Each,18.4,18.40,5520.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,JLK BUSINESS CONSULTING,Bottle Spray 500ml Covid 054,300,Each,22.42,22.42,6727.50
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,ZULEIKAS DESIGN,"Mask,Medical Covid 030",300,Each,35,35.00,10500.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,BLUE PETROLEUM,Alcohol Sanitiser And Disinfectant 5lt Covid 047,8,Each,305,305.00,2440.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEVKUT CONSULTING,"Mask,Medical Covid 030",60,Each,45,45.00,2700.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KATHARISMA GENERAL SUPPLIERS,Gloves Rubber Multi Purpose,50,Each,20,20.00,1000.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KATHARISMA GENERAL SUPPLIERS,Bottle Spray 250ml Covid 053,30,Each,25,25.00,750.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KATHARISMA GENERAL SUPPLIERS,Bottle Spray 500ml COVID 054,6,Each,29,29.00,174.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Soap Hand Wash Liquid,852,Each,90,90.00,76680.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,"Mask,Dust Box 20",70,Box,35,35.00,2450.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Antibacterial Spray Sanitizer,910,Two hundred & fifty,210,210.00,191100.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Antibacterial Spray Sanitizer,560,Two hundred & fifty,246,246.00,137760.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Gloves Latex Powdered Large Box 100,7,Box,550,550.00,3850.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Soap Hand Wash Liquid,366,Each,90,90.00,32940.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,"Mask, Dust Box 20",30,Box,35,35.00,1050.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Antibacterial Spray Sanitizer,390,Two hundred & fifty,210,210.00,81900.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Antibacterial Spray Sanitizer,240,Two hundred & fifty,246,246.00,59040.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Gloves Latex Powdered Large Box 100,3,Box,550,550.00,1650.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,JPD BUSINESS ENTERPRISE,"Mask, Medical COVID 030",703,Two hundred & fifty,68,68.00,47804.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KIDS SPORTSWEAR,"Mask, Medical COVID 030",730,Two hundred & fifty,46,46.00,33580.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,SHAUN WAYNE BARNES,Sanitizer Detergent 5 Lt,1,Two hundred & fifty,"82,000.00",82000.00,82000.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,R D T GENERAL TRADING,Gloves Gloves,1,Each,360,360.00,360.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,R D T GENERAL TRADING,"Mask, Medical COVID 030",20,Two hundred & fifty,50,50.00,1000.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,OMPHEMETSE KAMOHAU ENTERPRISES AN,"Dispenser, Paper Towel Economy Floor Stand - Jumbo
+Paper Towel Rolls",25,Two hundred & fifty,765,765.00,19125.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,OMPHEMETSE KAMOHAU ENTERPRISES AN,"Shield, Medical Face Frames Sf2511",200,Two hundred & fifty,60,60.00,12000.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,OMPHEMETSE KAMOHAU ENTERPRISES AN,"Towel, Paper",62,Pack or packet,340,340.00,21080.00
+"Northern Cape Department of Cooperative Governance, Human Settlements and Traditional Affairs (CoGHSTA)",Northern Cape,COGHSTA,KEMOAGILE CONSTRUCTION MANAGEMENT,Apron Large,1,Two hundred & fifty,"7,400.00",7400.00,7400.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,I MOTLEKAR T/A AUTO RACE CAR WASH,"60x 5lt OF SANITIZER,40x 500ml SPRAY BOTTLE SANITIZER, 60x 100 BOX OF GLOVES SANITIZER, 60x 100 BOX OF GLOVES",60,5 litre 70% Alcohol sanitiser,650,650.00,56800.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,I MOTLEKAR T/A AUTO RACE CAR WASH,60 X Boxes Of Gloved (100 Gloves Per Box),60,Price per box of gloves,180,180.00,
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,DNS SUPPLIES,Hand Sanitizer For DSD Officials 400 X 5l,400,,747.5,747.50,299000.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,"PRICESMART TECHNOLOGIES
+CC/CALTEX LENNOX",700x SURGICAL MASKS,700,3 ply surgical masks per mask,27,27.00,18917.50
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,DNS SUPPLIES,Supply And Deliver Of 100 Infrared Thermometers,100,A unit of a thermometer,"1,955.00",1955.00,199525.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,OXIRON TRADING,Surgical Masks For Provincial Officials,"8,000",3 ply surgical masks per mask,11.5,11.50,57500.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,MAGIC ENTERPRISES,2000 3 Ply Surgical Masks,"2,000",1 unit of 3 ply surgical masks,30,30.00,66000.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,MAGIC ENTERPRISES,30 Boxes Of Hand Gloves Latex Free,30,1 Box 100 gloves per box,200,200.00,
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,LORATO CREATIONS,3600x FABRIC FACE MASKS,"3,600",Price per mask,"R30 X 1300
+R23 X 2600.",,98800.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,NDZ DEVELOPMENTS,1400 Plastic Face Shields,"1,400",Price per face shield (Visors),60,60.00,84000.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,ASIJIKI SOUNDBYTES,10 000 Face Masks For Officials,10000,Price per mask,30,30.00,300000.00
+Northern Cape Department of Social Development (DSD),Northern Cape,Social Development,AUTO RACE,5 000 Face Masks For Officials,5000,Price per mask,28.5,28.50,142500.00
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,Alcohol Based Hand Sanitizer,600 units,500ml,155.25,155.25,
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,Dettol Hand Wash,49 units,500ml,97.75,97.75,
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,Alcohol Based Hand Sanitizer,33 units,1L,310.5,310.50,
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,Wipes,300 units,40 wipes per packet,115,115.00,
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,Paper Towel,10 units,205*1500M + 1L Sanitizer,"1,650.25",1650.25,
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,Glove Nitrile,32 Boxes,100 Per box,276,276.00,168020.25
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,NCRF NORTHERN CAPE,Coronavirus Covid-19 Interview,,7 radio station,,,30000.00
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,Alcohol Based Hand Sanitizer,200 units,500ml,155.25,155.25,
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,N95 Masks,400 units,masks,57.5,57.50,
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,MHLANGA TOURS,Glove Nitrile,8 Boxes,100 per box,276,276.00,56258.00
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,CALSIM CONSORTIUM,Screening Thermometers,35,,"1,820.00",1820.00,63700.00
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,FROST CO,Covid 19 Refil Fund Info Pamphets,"100,000",,4.6,4.60,460000.00
+Northern Cape Department of Economic Development,Northern Cape,Economic Development,EVERS XCELLENCE MANAGEMENT,Masks Project,Production of masks,,"264,000.00",264000.00,264000.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,IZINDWE MARKETING,Face Masks;  Gloves,30 boxes;,,,,69800.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,KIMBERLEY HANDYMAN,Sanitiser 70% Alcohol;  Trigger Spray Bottles,30 X 5Lt,,,,115625.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,JAY LESEDI TRADING ENTERPRISE CC,Catering For Provincial Joint Committee (Provjoc),70,,,,11200.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,IKOMKHULU INTEGRATED RESOURCES,Procurement Of Food Parcels For Waste Pickers At Sol Plaatje Landfill Due To COVID-19,50,,,,41297.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,LEBETSA TRADING (PTY) LTD,Face Masks,500,,,,27500.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,BEYOND TRADE ENTERPRISE (PTY) LTD,Procurement Of Food Parcels For Waste Pickers At Sol Plaatje Landfill Due To COVID-19,50,,,,45000.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,TEMA INVESTMENT (PTY) LTD,Procurement Of Digital Thermometers,6,,,,10800.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,MASEDI STAR,Sanitiser Detergent 750ml,12,,,,22569.21
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,SECHABA STATIONERIES (PTY) LTD,Sanitiser Gel 70% Alcohol,20 X 5Lt,,,,9900.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,SHINE THE WAY 649,3 Layer Cloth Face Masks,500,,,,12500.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,365 LEGACY ENTERTAINMENT,Surface Sanitiser 70% Alcohol,30,,,,10500.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,Goodies gadget galore,Procurement Of Infrared Thermometers,6,,,,5100.00
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,SKEMA COMMUNICATION SOLUTIONS,Procurement Of Hand Wash Soap,30,,,,14751.90
+Northern Cape Department of Environmental Affairs and Nature Conservation,Northern Cape,Environment and Nature Conservation,ETERNAL CITY TRADING 664,3 Layer Cloth Face Masks,1000,,,,22000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,SPLENDOUR TRADING&PROJECTS,25lt Hand Sanitizers,350,25LT,"1,750.00",1750.00,612500.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,JOSMEL GENERAL TRADING,25lt Hand Sanitizers,350,25LT,"1,189.00",1189.00,416150.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,LE-AFRIQUE HOLDINGS,25lt Hand Sanitizers,350,25LT,"1,423.68",1423.68,498287.50
+Northern Cape Department of Education (DOE),Northern Cape,Education,INHLAMVU PROJECTS&SERVICES,25lt Hand Sanitizers,350,25LT,"1,500.00",1500.00,525000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,RAMSY HOLDINGS,25lt Hand Sanitizers,350,25LT,"1,300.00",1300.00,455000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,MMG CONSULTING,25lt Hand Sanitizers,10,25LT,"1,850.00",1850.00,18500.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,THE EYE NORTHERN CAPE,Fabric Face Mask-3 Layers,"3,000",Each,25,25.00,75000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,IPOPENG TRADING ENTERPRISE,Fabric Face Mask-3 Layers,"30,000",Each,20,20.00,600000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,MATS BROTHERS,Fabric Face Mask-3 Layers,"30,000",Each,13.2,13.20,396000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,RAFF KAHDER CONSTRUCTION,Fabric Face Mask-3 Layers,"30,000",Each,19,19.00,570000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,GALLANT BUSINESS SOLUTIONS,Fabric Face Mask-3 Layers,"30,000",Each,20.5,20.50,615000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,ASIJIKI SOUND BYTE,Fabric Face Mask-3 Layers,"30,000",Each,24.8,24.80,744000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,LAPA LAKA TRADERS,Fabric Face Mask-3 Layers,"30,000",Each,22,22.00,660000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,ZAHOEK TRADING,Fabric Face Mask-3 Layers,"30,000",Each,23,23.00,690000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,KING OF EMPERORS,Fabric Face Mask-3 Layers,30000,Each,25,25.00,750000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,SHIREWAY PROJECTS,Fabric Face Mask-3 Layers,"30,000",Each,23.8,23.80,714000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,OXICON TRADING,Fabric Face Mask-3 Layers,"30,000",Each,16.5,16.50,495000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,DISKONTO TRADING,Fabric Face Mask-3 Layers,"30,000",Each,22,22.00,660000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,EXACTUS 24 TRADING,Fabric Face Mask-3 Layers,"30,000",Each,23.48,23.48,704400.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,AMADWALA TRADING,Fabric Face Mask-3 Layers,"30,000",Each,24,24.00,720000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,INHLAMVU PROJECTS&SERVICES,Fabric Face Mask-3 Layers,"30,000",Each,24.5,24.50,735000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,BAITX JUBILEE,Fabric Face Mask-3 Layers,"30,000",Each,17,17.00,510000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,GAOLATLHE SUPPLIERS,Fabric Face Mask-3 Layers,"30,000",Each,22,22.00,660000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,THATABETSWE TRADING&INVEST,Fabric Face Mask-3 Layers,"30,000",Each,21,21.00,630000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,SOUTH HILL TRADING,Fabric Face Mask-3 Layers,"30,000",Each,22.89,22.89,686550.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,PEO ENTLE,Fabric Face Mask-3 Layers,"30,000",Each,21.5,21.50,645000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,RISHVA LOGISTICS,Fabric Face Mask-3 Layers,"3,660",Each,22.47,22.47,82250.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,CAREY GROUP,Visors/(Face Shields),"6,020",Each,35,35.00,210700.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,KATLEGO TRADING,Visors/(Face Shields),"6,020",Each,30.01,30.01,180660.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,INOVETEX,Visors/(Face Shields),"6,020",Each,40,40.00,240800.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,INNO SUPPLY SUPPLY&DELIVERY,Visors/(Face Shields),"6,020",Each,49.5,49.50,297990.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,TSHIAMELO CORPORATION,Visors/(Face Shields),"6,020",Each,49.99,49.99,300939.80
+Northern Cape Department of Education (DOE),Northern Cape,Education,CLASSICAL JAZZY NOTE,Digital Thermometers,128,Each,"1,500.00",1500.00,192000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,PAPRENAX EXCEPTIONAL,Digital Thermometers,320,Each,"1,380.00",1380.00,441600.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,ALL IN SOLUTIONS,Digital Thermometers,320,Each,"1,100.00",1100.00,352000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,RIMA SOLUTIONS,Digital Thermometers,320,Each,"1,200.00",1200.00,384000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,NC PRINTING&STATIONERY,Digital Thermometers,320,Each,"1,560.00",1560.00,499200.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,CHEKKART AGENCIES,Digital Thermometers,320,Each,"1,400.00",1400.00,448000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,KOPANANG WOMEN ENTERPRISE,Digital Thermometers,320,Each,"1,200.00",1200.00,384000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,LERONTI PROJECT AND GENERAL,Digital Thermometers,320,Each,"1,299.00",1299.00,415680.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,MIRACLUS TRADING,Heavy Duty Plastic Bags,100,5 in a pack,,,11200.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,CLAN SECURITIES,Heavy Duty Plastic Bags,"2,127",200 in pack,,,361590.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,CLT ENTERPRISE,Surgical Gloves,"3,147",Per box of 100,189,189.00,594783.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,MIRACLUS TRADING,Surgical Gloves,20,Per box of 100,110,110.00,2200.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,BAIKANYEGI TRADING,PVC Aprons,"1,630",Each,225,225.00,366750.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,TS CREATIONS,PVC Aprons,"1,630",Each,236.56,236.56,385600.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,DISKONTO TRADING,25 Lt Hand Liquid Soap,659,Each,299.9,299.90,197634.10
+Northern Cape Department of Education (DOE),Northern Cape,Education,LUKHANYISILE DEVELOPMENT,25 Lt Hand Liquid Soap,659,Each,360,360.00,237240.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,ATNOZA TRADING,25 Lt Hand Liquid Soap,659,Each,350,350.00,230650.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,MIRACLUS TRADING,25 Lt Hand Liquid Soap,659,Each,410,410.00,270190.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,EXCELLENCE KEEPIN,25 Lt Hand Liquid Soap,659,Each,425,425.00,280075.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,TRADI EXCELLENCE,25 Lt Hand Liquid Soap,149,Each,427,427.00,63623.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,MMG CONSULTING,25 Lt Hand Liquid Soap,10,Each,678.01,678.01,6780.05
+Northern Cape Department of Education (DOE),Northern Cape,Education,TLKZ OPTIMUM,Soap Dispensers,831,750ml,33.34,33.34,27704.29
+Northern Cape Department of Education (DOE),Northern Cape,Education,RAFF KHADER CONSTRUCTION,Soap Dispensers,831,750ml,42.5,42.50,35317.50
+Northern Cape Department of Education (DOE),Northern Cape,Education,E ATILE MED SUPPL,Soap Dispensers,831,750ml,79.21,79.21,65825.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,CLASSICS OF KIMBERLEY,Soap Dispensers,831,750ml,44.8,44.80,37228.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,MMG CONSULTING,Soap Dispensers,500,1lt,89.83,89.83,44915.55
+Northern Cape Department of Education (DOE),Northern Cape,Education,BAIKANYEGI TRADING,Spray Bottles,"9,110",1lt,38.5,38.50,350735.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,BAN MOS(PTY)LTD,Liquid Soap 25lt,142,25lt,365,365.00,51830.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,BAN MOS(PTY)LTD,25lt Hand Sanitizers,142,25lt,"1,035.00",1035.00,146970.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,BAN MOS(PTY)LTD,Pine Gel 25lt,142,25lt,428.5,428.50,60847.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,THATABETSWE TRADING&INVEST,Jeyes Fluid,213,5LT,150,150.00,31950.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,THATABETSWE TRADING&INVEST,Anti-Bacteria Soap 100g,"14,200",Each,7,7.00,99400.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,THATABETSWE TRADING&INVEST,Cleaning Fabric Cloth,710,Packet of 50,19,19.00,13490.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,THATABETSWE TRADING&INVEST,Soap Dispensers,710,1lt,37,37.00,26270.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,THATABETSWE TRADING&INVEST,Spray Bottles,710,1lt,38,38.00,26980.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,THATABETSWE TRADING&INVEST,Toilet Paper Single Ply,355,1 Bale,235,235.00,83425.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,CHARLES WELDING WORKS,Wetwipes,910,Pack of 64,44.33,44.33,40340.30
+Northern Cape Department of Education (DOE),Northern Cape,Education,BLACK ENTERPRISE ENTERPRENEUR,Wetwipes,"4,680",Pack of 100,6.49,6.49,30350.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,NC MAINTENANCE,Wetwipes,910,Pack of 100,55,55.00,50050.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,AAA TRADING,Wetwipes,910,Pack of 100,71.7,71.70,65250.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,NJ WELDING WORKS,Wetwipes,910,Pack of 100,51.75,51.75,47092.50
+Northern Cape Department of Education (DOE),Northern Cape,Education,PHINZI TRADING&PROJECTS,Wetwipes,"4,680",Pack of 100,80,80.00,374400.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,KONOPO FAMILY BUSINESS,Wetwipes,"4,680",Pack of 100,75,75.00,351000.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,ABM ENTERPRISE,Wetwipes,"4,680",Pack of 100,58,58.00,271440.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,WOTEX INVESTMENTS,Wetwipes,900,1000 in a bucket,312,312.00,280800.00
+Northern Cape Department of Education (DOE),Northern Cape,Education,ILC TRADING AND PROJECTS,Large Plastic Funnels,562,Each,52,52.00,29224.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",OLTA,Hand Sanitizer 5l,266 x 5 Litres,Litres,760,760.00,202160.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",OLTA,Hand Sanitizers 1l,150 x 1 Litres,Litres,180,180.00,27000.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Hand Sanitizer 25l,17 x 25 Litres,25Liters,"1,750.00",1750.00,29750.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Disinfectant Liquid Soap 10L,20 x 10 Litres,10Liters,"1,080.00",1080.00,21600.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Disinfectant  25L,17 x 25 Litres,25Liters,"1,700.00",1700.00,28900.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Liquid Soap,5 Small Bottles,,64,64.00,320.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Fogger Cans,"1,200 Cans of 400ml",400ml cans,"2,388.00",2388.00,238800.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",KENOSI,Sani-Touch Wipes,600 tubs,Unit,212.75,212.75,127650.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Alcohol Wipes,50 tubs,Unit,117,117.00,5850.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",A-Z TRADING,Cavi Wipes,600 tubs,Unit,240,240.00,144000.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",MODISA TRADING,Hand Towels,35,Box 200 sheet,490,490.00,17150.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Paper Towels,2,Box 200 sheet,294,294.00,588.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",KENOSI,Mask (Province),220 Masks,Units,46,46.00,10120.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Mask (District),150 Masks,Units,35,35.00,5250.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",ROYAL BAFOKENG,Mask 3 Layer Face Mask (Traffics),280 Masks,Units,45,45.00,12600.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",MODISA TRADING,Cloth Mask,106,Units,20,20.00,2120.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",BBN GROUP,Latex Gloves,30 Small Boxes,Boxes,,,5370.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",BBN GROUP,Latex Gloves,10 Medium boxes,Boxes,,,1790.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",BBN GROUP,Latex Gloves,100 Pairs,Pairs,,,4500.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Desk Screens,30,Units,"1,600.00",1600.00,48000.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",NOBLE QUEENS DISTRIBUTERS,Facial Screens,40,Units,47,47.00,1880.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",KENOSI,Thermometers,20,Units,"2,070.00",2070.00,41400.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",BY DESIGN TRADING,Thermometers,10,Units,"1,555.80",1555.80,15558.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",SANITIZE SOLUTIONS,Led Torchers,51,Units,"1,200.00",1200.00,61200.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",SWIFT PRINT,Reflective Sign Floor Sticker,150,Units,30,30.00,13000.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",SWIFT PRINT,Reflective Sign Strip,200,Units,12,12.00,110.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",MAYBERG MANAGEMENT,Spray Bottle,400,Units,,,10800.00
+"Northern Cape Department of Transport, Safety and Liaison",Northern Cape,"Transport, Safety and Liaison",IGM TRADING,Batteries,25,4 Pack,55,55.00,1375.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,SA FAST TRADING AND PROJECTS,"Particulate Respirator, Grade KN95",50,1,40,40.00,2000.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Sanitiser 1lt,18,,280,280.00,5040.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Sanitiser (25l),5,,"4,480.00",4480.00,22400.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Disinfectant (25lt),5,,"3,800.00",3800.00,19000.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Sanitising Wipes(100pk),32,,55,55.00,1760.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Disposable Masks(50pk),480,,11.46,11.46,5500.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,TEMA INVESTMENTS (PTY) LTD,Fabric Masks (50pk),"1,250",,45.6,45.60,57000.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Surgical Gloves,275,,10.47,10.47,2880.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Sanitiser (25l),31,,"4,498.06",4498.06,139440.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Disinfectant (25lt),25,,"3,800.00",3800.00,95000.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,"Bottles,Nozzle Spray (500ml)",250,,38,38.00,9500.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,MATLHOMOLA TRADING,Digital Thermometers(1),40,,"1,882.50",1882.50,75300.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NOSARITI BUSINES ENTERPRISE,Perspex Sneeze Protector Screens,80,,"1,687.50",1687.50,135000.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,M HOOSAIN CONSULTING,Digital Thermometers(1),49,,"1,267.35",1267.35,62100.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,OMPHEMETSE KAMOHAU ENT,"Signage, Directional Floor Stickers",330,,87.8,87.80,28974.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Sanitiser (25l),40,,"1,375.00",1375.00,55000.00
+"Northern Cape Department of Agriculture, Land Reform and Rural Development (DALRRD)",Northern Cape,Agriculture,NAMOLO GENERAL TRADING,Disinfectant (25lt),40,,680,680.00,27200.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,THATO KABELO CONSTRUCTION & PROJ,Sanitizer Detergent,1,Each,"11,400.00",11400.00,11400.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,TRUE BUILD SERVICES,Antibacterial Spray,"1,000",Each,178.25,178.25,178250.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,EKWE CONSTRUCTION,"Mask, Dust","16,000",Each,24.8,24.80,396800.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KALKSLOOT HOLDINGS,Provincial Road,1,Each,"57,898.00",57898.00,57898.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KALKSLOOT HOLDINGS,Provincial Road,1,Each,"55,895.00",55895.00,55895.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KALKSLOOT HOLDINGS,Provincial Road,1,Each,"68,780.00",68780.00,68780.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KALKSLOOT HOLDINGS,Provincial Road,1,Each,"27,427.00",27427.00,27427.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,DITSHEGOFATSO TSA RONA,"Mask, Dust Complete With Cartridge",250,Each,85,85.00,21250.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,SPAR SA,Battery Pack Duracell 9v,15,Each,75.99,75.99,1139.85
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,NAYBRO CASH STORE,Battery Pack Duracell 9v,10,Each,24.99,24.99,249.90
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,BEST ENOUGH TRADING AND PROJECTS 287,Antibacterial Spray,1,Each,"18,275.40",18275.40,18275.40
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,WYDEX EVENTS PROMOTIONS,Antibacterial Spray,"16,000",Each,31.05,31.05,496800.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KINGSLEYS PEST CONTROL,Antibacterial Spray,1,Each,"141,415.20",141415.20,141415.20
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,MOHINA SOLUTIONS,Antibacterial Spray,1,Each,"69,133.15",69133.15,69133.15
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,AM CATERING,"Mask,Medical",50,Each,35,35.00,1750.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,NAMA HARDEWARE,"Tape,Insulation",10,Each,108.68,108.68,1086.75
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,NOKU GENERAL TRADING,"Shield,Medical Face Clear Lenses - Sf2510",1,Each,"65,190.00",65190.00,65190.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,EMTHANJENI PRINTING,"Mask,Medical",200,For rectification,100,100.00,20000.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,EMTHANJENI PRINTING,"Thermometer,Digital",9,For rectification,"1,950.00",1950.00,17550.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,PEST AND WEED AWAY,Fumigation,1,Each,"13,837.95",13837.95,13837.95
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,PELONTLHE 129 GENERAL TRADING,"Shield,Medical Face Clear Lenses - Sf2510",1,Each,850,850.00,850.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,OTP LOGISTICS,Antibacterial Spray,1,Each,"45,001.80",45001.80,45001.80
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,ISJX GENERAL CONTRACTORS AND TRADING,Antibacterial Spray,1,Each,"815,900.00",815900.00,815900.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,PELONTLHE 129 GENERAL TRADING,Gloves,1,Each,"11,000",11000.00,11000.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,PELONTLHE 129 GENERAL TRADING,"Dispenser,Bottle",1,Each,"18,750",18750.00,18750.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,BONISA BONANG GENERAL TRADING,Sanitizer Detergent,1,Each,"95,000.00",95000.00,95000.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,BEST ENOUGH TRADING AND PROJECTS 287,Accommodation,1,Each,"56,000.00",56000.00,56000.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,VVUKOLWAM ENTERPRISE,"Thermometer,Digital",10,For rectification,"2,000.00",2000.00,20000.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,MTSQUARED TRADING,"Mask,Dust","16,000",Each,11,11.00,176000.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,BEST ENOUGH TRADING AND PROJECTS 287,Antibacterial Spray,1,Each,"30,585.83",30585.83,30585.83
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,BEST ENOUGH TRADING AND PROJECTS 287,Antibacterial Spray,1,Each,"25,040.00",25040.00,25040.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,MASEDI STAR,"Thermometer,Medical Tele",1,Each,"54,007.17",54007.17,54007.17
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,MASEDI STAR,Antibacterial Spray,1,Each,"70,991.80",70991.80,70991.80
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,MASEDI STAR,"Mask,Dust",1,Each,"14,448.31",14448.31,14448.31
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KEMOAGILE CONSTRUCTION MANAGEMENT AND PROJECTS,"Shield,Medical Face Clear Lenses - Sf2510",1,Each,"51,000.00",51000.00,51000.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,TSIBOGO TRADING,"Mask,Dust Complete With Cartridge",250,Each,45,45.00,11250.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,PRESTIGE HARDWARE,"Battery,Non Rechargeable Duracell 9v",10,For rectification,98,98.00,980.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,PRESTIGE HARDWARE,"Battery,Non Rechargeable Penlite R6pp Aaa",10,For rectification,19.8,19.80,198.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,"Shield,Medical",5,For rectification,156,156.00,780.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,"Dispenser,Soap Bottle Plastic",2,For rectification,143,143.00,286.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,Spray Can,10,For rectification,36,36.00,360.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,"Towel,Paper Cormatic Rolls",12,For rectification,31,31.00,372.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,"Mask,Medical",200,For rectification,35,35.00,7000.00
+Northern Cape Department of Roads & Public Works,Northern Cape,Roads & Public Works,KHULA MOTOR MECHANICAL & SERVICES,Alcohol,50,For rectification,108,108.00,5400.00
