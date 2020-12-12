@@ -1,18 +1,10 @@
-buyer_name,procurement_method,"NAME AND LOCALITY OF THE
+implementation_location_province,buyer_name,procurement_method,"NAME AND LOCALITY OF THE
 OWNER",supplier_name,DEMOGRAPHICS,order_amount_zar
-Free State Department of Public Works and Infrastructure,"DPWI – Security
-Framework Panel – SCM
-Quotation System","F. Mothapo
-(Kempton Park)",Khayalami Security,African – Male,69345.00
-Free State Department of Public Works and Infrastructure,"DPWI – Security
-Framework Panel – SCM
-Quotation System","GG. Goeiman
-(Bloemfontein)",SA Tiger Security Services,White – Male,1906715.45
-Free State Department of Public Works and Infrastructure,"DPWI – Security
-Framework Panel – SCM
-Quotation System","J. Mbazo
-(Denver-Gauteng)",SIDAS Security Services,African – Male,258410.84
-Free State Department of Public Works and Infrastructure,"DPWI – Security
-Framework Panel – SCM
-Quotation System","TG. Khoarane
-(Bloemfontein)",Vemisani Security Services,African – Male,800992.21
+Free State,Free State Department of Public Works and Infrastructure,DPWI - Security Framework Panel - SCM Quotation System,"F. Mothapo
+(Kempton Park)",Khayalami Security,African Š Male,69345.00
+Free State,Free State Department of Public Works and Infrastructure,DPWI - Security Framework Panel - SCM Quotation System,"GG. Goeiman
+(Bloemfontein)",SA Tiger Security Services,White Š Male,1906715.45
+Free State,Free State Department of Public Works and Infrastructure,DPWI - Security Framework Panel - SCM Quotation System,"J. Mbazo
+(Denver-Gauteng)",SIDAS Security Services,African Š Male,258410.84
+Free State,Free State Department of Public Works and Infrastructure,DPWI - Security Framework Panel - SCM Quotation System,"TG. Khoarane
+(Bloemfontein)",Vemisani Security Services,African Š Male,800992.21
