@@ -1,8 +1,8 @@
-Names of the Companies awarded,Product or services rendered,Unit Price,Quantity,The full amount paid for the Products or services,Any donations received from external funders / companies,The beneficiary targets and  method of distribution
-Vlakbult trading Enterprise,Three Layer Cloth Masks,22,700,15400,None,PT Employees
-Hlogiso Trading (Pty) Ltd,25 Litres Hand Sanitizers,4220,40,168800,None,PT Employees
-247 Khompho Trading Logistics,Thermometers Digital Noncontact infrared,2527.2,30,75816.17,None,PT Employees
-Sifikile Printers CC,500ml Empty Spray Bottles,22.4,700,15697.5,None,PT Employees
-Grace4 Trading & Projects,25 litres Surface Sanitizers,4590,40,183600,None,PT Employees
-Mbaliyenkosi General Trading,1500 Disinfectant Wipes,1424.24,33,47000,None,PT Employees
-Meneti General Trading,"OHS Items, Visor Face shield, barrier tape, floor demarcation tape",213,230,49500,None,PT Employees
+implementation_location_province,buyer_name,supplier_name,items_description,cost_per-unit_zar,items_quantity,order_amount_zar,Any donations received from external funders / companies,The beneficiary targets and  method of distribution
+Mpumalanga,Mpumalanga Provincial Treasury,Vlakbult trading Enterprise,Three Layer Cloth Masks,22.00,700,15400.00,None,PT Employees
+Mpumalanga,Mpumalanga Provincial Treasury,Hlogiso Trading (Pty) Ltd,25 Litres Hand Sanitizers,4220.00,40,168800.00,None,PT Employees
+Mpumalanga,Mpumalanga Provincial Treasury,247 Khompho Trading Logistics,Thermometers Digital Noncontact infrared,2527.20,30,75816.17,None,PT Employees
+Mpumalanga,Mpumalanga Provincial Treasury,Sifikile Printers CC,500ml Empty Spray Bottles,22.40,700,15697.50,None,PT Employees
+Mpumalanga,Mpumalanga Provincial Treasury,Grace4 Trading & Projects,25 litres Surface Sanitizers,4590.00,40,183600.00,None,PT Employees
+Mpumalanga,Mpumalanga Provincial Treasury,Mbaliyenkosi General Trading,1500 Disinfectant Wipes,1424.24,33,47000.00,None,PT Employees
+Mpumalanga,Mpumalanga Provincial Treasury,Meneti General Trading,"OHS Items, Visor Face shield, barrier tape, floor demarcation tape",213.00,230,49500.00,None,PT Employees
