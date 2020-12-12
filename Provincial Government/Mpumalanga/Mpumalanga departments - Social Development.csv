@@ -1,43 +1,37 @@
-"Names of the C
- ompanies a
- warded","Product or services
-  rendered",Unit Price,Quantity,"The full amount paid 
+buyer_name,implementation_location_province,supplier_name,items_description,Unit Price,cost_per_unit_zar,items_quantity,"The full amount paid 
  for the Products or 
- services","Any donations 
+ services",order_amount_zar,"Any donations 
  received from
   external funders /
  companies","The beneficiary targets and method 
  of distribution"
- Lethuthandophila,Masks,"R 25,00",1284,"R 32 100,00",None,DSD Officials
- Lethuthandophila,"Sanitizers 250ml
- 5Litre","R 46,65
- R 933,00","50
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Lethuthandophila,Masks,25,25,1284,"R 32 100,00",32100,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Lethuthandophila,"Sanitizers 250ml
+ 5Litre",,,"50
  642","R 46 650,00
 
- R 29 949,30",None,DSD Officials
- Lethuthandophila,Thermometers,"R 2 527,20",60,"R 151 632,00",None,DSD Officials
- Lethuthandophila,Gloves,"R 46,00",17,"R 782,00",None,DSD Officials
- Silvex 622,Masks,"R 25,00",996,"R 24 900,00",None,DSD Officials
- Silvex 623,"Sanitizers 250ml
+ R 29 949,30",,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Lethuthandophila,Thermometers,2527.2,2527.2,60,"R 151 632,00",151632,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Lethuthandophila,Gloves,46,46,17,"R 782,00",782,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Silvex 622,Masks,25,25,996,"R 24 900,00",24900,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Silvex 623,"Sanitizers 250ml
 
- 5Latre","R 46,65
+ 5Latre",,,,"R 13 995,00
 
- R 933,00",,"R 13 995,00
-
- R 55 886,70",None,DSD Officials
- Silvex 624,Thermometers,"R 2 527,20",20,"R 50 544,00",None,DSD Officials
-Kago Yabana Foundation,Masks,"R 43,75",2572,"R 112 525,00",None,DSD Officials
-Kago Yabana Foundation,Sanitizers,"R 81,25",330,"R 26 812,50",None,DSD Officials
- Dreaming Large,Masks,"R 25,00",1270,"R 31 750,00",None,DSD Officials
- Dreaming Large,"Sanitizers 250ml
- 5Litre","R 46,64
- R 933,00","560
+ R 55 886,70",,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Silvex 624,Thermometers,2527.2,2527.2,20,"R 50 544,00",50544,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Kago Yabana Foundation,Masks,43.75,43.75,2572,"R 112 525,00",112525,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Kago Yabana Foundation,Sanitizers,81.25,81.25,330,"R 26 812,50",26812.5,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Dreaming Large,Masks,25,25,1270,"R 31 750,00",31750,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Dreaming Large,"Sanitizers 250ml
+ 5Litre","46.64
+933.00",,"560
  120","R 26 124,00
- R 111 960,00",None,DSD Officials
- Gumza Technologies,Food Parcels,"R 805,00",1560,"R 1 255 744,04",None,DSD Officials
-MADODOÕS TRADING,CATERING,R75.00,"200 PEOPLE
- 5 DAYS","R190, 000.00",NONE,HOMELESS PEOPLE
- ALEXUS TRADING,"SANITIZER 5L
+ R 111 960,00",,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Gumza Technologies,Food Parcels,805,805,1560,"R 1 255 744,04",1255744.04,None,DSD Officials
+Mpumalanga Department of Social Development (DSD),Mpumalanga,MADODOÕS TRADING,CATERING,75,75,"200 PEOPLE
+ 5 DAYS",R190000.00,190000,NONE,HOMELESS PEOPLE
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ALEXUS TRADING,"SANITIZER 5L
  SANITIZER 500ML
 
  SANITIZER 200ML
@@ -46,16 +40,7 @@ MADODOÕS TRADING,CATERING,R75.00,"200 PEOPLE
 
  GLOVES
 
- 2 PLY FACE MUSK","R660.00
- R187.50
-
- R86.25
-
- R11.95
-
- R2.25
-
- R2.50","67
+ 2 PLY FACE MUSK",,,"67
  130
 
  74
@@ -64,8 +49,8 @@ MADODOÕS TRADING,CATERING,R75.00,"200 PEOPLE
 
  18200
 
- 100","R224, 304.63",NONE,DSD OFFICIALS
- ALEXUS TRADING,"SANITIZER 5L
+ 100",R224 304.63,224304.63,NONE,DSD OFFICIALS
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ALEXUS TRADING,"SANITIZER 5L
 
  SANITIZER 500ML
 
@@ -73,29 +58,22 @@ MADODOÕS TRADING,CATERING,R75.00,"200 PEOPLE
 
  3PLY SURGICAL MUSK
 
- GLOVES","R660.00
- R187.50
-
- R86.54
-
- R27.50
-
- R2.25","45
+ GLOVES",,,"45
  25
 
  205
 
  1000
 
- 6600","R108, 649.93",NONE,DSD OFFICIALS
- ALEXUS TRADING,THERMOMETER,R527.00,17,"R29, 852.85",NONE,DSD OFFICES
- ALEXUS TRADING,INSTALL HAND SANITIZER,"R1, 587.99",21,"38, 349.96",NONE,DSD OFFICES
-OKUHLEKODW A TRADING,FOOD PARCELS,R805.00,253,"R203, 665.00",NONE,Destitute families
-OKUHLEKODW A TRADING,FOOD PARCELS,R805.00,291,"R234, 255.00",NONE,Destitute families
- PEGY LOGISTICS,FOOD PARCELS,R805.00,273,"R219, 765.00",NONE,Destitute families
- PEGY LOGISTICS,FOOD PARCELS,R805.00,151,"R121, 555.00",NONE,Destitute families
- MAMMOTHIBELEDI,FOOD PARCELS,R805.00,269,"R216, 545.00",NONE,Destitute families
-IGUGULWETHUSAN DE,"BREAKFAST
+ 6600",R108 649.93,108649.93,NONE,DSD OFFICIALS
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ALEXUS TRADING,THERMOMETER,527,527,17,R29 852.85,29852.85,NONE,DSD OFFICES
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ALEXUS TRADING,INSTALL HAND SANITIZER,1587.99,1587.99,21,38349.96,38349.96,NONE,DSD OFFICES
+Mpumalanga Department of Social Development (DSD),Mpumalanga,OKUHLEKODW A TRADING,FOOD PARCELS,805,805,253,R203665.00,203665,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga,OKUHLEKODW A TRADING,FOOD PARCELS,805,805,291,R234 255.00,234255,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, PEGY LOGISTICS,FOOD PARCELS,805,805,273,R219 765.00,219765,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, PEGY LOGISTICS,FOOD PARCELS,805,805,151,R121 555.00,121555,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, MAMMOTHIBELEDI,FOOD PARCELS,805,805,269,R216 545.00,216545,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga,IGUGULWETHUSAN DE,"BREAKFAST
  TEA
 
  LUNCH
@@ -105,18 +83,7 @@ IGUGULWETHUSAN DE,"BREAKFAST
  CLEANING
 
  MANAGEMENT FEE
- SUNDRY","R8.50
- R6.90
-
- R23.50
-
- R23.50
-
- R17, 610.00
-
- R185, 751.00
-
- R21, 351.50","50
+ SUNDRY",,,"50
 
  50
 
@@ -128,8 +95,8 @@ IGUGULWETHUSAN DE,"BREAKFAST
 
  1
 
- 1","R308, 952.50",NONE,HOMELESS PEOPLE
-IGUGULWETHUSAN DE,"BREAKFAST
+ 1",R308 952.50,308952.5,NONE,HOMELESS PEOPLE
+Mpumalanga Department of Social Development (DSD),Mpumalanga,IGUGULWETHUSAN DE,"BREAKFAST
 
  TEA
  LUNCH
@@ -140,18 +107,7 @@ IGUGULWETHUSAN DE,"BREAKFAST
 
  MANAGEMENT FEE
 
- SUNDRY","R8.50
- R6.90
-
- R23.50
-
- R23.50
-
- R17, 610.00
-
- R185, 751.00
-
- R21, 351.50","50
+ SUNDRY",,,"50
 
  50
 
@@ -163,8 +119,8 @@ IGUGULWETHUSAN DE,"BREAKFAST
 
  1
 
- 1","R317, 852.50",NONE,HOMELESS PEOPLE
-IGUGULWETHUSAN DE,"BREAKFAST
+ 1",R317 852.50,317852.5,NONE,HOMELESS PEOPLE
+Mpumalanga Department of Social Development (DSD),Mpumalanga,IGUGULWETHUSAN DE,"BREAKFAST
 
  TEA
  LUNCH
@@ -175,18 +131,7 @@ IGUGULWETHUSAN DE,"BREAKFAST
 
  MANAGEMENT FEE
 
- SUNDRY","R8.50
- R6.90
-
- R23.50
-
- R23.50
-
- R17, 610.00
-
- R185, 751.00
-
- R21, 351.50","50
+ SUNDRY",,,"50
 
  50
 
@@ -198,71 +143,69 @@ IGUGULWETHUSAN DE,"BREAKFAST
 
  1
 
- 1","R324, 612.50",NONE,HOMELESS PEOPLE
- PRODIPIX 212,"LAUNDRY
+ 1",R324 612.50,324612.5,NONE,HOMELESS PEOPLE
+Mpumalanga Department of Social Development (DSD),Mpumalanga,PRODIPIX 212,"LAUNDRY
 
  CLOTHES
 
- OVERHEADS","R33.50
- R38, 300.00","34
- 1","R90, 709.70",NONE,HOMELESS PEOPLE
- PRODIPIX 213,"LAUNDRY
+ OVERHEADS",,,"34
+ 1",R90 709.70,90709.7,NONE,HOMELESS PEOPLE
+Mpumalanga Department of Social Development (DSD),Mpumalanga,PRODIPIX 213,"LAUNDRY
 
  CLOTHES
 
- OVERHEADS","R33.50
- R38, 300.00",1,"R44, 045.00",NONE,HOMELESS PEOPLE
- SETSA,Social relief (food),R 805.00,277,"R 222,985.00",NONE,Destitute families
- SETSA,Social relief (food),R 805.00,235,"R 189,175.00",NONE,Destitute families
- ZAMAYENDE,Social relief (food),R 805.00,235,"R 203,869.93",NONE,Destitute families
- ZAMAYENDE,Social relief (food),R 805.00,265,"R 213,539.65",NONE,Destitute families
- SOBOZELA,Social relief (food),R 805.00,177,"R 142,628.37",NONE,Destitute families
- ZAMAYENDE,Social relief (food),R 805.00,235,"R 189,365.35",NONE,Destitute families
- SOBOZELA,Social relief (food),R 805.00,187,"R 150,686.47",NONE,Destitute families
- ZAMAYENDE,Social relief (food),R 805.00,29,R 22966.05,NONE,Destitute families
- ZAMAYENDE,Social relief (food),R 805.00,27,"R 22,070.61",NONE,Destitute families
- SOBOZELA,Social relief (food),R 805.00,51,"R 40,665.30",NONE,Destitute families
- VUMANI CONSULTANTS,Anti germ sanitizer 100ml,R 198.09,1000,"R 198,090.00",NONE,Employees
- VUMANI CONSULTANTS,Anti germ sanitizer 250ml,R 287.97,1000,"R 287,970.00",NONE,Employees
- VUMANI CONSULTANTS,Anti germ sanitizer 500ml,R 392.13,1000,"R 392,130.00",NONE,Employees
- VUMANI CONSULTANTS,Anti germ sanitizer 5L,"R 1,541.46",200,"R 308,292.00",NONE,Employees
- VUMANI CONSULTANTS,3 ply surgical masks,R 56.24,1000,"R 56,240.00",NONE,Employees
- VUMANI CONSULTANTS,Surgical gloves 100 inside box slabs,R 569.37,10,"R 5,693.70",NONE,Employees
- Zeelwa Trading,"Hand Sanitiser Dispensers
+ OVERHEADS",,,1,R44 045.00,44045,NONE,HOMELESS PEOPLE
+Mpumalanga Department of Social Development (DSD),Mpumalanga, SETSA,Social relief (food),805,805,277,R 222985.00,222985,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, SETSA,Social relief (food),805,805,235,R 189175.00,189175,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ZAMAYENDE,Social relief (food),805,805,235,R 203869.93,203869.93,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ZAMAYENDE,Social relief (food),805,805,265,R 213539.65,213539.65,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, SOBOZELA,Social relief (food),805,805,177,R 142628.37,142628.37,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ZAMAYENDE,Social relief (food),805,805,235,R 189365.35,189365.35,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, SOBOZELA,Social relief (food),805,805,187,R 150686.47,150686.47,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ZAMAYENDE,Social relief (food),805,805,29,R 22966.05,22966.05,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, ZAMAYENDE,Social relief (food),805,805,27,R 22070.61,22070.61,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, SOBOZELA,Social relief (food),805,805,51,R 40665.30,40665.3,NONE,Destitute families
+Mpumalanga Department of Social Development (DSD),Mpumalanga, VUMANI CONSULTANTS,Anti germ sanitizer 100ml,198.09,198.09,1000,R 198090.00,198090,NONE,Employees
+Mpumalanga Department of Social Development (DSD),Mpumalanga, VUMANI CONSULTANTS,Anti germ sanitizer 250ml,287.97,287.97,1000,R 287970.00,287970,NONE,Employees
+Mpumalanga Department of Social Development (DSD),Mpumalanga, VUMANI CONSULTANTS,Anti germ sanitizer 500ml,392.13,392.13,1000,R 392130.00,392130,NONE,Employees
+Mpumalanga Department of Social Development (DSD),Mpumalanga, VUMANI CONSULTANTS,Anti germ sanitizer 5L,1541.46,1541.46,200,R 308292.00,308292,NONE,Employees
+Mpumalanga Department of Social Development (DSD),Mpumalanga, VUMANI CONSULTANTS,3 ply surgical masks,56.24,56.24,1000,R 56240.00,56240,NONE,Employees
+Mpumalanga Department of Social Development (DSD),Mpumalanga, VUMANI CONSULTANTS,Surgical gloves 100 inside box slabs,569.37,569.37,10,R 5693.70,5693.7,NONE,Employees
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Zeelwa Trading,"Hand Sanitiser Dispensers
 
- refills","R81,00
- R21,00","65
+ refills","81.00
+21.00",,"65
 
- 260","R   12 333,75",None,"All offices in the 
+ 260","R   12 333,75",12333.75,None,"All offices in the 
  Ehlanzeni District"
- Zeelwa Trading,"Mask
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Zeelwa Trading,"Mask
 
- Gloves","R75,00
- R420,00","1336
+ Gloves","75.00
+420.00",,"1336
 
- 20","R 124 890,00",None,"Officials working during
+ 20","R 124 890,00",124890,None,"Officials working during
   COVID-19 Lockdown"
- Zeelwa Trading,"Masks
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Zeelwa Trading,"Masks
 
- Gloves","R75,00
- R20,00","2364
- 5400","R 328 095,00",None,"Officials working during
+ Gloves","75.00
+20.00",,"2364
+ 5400","R 328 095,00",328095,None,"Officials working during
   COVID-19 Lockdown"
- Gumza Technologies,Food Parcels,"R 925,75",206,"R 190 704,50",None,"Identified Households in 
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Gumza Technologies,Food Parcels,925.75,925.75,206,"R 190 704,50",190704.5,None,"Identified Households in 
  Distress"
- Sakelethu Trading 29,Food Parcels,"R 925,75",206,"R 190 704,50",None,"Identified Households in
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Sakelethu Trading 29,Food Parcels,925.75,925.75,206,"R 190 704,50",190704.5,None,"Identified Households in
   Distress"
-Mathebula Music Promotions,Food Parcels,"R 925,75",134,"R  124 050,50",None,"Identified Households in 
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Mathebula Music Promotions,Food Parcels,925.75,925.75,134,"R  124 050,50",124050.5,None,"Identified Households in 
  Distress"
- Siyanonopha Trading,Food Parcels,"R 805,00",148,"R  119 140,00",None,"Identified Households in 
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Siyanonopha Trading,Food Parcels,805,805,148,"R  119 140,00",119140,None,"Identified Households in 
  Distress"
- Batuu Trading Enterprise,Food Parcels,"R 925,75",142,"R 131456,50",None,"Identified Households in 
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Batuu Trading Enterprise,Food Parcels,925.75,925.75,142,"R 131456,50",131456.5,None,"Identified Households in 
  Distress"
-Grow Makhosikati Trading,Food Parcel,"R 925,75",142,"R  131 456,50",None,"Identified Households in
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Grow Makhosikati Trading,Food Parcel,925.75,925.75,142,"R  131 456,50",131456.5,None,"Identified Households in
  Distress"
-Minosa Trading & Projects,Food Parcels,"R 805,00",134,"R  107 870,00",None,"Identified Households in
+Mpumalanga Department of Social Development (DSD),Mpumalanga,Minosa Trading & Projects,Food Parcels,805,805,134,"R  107 870,00",107870,None,"Identified Households in
  Distress"
- Zeelwa Trading,"Paper Towel Refills
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Zeelwa Trading,"Paper Towel Refills
 
  Hand  Sanitiser Dispenser
 
@@ -270,14 +213,7 @@ Minosa Trading & Projects,Food Parcels,"R 805,00",134,"R  107 870,00",None,"Iden
 
  Paper Towel Dispenser
 
- Soap and Sanitiser Refill","R 320,00
- R   81,00
-
- R   23,00
-
- R   79,00
-
- R   57,19","125
+ Soap and Sanitiser Refill",,,"125
 
  157
 
@@ -291,39 +227,28 @@ Minosa Trading & Projects,Food Parcels,"R 805,00",134,"R  107 870,00",None,"Iden
  R     3 289,00
  R     9 875,00
 
- R   68 628,00",None,"Install hygiene
+ R   68 628,00",,None,"Install hygiene
  equipment and refills in
  offices in the Ehlanzeni
  District for Officials
  working during COVID-
  19 Lockdown"
- Zeelwa Trading,"Hand Sanitisers 5l
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Zeelwa Trading,"Hand Sanitisers 5l
 
- Hand Sanitisers 250ml bottle","R  376,36
-
- R    53,33","50
+ Hand Sanitisers 250ml bottle",,,"50
 
  60","R   18 818,02
- R     3 199,53",None,"Sanitisers for identified
+ R     3 199,53",,None,"Sanitisers for identified
  officials working during
  COVID-19 Lockdown"
- Zeelwa Trading,"Face masks/face
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Zeelwa Trading,"Face masks/face
  shields/
 
  disposable plastic  aprons/
  Temperature Scanner/
 
  eye protector goggles
- /disposable wipes","R28,15
- R43,75
-
- R118,75
-
- R718,75
-
- R25,00
-
- R81,25","300
+ /disposable wipes",,,"300
 
  2
 
@@ -333,19 +258,16 @@ Minosa Trading & Projects,Food Parcels,"R 805,00",134,"R  107 870,00",None,"Iden
 
  2
 
- 15","R   53 066,75",None,"Equipment and hygiene 
+ 15","R   53 066,75",53066.75,None,"Equipment and hygiene 
  items for Swartfontein 
  Treatment Centre to be
   used for service users
   during COVID-19
   Lockdown"
- Zeelwa Trading,"Masks
+Mpumalanga Department of Social Development (DSD),Mpumalanga, Zeelwa Trading,"Masks
  Gloves and
  Sanitisers 500 ml
- Sanitisers 75 ml","R 64,68
- R 359,37
- R 79,06
- R 32,47","600
+ Sanitisers 75 ml",,,"600
  6 Boxes
  12
- 30","R 739 748,04",None,Sanitisers for identified officials working during COVID-19 Lockdown
+ 30","R 739 748,04",739748.04,None,Sanitisers for identified officials working during COVID-19 Lockdown
