@@ -1,37 +1,32 @@
-No:,"Names of the C
- ompanies a
- warded","Product or services
-  rendered",Unit Price,Quantity,"The full amount paid 
- for the Products or 
- services","Any donations 
+buyer_name,implementation_location_zar,No:,supplier_name,items_description,cost_per_unit_zar,items_quantity,order_amount_zar,"Any donations 
  received from
   external funders /
  companies","The beneficiary targets and method 
  of distribution"
-1,Umsebenti Enterprise (Pty) Ltd,1L litre alcohol-based hand sanitizer (min 60% alcohol),119.76,220,26 347.20,0,MER
-2,Umsebenti Enterprise (Pty) Ltd,20L litre alcohol-based hand sanitizer (min 60% alcohol),1 957.50,4,7 830.00,0,MER
-3,Umsebenti Enterprise (Pty) Ltd,1L disinfectant sprays for surfaces minimum 0.5% sodium hypochlorite/ FS10 SC disinfectant,85.39,220,18 785.80,0,MER
-4,Umsebenti Enterprise (Pty) Ltd,20L disinfectant sprays for surfaces minimum 0.5% sodium hypochlorite/ FS10 SC disinfectant,388.13,4,1 552.52,0,MER
-5,Umsebenti Enterprise (Pty) Ltd,Digital non-contact human body thermometer,1 380.00,3,4 140.00,0,MER
-6,Umsebenti Enterprise (Pty) Ltd,20L ant-bacterial hand soap,391.12,1,391.12,0,MER
-7,Abuti Apparel (Pty) Ltd,Foot operated hand sanitizer dispenser,950,15,14 250.00,0,MER
-8,Bidvest Steiner Nelspruit,Disinfecting the office prior return to work,9 857.23,1,9 857.23,0,MER
-9,Mandi and Prich BlakCotton,3 Layer cloth masks,25,220,5 500.00,0,MER
-10,Mandi and Prich Blak Cotton,Delivery cloth mask,350,1,350,0,MER
-11,Mopani Pharmacy,Sanitizers 120ML for inspectors,10,39.9,399,0,MER
-12,Mopani Pharmacy,Masks for inspectors,20,42.9,858,0,MER
-13,Dischem Pharmacy,1L Sanitiser refil for security,1,79.95,79.95,0,MER
-14,Dischem Pharmacy,Non-contact thermometer,1,999,999,0,MER
-15,Safety Signs,Please stand here signs,15,31.5,472.5,0,MER
-16,Safety Signs,No mask no entry sign,1,18.5,18.5,0,MER
-17,Safety Signs,Sanitise hands sign,10,6.9,69,0,MER
-18,Safety Signs,Chroma desk steel signs - no access sign,2,86.7,173.4,0,MER
-19,Safety Signs,Delivery safety signs,1,150,150,0,MER
-20,Design 11,Screen for reception desk,1 830.00,1,1 830.00,0,MER
-21,Builders Warehouse,Floor marking tape,93,2,186,0,MER
-22,Dischem Pharmacy,1L sanitiser for gate.,79.95,1,79.95,0,MER
-23,Michem cleaning Supplies,Cloths for wiping surfaces,10.8,185,1 998.00,0,MER
-24,Michem cleaning Supplies,Boxes of gloves,2.18,224.35,490.2,0,MER
-25,Abuti Apparel,Foot operator dispenser-boardroom,1,950,950,0,MER
-26,Brian Pienaar North,Plastic face shield,23,10,230,0,MER
-27,Joel Innovations Trading CC,Decontamination of office,9 156.30,1,9 156.30,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,1,Umsebenti Enterprise (Pty) Ltd,1L litre alcohol-based hand sanitizer (min 60% alcohol),119.76,220,26347.20,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,2,Umsebenti Enterprise (Pty) Ltd,20L litre alcohol-based hand sanitizer (min 60% alcohol),1957.50,4,7830.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,3,Umsebenti Enterprise (Pty) Ltd,1L disinfectant sprays for surfaces minimum 0.5% sodium hypochlorite/ FS10 SC disinfectant,85.39,220,18785.80,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,4,Umsebenti Enterprise (Pty) Ltd,20L disinfectant sprays for surfaces minimum 0.5% sodium hypochlorite/ FS10 SC disinfectant,388.13,4,1552.52,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,5,Umsebenti Enterprise (Pty) Ltd,Digital non-contact human body thermometer,1380.00,3,4140.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,6,Umsebenti Enterprise (Pty) Ltd,20L ant-bacterial hand soap,391.12,1,391.12,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,7,Abuti Apparel (Pty) Ltd,Foot operated hand sanitizer dispenser,950.00,15,14250.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,8,Bidvest Steiner Nelspruit,Disinfecting the office prior return to work,9857.23,1,9857.23,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,9,Mandi and Prich BlakCotton,3 Layer cloth masks,25.00,220,5500.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,10,Mandi and Prich Blak Cotton,Delivery cloth mask,350.00,1,350.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,11,Mopani Pharmacy,Sanitizers 120ML for inspectors,10.00,39.9,399.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,12,Mopani Pharmacy,Masks for inspectors,20.00,42.9,858.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,13,Dischem Pharmacy,1L Sanitiser refil for security,1.00,79.95,79.95,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,14,Dischem Pharmacy,Non-contact thermometer,1.00,999,999.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,15,Safety Signs,Please stand here signs,15.00,31.5,472.50,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,16,Safety Signs,No mask no entry sign,1.00,18.5,18.50,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,17,Safety Signs,Sanitise hands sign,10.00,6.9,69.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,18,Safety Signs,Chroma desk steel signs - no access sign,2.00,86.7,173.40,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,19,Safety Signs,Delivery safety signs,1.00,150,150.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,20,Design 11,Screen for reception desk,1830.00,1,1830.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,21,Builders Warehouse,Floor marking tape,93.00,2,186.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,22,Dischem Pharmacy,1L sanitiser for gate.,79.95,1,79.95,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,23,Michem cleaning Supplies,Cloths for wiping surfaces,10.80,185,1998.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,24,Michem cleaning Supplies,Boxes of gloves,2.18,224.35,490.20,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,25,Abuti Apparel,Foot operator dispenser-boardroom,1.00,950,950.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,26,Brian Pienaar North,Plastic face shield,23.00,10,230.00,0,MER
+Mpumalanga Economic Regulator (MER),Mpumalanga,27,Joel Innovations Trading CC,Decontamination of office,9156.30,1,9156.30,0,MER
