@@ -59,6 +59,10 @@ Instructions for managing merged cells are here:
 - https://github.com/keep-the-receipts/data-extraction/pull/119#issuecomment-703073670
 - https://github.com/keep-the-receipts/data-extraction/issues/11#issuecomment-711159899
 
+Sometimes things get messy, but try to exclude the table header(s) and only select the data. Then type in the headers afterwards into the CSV. 
+
+When text in a cell does NOT use word wrapping (generally when the PDF was created with Word instead of a spreadsheet), Tabular may insert another blank column. In these cases, Tabular may not capture the data smoothly and this may need to be performed manually (see other FAQ tips).
+
 ### What should I do if Tabula splits cells that should be on a single row?
 Instructions for this are here: https://github.com/keep-the-receipts/data-extraction/issues/104#issuecomment-703076352
 
